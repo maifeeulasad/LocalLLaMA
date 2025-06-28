@@ -25,8 +25,7 @@ files.forEach(file => {
       const pageJsonPath = path.join(pagePath, 'index.json');
       fs.copyFileSync(indexFilePath, pageJsonPath);
 
-      const pageContent = `
-// @ts-nocheck
+      const pageContent = `// @ts-nocheck
 import React from 'react';
 import RedditPostRenderer from '../../component/reddit/RedditPostRenderer';
 import data${file} from './index.json';
