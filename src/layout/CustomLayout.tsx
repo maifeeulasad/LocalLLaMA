@@ -1,11 +1,12 @@
 import React, { ReactNode, useEffect, useState } from 'react';
 import type { MenuDataItem } from '@ant-design/pro-components';
 import { PageContainer, ProLayout } from '@ant-design/pro-components';
-import { useLocation, Link } from 'react-router-dom';
-import { notification, Input, Select, Form, Button, Affix } from 'antd';
+import { useLocation, Link, useNavigate } from 'react-router-dom';
+import { notification, Input, Select, Form, Button, Affix, List, Spin } from 'antd';
 import { copyText } from 'copy-clipboard-js';
 import CopyOutlined from '@ant-design/icons/CopyOutlined';
 import { ReloadOutlined, SearchOutlined } from '@ant-design/icons';
+import Fuse from 'fuse.js';
 import logo from './logo.svg';
 
 
@@ -823,83 +824,146 @@ const CustomFooterMenu = ({ collapsed }: ICustomFooterMenuProps) => {
   );
 };
 
-const SearchBar = () => {
-  const sections = ['whole', 'section1', 'section2', 'section3'];
-  const onFinish = (values: any) => {
-    console.log('Success:', values);
-  };
-  const onFinishFailed = (errorInfo: any) => {
-    console.log('Failed:', errorInfo);
-  };
-  const [form] = Form.useForm();
-  const [resetVisibility, setResetVisibility] = useState(true);
 
-  const onValuesChange = (changedValues: any) => {
-    console.log('Form changed:', changedValues);
-    const { range, keyword } = changedValues;
-    console.log('Search triggered with:', { range, keyword });
-    setResetVisibility(range === undefined && (keyword === undefined || keyword === ''));
+const debounce = (func: (...args: any[]) => void, wait: number) => {
+  let timeout: NodeJS.Timeout;
+  return (...args: any[]) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func.apply(this, args), wait);
+  };
+};
+
+const contexts = import.meta.glob('../dump/*/index.json');
+
+const SearchBar = () => {
+  const navigate = useNavigate();
+  const [form] = Form.useForm();
+  const sections = ['whole']; // todo: add sections dynamically, news, discussion, etc.
+
+  const [resetVisibility, setResetVisibility] = useState(true);
+  const [results, setResults] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [fuse, setFuse] = useState<any>(null);
+
+  useEffect(() => {
+    const loadData = async () => {
+      setLoading(true);
+      const posts: any[] = [];
+      for (const path in contexts) {
+        const data = await contexts[path]();
+        const postId = path.split('/').slice(-2, -1)[0];
+        // @ts-expect-error reddit should send data in a the following format
+        const title = data?.[0]?.data?.children?.[0]?.data?.title || postId;
+        // @ts-expect-error reddit should send data in a the following format
+        const body = data?.[0]?.data?.children?.[0]?.data?.selftext || '';
+        posts.push({ id: postId, title, body });
+      }
+
+      const fuseInstance = new Fuse(posts, {
+        keys: ['title', 'body'],
+        threshold: 0.4,
+      });
+      setFuse(fuseInstance);
+      setLoading(false);
+    };
+
+    loadData();
+  }, []);
+
+  const doSearch = debounce((keyword: string) => {
+    if (fuse && keyword) {
+      const searchResults = fuse.search(keyword);
+      // @ts-expect-error fuse search returns an array of objects with item property
+      setResults(searchResults.map(r => r.item));
+    } else {
+      setResults([]);
+    }
+  }, 30); // 30ms debounce
+
+  const onValuesChange = (_changedValues: any, allValues: any) => {
+    const { keyword } = allValues;
+    setResetVisibility(!keyword);
+    if (keyword) {
+      doSearch(keyword);
+    } else {
+      setResults([]);
+    }
+  };
+
+  const onFinish = () => {
+    if (results.length > 0) {
+      navigate(`/${results[0].id}`);
+      form.resetFields();
+      setResults([]);
+    }
   };
 
   return (
-    <Form
-      form={form}
-      layout="inline"
-      onValuesChange={onValuesChange}
-      onFinish={onFinish}
-      onFinishFailed={onFinishFailed}
-      autoComplete="on"
-      style={{
-        display: 'flex',
-        padding: 8,
-        backdropFilter: 'blur(10px)',
-        backgroundColor: 'rgba(255, 255, 255, 0.5)',
-      }}
-    >
-      <Form.Item
-        name="range"
-        rules={[{ required: true, message: 'Please select a range!' }]}
+    <div style={{ width: '100%' }}>
+      <Form
+        form={form}
+        layout="inline"
+        onValuesChange={onValuesChange}
+        onFinish={onFinish}
+        autoComplete="on"
+        style={{
+          display: 'flex',
+          padding: 8,
+          backdropFilter: 'blur(10px)',
+          backgroundColor: 'rgba(255, 255, 255, 0.5)',
+        }}
       >
-        <Select
-          defaultValue={sections[0] || ''}
-          options={sections.map((section) => ({ label: section, value: section }))}
-          style={{ width: 120 }}
-        />
-      </Form.Item>
+        <Form.Item name="range" initialValue={sections[0]}>
+          <Select
+            options={sections.map(section => ({ label: section, value: section }))}
+            style={{ width: 120 }}
+          />
+        </Form.Item>
 
-      <Form.Item
-        style={{ flex: 1 }}
-        name="keyword"
-        rules={[{ required: true, message: 'Please input your keyword!' }]}
-      >
-        <Input
-          placeholder="Search..."
-          style={{ width: '100%' }}
-        />
-      </Form.Item>
-      <Form.Item
-        hidden={resetVisibility}
-      >
-        <Button
+        <Form.Item name="keyword" style={{ flex: 1 }}>
+          <Input placeholder="Search..." allowClear />
+        </Form.Item>
+
+        <Form.Item hidden={resetVisibility}>
+          <Button icon={<ReloadOutlined />} onClick={() => form.resetFields()} />
+        </Form.Item>
+
+        <Form.Item>
+          <Button icon={<SearchOutlined />} type="primary" htmlType="submit" />
+        </Form.Item>
+      </Form>
+
+      {loading ? (
+        <div style={{ marginTop: 12, textAlign: 'center' }}>
+          <Spin tip="Loading posts for search..." />
+        </div>
+      ) : results.length > 0 ? (
+        <List
+          size="small"
+          bordered
           style={{
-            background: '#1677ff',
+            marginTop: 8,
+            background: '#fff',
+            border: '1px solid #ddd',
+            maxHeight: 250,
+            overflowY: 'auto',
           }}
-          icon={<ReloadOutlined />}
-          type="primary"
-          onClick={() => form.resetFields()}
+          dataSource={results}
+          renderItem={item => (
+            <List.Item
+              style={{ cursor: 'pointer' }}
+              onClick={() => {
+                navigate(`/${item.id}`);
+                form.resetFields();
+                setResults([]);
+              }}
+            >
+              {item.title}
+            </List.Item>
+          )}
         />
-      </Form.Item>
-      <Form.Item>
-        <Button
-          style={{
-            background: '#1677ff',
-          }}
-          icon={<SearchOutlined />}
-          type="primary"
-          htmlType="submit"
-        />
-      </Form.Item>
-    </Form>
+      ) : null}
+    </div>
   );
 };
 
