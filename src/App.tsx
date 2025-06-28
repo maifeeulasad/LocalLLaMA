@@ -203,7 +203,6 @@ import { LazyPage1lmjg3p } from './page/1lmjg3p/LazyPage';
 import { LazyPage1lmjimi } from './page/1lmjimi/LazyPage';
 import { LazyPage1lmjs43 } from './page/1lmjs43/LazyPage';
 
-
 const App = () => (
   <ConfigProvider locale={enUS}>
     <BrowserRouter basename="/LocalLLaMA">

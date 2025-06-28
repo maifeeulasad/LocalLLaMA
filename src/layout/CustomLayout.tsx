@@ -9,7 +9,6 @@ import { ReloadOutlined, SearchOutlined } from '@ant-design/icons';
 import Fuse from 'fuse.js';
 import logo from './logo.svg';
 
-
 // replace start---mua--localllama
 
 const defaultMenus: MenuDataItem[] = [
@@ -824,7 +823,6 @@ const CustomFooterMenu = ({ collapsed }: ICustomFooterMenuProps) => {
   );
 };
 
-
 const debounce = (func: (...args: any[]) => void, wait: number) => {
   let timeout: NodeJS.Timeout;
   return (...args: any[]) => {
@@ -874,7 +872,7 @@ const SearchBar = () => {
     if (fuse && keyword) {
       const searchResults = fuse.search(keyword);
       // @ts-expect-error fuse search returns an array of objects with item property
-      setResults(searchResults.map(r => r.item));
+      setResults(searchResults.map((r) => r.item));
     } else {
       setResults([]);
     }
@@ -915,7 +913,7 @@ const SearchBar = () => {
       >
         <Form.Item name="range" initialValue={sections[0]}>
           <Select
-            options={sections.map(section => ({ label: section, value: section }))}
+            options={sections.map((section) => ({ label: section, value: section }))}
             style={{ width: 120 }}
           />
         </Form.Item>
@@ -949,7 +947,7 @@ const SearchBar = () => {
             overflowY: 'auto',
           }}
           dataSource={results}
-          renderItem={item => (
+          renderItem={(item) => (
             <List.Item
               style={{ cursor: 'pointer' }}
               onClick={() => {

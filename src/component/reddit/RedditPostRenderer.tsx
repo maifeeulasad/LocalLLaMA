@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import {
   Card,
   List,
@@ -8,7 +8,7 @@ import {
   Descriptions,
   Tag,
   Space,
-} from "antd";
+} from 'antd';
 
 const { Title, Paragraph, Link, Text } = Typography;
 const { Panel } = Collapse;
@@ -52,15 +52,15 @@ interface RedditListingProps {
 
 const timeAgo = (utc: number) => {
   const seconds = Math.floor(Date.now() / 1000 - utc);
-  const rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
+  const rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' });
 
   const intervals = [
-    { unit: "year", seconds: 31536000 },
-    { unit: "month", seconds: 2592000 },
-    { unit: "week", seconds: 604800 },
-    { unit: "day", seconds: 86400 },
-    { unit: "hour", seconds: 3600 },
-    { unit: "minute", seconds: 60 },
+    { unit: 'year', seconds: 31536000 },
+    { unit: 'month', seconds: 2592000 },
+    { unit: 'week', seconds: 604800 },
+    { unit: 'day', seconds: 86400 },
+    { unit: 'hour', seconds: 3600 },
+    { unit: 'minute', seconds: 60 },
   ];
 
   for (const interval of intervals) {
@@ -68,7 +68,7 @@ const timeAgo = (utc: number) => {
     if (count >= 1) return rtf.format(-count, interval.unit as any);
   }
 
-  return rtf.format(-seconds, "second");
+  return rtf.format(-seconds, 'second');
 };
 
 const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
@@ -89,8 +89,8 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
         }
         style={{ marginBottom: 24 }}
       >
-        <Space direction="vertical" size="middle" style={{ width: "100%" }}>
-          {d.thumbnail && d.thumbnail.startsWith("http") && (
+        <Space direction="vertical" size="middle" style={{ width: '100%' }}>
+          {d.thumbnail && d.thumbnail.startsWith('http') && (
             <Image width={200} src={d.thumbnail} alt="thumbnail" />
           )}
           <Descriptions column={1} bordered size="small">
@@ -103,7 +103,7 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
               </Link>
             </Descriptions.Item>
             <Descriptions.Item label="Score">
-              <Tag color={d.score > 1 ? "geekblue" : "volcano"}>{d.score}</Tag>
+              <Tag color={d.score > 1 ? 'geekblue' : 'volcano'}>{d.score}</Tag>
             </Descriptions.Item>
             <Descriptions.Item label="Created">
               {timeAgo(d.created_utc)}
@@ -125,7 +125,7 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
           header={
             <Space>
               <Text strong>{d.author}</Text>
-              <Tag color={d.score >= 1 ? "geekblue" : "volcano"}>{d.score}</Tag>
+              <Tag color={d.score >= 1 ? 'geekblue' : 'volcano'}>{d.score}</Tag>
               <Text type="secondary">{timeAgo(d.created_utc)}</Text>
             </Space>
           }
@@ -133,15 +133,15 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
         >
           <Paragraph>{d.body}</Paragraph>
           {d.replies &&
-            typeof d.replies !== "string" &&
+            typeof d.replies !== 'string' &&
             d.replies.data &&
             d.replies.data.children.length > 0 && (
               <div style={{ marginLeft: 24 }}>
                 {d.replies.data.children.map((child) =>
-                  child.kind === "t1" ? renderComment(child) : null
+                  (child.kind === 't1' ? renderComment(child) : null),
                 )}
               </div>
-            )}
+          )}
         </Panel>
       </Collapse>
     );
@@ -154,13 +154,12 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
       renderItem={(item) => (
         <div key={item.kind}>
           {item.data.children.map((child) => {
-            if (child.kind === "t3") {
+            if (child.kind === 't3') {
               return renderPost(child);
-            } else if (child.kind === "t1") {
+            } if (child.kind === 't1') {
               return renderComment(child);
-            } else {
-              return null;
             }
+            return null;
           })}
         </div>
       )}
