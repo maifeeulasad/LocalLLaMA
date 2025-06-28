@@ -1,0 +1,50 @@
+name: Run Builder and Scrapper Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+
+jobs:
+  run-builder-scrapper:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Deps
+        run: npm i -g pnpm && pnpm install
+
+      - name: Run builder
+        run: node app-builder.js
+
+      - name: Commit builder output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          TIMESTAMP=$(TZ=Asia/Dhaka date '+%Y.%m.%d %H.%M GMT+6;')
+          git commit -m "[builder][bot]: ran builder;" || echo "No changes to commit"
+
+      - name: Run scrapper
+        run: node src/scrapper/index.js
+
+      - name: Commit scrapper output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          TIMESTAMP=$(TZ=Asia/Dhaka date '+%Y.%m.%d %H.%M GMT+6;')
+          git commit -m "[dump][bot]: data dump at ${TIMESTAMP}" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
