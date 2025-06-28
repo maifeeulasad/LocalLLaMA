@@ -199,6 +199,8 @@ import { LazyPage1lmia7k } from './page/1lmia7k/LazyPage';
 import { LazyPage1lmictu } from './page/1lmictu/LazyPage';
 import { LazyPage1lmix4b } from './page/1lmix4b/LazyPage';
 import { LazyPage1lmizi2 } from './page/1lmizi2/LazyPage';
+import { LazyPage1lmjg3p } from './page/1lmjg3p/LazyPage';
+import { LazyPage1lmjimi } from './page/1lmjimi/LazyPage';
 import { LazyPage1lmjs43 } from './page/1lmjs43/LazyPage';
 
 
@@ -392,6 +394,8 @@ const App = () => (
           <Route path="/1lmictu" element={<LazyPage1lmictu />} />
           <Route path="/1lmix4b" element={<LazyPage1lmix4b />} />
           <Route path="/1lmizi2" element={<LazyPage1lmizi2 />} />
+          <Route path="/1lmjg3p" element={<LazyPage1lmjg3p />} />
+          <Route path="/1lmjimi" element={<LazyPage1lmjimi />} />
           <Route path="/1lmjs43" element={<LazyPage1lmjs43 />} />
           <Route path="*" element={<Navigate to="/landing" replace />} />
         </Routes>

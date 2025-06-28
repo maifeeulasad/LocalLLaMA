@@ -753,6 +753,14 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Clever Sydney 12b - Your Friendly Existential Crisis AI',
       },
       {
+        path: '/1lmjg3p',
+        name: 'Helping Archive r/LocalLLaMA - For Everyone - For open knowledge',
+      },
+      {
+        path: '/1lmjimi',
+        name: 'Archiving data from here - For Everyone - For open knowledge',
+      },
+      {
         path: '/1lmjs43',
         name: 'Hi everyone, I have a problem with fine tuning LLM on law',
       },
