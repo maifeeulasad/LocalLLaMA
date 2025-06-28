@@ -15,7 +15,7 @@ function delay(time) {
     });
 
     const page = await browser.newPage();
-    await page.goto('http://localhost:5173/react-pipeline/');
+    await page.goto('http://localhost:5173/LocalLLaMA/');
     await delay(2000);
     await page.screenshot({ path: 'homepage.png' });
 

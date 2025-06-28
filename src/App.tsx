@@ -15,7 +15,7 @@ import { LazyPage3 } from './component/LazyPage3';
 
 const App = () => (
   <ConfigProvider locale={enUS}>
-    <BrowserRouter basename="/react-pipeline">
+    <BrowserRouter basename="/LocalLLaMA">
       <CustomLayout>
         <Routes>
           <Route path="/landing" element={<LazyLanding />} />
