@@ -7,25 +7,34 @@ const BEST_URL = `${BASE_URL}/best.json?t=all&limit=100`;
 
 const URLs = [TOP_URL, HOT_URL, BEST_URL];
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 (async () => {
   const uniqueIds = new Set();
 
+  console.log(`🔍 Collecting post IDs from:`);
   for (const url of URLs) {
-    console.log(`Fetching list: ${url}`);
+    console.log(`➡️ ${url}`);
     const res = await fetch(url);
     const json = await res.json();
 
     json.data.children.forEach(child => {
       uniqueIds.add(child.data.id);
     });
+
+    await sleep(500);
   }
 
-  console.log(`Found ${uniqueIds.size} unique post IDs`);
+  const ids = Array.from(uniqueIds);
+  console.log(`✅ Found ${ids.length} unique posts.`);
 
-  for (const postId of uniqueIds) {
+  for (let i = 0; i < ids.length; i++) {
+    const postId = ids[i];
+    console.log(`🔗 Fetching ${i + 1} of ${ids.length}: ${postId}`);
+
     const postUrl = `${BASE_URL}/comments/${postId}.json`;
-    console.log(`Fetching post: ${postUrl}`);
-
     const postRes = await fetch(postUrl);
     const postJson = await postRes.json();
 
@@ -34,7 +43,12 @@ const URLs = [TOP_URL, HOT_URL, BEST_URL];
       `./src/dump/${postId}/index.json`,
       JSON.stringify(postJson, null, 2)
     );
+
+    console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
+
+    // NB: never remove this, keep Reddit happy
+    await sleep(1000);
   }
 
-  console.log("✅ Done fetching & saving all unique posts.");
+  console.log("🎉 Done! All posts saved.");
 })();
