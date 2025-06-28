@@ -8,6 +8,9 @@ import CopyOutlined from '@ant-design/icons/CopyOutlined';
 import { ReloadOutlined, SearchOutlined } from '@ant-design/icons';
 import logo from './logo.svg';
 
+
+// replace start---mua--localllama
+
 const defaultMenus: MenuDataItem[] = [
   {
     path: '/',
@@ -33,6 +36,8 @@ const defaultMenus: MenuDataItem[] = [
     // hideInMenu: true, // hidden from menu
   },
 ];
+
+// replace end---mua--localllama
 
 const loopMenuItem = (menus: MenuDataItem[]): MenuDataItem[] =>
   menus.map(({ icon, children, ...item }) => ({
