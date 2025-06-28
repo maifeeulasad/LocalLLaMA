@@ -4,8 +4,9 @@ const BASE_URL = "https://www.reddit.com/r/LocalLLaMA";
 const TOP_URL = `${BASE_URL}/top.json?t=all&limit=100`;
 const HOT_URL = `${BASE_URL}/hot.json?t=all&limit=100`;
 const BEST_URL = `${BASE_URL}/best.json?t=all&limit=100`;
+const NEW_URL = `${BASE_URL}/new.json?t=all&limit=100`;
 
-const URLs = [TOP_URL, HOT_URL, BEST_URL];
+const URLs = [NEW_URL, HOT_URL, TOP_URL, BEST_URL];
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
