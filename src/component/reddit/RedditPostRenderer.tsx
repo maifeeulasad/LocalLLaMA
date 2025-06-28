@@ -1,5 +1,14 @@
 import React from "react";
-import { Card, List, Typography, Image, Collapse } from "antd";
+import {
+  Card,
+  List,
+  Typography,
+  Image,
+  Collapse,
+  Descriptions,
+  Tag,
+  Space,
+} from "antd";
 
 const { Title, Paragraph, Link, Text } = Typography;
 const { Panel } = Collapse;
@@ -12,12 +21,7 @@ interface RedditChild {
 interface RedditListing {
   kind: string;
   data: {
-    after: string | null;
-    dist: number | null;
-    modhash: string;
-    geo_filter: string;
     children: RedditChild[];
-    before: string | null;
   };
 }
 
@@ -30,6 +34,7 @@ interface RedditPost {
   author: string;
   score: number;
   selftext?: string;
+  created_utc: number;
 }
 
 interface RedditComment {
@@ -37,12 +42,34 @@ interface RedditComment {
   author: string;
   score: number;
   body: string;
+  created_utc: number;
   replies?: RedditListing | string;
 }
 
 interface RedditListingProps {
   data: RedditListing[];
 }
+
+const timeAgo = (utc: number) => {
+  const seconds = Math.floor(Date.now() / 1000 - utc);
+  const rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
+
+  const intervals = [
+    { unit: "year", seconds: 31536000 },
+    { unit: "month", seconds: 2592000 },
+    { unit: "week", seconds: 604800 },
+    { unit: "day", seconds: 86400 },
+    { unit: "hour", seconds: 3600 },
+    { unit: "minute", seconds: 60 },
+  ];
+
+  for (const interval of intervals) {
+    const count = Math.floor(seconds / interval.seconds);
+    if (count >= 1) return rtf.format(-count, interval.unit as any);
+  }
+
+  return rtf.format(-seconds, "second");
+};
 
 const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
   if (!data || !Array.isArray(data)) return null;
@@ -53,25 +80,39 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
       <Card
         key={d.id}
         title={
-          <Link href={`https://reddit.com${d.permalink}`} target="_blank">
-            {d.title}
-          </Link>
+          <Space>
+            <Link href={`https://reddit.com${d.permalink}`} target="_blank">
+              {d.title}
+            </Link>
+            <Tag color="blue">{timeAgo(d.created_utc)}</Tag>
+          </Space>
         }
-        style={{ marginBottom: 16 }}
+        style={{ marginBottom: 24 }}
       >
-        {d.thumbnail && d.thumbnail.startsWith("http") && (
-          <Image width={140} src={d.thumbnail} alt="thumbnail" />
-        )}
-        <Paragraph>
-          <Text strong>Subreddit:</Text> {d.subreddit_name_prefixed}
-        </Paragraph>
-        <Paragraph>
-          <Text strong>Author:</Text> {d.author}
-        </Paragraph>
-        <Paragraph>
-          <Text strong>Score:</Text> {d.score}
-        </Paragraph>
-        {d.selftext && <Paragraph>{d.selftext}</Paragraph>}
+        <Space direction="vertical" size="middle" style={{ width: "100%" }}>
+          {d.thumbnail && d.thumbnail.startsWith("http") && (
+            <Image width={200} src={d.thumbnail} alt="thumbnail" />
+          )}
+          <Descriptions column={1} bordered size="small">
+            <Descriptions.Item label="Subreddit">
+              {d.subreddit_name_prefixed}
+            </Descriptions.Item>
+            <Descriptions.Item label="Author">
+              <Link href={`https://reddit.com/user/${d.author}`} target="_blank">
+                u/{d.author}
+              </Link>
+            </Descriptions.Item>
+            <Descriptions.Item label="Score">
+              <Tag color={d.score > 1 ? "geekblue" : "volcano"}>{d.score}</Tag>
+            </Descriptions.Item>
+            <Descriptions.Item label="Created">
+              {timeAgo(d.created_utc)}
+            </Descriptions.Item>
+          </Descriptions>
+          {d.selftext && (
+            <Paragraph style={{ marginTop: 16 }}>{d.selftext}</Paragraph>
+          )}
+        </Space>
       </Card>
     );
   };
@@ -82,20 +123,25 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
       <Collapse key={d.id} style={{ marginBottom: 8 }}>
         <Panel
           header={
-            <span>
-              {d.author} | Score: {d.score}
-            </span>
+            <Space>
+              <Text strong>{d.author}</Text>
+              <Tag color={d.score >= 1 ? "geekblue" : "volcano"}>{d.score}</Tag>
+              <Text type="secondary">{timeAgo(d.created_utc)}</Text>
+            </Space>
           }
           key={d.id}
         >
           <Paragraph>{d.body}</Paragraph>
-          {d.replies && typeof d.replies !== 'string' && d.replies.data && d.replies.data.children.length > 0 && (
-            <div style={{ marginLeft: 24 }}>
-              {d.replies.data.children.map((child) =>
-                child.kind === "t1" ? renderComment(child) : null
-              )}
-            </div>
-          )}
+          {d.replies &&
+            typeof d.replies !== "string" &&
+            d.replies.data &&
+            d.replies.data.children.length > 0 && (
+              <div style={{ marginLeft: 24 }}>
+                {d.replies.data.children.map((child) =>
+                  child.kind === "t1" ? renderComment(child) : null
+                )}
+              </div>
+            )}
         </Panel>
       </Collapse>
     );
@@ -103,28 +149,24 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
 
   return (
     <List
-      header={<Title level={3}>Reddit Listing</Title>}
+      header={<Title level={3}>📜 Archived Reddit Thread</Title>}
       dataSource={data}
-      renderItem={(item) => {
-        const children = item.data.children;
-        return (
-          <div key={item.kind}>
-            {children.map((child) => {
-              if (child.kind === "t3") {
-                return renderPost(child);
-              } else if (child.kind === "t1") {
-                return renderComment(child);
-              } else {
-                return null;
-              }
-            })}
-          </div>
-        );
-      }}
+      renderItem={(item) => (
+        <div key={item.kind}>
+          {item.data.children.map((child) => {
+            if (child.kind === "t3") {
+              return renderPost(child);
+            } else if (child.kind === "t1") {
+              return renderComment(child);
+            } else {
+              return null;
+            }
+          })}
+        </div>
+      )}
     />
   );
 };
 
 const RedditPostRenderer = RedditListing;
-
-export default RedditListing;
+export default RedditPostRenderer;
