@@ -36,9 +36,9 @@
             "name": "t3_1llzdi8",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.66,
+            "upvote_ratio": 0.67,
             "author_flair_background_color": null,
-            "ups": 21,
+            "ups": 22,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -53,9 +53,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/2v76newb5i9f1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/2v76newb5i9f1/DASHPlaylist.mpd?a=1753692401%2CYjY4Nzg0Njg2NmJlOWMzMmYzMjkwZTcwZDUxMzljODhhYjA3ZjZjNDVkNjE5ZjM3YzY1MjUwZTNmMjc2YjNlNw%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/2v76newb5i9f1/DASHPlaylist.mpd?a=1753697072%2CNjFhMmQ2ZWRkYjBlMGQ5N2Q1OGEyNjZjNWIwZjc5NTc5YjE1OGVlMTEyNDQyZDBlOTI4ZDBkZmVmODZmNGJjZQ%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 62,
-                "hls_url": "https://v.redd.it/2v76newb5i9f1/HLSPlaylist.m3u8?a=1753692401%2CNzMzMjA5ZWIxZDQ4NWJhYzViN2ViZTdiYTJkNTRkNTA4YzZjMzhhMGNlMjI4ZWViMzZmNmJhNGQ4NTNjM2Q3Zg%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/2v76newb5i9f1/HLSPlaylist.m3u8?a=1753697072%2CZjFmYzAzOTA2OGQyMDc2NDY1YjExODIzZjIxZWE5ZmNiNmY5YTk1NjQzNTEzYzE1NGU0MmZkOTg5ZTU2NzhmYw%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -66,7 +66,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Tutorial | Guide",
             "can_mod_post": false,
-            "score": 21,
+            "score": 22,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -179,9 +179,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/2v76newb5i9f1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/2v76newb5i9f1/DASHPlaylist.mpd?a=1753692401%2CYjY4Nzg0Njg2NmJlOWMzMmYzMjkwZTcwZDUxMzljODhhYjA3ZjZjNDVkNjE5ZjM3YzY1MjUwZTNmMjc2YjNlNw%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/2v76newb5i9f1/DASHPlaylist.mpd?a=1753697072%2CNjFhMmQ2ZWRkYjBlMGQ5N2Q1OGEyNjZjNWIwZjc5NTc5YjE1OGVlMTEyNDQyZDBlOTI4ZDBkZmVmODZmNGJjZQ%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 62,
-                "hls_url": "https://v.redd.it/2v76newb5i9f1/HLSPlaylist.m3u8?a=1753692401%2CNzMzMjA5ZWIxZDQ4NWJhYzViN2ViZTdiYTJkNTRkNTA4YzZjMzhhMGNlMjI4ZWViMzZmNmJhNGQ4NTNjM2Q3Zg%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/2v76newb5i9f1/HLSPlaylist.m3u8?a=1753697072%2CZjFmYzAzOTA2OGQyMDc2NDY1YjExODIzZjIxZWE5ZmNiNmY5YTk1NjQzNTEzYzE1NGU0MmZkOTg5ZTU2NzhmYw%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1llzdi8/i_built_an_automated_ai_stylist_in_24_hours_open/",
             "stickied": false,
             "url": "https://v.redd.it/2v76newb5i9f1",
-            "subreddit_subscribers": 492185,
+            "subreddit_subscribers": 492212,
             "created_utc": 1751044281,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -667,7 +667,7 @@
                       "created_utc": 1751044548,
                       "send_replies": true,
                       "parent_id": "t1_n03j50r",
-                      "score": 5,
+                      "score": 3,
                       "author_fullname": "t2_9zmxewd2o",
                       "removal_reason": null,
                       "approved_by": null,
@@ -709,7 +709,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 3
                     }
                   }
                 ],
