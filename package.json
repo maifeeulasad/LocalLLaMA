@@ -56,7 +56,6 @@
     "typescript": "^5.8.3",
     "vite-plugin-pwa": "^1.0.0"
   },
-  "type": "module",
   "scripts": {
     "start": "vite",
     "build": "rm -rf build && tsc && vite build",
