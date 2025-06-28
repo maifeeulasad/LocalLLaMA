@@ -17,23 +17,110 @@ const defaultMenus: MenuDataItem[] = [
     name: 'Pages',
     children: [
       {
-        path: '/page2',
-        name: 'Page 2',
+        path: '/1llhdoq',
+        name: 'I\'m using a local Llama model for my game\'s dialogue system!',
       },
       {
-        path: '/page1',
-        name: 'Page 1 - Fallback to landing',
+        path: '/1llms46',
+        name: 'FYI to everyone: RTX 3090 prices crashed and are back to baseline. You can finally get $600something 3090s again in the USA.',
       },
       {
-        path: '/page3',
-        name: 'Page 3',
+        path: '/1llndut',
+        name: 'Hunyuan-A13B released',
+      },
+      {
+        path: '/1llnwy5',
+        name: 'AI performance of smartphone SoCs',
+      },
+      {
+        path: '/1llqp0a',
+        name: 'The more LLMs think, the worse they translate',
+      },
+      {
+        path: '/1llsztp',
+        name: 'What I Learned Building Agents for Enterprises',
+      },
+      {
+        path: '/1llwfwv',
+        name: 'Qwen VLo: From "Understanding" the World to "Depicting" It',
+      },
+      {
+        path: '/1llx4ky',
+        name: 'Prime Intellect: We did it — SYNTHETIC‑2 is complete.',
+      },
+      {
+        path: '/1llzdi8',
+        name: 'I built an Automated AI Stylist in 24 hours (open source, local)',
+      },
+      {
+        path: '/1lm0btg',
+        name: 'Mid-30s SWE: Take Huge Pay Cut for Risky LLM Research Role?',
+      },
+      {
+        path: '/1lm0m6i',
+        name: 'Copilot Chat for VS Code is now Open Source',
+      },
+      {
+        path: '/1lm17p6',
+        name: 'Is it just me, or Gemma 3n really sucks in recognizing images?',
+      },
+      {
+        path: '/1lm1v2c',
+        name: 'Open source model that does photoshop-grade edits without affecting the rest of the pic: OmniGen 2',
+      },
+      {
+        path: '/1lm3jvm',
+        name: 'Arch-Router: The first (and fastest) LLM router that can align to your usage preferences.',
+      },
+      {
+        path: '/1lm76gk',
+        name: 'Hugging Face releases a 50+ page report on how they built FineWeb2',
+      },
+      {
+        path: '/1lm9012',
+        name: 'I keep returning to Llama-3.1-8B',
+      },
+      {
+        path: '/1lm92se',
+        name: 'Qwen3 Coder Soon?',
+      },
+      {
+        path: '/1lm93yi',
+        name: 'Magistral small similarity to Deepseek chat?',
+      },
+      {
+        path: '/1lm98z7',
+        name: 'Automated GPU kernel optimization for Qwen3 attention - 12.5% average speedup on Apple Silicon using evolutionary programming',
+      },
+      {
+        path: '/1lm9xlq',
+        name: 'Dir-Assistant v0.7 Release Announcement: Up to 100% reduced prompt processing using new intelligent context prefix caching',
+      },
+      {
+        path: '/1lmb5s3',
+        name: '[Day 5/50] Building a Small Language Model from Scratch - Byte Pair Encoding with tiktoken',
+      },
+      {
+        path: '/1lmc6dp',
+        name: 'Is there a open source equivalent of Google\'s Gemini-Diffusion model?',
+      },
+      {
+        path: '/1lmdkbg',
+        name: 'It\'s wild, where they got their data for training and consistency --&gt; https://youtu.be/US2gO7UYEfY',
+      },
+      {
+        path: '/1lmfiu9',
+        name: 'I tested 10 LLMs locally on my MacBook Air M1 (8GB RAM!) – Here\'s what actually works-',
+      },
+      {
+        path: '/1lmgdw1',
+        name: 'How do I stop gemnini 2.5 pro from being overly sycophantic? It has gotten very excessive and feels like it degrades the answers it gives.',
       },
     ],
   },
   {
     path: '/landing',
     name: 'Landing Page',
-    // hideInMenu: true, // hidden from menu
   },
 ];
 
