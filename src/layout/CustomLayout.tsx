@@ -116,6 +116,14 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lmgdw1',
         name: 'How do I stop gemnini 2.5 pro from being overly sycophantic? It has gotten very excessive and feels like it degrades the answers it gives.',
       },
+      {
+        path: '/1lmictu',
+        name: 'We created world\'s first AI model that does Intermediate reasoning || Defeated models like deepseek and o1 in maths bench mark',
+      },
+      {
+        path: '/1lmix4b',
+        name: 'What is the process of knowledge distillation and fine tuning?',
+      },
     ],
   },
   {

@@ -40,6 +40,8 @@ import data1lmc6dp from './dump/1lmc6dp/index.json';
 import data1lmdkbg from './dump/1lmdkbg/index.json';
 import data1lmfiu9 from './dump/1lmfiu9/index.json';
 import data1lmgdw1 from './dump/1lmgdw1/index.json';
+import data1lmictu from './dump/1lmictu/index.json';
+import data1lmix4b from './dump/1lmix4b/index.json';
 
 
 const App = () => (
@@ -73,6 +75,8 @@ const App = () => (
           <Route path="/1lmdkbg" element={<RedditPostRenderer data={data1lmdkbg} />} />
           <Route path="/1lmfiu9" element={<RedditPostRenderer data={data1lmfiu9} />} />
           <Route path="/1lmgdw1" element={<RedditPostRenderer data={data1lmgdw1} />} />
+          <Route path="/1lmictu" element={<RedditPostRenderer data={data1lmictu} />} />
+          <Route path="/1lmix4b" element={<RedditPostRenderer data={data1lmix4b} />} />
           <Route path="*" element={<Navigate to="/landing" replace />} />
         </Routes>
       </CustomLayout>
