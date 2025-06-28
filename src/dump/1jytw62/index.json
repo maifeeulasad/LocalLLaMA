@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.97,
             "author_flair_background_color": null,
-            "ups": 1751,
+            "ups": 1760,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 1751,
+            "score": 1760,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -159,7 +159,7 @@
             "permalink": "/r/LocalLLaMA/comments/1jytw62/deepseek_is_about_to_opensource_their_inference/",
             "stickied": false,
             "url": "https://i.redd.it/1am95yongrue1.png",
-            "subreddit_subscribers": 492230,
+            "subreddit_subscribers": 492243,
             "created_utc": 1744619249,
             "num_crossposts": 4,
             "mod_reports": [],
@@ -253,7 +253,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn15fy1",
-                                "score": 119,
+                                "score": 120,
                                 "author_fullname": "t2_9asvt",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -296,7 +296,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 119
+                                "ups": 120
                               }
                             }
                           ],
@@ -317,7 +317,7 @@
                       "created_utc": 1744620435,
                       "send_replies": true,
                       "parent_id": "t1_mn14gby",
-                      "score": 77,
+                      "score": 79,
                       "author_fullname": "t2_fiiv6xm3",
                       "removal_reason": null,
                       "approved_by": null,
@@ -389,7 +389,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 77
+                      "ups": 79
                     }
                   },
                   {
@@ -813,7 +813,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_mn2qba7",
-                                                    "score": 12,
+                                                    "score": 13,
                                                     "author_fullname": "t2_cww41",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -855,7 +855,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 12
+                                                    "ups": 13
                                                   }
                                                 }
                                               ],
@@ -869,19 +869,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "RedditAddict6942O",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn2pbw0",
-                                          "score": -4,
+                                          "score": -5,
                                           "author_fullname": "t2_1ce1787lfl",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "Ehhhh that might reveal too much about me",
                                           "edited": false,
                                           "top_awarded_type": null,
@@ -893,7 +893,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ehhhh that might reveal too much about me&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -918,7 +918,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -4
+                                          "ups": -5
                                         }
                                       }
                                     ],
@@ -1179,7 +1179,7 @@
                                                                                                       "created_utc": 1744674053,
                                                                                                       "send_replies": true,
                                                                                                       "parent_id": "t1_mn5964y",
-                                                                                                      "score": 6,
+                                                                                                      "score": 5,
                                                                                                       "author_fullname": "t2_1ce1787lfl",
                                                                                                       "approved_by": null,
                                                                                                       "mod_note": null,
@@ -1221,7 +1221,7 @@
                                                                                                       "collapsed_because_crowd_control": null,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
-                                                                                                      "ups": 6
+                                                                                                      "ups": 5
                                                                                                     }
                                                                                                   }
                                                                                                 ],
@@ -1305,7 +1305,7 @@
                                                                                   "created_utc": 1744672478,
                                                                                   "send_replies": true,
                                                                                   "parent_id": "t1_mn4zoeo",
-                                                                                  "score": 4,
+                                                                                  "score": 5,
                                                                                   "author_fullname": "t2_1ce1787lfl",
                                                                                   "approved_by": null,
                                                                                   "mod_note": null,
@@ -1346,7 +1346,7 @@
                                                                                   "collapsed_because_crowd_control": null,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
-                                                                                  "ups": 4
+                                                                                  "ups": 5
                                                                                 }
                                                                               }
                                                                             ],
@@ -1428,7 +1428,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_mn4dv88",
-                                                              "score": 5,
+                                                              "score": 4,
                                                               "author_fullname": "t2_1ce1787lfl",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -1470,7 +1470,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 5
+                                                              "ups": 4
                                                             }
                                                           },
                                                           {
@@ -1937,7 +1937,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn25fih",
-                                "score": 3,
+                                "score": 4,
                                 "author_fullname": "t2_ag452fbr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1980,7 +1980,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             }
                           ],
@@ -2162,7 +2162,7 @@
                       "created_utc": 1744628258,
                       "send_replies": true,
                       "parent_id": "t1_mn14gby",
-                      "score": 6,
+                      "score": 10,
                       "author_fullname": "t2_wup1v1w7e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2204,7 +2204,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 10
                     }
                   },
                   {
@@ -2237,7 +2237,7 @@
                       "created_utc": 1744621604,
                       "send_replies": true,
                       "parent_id": "t1_mn14gby",
-                      "score": 8,
+                      "score": 7,
                       "author_fullname": "t2_1f1tptkzcs",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2279,7 +2279,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 7
                     }
                   },
                   {
@@ -2495,7 +2495,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn19xzh",
-                                "score": 14,
+                                "score": 13,
                                 "author_fullname": "t2_joxwuyje",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2538,7 +2538,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 14
+                                "ups": 13
                               }
                             },
                             {
@@ -2593,7 +2593,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn4cqjr",
-                                          "score": 2,
+                                          "score": 3,
                                           "author_fullname": "t2_h6p7dx23",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2636,7 +2636,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 3
                                         }
                                       }
                                     ],
@@ -2656,7 +2656,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn19xzh",
-                                "score": -6,
+                                "score": -8,
                                 "author_fullname": "t2_ag452fbr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2699,7 +2699,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -6
+                                "ups": -8
                               }
                             },
                             {
@@ -2712,7 +2712,7 @@
                                 "awarders": [],
                                 "mod_reason_by": null,
                                 "banned_by": null,
-                                "ups": -55,
+                                "ups": -53,
                                 "removal_reason": null,
                                 "link_id": "t3_1jytw62",
                                 "author_flair_template_id": null,
@@ -2840,7 +2840,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1devv",
-                                          "score": 7,
+                                          "score": 6,
                                           "author_fullname": "t2_wuho7",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2883,7 +2883,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 7
+                                          "ups": 6
                                         }
                                       }
                                     ],
@@ -2904,7 +2904,7 @@
                                 "created_utc": 1744625517,
                                 "send_replies": true,
                                 "parent_id": "t1_mn19xzh",
-                                "score": -55,
+                                "score": -53,
                                 "approved_by": null,
                                 "report_reasons": null,
                                 "all_awardings": [],
@@ -3037,7 +3037,7 @@
                       "created_utc": 1744623387,
                       "send_replies": true,
                       "parent_id": "t1_mn18b9x",
-                      "score": 139,
+                      "score": 142,
                       "author_fullname": "t2_1wf1rv9t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3079,7 +3079,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 139
+                      "ups": 142
                     }
                   }
                 ],
@@ -3100,7 +3100,7 @@
             "created_utc": 1744622317,
             "send_replies": true,
             "parent_id": "t3_1jytw62",
-            "score": 214,
+            "score": 215,
             "author_fullname": "t2_eqaw4qvn",
             "approved_by": null,
             "mod_note": null,
@@ -3142,7 +3142,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 214
+            "ups": 215
           }
         },
         {
@@ -3243,7 +3243,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1ayte",
-                                          "score": 20,
+                                          "score": 22,
                                           "author_fullname": "t2_wup1v1w7e",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3286,7 +3286,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 20
+                                          "ups": 22
                                         }
                                       },
                                       {
@@ -3807,7 +3807,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1k2xa",
-                                          "score": 16,
+                                          "score": 17,
                                           "author_fullname": "t2_t6pi3qhxc",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3850,7 +3850,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 16
+                                          "ups": 17
                                         }
                                       },
                                       {
@@ -3882,7 +3882,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1k2xa",
-                                          "score": 28,
+                                          "score": 29,
                                           "author_fullname": "t2_3wmgk",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3925,7 +3925,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 28
+                                          "ups": 29
                                         }
                                       },
                                       {
@@ -4056,7 +4056,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_mn1nzxi",
-                                                    "score": 19,
+                                                    "score": 20,
                                                     "author_fullname": "t2_g3h6upez",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -4098,7 +4098,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 19
+                                                    "ups": 20
                                                   }
                                                 },
                                                 {
@@ -4227,7 +4227,7 @@
                                                                                             "created_utc": 1744639311,
                                                                                             "send_replies": true,
                                                                                             "parent_id": "t1_mn207y9",
-                                                                                            "score": 7,
+                                                                                            "score": 8,
                                                                                             "author_fullname": "t2_df0vi",
                                                                                             "approved_by": null,
                                                                                             "mod_note": null,
@@ -4269,7 +4269,7 @@
                                                                                             "collapsed_because_crowd_control": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 7
+                                                                                            "ups": 8
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -4290,7 +4290,7 @@
                                                                                   "created_utc": 1744635998,
                                                                                   "send_replies": true,
                                                                                   "parent_id": "t1_mn1tnru",
-                                                                                  "score": 4,
+                                                                                  "score": 6,
                                                                                   "author_fullname": "t2_12t8he",
                                                                                   "approved_by": null,
                                                                                   "mod_note": null,
@@ -4331,7 +4331,7 @@
                                                                                   "collapsed_because_crowd_control": null,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
-                                                                                  "ups": 4
+                                                                                  "ups": 6
                                                                                 }
                                                                               }
                                                                             ],
@@ -4351,7 +4351,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_mn1ppui",
-                                                                        "score": 13,
+                                                                        "score": 14,
                                                                         "author_fullname": "t2_df0vi",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -4393,7 +4393,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 13
+                                                                        "ups": 14
                                                                       }
                                                                     }
                                                                   ],
@@ -4413,7 +4413,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_mn1p9o9",
-                                                              "score": -1,
+                                                              "score": -2,
                                                               "author_fullname": "t2_12t8he",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -4455,7 +4455,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": -1
+                                                              "ups": -2
                                                             }
                                                           }
                                                         ],
@@ -4475,7 +4475,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_mn1nzxi",
-                                                    "score": 14,
+                                                    "score": 13,
                                                     "author_fullname": "t2_cmfeo4yq",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -4517,7 +4517,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 14
+                                                    "ups": 13
                                                   }
                                                 }
                                               ],
@@ -4531,19 +4531,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "Lost_Cyborg",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1k2xa",
-                                          "score": -4,
+                                          "score": -6,
                                           "author_fullname": "t2_12t8he",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "It leaned too much to the \"left\" and because of that Information on there started to be influenced by politics and not facts. For example, on controversial topics, there are editors  24/7 on standy to edit/remove anything that doesnt fit their political view.\n\nedit: basically editors ignore wikipedia rules of neutrality and dont get banned for it.",
                                           "edited": 1744631228,
                                           "top_awarded_type": null,
@@ -4555,7 +4555,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It leaned too much to the &amp;quot;left&amp;quot; and because of that Information on there started to be influenced by politics and not facts. For example, on controversial topics, there are editors  24/7 on standy to edit/remove anything that doesnt fit their political view.&lt;/p&gt;\n\n&lt;p&gt;edit: basically editors ignore wikipedia rules of neutrality and dont get banned for it.&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -4580,7 +4580,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -4
+                                          "ups": -6
                                         }
                                       }
                                     ],
@@ -4600,7 +4600,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn19val",
-                                "score": 19,
+                                "score": 17,
                                 "author_fullname": "t2_1e08gcg1",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -4643,7 +4643,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 19
+                                "ups": 17
                               }
                             }
                           ],
@@ -4918,7 +4918,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_mn24xnw",
-                                                              "score": -2,
+                                                              "score": -3,
                                                               "author_fullname": "t2_3wmgk",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -4960,7 +4960,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": -2
+                                                              "ups": -3
                                                             }
                                                           }
                                                         ],
@@ -4980,7 +4980,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_mn1m7j3",
-                                                    "score": 5,
+                                                    "score": 3,
                                                     "author_fullname": "t2_w73n3yrsx",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -5022,7 +5022,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 3
                                                   }
                                                 },
                                                 {
@@ -5278,7 +5278,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_mn1gddu",
-                                          "score": -2,
+                                          "score": 0,
                                           "author_fullname": "t2_3wmgk",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -5321,7 +5321,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -2
+                                          "ups": 0
                                         }
                                       }
                                     ],
@@ -5341,7 +5341,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn176dg",
-                                "score": 13,
+                                "score": 12,
                                 "author_fullname": "t2_w73n3yrsx",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -5384,7 +5384,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 12
                               }
                             },
                             {
@@ -5502,7 +5502,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn176dg",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_ebv19k74",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -5545,7 +5545,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             },
                             {
@@ -5641,7 +5641,7 @@
                       "created_utc": 1744621568,
                       "send_replies": true,
                       "parent_id": "t1_mn13xmb",
-                      "score": -22,
+                      "score": -20,
                       "author_fullname": "t2_gf4vh19m",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5683,7 +5683,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -22
+                      "ups": -20
                     }
                   }
                 ],
@@ -5704,7 +5704,7 @@
             "created_utc": 1744619450,
             "send_replies": true,
             "parent_id": "t3_1jytw62",
-            "score": 240,
+            "score": 243,
             "author_fullname": "t2_ebv19k74",
             "approved_by": null,
             "mod_note": null,
@@ -5746,7 +5746,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 240
+            "ups": 243
           }
         },
         {
@@ -6026,7 +6026,7 @@
             "created_utc": 1744623552,
             "send_replies": true,
             "parent_id": "t3_1jytw62",
-            "score": 30,
+            "score": 29,
             "author_fullname": "t2_1wf1rv9t",
             "approved_by": null,
             "mod_note": null,
@@ -6068,7 +6068,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 30
+            "ups": 29
           }
         },
         {
@@ -6101,7 +6101,7 @@
             "created_utc": 1744636446,
             "send_replies": true,
             "parent_id": "t3_1jytw62",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_jejalxxp",
             "approved_by": null,
             "mod_note": null,
@@ -6143,7 +6143,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -6960,7 +6960,7 @@
                       "created_utc": 1744629396,
                       "send_replies": true,
                       "parent_id": "t1_mn1gttc",
-                      "score": 11,
+                      "score": 12,
                       "author_fullname": "t2_7gw03ro",
                       "removal_reason": null,
                       "approved_by": null,
@@ -7002,7 +7002,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 12
                     }
                   }
                 ],
@@ -7218,7 +7218,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_mn1nxbq",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_17zycfg4yo",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -7261,7 +7261,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             },
                             {
@@ -7362,7 +7362,7 @@
                       "created_utc": 1744630956,
                       "send_replies": true,
                       "parent_id": "t1_mn1hzvq",
-                      "score": 16,
+                      "score": 18,
                       "author_fullname": "t2_8txhv",
                       "removal_reason": null,
                       "approved_by": null,
@@ -7404,7 +7404,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 16
+                      "ups": 18
                     }
                   },
                   {
@@ -7684,7 +7684,7 @@
                       "created_utc": 1744636269,
                       "send_replies": true,
                       "parent_id": "t1_mn1hzvq",
-                      "score": 3,
+                      "score": 1,
                       "author_fullname": "t2_i0hlc",
                       "removal_reason": null,
                       "approved_by": null,
@@ -7726,7 +7726,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 1
                     }
                   },
                   {
@@ -8000,7 +8000,7 @@
                       "created_utc": 1744631735,
                       "send_replies": true,
                       "parent_id": "t1_mn19u4x",
-                      "score": 10,
+                      "score": 9,
                       "author_fullname": "t2_e6bnx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -8042,7 +8042,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 9
                     }
                   },
                   {
@@ -8213,7 +8213,7 @@
             "created_utc": 1744623318,
             "send_replies": true,
             "parent_id": "t3_1jytw62",
-            "score": -1,
+            "score": 0,
             "author_fullname": "t2_y8jr8mmod",
             "approved_by": null,
             "mod_note": null,
@@ -8255,7 +8255,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         },
         {
@@ -8386,7 +8386,7 @@
                       "created_utc": 1744622114,
                       "send_replies": true,
                       "parent_id": "t1_mn177ei",
-                      "score": 10,
+                      "score": 11,
                       "author_fullname": "t2_cww41",
                       "removal_reason": null,
                       "approved_by": null,
@@ -8428,7 +8428,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 11
                     }
                   },
                   {
@@ -8536,7 +8536,7 @@
                       "created_utc": 1744621883,
                       "send_replies": true,
                       "parent_id": "t1_mn177ei",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_14bo6t9ykt",
                       "removal_reason": null,
                       "approved_by": null,
@@ -8578,7 +8578,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
