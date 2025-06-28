@@ -125,4 +125,6 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
   );
 };
 
+const RedditPostRenderer = RedditListing;
+
 export default RedditListing;
