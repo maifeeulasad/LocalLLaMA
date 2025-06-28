@@ -370,7 +370,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.9,
             "author_flair_background_color": null,
-            "ups": 84,
+            "ups": 91,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -420,7 +420,7 @@
             },
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 84,
+            "score": 91,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -517,7 +517,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lmfiu9/i_tested_10_llms_locally_on_my_macbook_air_m1_8gb/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1lmfiu9",
-            "subreddit_subscribers": 492212,
+            "subreddit_subscribers": 492223,
             "created_utc": 1751090266,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -888,7 +888,7 @@
             "created_utc": 1751094361,
             "send_replies": true,
             "parent_id": "t3_1lmfiu9",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_k7w2h",
             "approved_by": null,
             "mod_note": null,
@@ -930,7 +930,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -1930,7 +1930,7 @@
                       "created_utc": 1751095468,
                       "send_replies": true,
                       "parent_id": "t1_n0795fi",
-                      "score": 4,
+                      "score": 6,
                       "author_fullname": "t2_1fcbojgfd8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1972,7 +1972,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 6
                     }
                   },
                   {
@@ -2096,7 +2096,7 @@
                       "created_utc": 1751093418,
                       "send_replies": true,
                       "parent_id": "t1_n0795fi",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_l5xlcgf2j",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2138,7 +2138,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -2234,7 +2234,7 @@
             "created_utc": 1751092607,
             "send_replies": true,
             "parent_id": "t3_1lmfiu9",
-            "score": -6,
+            "score": -5,
             "author_fullname": "t2_1k93ff6lqk",
             "approved_by": null,
             "mod_note": null,
@@ -2276,7 +2276,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -5
           }
         }
       ],
