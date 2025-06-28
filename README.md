@@ -1,31 +1,65 @@
-# Deployment ready (React + TS + Vite + Tailwind)
+# 📚 r/LocalLLaMA Archive
 
-GitHub page should be available here: https://maifeeulasad.github.io/LocalLLaMA
+**A free, open, automatically-updating snapshot of r/LocalLLaMA — keeping community discussions, insights, and model links accessible, even if the original subreddit ever disappears.**
 
-## Using docker
+---
+
+## ✨ What is this?
+
+This is a **static archive** of [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) — automatically scraping **new posts** every hour and saving them as JSON and simple static pages.
+
+It’s built with:
+- **React + Ant Design** (for clean browsing)
+- **Node.js scrapers** (fetch & dump posts)
+- **Static hosting via GitHub Pages**
+
+🔗 **Live Archive**: [Visit here](https://maifeeulasad.github.io/LocalLLaMA/)  
+📂 **Repo**: [View source](https://github.com/maifeeulasad/LocalLLaMA)
+
+---
+
+## 🔒 Why?
+
+- Subreddits get banned, private, or wiped all the time.
+- We don’t want thousands of hours of community knowledge — local LLM experiments, model links, guides — to vanish.
+- By saving it as static files, it’s **easy to fork, mirror, or self-host**.
+
+---
+
+## ⚡ Features
+
+- ✅ Hourly scraping of `hot`, `top`, and `best` posts
+- ✅ Each post saved as JSON for transparency
+- ✅ Clean static pages for browsing
+- ✅ Built for **forking** — anyone can mirror this easily
+- ✅ **No user tracking**, no ads
+
+---
+
+## 🧩 How it works
+
+1. **Scraper:** Runs on GitHub Actions every hour.
+2. **Builder:** Regenerates the static site pages automatically.
+3. **Deploy:** Pushes to GitHub Pages.
+4. **Browse:** You can read, search, and explore right in your browser.
+
+---
+
+## 🔍 Search
+
+This site includes a **fuzzy search bar** (powered by Fuse.js) so you can quickly find posts by keywords — even across thousands of JSON files.
+
+---
+
+## 🌍 Fork, Mirror & Contribute
+
+This is **not meant to be the only copy**.  
+The real value is when **many people fork and mirror it**!
+
+**How to mirror:**
 ```bash
-docker compose up
-```
-
-## Steps to reproduce:
- - Get `ssh-keygen`
- - Run this command `ssh-keygen -t rsa -b 4096`
-   - Save it to a nice place
-   - Give it some cool and understandable name(mainly for later usage - I had key pair named *okjanu* from 2018, I have no idea what do they do, but it's under folder `imporatnt`) 
-   -  Backup to some cloud store and remove it from local storage
- - Go to *secrets* under *settings*
-   - For this repo, I went to: https://github.com/maifeeulasad/LocalLLaMA/settings/secrets/actions
-   - Open the private key, *file without `.pub` extension*, with any text editor or in terminal
-   -  Paste it write there
- - Go to *deploy keys* under *settings*
-   - For this repo: https://github.com/maifeeulasad/LocalLLaMA/settings/keys
-   - Open the public key and paste there
-   - Give it write access(must)
-
-## Some stuff:
- - GA included, please change it accordingly, at the very bottom of `index.html`. Here: https://github.com/maifeeulasad/LocalLLaMA/blob/80773182fae66e463d7928f690863bc965757a38/index.html#L35
- - In `App.tsx`, find `<BrowserRouter ...>` and set the project name here, correctly. Currently set to: 
-  ```
-  <BrowserRouter basename="/LocalLLaMA">
-     ...
-  ```
+git clone https://github.com/maifeeulasad/LocalLLaMA.git
+# Keep your fork in sync
+pnpm install
+pnpm run build
+# Deploy to your own GitHub Pages, server, or static hosting
