@@ -90,6 +90,9 @@ importers:
       '@types/node':
         specifier: ^18.19.87
         version: 18.19.87
+      '@types/node-fetch':
+        specifier: ^2.6.12
+        version: 2.6.12
       '@types/react':
         specifier: ^18.3.20
         version: 18.3.20
@@ -1546,6 +1549,9 @@ packages:
 
   '@types/json5@0.0.29':
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
+
+  '@types/node-fetch@2.6.12':
+    resolution: {integrity: sha512-8nneRWKCg3rMtF69nLQJnOYUcbafYeFSjqkw3jCRLsqkWFlHaoQrr5mXmofFGOx3DKn7UfmBMyov8ySvLRVldA==}
 
   '@types/node@18.19.87':
     resolution: {integrity: sha512-OIAAu6ypnVZHmsHCeJ+7CCSub38QNBS9uceMQeg7K5Ur0Jr+wG9wEOEvvMbhp09pxD5czIUy/jND7s7Tb6Nw7A==}
@@ -6232,6 +6238,11 @@ snapshots:
   '@types/json-schema@7.0.15': {}
 
   '@types/json5@0.0.29': {}
+
+  '@types/node-fetch@2.6.12':
+    dependencies:
+      '@types/node': 18.19.87
+      form-data: 4.0.2
 
   '@types/node@18.19.87':
     dependencies:
