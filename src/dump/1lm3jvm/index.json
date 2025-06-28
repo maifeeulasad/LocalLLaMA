@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.92,
             "author_flair_background_color": null,
-            "ups": 61,
+            "ups": 59,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 61,
+            "score": 59,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "AdditionalWeb107",
             "discussion_type": null,
-            "num_comments": 11,
+            "num_comments": 12,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lm3jvm/archrouter_the_first_and_fastest_llm_router_that/",
             "stickied": false,
             "url": "https://i.redd.it/6zqw0rkhzi9f1.png",
-            "subreddit_subscribers": 492223,
+            "subreddit_subscribers": 492232,
             "created_utc": 1751054437,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -339,7 +339,93 @@
                                                                         "author_flair_template_id": null,
                                                                         "distinguished": null,
                                                                         "likes": null,
-                                                                        "replies": "",
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "after": null,
+                                                                            "dist": null,
+                                                                            "modhash": "",
+                                                                            "geo_filter": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_81eyvm",
+                                                                                  "approved_at_utc": null,
+                                                                                  "author_is_blocked": false,
+                                                                                  "comment_type": null,
+                                                                                  "awarders": [],
+                                                                                  "mod_reason_by": null,
+                                                                                  "banned_by": null,
+                                                                                  "author_flair_type": "text",
+                                                                                  "total_awards_received": 0,
+                                                                                  "subreddit": "LocalLLaMA",
+                                                                                  "author_flair_template_id": null,
+                                                                                  "distinguished": null,
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "n07ys6b",
+                                                                                  "banned_at_utc": null,
+                                                                                  "mod_reason_title": null,
+                                                                                  "gilded": 0,
+                                                                                  "archived": false,
+                                                                                  "collapsed_reason_code": null,
+                                                                                  "no_follow": true,
+                                                                                  "author": "Saegifu",
+                                                                                  "can_mod_post": false,
+                                                                                  "created_utc": 1751107452,
+                                                                                  "send_replies": true,
+                                                                                  "parent_id": "t1_n05h6up",
+                                                                                  "score": 1,
+                                                                                  "author_fullname": "t2_8qkiqip",
+                                                                                  "approved_by": null,
+                                                                                  "mod_note": null,
+                                                                                  "all_awardings": [],
+                                                                                  "body": "This conversation is so wholesome. Pure camaraderie",
+                                                                                  "edited": false,
+                                                                                  "gildings": {},
+                                                                                  "author_flair_css_class": null,
+                                                                                  "name": "t1_n07ys6b",
+                                                                                  "is_submitter": false,
+                                                                                  "downs": 0,
+                                                                                  "author_flair_richtext": [],
+                                                                                  "author_patreon_flair": false,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This conversation is so wholesome. Pure camaraderie&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "removal_reason": null,
+                                                                                  "collapsed_reason": null,
+                                                                                  "link_id": "t3_1lm3jvm",
+                                                                                  "associated_award": null,
+                                                                                  "stickied": false,
+                                                                                  "author_premium": false,
+                                                                                  "can_gild": false,
+                                                                                  "top_awarded_type": null,
+                                                                                  "unrepliable_reason": null,
+                                                                                  "author_flair_text_color": null,
+                                                                                  "score_hidden": false,
+                                                                                  "permalink": "/r/LocalLLaMA/comments/1lm3jvm/archrouter_the_first_and_fastest_llm_router_that/n07ys6b/",
+                                                                                  "subreddit_type": "public",
+                                                                                  "locked": false,
+                                                                                  "report_reasons": null,
+                                                                                  "created": 1751107452,
+                                                                                  "author_flair_text": null,
+                                                                                  "treatment_tags": [],
+                                                                                  "collapsed": false,
+                                                                                  "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                                                  "controversiality": 0,
+                                                                                  "depth": 7,
+                                                                                  "author_flair_background_color": null,
+                                                                                  "collapsed_because_crowd_control": null,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "ups": 1
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "before": null
+                                                                          }
+                                                                        },
                                                                         "user_reports": [],
                                                                         "saved": false,
                                                                         "id": "n05h6up",
@@ -353,7 +439,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n05gmvj",
-                                                                        "score": 5,
+                                                                        "score": 6,
                                                                         "author_fullname": "t2_kle75fbd6",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -395,7 +481,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 5
+                                                                        "ups": 6
                                                                       }
                                                                     }
                                                                   ],
@@ -415,7 +501,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n05fym9",
-                                                              "score": 2,
+                                                              "score": 4,
                                                               "author_fullname": "t2_gwq7fd01b",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -457,7 +543,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 2
+                                                              "ups": 4
                                                             }
                                                           }
                                                         ],
@@ -477,7 +563,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n05fk7l",
-                                                    "score": 5,
+                                                    "score": 6,
                                                     "author_fullname": "t2_kle75fbd6",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -519,7 +605,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 6
                                                   }
                                                 }
                                               ],
@@ -602,7 +688,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n05d9u1",
-                                "score": 5,
+                                "score": 7,
                                 "author_fullname": "t2_kle75fbd6",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -645,7 +731,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 7
                               }
                             }
                           ],
@@ -729,7 +815,7 @@
             "created_utc": 1751063772,
             "send_replies": true,
             "parent_id": "t3_1lm3jvm",
-            "score": 12,
+            "score": 15,
             "author_fullname": "t2_kle75fbd6",
             "approved_by": null,
             "mod_note": null,
@@ -771,7 +857,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 15
           }
         },
         {
@@ -827,7 +913,7 @@
                       "created_utc": 1751061953,
                       "send_replies": true,
                       "parent_id": "t1_n052uml",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_gwq7fd01b",
                       "removal_reason": null,
                       "approved_by": null,
@@ -914,7 +1000,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   }
                 ],
