@@ -3,6 +3,8 @@ name: Run Builder and Scrapper Hourly
 on:
   schedule:
     - cron: '0 * * * *'  # every hour
+  push:
+    branches: [ main ]
 
 jobs:
   run-builder-scrapper:
