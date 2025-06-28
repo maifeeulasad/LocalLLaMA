@@ -32,22 +32,26 @@ function sleep(ms) {
 
   for (let i = 0; i < ids.length; i++) {
     const postId = ids[i];
-    console.log(`🔗 Fetching ${i + 1} of ${ids.length}: ${postId}`);
+    try {
+      console.log(`🔗 Fetching ${i + 1} of ${ids.length}: ${postId}`);
 
-    const postUrl = `${BASE_URL}/comments/${postId}.json`;
-    const postRes = await fetch(postUrl);
-    const postJson = await postRes.json();
+      const postUrl = `${BASE_URL}/comments/${postId}.json`;
+      const postRes = await fetch(postUrl);
+      const postJson = await postRes.json();
 
-    fs.mkdirSync(`./src/dump/${postId}`, { recursive: true });
-    fs.writeFileSync(
-      `./src/dump/${postId}/index.json`,
-      JSON.stringify(postJson, null, 2)
-    );
+      fs.mkdirSync(`./src/dump/${postId}`, { recursive: true });
+      fs.writeFileSync(
+        `./src/dump/${postId}/index.json`,
+        JSON.stringify(postJson, null, 2)
+      );
 
-    console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
+      console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
 
-    // NB: never remove this, keep Reddit happy
-    await sleep(1000);
+      // NB: never remove this, keep Reddit happy
+      await sleep(1000);
+    } catch (error) {
+      console.error(`❌ Error fetching post ${postId}:`, error);
+    }
   }
 
   console.log("🎉 Done! All posts saved.");
