@@ -923,7 +923,7 @@ const CustomLayout = ({ children }: ICustomLayoutProps) => {
   return (
     <ProLayout
       logo={logo}
-      title="React Pipeline"
+      title="r/LocalLLaMA"
       style={{ minHeight: '100vh' }}
       fixSiderbar
       location={location}

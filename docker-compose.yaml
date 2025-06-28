@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  reactpipeline:
+  localllama:
     build: .
     ports:
       - "3010:3010"
