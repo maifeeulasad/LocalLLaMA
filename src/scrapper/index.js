@@ -13,20 +13,20 @@ function sleep(ms) {
 }
 
 (async () => {
-  const uniqueIds = new Set(['1lmjg3p','1lmjimi']);
+  const uniqueIds = new Set();
 
-  // console.log(`🔍 Collecting post IDs from:`);
-  // for (const url of URLs) {
-  //   console.log(`➡️ ${url}`);
-  //   const res = await fetch(url);
-  //   const json = await res.json();
+  console.log(`🔍 Collecting post IDs from:`);
+  for (const url of URLs) {
+    console.log(`➡️ ${url}`);
+    const res = await fetch(url);
+    const json = await res.json();
 
-  //   json.data.children.forEach(child => {
-  //     uniqueIds.add(child.data.id);
-  //   });
+    json.data.children.forEach(child => {
+      uniqueIds.add(child.data.id);
+    });
 
-  //   await sleep(500);
-  // }
+    await sleep(500);
+  }
 
   const ids = Array.from(uniqueIds);
   console.log(`✅ Found ${ids.length} unique posts.`);
