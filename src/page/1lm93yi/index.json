@@ -36,10 +36,10 @@
             "name": "t3_1lm93yi",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.8,
+            "upvote_ratio": 0.83,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 9,
+            "ups": 15,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 9,
+            "score": 15,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -79,7 +79,7 @@
             "banned_at_utc": null,
             "view_count": null,
             "archived": false,
-            "no_follow": true,
+            "no_follow": false,
             "is_crosspostable": false,
             "pinned": false,
             "over_18": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lm93yi/magistral_small_similarity_to_deepseek_chat/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lm93yi/magistral_small_similarity_to_deepseek_chat/",
-            "subreddit_subscribers": 492232,
+            "subreddit_subscribers": 492572,
             "created_utc": 1751069001,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -182,13 +182,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "ImprovementBusy5947",
                       "can_mod_post": false,
                       "created_utc": 1751095432,
                       "send_replies": true,
                       "parent_id": "t1_n06xrbc",
-                      "score": 1,
+                      "score": 4,
                       "author_fullname": "t2_nhu5loyr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -230,7 +230,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 4
                     }
                   }
                 ],
@@ -251,7 +251,7 @@
             "created_utc": 1751086670,
             "send_replies": false,
             "parent_id": "t3_1lm93yi",
-            "score": 5,
+            "score": 11,
             "author_fullname": "t2_v31oki0i",
             "approved_by": null,
             "mod_note": null,
@@ -293,7 +293,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 11
           }
         },
         {
@@ -406,13 +406,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "TheRealMasonMac",
             "can_mod_post": false,
             "created_utc": 1751090611,
             "send_replies": true,
             "parent_id": "t3_1lm93yi",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_101haj",
             "approved_by": null,
             "mod_note": null,
@@ -454,7 +454,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {

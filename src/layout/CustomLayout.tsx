@@ -617,12 +617,20 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Arch-Router: The first (and fastest) LLM router that can align to your usage preferences.',
       },
       {
+        path: '/1lm4s6i',
+        name: 'Inconsistent responses between OpenRouter API and native OpenAI API',
+      },
+      {
         path: '/1lm4tno',
         name: 'Build advice question for repurposing spare GPUs',
       },
       {
         path: '/1lm58q1',
         name: 'Problems on RVC WebUI creating new vocal model',
+      },
+      {
+        path: '/1lm5a05',
+        name: 'What if we remove reasoning models\' &lt;think&gt; process but make them believe they already reasoned?',
       },
       {
         path: '/1lm5muh',
@@ -763,6 +771,226 @@ const defaultMenus: MenuDataItem[] = [
       {
         path: '/1lmjs43',
         name: 'Hi everyone, I have a problem with fine tuning LLM on law',
+      },
+      {
+        path: '/1lmjwtu',
+        name: 'Good Courses to Learn and Use Local LLaMA Models?',
+      },
+      {
+        path: '/1lmk2dj',
+        name: 'Progress stalled in non-reasoning open-source models?',
+      },
+      {
+        path: '/1lml6eo',
+        name: 'Using local models with Void',
+      },
+      {
+        path: '/1lml8lx',
+        name: '120 AI Chat - Native macOS Chat App with Ollama Support',
+      },
+      {
+        path: '/1lmmh3l',
+        name: 'Consumer hardware landscape for local LLMs June 2025',
+      },
+      {
+        path: '/1lmmvmj',
+        name: 'Many small evals are better than one big eval [techniques]',
+      },
+      {
+        path: '/1lmmxh1',
+        name: 'Which are the best realistic video generation tools',
+      },
+      {
+        path: '/1lmn5k2',
+        name: 'What are Coqui-TTS alternatives?',
+      },
+      {
+        path: '/1lmni3q',
+        name: 'What framework are you using to build AI Agents?',
+      },
+      {
+        path: '/1lmo9b2',
+        name: 'Play Infinite Tic Tac Toe against LLM Models',
+      },
+      {
+        path: '/1lmoqsl',
+        name: 'Link between LM Studio and tools/functions?',
+      },
+      {
+        path: '/1lmp3en',
+        name: 'support for the upcoming ERNIE 4.5 0.3B model has been merged into llama.cpp',
+      },
+      {
+        path: '/1lmpd8j',
+        name: 'Best model tuned specifically for Programming?',
+      },
+      {
+        path: '/1lmqsru',
+        name: 'deepseek-r1-0528 ranked #2 on lmarena, matching best from chatgpt',
+      },
+      {
+        path: '/1lmqtby',
+        name: 'Como mejorar un sistema RAG?',
+      },
+      {
+        path: '/1lmr1qh',
+        name: 'EPYC cpu build. Which cpu? (9354, 9534, 9654)',
+      },
+      {
+        path: '/1lmranc',
+        name: 'Gemma3n:2B and Gemma3n:4B models are ~40% slower than equivalent models in size running on Llama.cpp',
+      },
+      {
+        path: '/1lmrd6x',
+        name: 'Looking for Android chat ui',
+      },
+      {
+        path: '/1lmrmnz',
+        name: 'Multimodal Multistage Reasoning',
+      },
+      {
+        path: '/1lmsme1',
+        name: 'Can Copilot be trusted with private source code more than competition?',
+      },
+      {
+        path: '/1lmt3kt',
+        name: 'i5-8500 (6 cores), 24GB DDR4 2666 dual channel, realistic expectations for 3b/4b models?',
+      },
+      {
+        path: '/1lmtlgp',
+        name: 'The ollama models are excellent models that can be installed locally as a starting point but.....',
+      },
+      {
+        path: '/1lmvosa',
+        name: 'Best GGUF Base Models Under 3B for Unfiltered NSFW Roleplay?',
+      },
+      {
+        path: '/1lmvv5e',
+        name: 'Assistance for beginner in local LLM',
+      },
+      {
+        path: '/1lmwjf2',
+        name: 'Recent best models &lt;=14b for agentic search?',
+      },
+      {
+        path: '/1lmx8ic',
+        name: 'NVIDIA acquires CentML. what does this mean for inference infra?',
+      },
+      {
+        path: '/1lmxduv',
+        name: 'Looking for a local LLM translator for large documents and especialized tools',
+      },
+      {
+        path: '/1lmxg89',
+        name: 'The AutoInference library now supports major and popular backends for LLM inference, including Transformers, vLLM, Unsloth, and llama.cpp. ⭐',
+      },
+      {
+        path: '/1lmxhd7',
+        name: 'Anyone used RAM across multiple networked devices?',
+      },
+      {
+        path: '/1lmxpis',
+        name: 'Local AI conversational model for English language learning',
+      },
+      {
+        path: '/1lmy53s',
+        name: 'The Orakle Manifesto: Or Why Your AI Apps (Should) Belong To You',
+      },
+      {
+        path: '/1lmz4kf',
+        name: 'Transformer ASIC 500k tokens/s',
+      },
+      {
+        path: '/1lmzqb9',
+        name: 'Sydney4 beats ChatGPT 4o in existential crisis',
+      },
+      {
+        path: '/1ln10a8',
+        name: 'A bunch of LLM FPHAM Python scripts I\'ve added to my GitHub in recent days',
+      },
+      {
+        path: '/1ln1a6u',
+        name: 'What\'s it currently like for people here running AMD GPUs with AI?',
+      },
+      {
+        path: '/1ln1gdr',
+        name: 'Problems creating an executable with llama cpp',
+      },
+      {
+        path: '/1ln1ij8',
+        name: 'RLHF from scratch, step-by-step, in 3 Jupyter notebooks',
+      },
+      {
+        path: '/1ln1m7d',
+        name: 'Audio Input LLM',
+      },
+      {
+        path: '/1ln3pur',
+        name: 'Do you use AI (like ChatGPT, Gmini, etc) to develop your LangGraph agents? Or is it just my impostor syndrome talking?',
+      },
+      {
+        path: '/1ln4iyg',
+        name: 'Need your opinion please, appreciated.',
+      },
+      {
+        path: '/1ln56xd',
+        name: 'Building a Coding Mentor Agent with LangChain + LangGraph + GPT-4o-mini',
+      },
+      {
+        path: '/1ln5jli',
+        name: 'How do you evaluate and compare multiple LLMs (e.g., via OpenRouter) to test which one performs best?',
+      },
+      {
+        path: '/1ln5jqr',
+        name: 'Is ReAct still the best prompt template?',
+      },
+      {
+        path: '/1ln5l6b',
+        name: 'Training Open models on my data for replacing RAG',
+      },
+      {
+        path: '/1ln7poe',
+        name: 'Suggest me an Uncensored LLM and another LLM for Coding stuffs',
+      },
+      {
+        path: '/1ln7rll',
+        name: 'I made a writing assistant Chrome extension. Completely free with Gemini Nano.',
+      },
+      {
+        path: '/1ln8uqb',
+        name: 'LM Studio vision models???',
+      },
+      {
+        path: '/1ln93o3',
+        name: 'Is anyone here using Llama to code websites and apps? From my experience, it sucks',
+      },
+      {
+        path: '/1lnacbb',
+        name: 'Why the local Llama-3.2-1B-Instruct is not as smart as the one provided on Hugging Face?',
+      },
+      {
+        path: '/1lnahfy',
+        name: 'Intelligent decisioning for small language model training and serving platform',
+      },
+      {
+        path: '/1lnbru7',
+        name: 'How to teach AI to read a complete guide/manual/help website to ask questions about it?',
+      },
+      {
+        path: '/1lncfmw',
+        name: 'Seems I was informed (incorrectly) that Ollama had very little censorship--at least it finally stopped apologizing.',
+      },
+      {
+        path: '/1lncymd',
+        name: '12B Q5_K_M or 22B Q4_K_S',
+      },
+      {
+        path: '/1lnd1su',
+        name: 'Windows vs Linux (Ubuntu) for LLM-GenAI work/research.',
+      },
+      {
+        path: '/1lndmzj',
+        name: 'Mistral Small 3.2 can\'t generate tables, and stops generation altogether',
       },
     ],
   },
