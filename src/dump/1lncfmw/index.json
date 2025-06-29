@@ -32,11 +32,11 @@
             "downs": 0,
             "thumbnail_height": 60,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "name": "t3_1lncfmw",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.11,
+            "upvote_ratio": 0.1,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lncfmw/seems_i_was_informed_incorrectly_that_ollama_had/",
             "stickied": false,
             "url": "https://i.redd.it/m3h8ri6epu9f1.jpeg",
-            "subreddit_subscribers": 492572,
+            "subreddit_subscribers": 492625,
             "created_utc": 1751196516,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -213,7 +213,7 @@
             "created_utc": 1751196664,
             "send_replies": true,
             "parent_id": "t3_1lncfmw",
-            "score": 18,
+            "score": 27,
             "author_fullname": "t2_562xjcrr",
             "approved_by": null,
             "mod_note": null,
@@ -255,7 +255,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 27
           }
         },
         {
@@ -288,7 +288,7 @@
             "created_utc": 1751196667,
             "send_replies": true,
             "parent_id": "t3_1lncfmw",
-            "score": 11,
+            "score": 17,
             "author_fullname": "t2_5y02z",
             "approved_by": null,
             "mod_note": null,
@@ -330,7 +330,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 17
           }
         },
         {
@@ -363,7 +363,7 @@
             "created_utc": 1751196815,
             "send_replies": true,
             "parent_id": "t3_1lncfmw",
-            "score": 8,
+            "score": 16,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -410,7 +410,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 16
           }
         }
       ],
