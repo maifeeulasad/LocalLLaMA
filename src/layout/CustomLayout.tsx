@@ -992,6 +992,42 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lndmzj',
         name: 'Mistral Small 3.2 can\'t generate tables, and stops generation altogether',
       },
+      {
+        path: '/1lneb9h',
+        name: 'I built Coretx to manage AI amnesia - 90 second demo',
+      },
+      {
+        path: '/1lnejb6',
+        name: 'What is the best open source TTS model with multi language support?',
+      },
+      {
+        path: '/1lnesft',
+        name: 'What\'s the best way to summarize or chat with website content?',
+      },
+      {
+        path: '/1lnf00q',
+        name: 'GUI for Writing Long Stories with LLMs?',
+      },
+      {
+        path: '/1lnf7eo',
+        name: 'Is Yann LeCun Changing Directions? - Prediction using VAEs for World Model',
+      },
+      {
+        path: '/1lnfdch',
+        name: 'Which GPU to upgrade from 1070?',
+      },
+      {
+        path: '/1lnfl21',
+        name: 'KoboldCpp v1.95 with Flux Kontext support',
+      },
+      {
+        path: '/1lnh3d8',
+        name: 'DeepSeek-R1 70B jailbreaks are all ineffective. Is there a better way?',
+      },
+      {
+        path: '/1lnh84u',
+        name: 'Detecting if an image contains a table, performance comparsion',
+      },
     ],
   },
   {

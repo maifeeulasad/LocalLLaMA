@@ -36,10 +36,10 @@
             "name": "t3_1lmranc",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.85,
+            "upvote_ratio": 0.89,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 30,
+            "ups": 35,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 30,
+            "score": 35,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "simracerman",
             "discussion_type": null,
-            "num_comments": 16,
+            "num_comments": 17,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lmranc/gemma3n2b_and_gemma3n4b_models_are_40_slower_than/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lmranc/gemma3n2b_and_gemma3n4b_models_are_40_slower_than/",
-            "subreddit_subscribers": 492572,
+            "subreddit_subscribers": 492626,
             "created_utc": 1751128970,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -233,7 +233,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n09prnr",
-                                          "score": 6,
+                                          "score": 5,
                                           "author_fullname": "t2_2ezqqypt",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -276,7 +276,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 6
+                                          "ups": 5
                                         }
                                       }
                                     ],
@@ -296,7 +296,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n09ofc1",
-                                "score": 6,
+                                "score": 8,
                                 "author_fullname": "t2_15sr10",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -339,7 +339,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 8
                               }
                             },
                             {
@@ -585,7 +585,7 @@
                       "created_utc": 1751130150,
                       "send_replies": true,
                       "parent_id": "t1_n09mbhs",
-                      "score": 4,
+                      "score": 6,
                       "author_fullname": "t2_vbzgnic",
                       "removal_reason": null,
                       "approved_by": null,
@@ -627,7 +627,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 6
                     }
                   },
                   {
@@ -660,7 +660,7 @@
                       "created_utc": 1751152011,
                       "send_replies": true,
                       "parent_id": "t1_n09mbhs",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_2ezqqypt",
                       "removal_reason": null,
                       "approved_by": null,
@@ -702,7 +702,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   }
                 ],
@@ -723,7 +723,7 @@
             "created_utc": 1751129499,
             "send_replies": true,
             "parent_id": "t3_1lmranc",
-            "score": 28,
+            "score": 31,
             "author_fullname": "t2_15sr10",
             "approved_by": null,
             "mod_note": null,
@@ -765,7 +765,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 28
+            "ups": 31
           }
         },
         {
@@ -798,7 +798,7 @@
             "created_utc": 1751138121,
             "send_replies": true,
             "parent_id": "t3_1lmranc",
-            "score": 6,
+            "score": 7,
             "author_fullname": "t2_12aeph",
             "approved_by": null,
             "mod_note": null,
@@ -840,7 +840,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -1140,7 +1140,93 @@
                                 "subreddit": "LocalLLaMA",
                                 "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n0dy53b",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "Porespellar",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n0dr030",
+                                          "score": 1,
+                                          "author_fullname": "t2_y35oj",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "I used both Unsloth and Ollama’s FP16 and had the same slow results with both. What quant did you use when you got your 30 tk/s?",
+                                          "edited": false,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n0dy53b",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I used both Unsloth and Ollama’s FP16 and had the same slow results with both. What quant did you use when you got your 30 tk/s?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1lmranc",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1lmranc/gemma3n2b_and_gemma3n4b_models_are_40_slower_than/n0dy53b/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1751193365,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1751193365,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "n0dr030",
