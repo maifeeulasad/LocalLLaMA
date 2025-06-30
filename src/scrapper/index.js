@@ -6,14 +6,14 @@ const HOT_URL = `${BASE_URL}/hot.json?t=all&limit=100`;
 const BEST_URL = `${BASE_URL}/best.json?t=all&limit=100`;
 const NEW_URL = `${BASE_URL}/new.json?t=all&limit=100`;
 
-const URLs = [];
+const URLs = [NEW_URL, HOT_URL, TOP_URL, BEST_URL];
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 (async () => {
-  const uniqueIds = new Set(['1llnwy5']);
+  const uniqueIds = new Set();
 
   console.log(`🔍 Collecting post IDs from:`);
   for (const url of URLs) {
