@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lmmh3l/consumer_hardware_landscape_for_local_llms_june/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lmmh3l/consumer_hardware_landscape_for_local_llms_june/",
-            "subreddit_subscribers": 492840,
+            "subreddit_subscribers": 492929,
             "created_utc": 1751116239,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -233,7 +233,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n09zzdz",
-                                          "score": 5,
+                                          "score": 3,
                                           "author_fullname": "t2_3wi6j7vwh",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -276,7 +276,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 5
+                                          "ups": 3
                                         }
                                       },
                                       {
@@ -1722,7 +1722,7 @@
             "created_utc": 1751125678,
             "send_replies": true,
             "parent_id": "t3_1lmmh3l",
-            "score": 11,
+            "score": 10,
             "author_fullname": "t2_eztox",
             "approved_by": null,
             "mod_note": null,
@@ -1764,7 +1764,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {
@@ -2508,7 +2508,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n08wa3b",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_lpdsy",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2551,7 +2551,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -2572,7 +2572,7 @@
                       "created_utc": 1751121217,
                       "send_replies": true,
                       "parent_id": "t1_n08s2wh",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_4t35m",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2614,7 +2614,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   },
                   {
@@ -3731,7 +3731,7 @@
             "created_utc": 1751119826,
             "send_replies": true,
             "parent_id": "t3_1lmmh3l",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_lpdsy",
             "approved_by": null,
             "mod_note": null,
@@ -3773,7 +3773,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -3892,7 +3892,7 @@
             "created_utc": 1751155739,
             "send_replies": true,
             "parent_id": "t3_1lmmh3l",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_7xnuxw8f",
             "approved_by": null,
             "mod_note": null,
@@ -3934,7 +3934,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -3967,7 +3967,7 @@
             "created_utc": 1751175950,
             "send_replies": true,
             "parent_id": "t3_1lmmh3l",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_16wq9m",
             "approved_by": null,
             "mod_note": null,
@@ -4009,7 +4009,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -4720,7 +4720,7 @@
                       "created_utc": 1751117333,
                       "send_replies": true,
                       "parent_id": "t1_n08jrk2",
-                      "score": 6,
+                      "score": 8,
                       "author_fullname": "t2_zo1h5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4762,7 +4762,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 8
                     }
                   }
                 ],
@@ -5817,19 +5817,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": "LOW_SCORE",
+            "collapsed_reason_code": null,
             "no_follow": true,
             "author": "custodiam99",
             "can_mod_post": false,
             "created_utc": 1751117137,
             "send_replies": true,
             "parent_id": "t3_1lmmh3l",
-            "score": -5,
+            "score": -3,
             "author_fullname": "t2_nqnhgqqf5",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": true,
+            "collapsed": false,
             "body": "I think there are two, more and more distinct ways of using LLMs. The first one is using a small, but very clever LLM, the second one is using a large LLM with very specific knowledge or for a very simple task. I think speed is getting more and more important than VRAM. I'm not sure that I need 10x VRAM or 10x speed with only 24GB VRAM.",
             "edited": false,
             "top_awarded_type": null,
@@ -5841,7 +5841,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think there are two, more and more distinct ways of using LLMs. The first one is using a small, but very clever LLM, the second one is using a large LLM with very specific knowledge or for a very simple task. I think speed is getting more and more important than VRAM. I&amp;#39;m not sure that I need 10x VRAM or 10x speed with only 24GB VRAM.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": "comment score below threshold",
+            "collapsed_reason": null,
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -5866,7 +5866,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -3
           }
         }
       ],

@@ -124,9 +124,9 @@
             "name": "t3_1lnacbb",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.61,
+            "upvote_ratio": 0.6,
             "author_flair_background_color": null,
-            "ups": 7,
+            "ups": 6,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -140,7 +140,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -251,7 +251,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lnacbb/why_the_local_llama321binstruct_is_not_as_smart/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lnacbb/why_the_local_llama321binstruct_is_not_as_smart/",
-            "subreddit_subscribers": 492839,
+            "subreddit_subscribers": 492929,
             "created_utc": 1751188392,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -300,7 +300,7 @@
             "created_utc": 1751189536,
             "send_replies": true,
             "parent_id": "t3_1lnacbb",
-            "score": 31,
+            "score": 36,
             "author_fullname": "t2_uz37qfx5",
             "approved_by": null,
             "mod_note": null,
@@ -342,7 +342,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 31
+            "ups": 36
           }
         },
         {
@@ -450,7 +450,7 @@
             "created_utc": 1751189709,
             "send_replies": true,
             "parent_id": "t3_1lnacbb",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_dievh",
             "approved_by": null,
             "mod_note": null,
@@ -492,7 +492,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -784,7 +784,7 @@
                       "created_utc": 1751189822,
                       "send_replies": true,
                       "parent_id": "t1_n0ds2du",
-                      "score": 3,
+                      "score": 2,
                       "author_fullname": "t2_5hk8oe0h",
                       "removal_reason": null,
                       "approved_by": null,
@@ -826,7 +826,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 2
                     }
                   }
                 ],
@@ -995,19 +995,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": "LOW_SCORE",
+            "collapsed_reason_code": null,
             "no_follow": true,
             "author": "NNN_Throwaway2",
             "can_mod_post": false,
             "created_utc": 1751193362,
             "send_replies": true,
             "parent_id": "t3_1lnacbb",
-            "score": -5,
+            "score": -4,
             "author_fullname": "t2_8rrihts9",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": true,
+            "collapsed": false,
             "body": "This code scares me.",
             "edited": false,
             "top_awarded_type": null,
@@ -1019,7 +1019,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This code scares me.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": "comment score below threshold",
+            "collapsed_reason": null,
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -1044,7 +1044,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -4
           }
         }
       ],
