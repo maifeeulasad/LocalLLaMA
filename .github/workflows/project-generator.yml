@@ -27,7 +27,7 @@ jobs:
       - name: 'Installing Deps'
         run: npm i -g pnpm && pnpm i
       - name: 'Generate Project'
-        run: node app-builder.js
+        run: node ./scripts/app-builder.js
       - name: Commit and push project
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
