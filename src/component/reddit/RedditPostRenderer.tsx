@@ -95,12 +95,24 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
             <Image width={200} src={d.thumbnail} alt="thumbnail" />
           )}
           <div style={{ display: 'flex', justifyContent: 'center' }}>
-            {d.url_overridden_by_dest && d.url_overridden_by_dest.startsWith('http') && (
+            {d.url_overridden_by_dest && d.url_overridden_by_dest.startsWith('http') && !d.url_overridden_by_dest.includes('v.redd.it') && (
               <Image
                 width={200}
                 src={d.url_overridden_by_dest}
                 alt={d.url_overridden_by_dest}
               />
+            )}
+            {d.url_overridden_by_dest && d.url_overridden_by_dest.startsWith('http') && d.url_overridden_by_dest.includes('v.redd.it') && (
+              <>
+                Video files are not supported in this renderer.
+                <Link
+                  href={d.url_overridden_by_dest}
+                  target="_blank"
+                  style={{ display: 'block' }}
+                >
+                  Open video in new tab
+                </Link>
+              </>
             )}
           </div>
           <Descriptions column={1} bordered size="small">
@@ -151,7 +163,7 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
                   (child.kind === 't1' ? renderComment(child) : null),
                 )}
               </div>
-          )}
+            )}
         </Panel>
       </Collapse>
     );
