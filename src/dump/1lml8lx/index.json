@@ -36,7 +36,7 @@
             "name": "t3_1lml8lx",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.12,
+            "upvote_ratio": 0.18,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -53,9 +53,9 @@
                 "height": 1080,
                 "width": 1560,
                 "scrubber_media_url": "https://v.redd.it/uh08zboorn9f1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/uh08zboorn9f1/DASHPlaylist.mpd?a=1753805514%2CYWE5M2FhMTM5NjA1M2E5YTkxYmYyYzMyYzkzZTRlODlmMTBiYmY3ZmI4NTViNTY5ODZmZWExMjc2ZmRmNWYwNA%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/uh08zboorn9f1/DASHPlaylist.mpd?a=1753860198%2COTE0Mjc3OGVjNjAwMzg5NDU5NTMwMWU2OWE2NWEzOGNmZjc2YmRiYmI4NDcxN2VkOTYyODViMWI3ZDczMjhkNA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 96,
-                "hls_url": "https://v.redd.it/uh08zboorn9f1/HLSPlaylist.m3u8?a=1753805514%2CNGVkYjRiYzg4MjhkNmE3Y2I5OWYyY2UxOWQ2NGI0OGNjODdkMDcxNzUzMTFhOTVjNzE0ZmEzOGFmY2E3ZjIzOA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/uh08zboorn9f1/HLSPlaylist.m3u8?a=1753860198%2CYjA1NTM0MDZiNjc0Njc2NDgyMTk2MDM0YzBmMDZiMmYyNjAzZmIzMTJkMzYzYjZlM2FkMWYxYTg1Y2RmMTdjOA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -179,9 +179,9 @@
                 "height": 1080,
                 "width": 1560,
                 "scrubber_media_url": "https://v.redd.it/uh08zboorn9f1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/uh08zboorn9f1/DASHPlaylist.mpd?a=1753805514%2CYWE5M2FhMTM5NjA1M2E5YTkxYmYyYzMyYzkzZTRlODlmMTBiYmY3ZmI4NTViNTY5ODZmZWExMjc2ZmRmNWYwNA%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/uh08zboorn9f1/DASHPlaylist.mpd?a=1753860198%2COTE0Mjc3OGVjNjAwMzg5NDU5NTMwMWU2OWE2NWEzOGNmZjc2YmRiYmI4NDcxN2VkOTYyODViMWI3ZDczMjhkNA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 96,
-                "hls_url": "https://v.redd.it/uh08zboorn9f1/HLSPlaylist.m3u8?a=1753805514%2CNGVkYjRiYzg4MjhkNmE3Y2I5OWYyY2UxOWQ2NGI0OGNjODdkMDcxNzUzMTFhOTVjNzE0ZmEzOGFmY2E3ZjIzOA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/uh08zboorn9f1/HLSPlaylist.m3u8?a=1753860198%2CYjA1NTM0MDZiNjc0Njc2NDgyMTk2MDM0YzBmMDZiMmYyNjAzZmIzMTJkMzYzYjZlM2FkMWYxYTg1Y2RmMTdjOA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lml8lx/120_ai_chat_native_macos_chat_app_with_ollama/",
             "stickied": false,
             "url": "https://v.redd.it/uh08zboorn9f1",
-            "subreddit_subscribers": 492626,
+            "subreddit_subscribers": 492840,
             "created_utc": 1751112378,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -241,7 +241,7 @@
             "created_utc": 1751114607,
             "send_replies": true,
             "parent_id": "t3_1lml8lx",
-            "score": 6,
+            "score": 7,
             "author_fullname": "t2_uxbdufm8b",
             "approved_by": null,
             "mod_note": null,
@@ -283,7 +283,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -402,7 +402,7 @@
             "created_utc": 1751116724,
             "send_replies": true,
             "parent_id": "t3_1lml8lx",
-            "score": 8,
+            "score": 7,
             "author_fullname": "t2_jn5ft2le",
             "approved_by": null,
             "mod_note": null,
@@ -444,7 +444,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         }
       ],

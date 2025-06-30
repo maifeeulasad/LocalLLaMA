@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "Professional-Onion-7",
             "discussion_type": null,
-            "num_comments": 25,
+            "num_comments": 26,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lmsme1/can_copilot_be_trusted_with_private_source_code/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lmsme1/can_copilot_be_trusted_with_private_source_code/",
-            "subreddit_subscribers": 492625,
+            "subreddit_subscribers": 492840,
             "created_utc": 1751132303,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -188,7 +188,7 @@
                       "created_utc": 1751132680,
                       "send_replies": true,
                       "parent_id": "t1_n09wdwy",
-                      "score": 10,
+                      "score": 9,
                       "author_fullname": "t2_77yd9w74",
                       "removal_reason": null,
                       "approved_by": null,
@@ -230,7 +230,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 9
                     }
                   }
                 ],
@@ -251,7 +251,7 @@
             "created_utc": 1751132567,
             "send_replies": true,
             "parent_id": "t3_1lmsme1",
-            "score": 36,
+            "score": 37,
             "author_fullname": "t2_7rv9p8x3",
             "approved_by": null,
             "mod_note": null,
@@ -293,7 +293,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 37
           }
         },
         {
@@ -326,7 +326,7 @@
             "created_utc": 1751132422,
             "send_replies": true,
             "parent_id": "t3_1lmsme1",
-            "score": 22,
+            "score": 19,
             "author_fullname": "t2_7q4xh7wj",
             "approved_by": null,
             "mod_note": null,
@@ -373,7 +373,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 22
+            "ups": 19
           }
         },
         {
@@ -406,7 +406,7 @@
             "created_utc": 1751133990,
             "send_replies": true,
             "parent_id": "t3_1lmsme1",
-            "score": 10,
+            "score": 11,
             "author_fullname": "t2_10wgss",
             "approved_by": null,
             "mod_note": null,
@@ -448,7 +448,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 11
           }
         },
         {
@@ -728,7 +728,7 @@
             "created_utc": 1751137001,
             "send_replies": true,
             "parent_id": "t3_1lmsme1",
-            "score": 5,
+            "score": 3,
             "author_fullname": "t2_byt5wa14",
             "approved_by": null,
             "mod_note": null,
@@ -775,7 +775,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 3
           }
         },
         {
@@ -1290,6 +1290,81 @@
             "locked": false,
             "report_reasons": null,
             "created": 1751178566,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1lmsme1",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n0hlted",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Psychological_Ear393",
+            "can_mod_post": false,
+            "created_utc": 1751239206,
+            "send_replies": true,
+            "parent_id": "t3_1lmsme1",
+            "score": 1,
+            "author_fullname": "t2_5rdt6qc2",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "&gt;but there's no guarantee that LLM providers are not training on private source code.\n\nThere's what the T&amp;C say, if you could possibly read it all, what they are really doing, then can they change it, do they change it if you change subscription level, what happens when (not if) they are hacked or leak data, and what happens if the division is sold or goes bankrupt?\n\nIf your code is really super secret, you cannot trust anyone with it that has sketchy or changeable policies, or any service you suspect is not making money\n\nIf you can decide that your code is not that secret, then does it matter?",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n0hlted",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;but there&amp;#39;s no guarantee that LLM providers are not training on private source code.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;There&amp;#39;s what the T&amp;amp;C say, if you could possibly read it all, what they are really doing, then can they change it, do they change it if you change subscription level, what happens when (not if) they are hacked or leak data, and what happens if the division is sold or goes bankrupt?&lt;/p&gt;\n\n&lt;p&gt;If your code is really super secret, you cannot trust anyone with it that has sketchy or changeable policies, or any service you suspect is not making money&lt;/p&gt;\n\n&lt;p&gt;If you can decide that your code is not that secret, then does it matter?&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1lmsme1/can_copilot_be_trusted_with_private_source_code/n0hlted/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1751239206,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1lmsme1",
@@ -1947,7 +2022,7 @@
                       "created_utc": 1751136821,
                       "send_replies": true,
                       "parent_id": "t1_n09wa1z",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_f55dbowo",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1989,7 +2064,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   }
                 ],
@@ -2010,7 +2085,7 @@
             "created_utc": 1751132534,
             "send_replies": true,
             "parent_id": "t3_1lmsme1",
-            "score": -5,
+            "score": -6,
             "author_fullname": "t2_1qfbu2cvzc",
             "approved_by": null,
             "mod_note": null,
@@ -2052,7 +2127,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -6
           }
         }
       ],
