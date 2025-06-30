@@ -39,7 +39,7 @@
             "upvote_ratio": 0.95,
             "author_flair_background_color": "#93b1ba",
             "subreddit_type": "public",
-            "ups": 153,
+            "ups": 160,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 153,
+            "score": 160,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -168,7 +168,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lm98z7/automated_gpu_kernel_optimization_for_qwen3/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lm98z7/automated_gpu_kernel_optimization_for_qwen3/",
-            "subreddit_subscribers": 492627,
+            "subreddit_subscribers": 492929,
             "created_utc": 1751069414,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -240,7 +240,7 @@
                       "created_utc": 1751070736,
                       "send_replies": true,
                       "parent_id": "t1_n05tauf",
-                      "score": 9,
+                      "score": 8,
                       "author_fullname": "t2_e0bph",
                       "removal_reason": null,
                       "approved_by": null,
@@ -287,7 +287,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 8
                     }
                   }
                 ],
@@ -308,7 +308,7 @@
             "created_utc": 1751070085,
             "send_replies": true,
             "parent_id": "t3_1lm98z7",
-            "score": 22,
+            "score": 24,
             "author_fullname": "t2_kle75fbd6",
             "approved_by": null,
             "mod_note": null,
@@ -350,7 +350,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 22
+            "ups": 24
           }
         },
         {
@@ -452,13 +452,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "Accomplished_Mode170",
             "can_mod_post": false,
             "created_utc": 1751115704,
             "send_replies": true,
             "parent_id": "t3_1lm98z7",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_4hfmiefj",
             "approved_by": null,
             "mod_note": null,
@@ -500,7 +500,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {

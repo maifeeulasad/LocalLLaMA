@@ -1172,6 +1172,58 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lo0rk8',
         name: 'Accelerated LLM Inference on AMD Instinct™ GPUs with vLLM 0.9.x and ROCm',
       },
+      {
+        path: '/1lo1d8t',
+        name: 'Models for generating QA-pairs from text dataset',
+      },
+      {
+        path: '/1lo1ew4',
+        name: 'Has anyone tried using LLaMA for assistant-style or general-purpose queries?',
+      },
+      {
+        path: '/1lo1xma',
+        name: 'Current State of Code Tab/Autocomplete Models???',
+      },
+      {
+        path: '/1lo35gq',
+        name: 'Affordable dev system (spark alternative?)',
+      },
+      {
+        path: '/1lo39jd',
+        name: 'Deepseek R1 Web ouputs much more chain-of-thought information than API?',
+      },
+      {
+        path: '/1lo3l7w',
+        name: 'Ollama to llama.cpp: system prompt?',
+      },
+      {
+        path: '/1lo3y10',
+        name: 'From the trenches, running TinyLlama-1.1B-Chat-v0.1 on iPhone',
+      },
+      {
+        path: '/1lo42x8',
+        name: 'Which would be the best uncensored model to run on 4gb Vram laptop using LMStudio?',
+      },
+      {
+        path: '/1lo4qxf',
+        name: 'Ollama or VLLM?',
+      },
+      {
+        path: '/1lo5uz6',
+        name: 'Has anyone tried running 2 AMD Ryzen™ AI Max+ 395 in parallel?',
+      },
+      {
+        path: '/1lo5vnf',
+        name: 'What is the current best local coding model with &lt;= 4B parameters?',
+      },
+      {
+        path: '/1lo5xyx',
+        name: 'Been experimenting with “agent graphs” for local LLMs — basically turning thoughts into modular code',
+      },
+      {
+        path: '/1lo61eb',
+        name: 'Got all the hardware, Got my dataset, why does it take soo long to learn how to fine-tune?',
+      },
     ],
   },
   {

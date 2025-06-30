@@ -69,7 +69,7 @@
             "upvote_ratio": 0.97,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 175,
+            "ups": 184,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -83,7 +83,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 175,
+            "score": 184,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -146,7 +146,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lnfl21/koboldcpp_v195_with_flux_kontext_support/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lnfl21/koboldcpp_v195_with_flux_kontext_support/",
-            "subreddit_subscribers": 492839,
+            "subreddit_subscribers": 492928,
             "created_utc": 1751206163,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -240,7 +240,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n0fn751",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_d1cmjz8p",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -283,7 +283,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             },
                             {
@@ -706,7 +706,7 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "No-Statement-0001",
                       "can_mod_post": false,
                       "created_utc": 1751216297,
@@ -780,7 +780,7 @@
             "created_utc": 1751206754,
             "send_replies": true,
             "parent_id": "t3_1lnfl21",
-            "score": 31,
+            "score": 33,
             "author_fullname": "t2_w6l58p741",
             "approved_by": null,
             "mod_note": null,
@@ -822,7 +822,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 31
+            "ups": 33
           }
         },
         {
@@ -935,7 +935,7 @@
             "created_utc": 1751210175,
             "send_replies": true,
             "parent_id": "t3_1lnfl21",
-            "score": 15,
+            "score": 16,
             "author_fullname": "t2_100b8v9zrg",
             "approved_by": null,
             "mod_note": null,
@@ -982,7 +982,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 16
           }
         },
         {
@@ -1009,13 +1009,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "Chromix_",
             "can_mod_post": false,
             "created_utc": 1751224579,
             "send_replies": true,
             "parent_id": "t3_1lnfl21",
-            "score": 3,
+            "score": 6,
             "author_fullname": "t2_k7w2h",
             "approved_by": null,
             "mod_note": null,
@@ -1057,7 +1057,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 6
           }
         },
         {
@@ -1090,7 +1090,7 @@
             "created_utc": 1751222787,
             "send_replies": true,
             "parent_id": "t3_1lnfl21",
-            "score": 2,
+            "score": 1,
             "author_fullname": "t2_11ht80tlwr",
             "approved_by": null,
             "mod_note": null,
@@ -1132,7 +1132,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -1165,7 +1165,7 @@
             "created_utc": 1751233513,
             "send_replies": true,
             "parent_id": "t3_1lnfl21",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_b956n",
             "approved_by": null,
             "mod_note": null,
@@ -1207,7 +1207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -1745,13 +1745,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Beneficial_Idea7637",
                       "can_mod_post": false,
                       "created_utc": 1751234985,
                       "send_replies": true,
                       "parent_id": "t1_n0h37of",
-                      "score": 3,
+                      "score": 5,
                       "author_fullname": "t2_nifpciqtc",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1793,7 +1793,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 5
                     }
                   },
                   {
@@ -1820,13 +1820,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Eisenstein",
                       "can_mod_post": false,
                       "created_utc": 1751236513,
                       "send_replies": true,
                       "parent_id": "t1_n0h37of",
-                      "score": 2,
+                      "score": 5,
                       "author_fullname": "t2_5aiux",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1873,7 +1873,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 5
                     }
                   }
                 ],

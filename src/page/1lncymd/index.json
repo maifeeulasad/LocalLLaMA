@@ -36,7 +36,7 @@
             "name": "t3_1lncymd",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.42,
+            "upvote_ratio": 0.3,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lncymd/12b_q5_k_m_or_22b_q4_k_s/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lncymd/12b_q5_k_m_or_22b_q4_k_s/",
-            "subreddit_subscribers": 492839,
+            "subreddit_subscribers": 492929,
             "created_utc": 1751198341,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -251,7 +251,7 @@
             "created_utc": 1751199662,
             "send_replies": true,
             "parent_id": "t3_1lncymd",
-            "score": 11,
+            "score": 14,
             "author_fullname": "t2_p4oxcufl",
             "approved_by": null,
             "mod_note": null,
@@ -298,7 +298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 14
           }
         },
         {
@@ -749,7 +749,7 @@
             "created_utc": 1751198874,
             "send_replies": true,
             "parent_id": "t3_1lncymd",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_uz37qfx5",
             "approved_by": null,
             "mod_note": null,
@@ -791,7 +791,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -872,7 +872,6 @@
         {
           "kind": "t1",
           "data": {
-            "body": "which finetune, the best 12b and the best 22b rp models are both great",
             "subreddit_id": "t5_81eyvm",
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -906,7 +905,7 @@
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "author_cakeday": true,
+            "body": "which finetune, the best 12b and the best 22b rp models are both great",
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,
