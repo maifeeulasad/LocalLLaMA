@@ -35,6 +35,7 @@ interface RedditPost {
   score: number;
   selftext?: string;
   created_utc: number;
+  url_overridden_by_dest?: string;
 }
 
 interface RedditComment {
@@ -90,9 +91,18 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
         style={{ marginBottom: 24 }}
       >
         <Space direction="vertical" size="middle" style={{ width: '100%' }}>
-          {d.thumbnail && d.thumbnail.startsWith('http') && (
+          {d.url_overridden_by_dest === undefined && d.thumbnail && d.thumbnail.startsWith('http') && (
             <Image width={200} src={d.thumbnail} alt="thumbnail" />
           )}
+          <div style={{ display: 'flex', justifyContent: 'center' }}>
+            {d.url_overridden_by_dest && d.url_overridden_by_dest.startsWith('http') && (
+              <Image
+                width={200}
+                src={d.url_overridden_by_dest}
+                alt={d.url_overridden_by_dest}
+              />
+            )}
+          </div>
           <Descriptions column={1} bordered size="small">
             <Descriptions.Item label="Subreddit">
               {d.subreddit_name_prefixed}
