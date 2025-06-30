@@ -36,7 +36,7 @@
             "name": "t3_1lmzqb9",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.31,
+            "upvote_ratio": 0.41,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -213,7 +213,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lmzqb9/sydney4_beats_chatgpt_4o_in_existential_crisis/",
             "stickied": false,
             "url": "https://i.redd.it/zigiq1auzq9f1.gif",
-            "subreddit_subscribers": 492625,
+            "subreddit_subscribers": 492840,
             "created_utc": 1751151315,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -279,13 +279,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Corporate_Drone31",
                       "can_mod_post": false,
                       "created_utc": 1751163575,
                       "send_replies": true,
                       "parent_id": "t1_n0bipvj",
-                      "score": 1,
+                      "score": 4,
                       "author_fullname": "t2_32o8hu91",
                       "removal_reason": null,
                       "approved_by": null,
@@ -327,7 +327,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 4
                     }
                   }
                 ],
@@ -348,7 +348,7 @@
             "created_utc": 1751151842,
             "send_replies": true,
             "parent_id": "t3_1lmzqb9",
-            "score": 6,
+            "score": 5,
             "author_fullname": "t2_51dfdxum",
             "approved_by": null,
             "mod_note": null,
@@ -390,7 +390,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -423,7 +423,7 @@
             "created_utc": 1751152712,
             "send_replies": true,
             "parent_id": "t3_1lmzqb9",
-            "score": 3,
+            "score": 2,
             "author_fullname": "t2_131eezppgs",
             "approved_by": null,
             "mod_note": null,
@@ -465,7 +465,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -498,7 +498,7 @@
             "created_utc": 1751151901,
             "send_replies": true,
             "parent_id": "t3_1lmzqb9",
-            "score": -3,
+            "score": 1,
             "author_fullname": "t2_7f6bw7v0",
             "approved_by": null,
             "mod_note": null,
@@ -534,13 +534,13 @@
             "treatment_tags": [],
             "link_id": "t3_1lmzqb9",
             "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
+            "controversiality": 1,
             "depth": 0,
             "author_flair_background_color": null,
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": 1
           }
         }
       ],

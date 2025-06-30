@@ -1028,6 +1028,150 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lnh84u',
         name: 'Detecting if an image contains a table, performance comparsion',
       },
+      {
+        path: '/1lnin1x',
+        name: 'AI coding agents...what am I doing wrong?',
+      },
+      {
+        path: '/1lniowu',
+        name: 'Best local set up for getting writing critique/talking about the characters?',
+      },
+      {
+        path: '/1lniptg',
+        name: 'Best foss LLMs for analysing PTE essay for potato system',
+      },
+      {
+        path: '/1lniut8',
+        name: 'How are local or online models scraping? Is it different from search?',
+      },
+      {
+        path: '/1lnj7wb',
+        name: 'I built a multi-modal semantic search framework',
+      },
+      {
+        path: '/1lnjw6m',
+        name: 'Prompt Smells, Just Like Code',
+      },
+      {
+        path: '/1lnknry',
+        name: 'What memory/vram temperatures do you get (particularly anyone with gddr7 in the RTX 50X0 series)?',
+      },
+      {
+        path: '/1lnl6we',
+        name: 'According to rumors NVIDIA is planning a RTX 5070 Ti SUPER with 24GB VRAM',
+      },
+      {
+        path: '/1lnldsj',
+        name: 'Context Engineering',
+      },
+      {
+        path: '/1lnlmpi',
+        name: 'Trying to figure out when it makes sense...',
+      },
+      {
+        path: '/1lnlo69',
+        name: 'How do you use  datasets from  huggingface/kaggle etc into local apps like lmstudio or jan local apps',
+      },
+      {
+        path: '/1lnlxp1',
+        name: '4x 4090 48GB inference box (I may have overdone it)',
+      },
+      {
+        path: '/1lnmp98',
+        name: 'hunyuan-a13b: any news? GGUF? MLX?',
+      },
+      {
+        path: '/1lnnoc1',
+        name: 'Running AI models on phone on a different OS?',
+      },
+      {
+        path: '/1lnqaea',
+        name: 'Upgraded from 3090 to 5090. Oobabooga complaints.',
+      },
+      {
+        path: '/1lnqk9i',
+        name: 'AGI/ASI Research 20250628 - Corporate Artificial General Intelligence',
+      },
+      {
+        path: '/1lnqtog',
+        name: 'Using classifier-free guidance to prompt instruct models (with the tags) works better for creative writing than prompting the model outright',
+      },
+      {
+        path: '/1lnrd1t',
+        name: 'You can just RL a model to beat any "AI detectors"',
+      },
+      {
+        path: '/1lnrda7',
+        name: 'GitHub - khimaros/enc: `cc`, but for english',
+      },
+      {
+        path: '/1lnsax9',
+        name: 'Please convince me not to get a GPU I don\'t need. Can any local LLM compare with cloud models?',
+      },
+      {
+        path: '/1lnscnw',
+        name: 'LLM Inference with CPP only',
+      },
+      {
+        path: '/1lnsgvy',
+        name: 'Build a PC or not?',
+      },
+      {
+        path: '/1lnsqkl',
+        name: 'What Is Context Engineering? My Thoughts..',
+      },
+      {
+        path: '/1lnt6yj',
+        name: 'Help me design a robust on-prem Llama 3 70B infrastructure for 30 users – Complete hardware/software list wanted',
+      },
+      {
+        path: '/1lnt9kl',
+        name: 'Is there a deepseek r1 uncensored?',
+      },
+      {
+        path: '/1lntw6i',
+        name: 'Simple textual lists for llm rankings',
+      },
+      {
+        path: '/1lnu0o0',
+        name: 'Kimi-Dev-72B - Minimum specs needed to run on a high end PC',
+      },
+      {
+        path: '/1lnu4zl',
+        name: 'Baidu releases ERNIE 4.5 models on huggingface',
+      },
+      {
+        path: '/1lnv75q',
+        name: 'GPU Learning and Optimization on Macbook',
+      },
+      {
+        path: '/1lnx8js',
+        name: 'Week 2: Building a Small Language Model from Scratch(Positional Embeddings, RoPE, and Model Distillation) - June 30 - July 4',
+      },
+      {
+        path: '/1lnxml5',
+        name: 'Best Model For Text-To-Audio &amp; Voice Assistant?',
+      },
+      {
+        path: '/1lnxo8y',
+        name: 'Major AI platforms will eventually have ads',
+      },
+      {
+        path: '/1lny5qy',
+        name: 'What subscription to buy?',
+      },
+      {
+        path: '/1lnyfu0',
+        name: 'Rumors are OAI\'s New OS Model potentially "frontier" level in OS space?',
+      },
+      {
+        path: '/1lnzj5e',
+        name: 'So whatever happened to d(iffuser)LLMs?',
+      },
+      {
+        path: '/1lo0rk8',
+        name: 'Accelerated LLM Inference on AMD Instinct™ GPUs with vLLM 0.9.x and ROCm',
+      },
     ],
   },
   {
