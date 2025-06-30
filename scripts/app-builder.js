@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const dumpDir = path.join(__dirname, './src/dump');
-const pageBaseDir = path.join(__dirname, './src/page');
-const appFile = path.join(__dirname, './src/App.tsx');
-const layoutFile = path.join(__dirname, './src/layout/CustomLayout.tsx');
+const dumpDir = path.join(__dirname, '../src/dump');
+const pageBaseDir = path.join(__dirname, '../src/page');
+const appFile = path.join(__dirname, '../src/App.tsx');
+const layoutFile = path.join(__dirname, '../src/layout/CustomLayout.tsx');
 
 const files = fs.readdirSync(dumpDir);
 
