@@ -1,8 +1,6 @@
 name: Build and Publish to GH Pages
 
 on:
-  push:
-    branches: [ main ]
   repository_dispatch:
     types: [ app_generator_completed ]
 
