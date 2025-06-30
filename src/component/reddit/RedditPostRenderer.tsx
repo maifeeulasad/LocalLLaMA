@@ -125,7 +125,7 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
               </Link>
             </Descriptions.Item>
             <Descriptions.Item label="Score">
-              <Tag color={d.score > 1 ? 'geekblue' : 'volcano'}>{d.score}</Tag>
+              <Tag color={d.score >= 1 ? 'geekblue' : 'volcano'}>{d.score}</Tag>
             </Descriptions.Item>
             <Descriptions.Item label="Created">
               {timeAgo(d.created_utc)}
