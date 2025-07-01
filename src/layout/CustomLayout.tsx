@@ -1185,6 +1185,10 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Current State of Code Tab/Autocomplete Models???',
       },
       {
+        path: '/1lo3548',
+        name: 'Guide: How to run an MCP tool Server',
+      },
+      {
         path: '/1lo35gq',
         name: 'Affordable dev system (spark alternative?)',
       },
@@ -1223,6 +1227,242 @@ const defaultMenus: MenuDataItem[] = [
       {
         path: '/1lo61eb',
         name: 'Got all the hardware, Got my dataset, why does it take soo long to learn how to fine-tune?',
+      },
+      {
+        path: '/1lo6gc0',
+        name: 'Ollama and llama3.2-vision broken?',
+      },
+      {
+        path: '/1lo84yj',
+        name: '[2506.21734] Hierarchical Reasoning Model',
+      },
+      {
+        path: '/1lo9mcm',
+        name: 'Query',
+      },
+      {
+        path: '/1load8a',
+        name: '[Day 6/50] Building a Small Language Model from Scratch - What Is Positional Embedding and Why Does It Matter?',
+      },
+      {
+        path: '/1loal9v',
+        name: 'Drafted Llama as an enhanced parser for interactive fiction puzzles/games',
+      },
+      {
+        path: '/1lob0uu',
+        name: 'What Inference Server do you use to host TTS Models? Looking for someone who has used Triton.',
+      },
+      {
+        path: '/1lobqvc',
+        name: 'MCP tool development -- repeated calls with no further processing',
+      },
+      {
+        path: '/1lobyx5',
+        name: 'Upcoming Coding Models?',
+      },
+      {
+        path: '/1lobzkr',
+        name: 'n8n ,proxmox ,docker and Google API.',
+      },
+      {
+        path: '/1lococc',
+        name: 'Open Source AI Editor: First Milestone',
+      },
+      {
+        path: '/1lodmc6',
+        name: 'ERNIE 4.5 Collection from Baidu',
+      },
+      {
+        path: '/1loejea',
+        name: 'Run any LLM locally on your Mac in less than 2 mins',
+      },
+      {
+        path: '/1lofsxc',
+        name: 'Need open source Vlm for Trading chart analysis',
+      },
+      {
+        path: '/1lohzzj',
+        name: 'How to run Hunyuan-A13B on a RTX 5090 / Blackwell ?',
+      },
+      {
+        path: '/1loiwzz',
+        name: 'Chat UI Framwork',
+      },
+      {
+        path: '/1loj134',
+        name: 'arXiv2Docker: Computational Reproducibility with the ExperimentOps Agent',
+      },
+      {
+        path: '/1lojd3e',
+        name: 'Gemma-3n VRAM usage',
+      },
+      {
+        path: '/1lojgxl',
+        name: 'OpenSource CLI Agent with Local models.',
+      },
+      {
+        path: '/1lojlrw',
+        name: '[WIRED] Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team',
+      },
+      {
+        path: '/1lojtq3',
+        name: 'LLM model recommendation for poor HW',
+      },
+      {
+        path: '/1lok3r2',
+        name: '[News] Datacenter GPUs May Have an Astonishingly Short Lifespan of Only 1 to 3 Years | TrendForce News',
+      },
+      {
+        path: '/1lok68d',
+        name: 'F5-TTS installation error',
+      },
+      {
+        path: '/1lokcrw',
+        name: 'How do "AI detectors" work',
+      },
+      {
+        path: '/1lokkpc',
+        name: 'A Meta-Framework for Self-Improving LLMs with Transparent Reasoning',
+      },
+      {
+        path: '/1lokp88',
+        name: 'Intel Arc Pro B60 Dual 48G Turbo Maxsun GPU Pricing Revealed',
+      },
+      {
+        path: '/1lol3na',
+        name: '[Dataset] 4,000 hours of full-body, in-person, human face-to-face interaction videos',
+      },
+      {
+        path: '/1lom2r9',
+        name: 'With the OpenAI employees that Meta hired, do you think this will be positive for local models?',
+      },
+      {
+        path: '/1lom41a',
+        name: 'Looking to Upgrade My CPU-Only LLM Server',
+      },
+      {
+        path: '/1lomilz',
+        name: '[Tool] Run GPT-style models from a USB stick – no install, no internet, no GPU – meet Local LLM Notepad 🚀',
+      },
+      {
+        path: '/1lomke8',
+        name: 'Off the shelf uncensored LLM',
+      },
+      {
+        path: '/1lompd5',
+        name: 'I\'ve built a spec for LLM-to-LLM comms by combining semantic patterns with structured syntax',
+      },
+      {
+        path: '/1lomwqu',
+        name: '5060ti 16gb or 9060xt 16gb for small llm server',
+      },
+      {
+        path: '/1lomyut',
+        name: 'On-demand GPU cluster - providing free credits',
+      },
+      {
+        path: '/1loo2u3',
+        name: 'Struggling with vLLM. The instructions make it sound so simple to run, but it’s like my Kryptonite. I give up.',
+      },
+      {
+        path: '/1lop488',
+        name: 'Hello',
+      },
+      {
+        path: '/1lop94b',
+        name: 'A Llama near the top for every size except small',
+      },
+      {
+        path: '/1lopls4',
+        name: 'how are chat completion messages handled in backend logic of API services like with vllm',
+      },
+      {
+        path: '/1loq9e1',
+        name: 'Locally hosted Cursor/Windurf possible?',
+      },
+      {
+        path: '/1loqwl5',
+        name: 'Free 2-month Generative AI workshop - Beyond Hello World',
+      },
+      {
+        path: '/1lorbc5',
+        name: 'Is the rumours true about Apple abandoning MLX?',
+      },
+      {
+        path: '/1losjpq',
+        name: 'Intel GPU vLLM Docker Compose Bootstrap with Phi-lthy4 on A770',
+      },
+      {
+        path: '/1loswvr',
+        name: 'New to the scene. Yesterday, got 4 t/s on R1 671b q4. Today, I\'m getting about 0.15 t/s... What did I break lol',
+      },
+      {
+        path: '/1lot1kg',
+        name: 'META’S AI AVENGERS ASSEMBLE, ZUCK’S $29B SUPERINTELLIGENCE GAMBIT!',
+      },
+      {
+        path: '/1lotza5',
+        name: 'KrunchWrapper - a LLM compression proxy (beta)',
+      },
+      {
+        path: '/1lotzy4',
+        name: 'Video Cards &amp; GPUs SPARKLE intros new Arc Pro B60 cards: one is a dual-GPU workstation card with 48GB of VRAM',
+      },
+      {
+        path: '/1louk6a',
+        name: '$5k budget for Local AI',
+      },
+      {
+        path: '/1lovqjc',
+        name: 'Best Local Model for Vision?',
+      },
+      {
+        path: '/1lovuxp',
+        name: 'Current state of Intel A770 16GB GPU for Inference?',
+      },
+      {
+        path: '/1lox1f7',
+        name: 'Local models not following instructions',
+      },
+      {
+        path: '/1lox9c4',
+        name: 'Need help finding educational datasets and model suggestions for offline LLM on phone',
+      },
+      {
+        path: '/1loxf1b',
+        name: 'Fine-tuning with $1000?',
+      },
+      {
+        path: '/1loxw8f',
+        name: 'What is night forge?',
+      },
+      {
+        path: '/1loyc9x',
+        name: 'Looking for uncensored instruction-tuning datasets for alignment test',
+      },
+      {
+        path: '/1loywkt',
+        name: 'AMD 5700G for experimenting with local LLMs?',
+      },
+      {
+        path: '/1loyyzc',
+        name: 'RTX 6000 Pro software stack',
+      },
+      {
+        path: '/1loza95',
+        name: 'Dual RX580 2048SP (16GB) llama.cpp(vulkan)',
+      },
+      {
+        path: '/1lozhqc',
+        name: 'Cannot Load any GGUF model using tools like LM Studio or Jan Ai etc',
+      },
+      {
+        path: '/1lozri7',
+        name: 'Smallest Model For A Trivia Game On Countries?',
+      },
+      {
+        path: '/1lp01c7',
+        name: 'Deepseek R1 at 6,5 tk/s on an Nvidia Tesla P40',
       },
     ],
   },
