@@ -25,7 +25,7 @@ function sleep(ms) {
       uniqueIds.add(child.data.id);
     });
 
-    await sleep(500);
+    await sleep(1000);
   }
 
   const ids = Array.from(uniqueIds);
@@ -48,8 +48,8 @@ function sleep(ms) {
 
       console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
 
-      // NB: never remove this, keep Reddit happy
-      await sleep(1000);
+      // NB: never remove this, keeps Reddit happy, keep Reddit happy
+      await sleep(2000);
     } catch (error) {
       console.error(`❌ Error fetching post ${postId}:`, error);
     }
