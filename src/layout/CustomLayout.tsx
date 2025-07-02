@@ -1464,6 +1464,210 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lp01c7',
         name: 'Deepseek R1 at 6,5 tk/s on an Nvidia Tesla P40',
       },
+      {
+        path: '/1lp0j7f',
+        name: 'Best open source Arabic tts',
+      },
+      {
+        path: '/1lp0o3i',
+        name: 'Resources to learn about samplers?',
+      },
+      {
+        path: '/1lp1nn5',
+        name: 'What are some good preprocessors for scanned documents in the LocalLLaMA use case?',
+      },
+      {
+        path: '/1lp2h0e',
+        name: 'Training and Finetuning Sparse Embedding Models with Sentence Transformers v5',
+      },
+      {
+        path: '/1lp2jhr',
+        name: 'I created a script to allow running commands in an ephemeral VM to allow tool calling full access to a local directory',
+      },
+      {
+        path: '/1lp2ji0',
+        name: 'Reasoning models are risky. Anyone else experiencing this?',
+      },
+      {
+        path: '/1lp37v0',
+        name: 'LoRA training on NVIDIA Jetson AGX Orin 64GB',
+      },
+      {
+        path: '/1lp4cht',
+        name: 'Help on prompt memory and personas - what to do?',
+      },
+      {
+        path: '/1lp4h7t',
+        name: 'I Designed an LLM Shorthand Based on Language Attributes, Math and Python',
+      },
+      {
+        path: '/1lp4ttf',
+        name: 'General storage question?',
+      },
+      {
+        path: '/1lp5lu3',
+        name: 'Very small high scores models + web search?',
+      },
+      {
+        path: '/1lp5nhy',
+        name: 'Gemma 3n Fine-tuning now in Unsloth - 1.5x faster with 50% less VRAM + Fixes',
+      },
+      {
+        path: '/1lp5obe',
+        name: 'Using llama.cpp in an enterprise?',
+      },
+      {
+        path: '/1lp5pt0',
+        name: 'Day 7/50: Building a Small Language Model from Scratch – Coding Positional Embeddings',
+      },
+      {
+        path: '/1lp5xu9',
+        name: '[vLLM] Computing Attention Scores with Long Context LLMs',
+      },
+      {
+        path: '/1lp653l',
+        name: 'Reuse non-prefix KV Cache and speed up RAG by 3X with LMCache.',
+      },
+      {
+        path: '/1lp6925',
+        name: 'Anon-kode on Gitee',
+      },
+      {
+        path: '/1lp6def',
+        name: 'Anyone experimenting with local multi-modal LLaMA or RAG pipelines? Curious about integration strategies.',
+      },
+      {
+        path: '/1lp78v3',
+        name: 'Is Notebook LLM (NotebookLM) redundant if I already use ChatGPT Plus, Claude Pro, &amp; Gemini Pro (Projects/Gems)?',
+      },
+      {
+        path: '/1lp7nek',
+        name: 'gemma3 keeps outputting stop tokens and simulating user responses (using Ollama + Gemma 3 27B Q4_0 + open webui)',
+      },
+      {
+        path: '/1lp86ow',
+        name: 'Qserve Performance on L40S GPU for Llama 3 8B',
+      },
+      {
+        path: '/1lp8e8m',
+        name: 'Good/Best MOE Models for 32GB RAM?',
+      },
+      {
+        path: '/1lp8kfw',
+        name: 'Sophgo TPU SC11 FP300, 256GB, 1.1Tb/s, PCIE-5',
+      },
+      {
+        path: '/1lp8kzx',
+        name: 'Is there any open-weight\'d diffusion based language models I can test right now on my own hardware?',
+      },
+      {
+        path: '/1lp9gh2',
+        name: 'Huawei releases an open weight model Pangu Pro 72B A16B. Weights are on HF. It should be competitive with Qwen3 32B and it was trained entirely on Huawei Ascend NPUs. (2505.21411)',
+      },
+      {
+        path: '/1lp9xrh',
+        name: 'An Initial LLM Safety Analysis of Apple\'s On-Device 3B Model',
+      },
+      {
+        path: '/1lpa4rc',
+        name: 'Cheap hosting where I can host bunch of LLM?',
+      },
+      {
+        path: '/1lpbamg',
+        name: 'Local AI platform on older machine',
+      },
+      {
+        path: '/1lpd3y7',
+        name: 'Current best options to convert to FP4',
+      },
+      {
+        path: '/1lpe7hs',
+        name: 'sGPU with s3000',
+      },
+      {
+        path: '/1lpejnj',
+        name: 'Qwen3 inference engine in C: simple, educational, fun',
+      },
+      {
+        path: '/1lpep3m',
+        name: 'Tenstorrent Blackhole Cards',
+      },
+      {
+        path: '/1lpg37t',
+        name: 'Gemma 3n  error loading in colab',
+      },
+      {
+        path: '/1lph2zh',
+        name: 'Tool calling with LlamaCpp',
+      },
+      {
+        path: '/1lphhj3',
+        name: 'DeepSeek-r1-0528 in top 5 on new SciArena benchmark, the ONLY open-source model',
+      },
+      {
+        path: '/1lpi0mn',
+        name: 'Local 405B Model on 3 DGX Spark units.',
+      },
+      {
+        path: '/1lpi8o1',
+        name: 'Lightweight Multimodal LLM for 8GB GPU',
+      },
+      {
+        path: '/1lpjebh',
+        name: 'Should you deploy LLMs locally on smartphones?',
+      },
+      {
+        path: '/1lpkhdc',
+        name: 'Watch a Photo Come to Life: AI Singing Video via Audio-Driven Animation',
+      },
+      {
+        path: '/1lpkzi7',
+        name: 'HONORIA-30.5-evolution-project',
+      },
+      {
+        path: '/1lpl0u5',
+        name: 'Anyone building or using homegrown local LLM coding assistant?',
+      },
+      {
+        path: '/1lpl3mv',
+        name: 'Hosting your local Huanyuan A13B MOE',
+      },
+      {
+        path: '/1lpl656',
+        name: 'GLM-4.1V-Thinking',
+      },
+      {
+        path: '/1lplaqk',
+        name: 'Models to run in browser',
+      },
+      {
+        path: '/1lpm1k8',
+        name: 'Any recommendations on B200 servers?',
+      },
+      {
+        path: '/1lpm3d1',
+        name: 'Do we have a discord server?',
+      },
+      {
+        path: '/1lpm6cv',
+        name: 'ERNIE-4.5-VL-28B-A3B is a hidden gem that can decently tackle challenging chinese/japanese OCR problems.',
+      },
+      {
+        path: '/1lpmx00',
+        name: 'I built a cli tool to automatically figure out tensor overrides in llama.cpp',
+      },
+      {
+        path: '/1lpn5k5',
+        name: 'Laptop Benchmark for 4070 8GB VRAM, 64GB RAM',
+      },
+      {
+        path: '/1lpn8jt',
+        name: 'Other than English what language are llms good at ?',
+      },
+      {
+        path: '/1lpnc6k',
+        name: 'Echo Mode: A Tone-Based Protocol for Semantic State Shifts in LLMs (No Prompt, No Fine-Tune)',
+      },
     ],
   },
   {
