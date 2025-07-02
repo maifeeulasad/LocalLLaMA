@@ -24,6 +24,15 @@ function sleep(ms) {
     json.data.children.forEach(child => {
       uniqueIds.add(child.data.id);
     });
+    fs.mkdirSync('./src/dump/__base__', { recursive: true });
+    // `${BASE_URL}/hot.json?t=all&limit=100`;
+    // name in between first / and first .json
+    const nameMatch = url.match(/\/([^\/]+)\.json/);
+    const name = nameMatch ? nameMatch[1] : 'unknown';
+    fs.writeFileSync(
+      `./src/dump/__base__/${name}.json`,
+      JSON.stringify(json, null, 2)
+    );
 
     await sleep(1000);
   }
