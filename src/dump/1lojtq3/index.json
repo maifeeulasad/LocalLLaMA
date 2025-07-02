@@ -36,7 +36,7 @@
             "name": "t3_1lojtq3",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.33,
+            "upvote_ratio": 0.5,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lojtq3/llm_model_recommendation_for_poor_hw/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lojtq3/llm_model_recommendation_for_poor_hw/",
-            "subreddit_subscribers": 493242,
+            "subreddit_subscribers": 493458,
             "created_utc": 1751318920,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -492,13 +492,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "ilintar",
             "can_mod_post": false,
             "created_utc": 1751322947,
             "send_replies": true,
             "parent_id": "t3_1lojtq3",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_cctud",
             "approved_by": null,
             "mod_note": null,
@@ -540,7 +540,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         }
       ],

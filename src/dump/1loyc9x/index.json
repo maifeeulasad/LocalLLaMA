@@ -32,7 +32,7 @@
             "downs": 0,
             "thumbnail_height": null,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "name": "t3_1loyc9x",
             "quarantine": false,
             "link_flair_text_color": "dark",
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1loyc9x/looking_for_uncensored_instructiontuning_datasets/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1loyc9x/looking_for_uncensored_instructiontuning_datasets/",
-            "subreddit_subscribers": 493242,
+            "subreddit_subscribers": 493458,
             "created_utc": 1751366388,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -210,7 +210,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n0qs0hr",
-                                "score": 1,
+                                "score": 3,
                                 "author_fullname": "t2_1n0su21k4z",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -253,7 +253,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 3
                               }
                             }
                           ],
@@ -274,7 +274,7 @@
                       "created_utc": 1751370922,
                       "send_replies": true,
                       "parent_id": "t1_n0qnnh3",
-                      "score": 1,
+                      "score": 0,
                       "author_fullname": "t2_17m5id90lo",
                       "removal_reason": null,
                       "approved_by": null,
@@ -316,7 +316,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 0
                     }
                   }
                 ],
@@ -331,13 +331,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "stoppableDissolution",
             "can_mod_post": false,
             "created_utc": 1751369038,
             "send_replies": true,
             "parent_id": "t3_1loyc9x",
-            "score": 1,
+            "score": 4,
             "author_fullname": "t2_1n0su21k4z",
             "approved_by": null,
             "mod_note": null,
@@ -379,7 +379,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 4
           }
         }
       ],
