@@ -1,4 +1,4 @@
-import React, { ReactNode, useEffect, useState } from 'react';
+import React, { ReactNode, useEffect, useMemo, useState } from 'react';
 import type { MenuDataItem } from '@ant-design/pro-components';
 import { PageContainer, ProLayout } from '@ant-design/pro-components';
 import { useLocation, Link, useNavigate } from 'react-router-dom';
@@ -1731,11 +1731,9 @@ const debounce = (func: (...args: any[]) => void, wait: number) => {
   let timeout: NodeJS.Timeout;
   return (...args: any[]) => {
     clearTimeout(timeout);
-    timeout = setTimeout(() => func.apply(this, args), wait);
+    timeout = setTimeout(() => func(...args), wait);
   };
 };
-
-const contexts = import.meta.glob('../dump/*/index.json');
 
 const SearchBar = () => {
   const navigate = useNavigate();
@@ -1745,42 +1743,45 @@ const SearchBar = () => {
   const [resetVisibility, setResetVisibility] = useState(true);
   const [results, setResults] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
-  const [fuse, setFuse] = useState<any>(null);
+  const [fuse, setFuse] = useState<Fuse<any> | null>(null);
 
   useEffect(() => {
-    const loadData = async () => {
-      setLoading(true);
-      const posts: any[] = [];
-      for (const path in contexts) {
-        const data = await contexts[path]();
-        const postId = path.split('/').slice(-2, -1)[0];
-        // @ts-expect-error reddit should send data in a the following format
-        const title = data?.[0]?.data?.children?.[0]?.data?.title || postId;
-        // @ts-expect-error reddit should send data in a the following format
-        const body = data?.[0]?.data?.children?.[0]?.data?.selftext || '';
-        posts.push({ id: postId, title, body });
-      }
-
-      const fuseInstance = new Fuse(posts, {
-        keys: ['title', 'body'],
-        threshold: 0.4,
+    // Flatten your menus for Fuse index
+    const flattenMenus = (menus: any[], acc: any[] = []): any[] => {
+      menus.forEach((menu) => {
+        if (menu.children) {
+          flattenMenus(menu.children, acc);
+        } else {
+          acc.push({
+            id: menu.path.replace('/', ''),
+            title: menu.name,
+          });
+        }
       });
-      setFuse(fuseInstance);
-      setLoading(false);
+      return acc;
     };
 
-    loadData();
+    const flatList = flattenMenus(defaultMenus);
+    const fuseInstance = new Fuse(flatList, {
+      keys: ['title'],
+      threshold: 0.4,
+    });
+    setFuse(fuseInstance);
+    setLoading(false);
   }, []);
 
-  const doSearch = debounce((keyword: string) => {
-    if (fuse && keyword) {
-      const searchResults = fuse.search(keyword);
-      // @ts-expect-error fuse search returns an array of objects with item property
-      setResults(searchResults.map((r) => r.item));
-    } else {
-      setResults([]);
-    }
-  }, 30); // 30ms debounce
+  const doSearch = useMemo(
+    () =>
+      debounce((keyword: string) => {
+        if (fuse && keyword) {
+          const searchResults = fuse.search(keyword);
+          setResults(searchResults.map((r) => r.item));
+        } else {
+          setResults([]);
+        }
+      }, 200),
+    [fuse]
+  );
 
   const onValuesChange = (_changedValues: any, allValues: any) => {
     const { keyword } = allValues;
@@ -1794,7 +1795,7 @@ const SearchBar = () => {
 
   const onFinish = () => {
     if (results.length > 0) {
-      navigate(`/${results[0].id}`);
+      navigate(results[0].path || `/${results[0].id}`);
       form.resetFields();
       setResults([]);
     }
@@ -1823,7 +1824,7 @@ const SearchBar = () => {
         </Form.Item>
 
         <Form.Item name="keyword" style={{ flex: 1 }}>
-          <Input placeholder="Search..." allowClear />
+          <Input placeholder="Search posts..." allowClear />
         </Form.Item>
 
         <Form.Item hidden={resetVisibility}>
@@ -1837,7 +1838,7 @@ const SearchBar = () => {
 
       {loading ? (
         <div style={{ marginTop: 12, textAlign: 'center' }}>
-          <Spin tip="Loading posts for search..." />
+          <Spin tip="Building search index..." />
         </div>
       ) : results.length > 0 ? (
         <List
@@ -1855,7 +1856,7 @@ const SearchBar = () => {
             <List.Item
               style={{ cursor: 'pointer' }}
               onClick={() => {
-                navigate(`/${item.id}`);
+                navigate(item.path || `/${item.id}`);
                 form.resetFields();
                 setResults([]);
               }}
