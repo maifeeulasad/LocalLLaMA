@@ -1668,6 +1668,414 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lpnc6k',
         name: 'Echo Mode: A Tone-Based Protocol for Semantic State Shifts in LLMs (No Prompt, No Fine-Tune)',
       },
+      {
+        path: '/1lpntxc',
+        name: 'Best RP Models',
+      },
+      {
+        path: '/1lpoju6',
+        name: 'World\'s first Intermediate thinking AI model is now Open Source',
+      },
+      {
+        path: '/1lpoqlu',
+        name: 'DiffuCoder 7B - New coding diffusion LLM by Apple',
+      },
+      {
+        path: '/1lporoz',
+        name: 'EXAONE 4.0 pull request sent to llama.cpp',
+      },
+      {
+        path: '/1lpp8s1',
+        name: 'How does MCP work for different LLMs?',
+      },
+      {
+        path: '/1lppg3g',
+        name: 'What\'s the most complex thing you\'ve been able to (consistently) do with a 4B LLM?',
+      },
+      {
+        path: '/1lppj9f',
+        name: 'deerflow with jan nano 128k',
+      },
+      {
+        path: '/1lpproa',
+        name: '[Proof of Concept] CoreWeaver – AI Memory Engine for Long-Term Context, Emotional State Tracking, and Branching Timelines',
+      },
+      {
+        path: '/1lppxs2',
+        name: 'Optimize Latency of InternVL',
+      },
+      {
+        path: '/1lppz8x',
+        name: 'LeCarnet: A French Dataset for Small Language Models',
+      },
+      {
+        path: '/1lpq6l0',
+        name: '[P] Built AI to AI Peer Review MCP - Local LLMs get real-time feedback from Google Gemini to improve responses',
+      },
+      {
+        path: '/1lpqcb7',
+        name: 'Where can I find clips of voices to clone?',
+      },
+      {
+        path: '/1lpquz6',
+        name: 'Open source tech from IBM for Compression of models',
+      },
+      {
+        path: '/1lpqyra',
+        name: 'Drafting RFP answers with Jamba, Mistral, Mixtral',
+      },
+      {
+        path: '/1lpr1fq',
+        name: 'Convenient ChatGPT UX Replacement',
+      },
+      {
+        path: '/1lpr5dj',
+        name: 'AKTA - Authenticated Knowledge &amp; Trust Architecture for AI Agents',
+      },
+      {
+        path: '/1lpr8wf',
+        name: 'What framework would you suggest for hosting and serving VLMs via api?',
+      },
+      {
+        path: '/1lprfbx',
+        name: 'Just me, or MNN chat is looping a lot',
+      },
+      {
+        path: '/1lps7c3',
+        name: 'Any good browser extensions that with any OpenAI compatible API or local model?',
+      },
+      {
+        path: '/1lpt5jv',
+        name: 'Best RP Model Unrestricted/Uncensored',
+      },
+      {
+        path: '/1lpu8a9',
+        name: 'AI Agents, But Simple and Understandable',
+      },
+      {
+        path: '/1lputq1',
+        name: 'Phare Study: LLMs recognise bias but also reproduce harmful stereotypes: an analysis of bias in leading LLMs',
+      },
+      {
+        path: '/1lpvpqv',
+        name: 'LLM-based resume parsing – any models or solutions out there?',
+      },
+      {
+        path: '/1lpvwh3',
+        name: 'I built a tool for managing prompts like code in git',
+      },
+      {
+        path: '/1lpvywm',
+        name: '96Gb VRAM without spending $10k on an RTX Pro 6000..?',
+      },
+      {
+        path: '/1lpw26d',
+        name: 'Am I on the right path? Learning React + Flask for Full Stack + AI Career Goals',
+      },
+      {
+        path: '/1lpw43h',
+        name: 'Does anyone have enough memory space to run this?',
+      },
+      {
+        path: '/1lpwj5j',
+        name: 'AlgoTune: A new benchmark that tests language models\' ability to optimize code runtime',
+      },
+      {
+        path: '/1lpwm1f',
+        name: 'Browser-use with devtools access',
+      },
+      {
+        path: '/1lpy5es',
+        name: 'Finally solved my prompt versioning nightmare - built a tool to manage prompts like code',
+      },
+      {
+        path: '/1lpy8nv',
+        name: 'llama-4-scout-17B-16E GGUF running on Strix Halo (Ryzen AI MAX 395 + 128GB) (13s prompt processing edited out)',
+      },
+      {
+        path: '/1lpyt3t',
+        name: 'Huawei Open Source AI Model Optimized for Ascend Hardware -- China Keeps Beating USA',
+      },
+      {
+        path: '/1lpyumi',
+        name: 'CPU importance in GPU based LLM',
+      },
+      {
+        path: '/1lpz355',
+        name: 'Cursor terms and conditions seem to be changing',
+      },
+      {
+        path: '/1lpz46u',
+        name: 'RTX 2080 TI 22gb Build',
+      },
+      {
+        path: '/1lpzk03',
+        name: 'IA pour résumer des livres ?',
+      },
+      {
+        path: '/1lpzvtx',
+        name: 'My experience with 14B LLMs on phones with Snapdragon 8 Elite',
+      },
+      {
+        path: '/1lpzycz',
+        name: 'Live Interactive Digital Human(Open-Source Stack): RAG + LLM + TTS in Ac...',
+      },
+      {
+        path: '/1lq02np',
+        name: 'Stuck on installing Sesame tts on windows :/',
+      },
+      {
+        path: '/1lq0n02',
+        name: 'AI Agents are transforming workflows, but most use cases still feel early-stage. Curious what others are seeing.',
+      },
+      {
+        path: '/1lq1417',
+        name: '[Open Source] Moondream MCP - Vision for AI Agents',
+      },
+      {
+        path: '/1lq1jyr',
+        name: 'Mamba-2 support in llama.cpp landed',
+      },
+      {
+        path: '/1lq1sdi',
+        name: 'Cursor equivalent or close to alternative fully local?',
+      },
+      {
+        path: '/1lq2aae',
+        name: 'LLM slop has started to contaminate spoken language',
+      },
+      {
+        path: '/1lq2i2m',
+        name: 'Is there a legit code assistant that can run on a m3 ultra 256 or 96gb?',
+      },
+      {
+        path: '/1lq2m1x',
+        name: 'Table embeddings for similarity search between tables ?',
+      },
+      {
+        path: '/1lq2wn6',
+        name: 'How do you pick the right local LLM for your needs?',
+      },
+      {
+        path: '/1lq3i6h',
+        name: 'need suggestions for models to use',
+      },
+      {
+        path: '/1lq3tuu',
+        name: 'Day 8/50: Building a Small Language Model from Scratch – Rotary Positional Embeddings (RoPE)',
+      },
+      {
+        path: '/1lq3urv',
+        name: '24B IQ3_M vs 12B Q5_K_M',
+      },
+      {
+        path: '/1lq436s',
+        name: 'Lm studio: Model does not support images. Please use a model that does.!',
+      },
+      {
+        path: '/1lq4bhu',
+        name: 'best bang for your buck in GPUs for VRAM?',
+      },
+      {
+        path: '/1lq4cil',
+        name: 'Extended NYT Connections Benchmark updated with Baidu Ernie 4.5 300B A47B, Mistral Small 3.2, MiniMax-M1',
+      },
+      {
+        path: '/1lq5d1o',
+        name: 'ChatTree: A simple way to context engineer',
+      },
+      {
+        path: '/1lq5fqq',
+        name: 'I Built My Wife a Simple Web App for Image Editing Using Flux Kontext—Now It’s Open Source',
+      },
+      {
+        path: '/1lq5wmh',
+        name: 'Critical Vulnerability in Anthropic\'s MCP Exposes Developer Machines to Remote Exploits',
+      },
+      {
+        path: '/1lq6jx8',
+        name: 'LitheCode, updating your GitHub repo using Local LLMs?',
+      },
+      {
+        path: '/1lq79xx',
+        name: 'FP8 fixed on VLLM for RTX Pro 6000 (and RTX 5000 desktop cards)',
+      },
+      {
+        path: '/1lq7vjc',
+        name: 'I used Qwen 3 to write a lil\' agent for itself, capable of tool writing and use',
+      },
+      {
+        path: '/1lq7wra',
+        name: 'the result of all the polls i’ve been running here',
+      },
+      {
+        path: '/1lq8gjv',
+        name: 'Ubuntu 24.04: observing that nvidia-535 drivers run 20 tokens/sec faster than nvidia-570 drivers with no other changes in my vLLM setup',
+      },
+      {
+        path: '/1lq8z04',
+        name: 'STT dictation and conversational sparring partner?',
+      },
+      {
+        path: '/1lq9eg5',
+        name: 'Speculative Decoding and Quantization ... I\'m probably not going anywhere near what you think...',
+      },
+      {
+        path: '/1lq9j0x',
+        name: 'Free AI for all.',
+      },
+      {
+        path: '/1lq9lkd',
+        name: 'Is it simply about upgrading?',
+      },
+      {
+        path: '/1lq9yjy',
+        name: 'Help needed: finetuning Qwen2.5 VL with mox-vol',
+      },
+      {
+        path: '/1lqa7cd',
+        name: 'Need help in deciding llm',
+      },
+      {
+        path: '/1lqbmwa',
+        name: 'DeepSeek-TNG-R1T2-Chimera -  200% faster than R1-0528 &amp; 20% faster than R1',
+      },
+      {
+        path: '/1lqcbfp',
+        name: 'Local text-to-speech generator for inux?',
+      },
+      {
+        path: '/1lqdcgr',
+        name: 'PrivateScribe.ai - a fully local, MIT licensed AI transcription platform',
+      },
+      {
+        path: '/1lqebbv',
+        name: 'Kwai-Keye/Keye-VL-8B-Preview · Hugging Face',
+      },
+      {
+        path: '/1lqeogc',
+        name: 'best local llm for 250,000 json with 6000 words each',
+      },
+      {
+        path: '/1lqeya7',
+        name: 'Looking for a Technical Co-Founder to Lead AI Development',
+      },
+      {
+        path: '/1lqh55j',
+        name: 'No love for these new models?',
+      },
+      {
+        path: '/1lqhers',
+        name: 'Any updates on Llama models from Meta?',
+      },
+      {
+        path: '/1lqi5q0',
+        name: '2080 TI 22GB or 3080 20GB',
+      },
+      {
+        path: '/1lqi863',
+        name: 'DeepSWE-Preview | 59.0% on SWE-Bench-Verified with test-time scaling',
+      },
+      {
+        path: '/1lqj3eq',
+        name: 'Sharing new inference engines I got to know recently',
+      },
+      {
+        path: '/1lqjccq',
+        name: 'Okay, I love arguing with me LocalLaMA and feeling like I\'m winning. Am I strange?',
+      },
+      {
+        path: '/1lqk18o',
+        name: 'Small VisualLM for Data/Insight Extraction from Graphs &amp; Charts',
+      },
+      {
+        path: '/1lqkknh',
+        name: 'Jan now supports MCP servers as an experimental feature',
+      },
+      {
+        path: '/1lqlcbu',
+        name: 'Which cloud compute are you using?',
+      },
+      {
+        path: '/1lqlsyb',
+        name: 'Yappp - Yet Another Poor Peasent Post',
+      },
+      {
+        path: '/1lqmbh3',
+        name: 'Anyone here run llama4 scout/Maverick with 1 million to 10 million context?',
+      },
+      {
+        path: '/1lqmmv2',
+        name: 'Best way to get an LLM to sound like me? Prompt eng or Finetune?',
+      },
+      {
+        path: '/1lqnczx',
+        name: 'AIDC-AI/Ovis-U1-3B: unified model integrating multimodal understanding, text-to-image generation, and image editing in a single framework',
+      },
+      {
+        path: '/1lqndyy',
+        name: 'Hey r/LocalLLaMA! We made evolutionary model merging feasible on consumer GPUs – meet Mergenetic 🧬',
+      },
+      {
+        path: '/1lqnvfr',
+        name: 'Hallucination prevention framework',
+      },
+      {
+        path: '/1lqnwih',
+        name: 'I can\'t believe it actually runs - Qwen 235b @ 16GB VRAM',
+      },
+      {
+        path: '/1lqo1bt',
+        name: 'I want to split a model to run a portion of it on client and run the remaining layers on server. Is that possible?',
+      },
+      {
+        path: '/1lqo8q0',
+        name: 'Llama.cpp after Ollama for industry grade softwares',
+      },
+      {
+        path: '/1lqo9lk',
+        name: 'I ran llama.cpp on a Raspberry Pi',
+      },
+      {
+        path: '/1lqpggb',
+        name: 'About RTX 3060 12GB running AI models',
+      },
+      {
+        path: '/1lqphqd',
+        name: 'What kind of prompts *Always* give a 1 word response?',
+      },
+      {
+        path: '/1lqpm60',
+        name: '[Upcoming Release &amp; Feedback] A new 4B &amp; 20B model, building on our SmallThinker work. Plus, a new hardware device to run them locally.',
+      },
+      {
+        path: '/1lqpvcb',
+        name: 'Best local TEXT EXTRACTION model 24GB/48GB?',
+      },
+      {
+        path: '/1lqqx16',
+        name: 'Kyutai Unmute (incl. TTS) released',
+      },
+      {
+        path: '/1lqqxhq',
+        name: 'I have made a True Reasoning LLM',
+      },
+      {
+        path: '/1lqsod4',
+        name: 'Potential for Research?',
+      },
+      {
+        path: '/1lqsrim',
+        name: 'AI2 releases OLMo 32B - Truly open source',
+      },
+      {
+        path: '/1lqsvf6',
+        name: 'AnythingLLM Vertex Ai',
+      },
+      {
+        path: '/1lqsvmf',
+        name: 'Day 9/50: Building a Small Language Model from Scratch — Coding Rotary Positional Embeddings (RoPE)',
+      },
     ],
   },
   {
