@@ -2076,6 +2076,158 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lqsvmf',
         name: 'Day 9/50: Building a Small Language Model from Scratch — Coding Rotary Positional Embeddings (RoPE)',
       },
+      {
+        path: '/1lqtu1t',
+        name: '[2507.00769] LitBench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing',
+      },
+      {
+        path: '/1lqtxdp',
+        name: 'Local vision LLM for (not really)real time processing.',
+      },
+      {
+        path: '/1lqu1om',
+        name: 'What are some of the most mammoth homebuilds here? What have you done with them?',
+      },
+      {
+        path: '/1lqu8q7',
+        name: 'Convert your local machine into an mcp server to spawn local agents from remote endpoint',
+      },
+      {
+        path: '/1lqv8l8',
+        name: 'Best Free/Budget AI Coding Tools for Solo Developers?',
+      },
+      {
+        path: '/1lqvovt',
+        name: 'A project to bring CUDA to non-Nvidia GPUs is making major progress',
+      },
+      {
+        path: '/1lqw2yg',
+        name: 'Deep Dive into Deep Research with Qwen3-30b-a3b',
+      },
+      {
+        path: '/1lqwt0v',
+        name: 'I built RawBench — an LLM prompt + agent testing tool with YAML config and tool mocking',
+      },
+      {
+        path: '/1lqwth8',
+        name: 'Using LLaMA for my desktop assistant app that saves you time',
+      },
+      {
+        path: '/1lqwylx',
+        name: 'Help with defining hardware multi GPU setup',
+      },
+      {
+        path: '/1lqxesf',
+        name: 'Huggingchat is under maintenance... exciting promise',
+      },
+      {
+        path: '/1lqxm89',
+        name: 'We Built an Open Source Clone of Lovable',
+      },
+      {
+        path: '/1lqxprq',
+        name: 'need help getting GPT-SoVITS with 5080 working',
+      },
+      {
+        path: '/1lqxs6n',
+        name: 'Qwen 235b @ 16GB VRAM - specdec - 9.8t/s gen',
+      },
+      {
+        path: '/1lqyabt',
+        name: 'Anybody using local LLM to augment in-camera person-detection for people counting?',
+      },
+      {
+        path: '/1lqycp0',
+        name: 'Kyutai TTS is here: Real-time, voice-cloning, ultra-low-latency TTS, Robust Longform generation',
+      },
+      {
+        path: '/1lqyd4l',
+        name: 'Local vs Cloud AI in my time tracking app - the struggle is real',
+      },
+      {
+        path: '/1lqzjz8',
+        name: 'Can you use Ollama to control your browser?',
+      },
+      {
+        path: '/1lqzn0z',
+        name: 'Help a student/enthusiast out in deciding on what exactly goes on hardware level',
+      },
+      {
+        path: '/1lr0cqn',
+        name: 'If I got this email, I’d give him my job.',
+      },
+      {
+        path: '/1lr0i8p',
+        name: 'Smartphone SoC inference performance by year and series',
+      },
+      {
+        path: '/1lr158b',
+        name: 'DeepSeek on llama.cpp',
+      },
+      {
+        path: '/1lr18jg',
+        name: 'Serene Pub v0.3.0 Alpha Released — Offline AI Roleplay Client w/ Lorebooks+',
+      },
+      {
+        path: '/1lr1i84',
+        name: 'Llama.cpp - Any room for further Significant Improvement?',
+      },
+      {
+        path: '/1lr1ypr',
+        name: 'Best current models for 72GB VRAM',
+      },
+      {
+        path: '/1lr217c',
+        name: 'Cheaper Transcriptions, Pricier Errors!',
+      },
+      {
+        path: '/1lr25av',
+        name: 'ChatGPT Subscription or LLM for therapy?',
+      },
+      {
+        path: '/1lr2fbe',
+        name: 'Dracula Coder',
+      },
+      {
+        path: '/1lr2z7q',
+        name: 'How do tools like ChatGPT, Gemini, and Grok derive context from a video?',
+      },
+      {
+        path: '/1lr3eh1',
+        name: 'Client-side STT version of Moonshine released',
+      },
+      {
+        path: '/1lr5g8x',
+        name: 'Productivity Tracker that uses Gemma3:4BB',
+      },
+      {
+        path: '/1lr8fhl',
+        name: 'Best &lt;= 12B model for use case?',
+      },
+      {
+        path: '/1lr9594',
+        name: 'DnD LLMs - Prompt to LoRA github',
+      },
+      {
+        path: '/1lr95qf',
+        name: 'GPT-4o Mini hallucinating on empty inputs like &lt;input&gt;&lt;/input&gt; – anyone else?',
+      },
+      {
+        path: '/1lr9g4t',
+        name: 'Need help with reverse keyword search using vector DB',
+      },
+      {
+        path: '/1lragje',
+        name: 'What would be the best model to run on 8x40gb vram?',
+      },
+      {
+        path: '/1lral7n',
+        name: 'ZLUDA - Bringing CUDA To Non-NVIDIA GPUs - A Major Breakthrough',
+      },
+      {
+        path: '/1lraotq',
+        name: 'How to set up MCP for fast code',
+      },
     ],
   },
   {
