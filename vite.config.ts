@@ -6,7 +6,8 @@ import ViteVisualizer from 'rollup-plugin-visualizer';
 import { VitePWA } from 'vite-plugin-pwa'
 import { VitePluginRadar } from 'vite-plugin-radar';
 
-const maxAgeSeconds = 365 * 24 * 60 * 60; // Cache for 1 year
+// const maxAgeSeconds = 365 * 24 * 60 * 60; // Cache for 1 year
+const maxAgeSeconds = 7 * 24 * 60 * 60; // cache for 1 week
 
 // https://stackoverflow.com/a/15802301
 const headCommitHash = (): string | undefined => {
