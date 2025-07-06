@@ -1,0 +1,290 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Yesterday, I finished evaluating my Android agent model, deki, on two separate benchmarks: Android Control and Android World. For both benchmarks I used a subset of the dataset without fine-tuning. The results show that image description models like deki enables large LLMs (like GPT-4o, GPT-4.1, and Gemini 2.5) to become State-of-the-Art on Android AI agent benchmarks using only vision capabilities, without relying on Accessibility Trees, on both single-step and multi-step tasks.\n\ndeki is a model that understands what’s on your screen and creates a description of the UI screenshot with all coordinates/sizes/attributes. All the code is open sourced. ML, Backend, Android, code updates for benchmarks and also evaluation logs.\n\nAll the code/information is available on GitHub: [https://github.com/RasulOs/deki](https://github.com/RasulOs/deki)\n\nI have also uploaded the model to Hugging Face:  \nSpace: [orasul/deki](https://huggingface.co/spaces/orasul/deki)  \n(Check the analyze-and-get-yolo endpoint)\n\nModel: [orasul/deki-yolo](https://huggingface.co/orasul/deki-yolo)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "Open-sourced image description models (Object detection, OCR, Image processing, CNN) make LLMs SOTA in AI agentic benchmarks like Android World and Android Control",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 92,
+            "top_awarded_type": null,
+            "name": "t3_1lsi0gj",
+            "media_metadata": {
+              "h3d7d54lx3bf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 92,
+                    "x": 108,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b4e1e5d552b5048937f14f6fd537e8fbb4b0d150"
+                  },
+                  {
+                    "y": 184,
+                    "x": 216,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=99c1e9b34fec66220de01042567f3fc3e0c6a259"
+                  },
+                  {
+                    "y": 274,
+                    "x": 320,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2613b7141cb698ec6225fc2468221fb83e01b05c"
+                  },
+                  {
+                    "y": 548,
+                    "x": 640,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85620d052f7150005812abb8a13a2e5d1d114565"
+                  },
+                  {
+                    "y": 822,
+                    "x": 960,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=91c13d5b1213142a0c0f6c94c56dfc419e2ff681"
+                  },
+                  {
+                    "y": 924,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0b9764f7c6678970b734b4a15de0c1f169495106"
+                  }
+                ],
+                "s": {
+                  "y": 3571,
+                  "x": 4170,
+                  "u": "https://preview.redd.it/h3d7d54lx3bf1.png?width=4170&amp;format=png&amp;auto=webp&amp;s=954c7b87399c485ba49db571b812da2074217da3"
+                },
+                "id": "h3d7d54lx3bf1"
+              },
+              "fdza644lx3bf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 71,
+                    "x": 108,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d4d6593a8646a51a547feb3205684e71abf2db72"
+                  },
+                  {
+                    "y": 143,
+                    "x": 216,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ab9e21f032465ac2f1b78d73bc7e60ef4292cf17"
+                  },
+                  {
+                    "y": 212,
+                    "x": 320,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=324dc7197628490cd411502598a0f4d63b2b3940"
+                  },
+                  {
+                    "y": 424,
+                    "x": 640,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8acf1705fcc3361cb92b8594e6da9e651189c421"
+                  },
+                  {
+                    "y": 636,
+                    "x": 960,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=6005de9e5b453e8976adca33f0eb49616b0edc8f"
+                  },
+                  {
+                    "y": 716,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/fdza644lx3bf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4771d4a434c50d01d7e2d7531554bc52ecd7064d"
+                  }
+                ],
+                "s": {
+                  "y": 2368,
+                  "x": 3571,
+                  "u": "https://preview.redd.it/fdza644lx3bf1.png?width=3571&amp;format=png&amp;auto=webp&amp;s=841429e64ec9a831262483c0b7479886fd01029f"
+                },
+                "id": "fdza644lx3bf1"
+              },
+              "0hm1zxpmx3bf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 55,
+                    "x": 108,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=1905e1e3c4a5669198f11b544de3bae463692a72"
+                  },
+                  {
+                    "y": 111,
+                    "x": 216,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=78a297ef8333986019408fd6b72f1830a22911da"
+                  },
+                  {
+                    "y": 164,
+                    "x": 320,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=63de894cbcd59bb3e4281500136b499d2a2ff125"
+                  },
+                  {
+                    "y": 329,
+                    "x": 640,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1df195ce5438559971c054504be62e57dc0eaa4"
+                  },
+                  {
+                    "y": 493,
+                    "x": 960,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0b238eb03338824287ccc0dbcbf06acfc69ee819"
+                  },
+                  {
+                    "y": 555,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3c508e356a58da9829f51954ad7a2aa96e1088e9"
+                  }
+                ],
+                "s": {
+                  "y": 1636,
+                  "x": 3180,
+                  "u": "https://preview.redd.it/0hm1zxpmx3bf1.png?width=3180&amp;format=png&amp;auto=webp&amp;s=66b70eca5ea3d910e05c01580bc20f0a7aea73b9"
+                },
+                "id": "0hm1zxpmx3bf1"
+              }
+            },
+            "hide_score": false,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.89,
+            "author_flair_background_color": null,
+            "ups": 14,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_dlk476nn6",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "fdza644lx3bf1",
+                  "id": 699412800
+                },
+                {
+                  "media_id": "h3d7d54lx3bf1",
+                  "id": 699412801
+                },
+                {
+                  "media_id": "0hm1zxpmx3bf1",
+                  "id": 699412802
+                }
+              ]
+            },
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 14,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/RwkhySplb6CWm6KR-CbkXw8jpoNWLPRz3r_cADWabdw.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1751743870,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Yesterday, I finished evaluating my Android agent model, deki, on two separate benchmarks: Android Control and Android World. For both benchmarks I used a subset of the dataset without fine-tuning. The results show that image description models like deki enables large LLMs (like GPT-4o, GPT-4.1, and Gemini 2.5) to become State-of-the-Art on Android AI agent benchmarks using only vision capabilities, without relying on Accessibility Trees, on both single-step and multi-step tasks.&lt;/p&gt;\n\n&lt;p&gt;deki is a model that understands what’s on your screen and creates a description of the UI screenshot with all coordinates/sizes/attributes. All the code is open sourced. ML, Backend, Android, code updates for benchmarks and also evaluation logs.&lt;/p&gt;\n\n&lt;p&gt;All the code/information is available on GitHub: &lt;a href=\"https://github.com/RasulOs/deki\"&gt;https://github.com/RasulOs/deki&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I have also uploaded the model to Hugging Face:&lt;br/&gt;\nSpace: &lt;a href=\"https://huggingface.co/spaces/orasul/deki\"&gt;orasul/deki&lt;/a&gt;&lt;br/&gt;\n(Check the analyze-and-get-yolo endpoint)&lt;/p&gt;\n\n&lt;p&gt;Model: &lt;a href=\"https://huggingface.co/orasul/deki-yolo\"&gt;orasul/deki-yolo&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1lsi0gj",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1lsi0gj",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Old_Mathematician107",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1lsi0gj/opensourced_image_description_models_object/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1lsi0gj",
+            "subreddit_subscribers": 494897,
+            "created_utc": 1751743870,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

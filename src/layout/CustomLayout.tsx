@@ -2228,6 +2228,390 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lraotq',
         name: 'How to set up MCP for fast code',
       },
+      {
+        path: '/1lro41o',
+        name: 'how can i make langchain stream the same way openai does?',
+      },
+      {
+        path: '/1lroonm',
+        name: 'Gemini CLI is open source. Could we fork it to be able to use other models ?',
+      },
+      {
+        path: '/1lroopr',
+        name: 'Llama.cpp and continuous batching for performance',
+      },
+      {
+        path: '/1lrpjpc',
+        name: 'Can home sized LLMs (32b, etc.) or home GPUs ever improve to the point where they can compete with cloud models?',
+      },
+      {
+        path: '/1lrq827',
+        name: 'cli-agent - An agentic framework for arbitrary LLMs - now with hooks, roles, and deep research!',
+      },
+      {
+        path: '/1lrq99t',
+        name: 'Enterprise AI teams - what\'s stopping you from deploying more agents in production?',
+      },
+      {
+        path: '/1lrqj68',
+        name: 'Am I correct that to run multiple models with Llama.cpp I need multiple instances on multiple ports?',
+      },
+      {
+        path: '/1lrqoul',
+        name: 'i made a script to train your own transformer model on a custom dataset on your machine',
+      },
+      {
+        path: '/1lrqptp',
+        name: 'Marketing AI agent suggestions ( please, i want it to fine tune locally )',
+      },
+      {
+        path: '/1lrqqiy',
+        name: 'As foretold - LLMs are revolutionizing security research',
+      },
+      {
+        path: '/1lrqtzj',
+        name: 'Built an offline AI chat app for macOS that works with local LLMs via Ollama',
+      },
+      {
+        path: '/1lrrojr',
+        name: 'M1 vs M4 pro',
+      },
+      {
+        path: '/1lrrvva',
+        name: 'Run `huggingface-cli scan-cache` occasionally to see what models are taking up space. Then run `huggingface-cli delete-cache` to delete the ones you don\'t use. (See text post)',
+      },
+      {
+        path: '/1lrs917',
+        name: 'Anyone having issues with multiple GPUs and games? Trying to run LLM + other 3D stuff is a PITA.',
+      },
+      {
+        path: '/1lrsdne',
+        name: 'Best fast local model for extracting data from scraped HTML?',
+      },
+      {
+        path: '/1lrsf6x',
+        name: 'OCRFlux-3B',
+      },
+      {
+        path: '/1lrsi1e',
+        name: 'No Race for the leading MCP Server GUI?',
+      },
+      {
+        path: '/1lrskbk',
+        name: 'Need help fitting second gpu + 3rd drive',
+      },
+      {
+        path: '/1lrss4u',
+        name: 'THUDM/GLM-4.1V-9B-Thinking looks impressive',
+      },
+      {
+        path: '/1lrsx20',
+        name: 'How RAG actually works — a toy example with real math',
+      },
+      {
+        path: '/1lrtrmw',
+        name: 'Smallest VLM that currently exists and what\'s the minimum spec y\'all have gotten them to work on?',
+      },
+      {
+        path: '/1lrtv8u',
+        name: 'How do you guys balance speed versus ease and usability?',
+      },
+      {
+        path: '/1lru0fv',
+        name: 'KIOXIA AiSAQ software advances AI RAG with new version of vector search library',
+      },
+      {
+        path: '/1lrv48g',
+        name: 'Day 10/50: Building a Small Language Model from Scratch - What is Model Distillation?',
+      },
+      {
+        path: '/1lrvlsx',
+        name: 'How and why is Llama so behind the other models at coding and UI/UX? Who is even using it?',
+      },
+      {
+        path: '/1lrvvkk',
+        name: 'Qwen3 on AWS Bedrock',
+      },
+      {
+        path: '/1lrwjnx',
+        name: 'office AI',
+      },
+      {
+        path: '/1lrz52e',
+        name: 'M4 Mini pro Vs M4 Studio',
+      },
+      {
+        path: '/1lrz5uy',
+        name: 'Got some real numbers how llama.cpp got FASTER over last 3-months',
+      },
+      {
+        path: '/1lrzmk8',
+        name: 'Any models with weather forecast automation?',
+      },
+      {
+        path: '/1lrzom4',
+        name: 'License-friendly LLMs for generating synthetic datasets',
+      },
+      {
+        path: '/1lrzrmd',
+        name: 'Best model at the moment for 128GB M4 Max',
+      },
+      {
+        path: '/1ls0d8u',
+        name: 'speech, app studio, hosting - all local and seemless(ish) | my toy: bplus Server',
+      },
+      {
+        path: '/1ls0r0w',
+        name: 'Will commercial humanoid robots ever use local AI?',
+      },
+      {
+        path: '/1ls0vb7',
+        name: 'Does anyone here know of such a system that could easily be trained to recognize objects or people in photos?',
+      },
+      {
+        path: '/1ls0y8d',
+        name: 'Are these AI topics enough to become an AI Consultant / GenAI PM / Strategy Lead?',
+      },
+      {
+        path: '/1ls1hd2',
+        name: 'Will this ever be fixed? RP repetition',
+      },
+      {
+        path: '/1ls3gho',
+        name: 'Open source tool for generating training datasets from text files and pdf for fine-tuning language models.',
+      },
+      {
+        path: '/1ls3pkv',
+        name: 'What is NVLink?',
+      },
+      {
+        path: '/1ls3rw2',
+        name: 'Best Local VLM for Automated Image Classification? (10k+ Images)',
+      },
+      {
+        path: '/1ls4kp1',
+        name: 'Any thoughts on preventing hallucination in agents with tools',
+      },
+      {
+        path: '/1ls5b89',
+        name: 'Powerful 4B Nemotron based finetune',
+      },
+      {
+        path: '/1ls5pbt',
+        name: '5090 w/ 3090?',
+      },
+      {
+        path: '/1ls5qjv',
+        name: 'Have LLMs really improved for actual use?',
+      },
+      {
+        path: '/1ls5x6q',
+        name: 'Advise needed on runtime and Model for my HW',
+      },
+      {
+        path: '/1ls663p',
+        name: 'Asking LLMs data visualized as plots',
+      },
+      {
+        path: '/1ls66qt',
+        name: 'Running GGUF model on iOS with local API',
+      },
+      {
+        path: '/1ls70r2',
+        name: 'Impact of PCIe 5.0 Bandwidth on GPU Content Creation Performance',
+      },
+      {
+        path: '/1ls7vmb',
+        name: 'Multi GPUs?',
+      },
+      {
+        path: '/1ls8c2s',
+        name: 'Aveni Labs releases FinLLM technical report: a 7B domain-specific model for financial services outperforming some frontier LLMs',
+      },
+      {
+        path: '/1ls8sk9',
+        name: 'Are there any autoregressive image gen models I can run locally on a 9070 XT/RAM?',
+      },
+      {
+        path: '/1ls91w3',
+        name: 'Why do grad norm sink to 0 (at least I think) randomly during unsloth full finetuning?',
+      },
+      {
+        path: '/1ls95oj',
+        name: 'Apple MLX Quantizations Royal Rumble 🔥',
+      },
+      {
+        path: '/1ls9jvu',
+        name: 'Which open source LLM has the most genuine sense of humor?',
+      },
+      {
+        path: '/1lsaczg',
+        name: 'Utilize iGPU (AMD Radeon 780m) even if the dGPU is running via MUX switch',
+      },
+      {
+        path: '/1lsazjq',
+        name: 'Looking for open-source tool to blur entire bodies by gender in videos/images',
+      },
+      {
+        path: '/1lsbhzs',
+        name: 'When Should We Expect Affordable Hardware That Will Run Large LLMs With Usable Speed?',
+      },
+      {
+        path: '/1lsck2e',
+        name: 'GPU Choice for r730XD',
+      },
+      {
+        path: '/1lsd9t4',
+        name: 'Finding Uncensored models for some social media project',
+      },
+      {
+        path: '/1lsdjnb',
+        name: 'Llama-4-Maverick 402B on a oneplus 13',
+      },
+      {
+        path: '/1lsdnin',
+        name: 'Unethical',
+      },
+      {
+        path: '/1lsdxc2',
+        name: 'New app for locally running AI models on Android your smartphone',
+      },
+      {
+        path: '/1lsevb1',
+        name: 'Finetuning a youtuber persona without expensive hardware or buying expensive cloud computing',
+      },
+      {
+        path: '/1lsfj67',
+        name: 'What motherboard for 4xK80s?',
+      },
+      {
+        path: '/1lsflii',
+        name: 'Anyone built a home 2× A100 SXM4 node?',
+      },
+      {
+        path: '/1lsfmcj',
+        name: 'I created this tool I named ReddSummary.com – just paste a link and boom you got the summary',
+      },
+      {
+        path: '/1lsfpi0',
+        name: 'Help setting up an uncensored local LLM for a text-based RPG adventure / DMing',
+      },
+      {
+        path: '/1lsfv8c',
+        name: 'SoTA Audio native models?',
+      },
+      {
+        path: '/1lsgtvy',
+        name: 'Successfully Built My First PC for AI (Sourcing Parts from Alibaba - Under $1500!)',
+      },
+      {
+        path: '/1lsh4a8',
+        name: 'AI desktop configuration recommendations for RAG and LLM training',
+      },
+      {
+        path: '/1lshe4q',
+        name: 'Build vLLM on  CUDA 12.9, Kernel 6.15.2, NVIDIA 575.64, PyTorch 2.9cu129 Nightly',
+      },
+      {
+        path: '/1lshxep',
+        name: 'Llama server completion not working correctly',
+      },
+      {
+        path: '/1lsi0gj',
+        name: 'Open-sourced image description models (Object detection, OCR, Image processing, CNN) make LLMs SOTA in AI agentic benchmarks like Android World and Android Control',
+      },
+      {
+        path: '/1lsiffa',
+        name: 'PC build for LLM research',
+      },
+      {
+        path: '/1lsiov1',
+        name: '9950X3D + RTX 5090 + 192 GB RAM , reasonable?',
+      },
+      {
+        path: '/1lsipdy',
+        name: 'Building MOE inference Optimized workstation with 2 5090’s',
+      },
+      {
+        path: '/1lsivf4',
+        name: 'What is the necessary time effort to learn to self-host an LLM and chat app on-premise in a mid size company?',
+      },
+      {
+        path: '/1lsjc83',
+        name: 'Is there an easy way to continue pretraining of *just* the gate network of an MoE?',
+      },
+      {
+        path: '/1lsjm9l',
+        name: 'From The Foundations of Transformers to Scaling Vision Transformers',
+      },
+      {
+        path: '/1lsju4i',
+        name: 'Local LLM for Audio Cleanup',
+      },
+      {
+        path: '/1lsjy83',
+        name: '(Updated) All‑in‑One Generative AI Template: Frontend, Backend, Docker, Docs &amp; CI/CD + Ollama for local LLMs',
+      },
+      {
+        path: '/1lskb8k',
+        name: 'Should I buy an appartment or 4 H100s',
+      },
+      {
+        path: '/1lsl0qn',
+        name: 'Is this a good machine for running local LLMs?',
+      },
+      {
+        path: '/1lsl6p6',
+        name: 'My LLM Server',
+      },
+      {
+        path: '/1lslglw',
+        name: 'Options for a lot of VRAM for local Ollama server?',
+      },
+      {
+        path: '/1lsm0ua',
+        name: 'Why 5090 for inference if min CUDA is 12.9',
+      },
+      {
+        path: '/1lsm1yb',
+        name: 'GPU overclocking?',
+      },
+      {
+        path: '/1lsmtzr',
+        name: 'Is Codestral 22B still the best open LLM for local coding on 32–64 GB VRAM?',
+      },
+      {
+        path: '/1lso57g',
+        name: 'Intel Project Battlematrix',
+      },
+      {
+        path: '/1lsoflk',
+        name: 'Jan.AI with Ollama (working solution)',
+      },
+      {
+        path: '/1lsofwq',
+        name: 'All i said was hello lol',
+      },
+      {
+        path: '/1lsox8o',
+        name: 'I built a RAG-powered knowledge base for docs of my project using FastAPI + Ollama. Here\'s what I learned.',
+      },
+      {
+        path: '/1lspzn3',
+        name: '128GB VRAM for ~$600. Qwen3 MOE 235B.A22B reaching 20 t/s. 4x AMD MI50 32GB.',
+      },
+      {
+        path: '/1lsq2m3',
+        name: 'Larger model on CPU or small model on GPU',
+      },
+      {
+        path: '/1lsq6xi',
+        name: 'I built a platform to collect &amp; solve real-world AI automation use cases – would love your feedback!',
+      },
+      {
+        path: '/1lsqr9n',
+        name: 'Llama &amp; GRAMPS',
+      },
     ],
   },
   {
