@@ -36,7 +36,7 @@
             "name": "t3_1lsazjq",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.46,
+            "upvote_ratio": 0.44,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "DayOk2",
             "discussion_type": null,
-            "num_comments": 16,
+            "num_comments": 17,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lsazjq/looking_for_opensource_tool_to_blur_entire_bodies/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lsazjq/looking_for_opensource_tool_to_blur_entire_bodies/",
-            "subreddit_subscribers": 494897,
+            "subreddit_subscribers": 494986,
             "created_utc": 1751725268,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -305,7 +305,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n1hwlfw",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "author_fullname": "t2_14v1py",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -347,7 +347,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -367,7 +367,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n1hqkli",
-                                                              "score": 0,
+                                                              "score": -1,
                                                               "author_fullname": "t2_jd7vr28ul",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -409,7 +409,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 0
+                                                              "ups": -1
                                                             }
                                                           }
                                                         ],
@@ -429,7 +429,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n1hlskt",
-                                                    "score": 6,
+                                                    "score": 5,
                                                     "author_fullname": "t2_7pbaf",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -471,7 +471,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 6
+                                                    "ups": 5
                                                   }
                                                 }
                                               ],
@@ -491,7 +491,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1hliet",
-                                          "score": 0,
+                                          "score": -1,
                                           "author_fullname": "t2_jd7vr28ul",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -534,7 +534,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 0
+                                          "ups": -1
                                         }
                                       }
                                     ],
@@ -810,7 +810,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n1hg1nm",
-                                                                        "score": 6,
+                                                                        "score": 8,
                                                                         "author_fullname": "t2_qf8h7ka8",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -852,7 +852,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 6
+                                                                        "ups": 8
                                                                       }
                                                                     }
                                                                   ],
@@ -866,13 +866,13 @@
                                                               "mod_reason_title": null,
                                                               "gilded": 0,
                                                               "archived": false,
-                                                              "collapsed_reason_code": null,
+                                                              "collapsed_reason_code": "LOW_SCORE",
                                                               "no_follow": true,
                                                               "author": "DayOk2",
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n1hfq2p",
-                                                              "score": -4,
+                                                              "score": -5,
                                                               "author_fullname": "t2_jd7vr28ul",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -884,12 +884,12 @@
                                                               "author_flair_css_class": null,
                                                               "name": "t1_n1hg1nm",
                                                               "is_submitter": true,
-                                                              "collapsed": false,
+                                                              "collapsed": true,
                                                               "author_flair_richtext": [],
                                                               "author_patreon_flair": false,
                                                               "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I am looking for a way to do this for free because I want to use it for myself and make it open source for specific people who also need this tool.&lt;/p&gt;\n&lt;/div&gt;",
                                                               "removal_reason": null,
-                                                              "collapsed_reason": null,
+                                                              "collapsed_reason": "comment score below threshold",
                                                               "link_id": "t3_1lsazjq",
                                                               "associated_award": null,
                                                               "stickied": false,
@@ -914,7 +914,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": -4
+                                                              "ups": -5
                                                             }
                                                           }
                                                         ],
@@ -934,7 +934,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n1hegwg",
-                                                    "score": 4,
+                                                    "score": 6,
                                                     "author_fullname": "t2_qf8h7ka8",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -976,7 +976,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 4
+                                                    "ups": 6
                                                   }
                                                 }
                                               ],
@@ -1059,7 +1059,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1h9mgr",
-                                "score": 5,
+                                "score": 7,
                                 "author_fullname": "t2_7pbaf",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1102,7 +1102,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 7
                               }
                             },
                             {
@@ -1198,7 +1198,7 @@
                       "created_utc": 1751727647,
                       "send_replies": true,
                       "parent_id": "t1_n1h9c8n",
-                      "score": 0,
+                      "score": -1,
                       "author_fullname": "t2_jd7vr28ul",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1240,7 +1240,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": -1
                     }
                   }
                 ],
@@ -1379,6 +1379,81 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n1lvoiu",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Minute_Attempt3063",
+            "can_mod_post": false,
+            "created_utc": 1751793097,
+            "send_replies": true,
+            "parent_id": "t3_1lsazjq",
+            "score": 2,
+            "author_fullname": "t2_t6m6d9my",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "In short, you would need to make such a tool.\n\nOthers have listed things you can use, but you need to make it still.\n\nFrom the sound of it, you want a already made tool for this, which likely does not exist the way you want.\n\nRead up on the things people have actually linked, and do not use chatgpt to \"research\" shit. If you come and ask the same thing to me on how to read the readme of projects, I am not gonna spoon-feed reason instructions",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n1lvoiu",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In short, you would need to make such a tool.&lt;/p&gt;\n\n&lt;p&gt;Others have listed things you can use, but you need to make it still.&lt;/p&gt;\n\n&lt;p&gt;From the sound of it, you want a already made tool for this, which likely does not exist the way you want.&lt;/p&gt;\n\n&lt;p&gt;Read up on the things people have actually linked, and do not use chatgpt to &amp;quot;research&amp;quot; shit. If you come and ask the same thing to me on how to read the readme of projects, I am not gonna spoon-feed reason instructions&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1lsazjq/looking_for_opensource_tool_to_blur_entire_bodies/n1lvoiu/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1751793097,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1lsazjq",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
           }
         },
         {
