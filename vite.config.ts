@@ -12,17 +12,18 @@ const maxAgeSeconds = 365 * 24 * 60 * 60; // Cache for 1 year
 const headCommitHash = (): string | undefined => {
   try {
     return require('child_process')
-      .execSync('git rev-parse HEAD')
-      .toString();
+    .execSync('git rev-parse HEAD')
+    .toString();
   } catch (_) {
     return undefined;
   }
 };
+const COMMIT_HASH = headCommitHash();
 
 // https://vitejs.dev/config/
 export default defineConfig({
   define: {
-    __HEAD_COMMIT_HASH__: JSON.stringify(headCommitHash()),
+    __HEAD_COMMIT_HASH__: JSON.stringify(COMMIT_HASH),
   },
   // This changes the out put dir from dist to build
   // comment this out if that isn't relevant for your project
@@ -35,6 +36,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       workbox: {
+        cacheId: `local-llama-${COMMIT_HASH}`,
         globPatterns: ['**/*.{html,js,css,png,jpg,svg,ico,json,woff2,ttf,mp4}'],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024, // 5 MB limit
         runtimeCaching: [
