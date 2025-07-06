@@ -36,7 +36,7 @@
             "name": "t3_1lsiov1",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.28,
+            "upvote_ratio": 0.25,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lsiov1/9950x3d_rtx_5090_192_gb_ram_reasonable/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lsiov1/9950x3d_rtx_5090_192_gb_ram_reasonable/",
-            "subreddit_subscribers": 494897,
+            "subreddit_subscribers": 494986,
             "created_utc": 1751745704,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -676,7 +676,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n1iw24m",
-                                                    "score": 2,
+                                                    "score": 5,
                                                     "author_fullname": "t2_vxbs7cf4",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -718,7 +718,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 5
                                                   }
                                                 }
                                               ],
@@ -738,7 +738,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1ivs2s",
-                                          "score": -5,
+                                          "score": -6,
                                           "author_fullname": "t2_i2ox1",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -781,7 +781,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -5
+                                          "ups": -6
                                         }
                                       }
                                     ],
@@ -801,7 +801,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1iuoz4",
-                                "score": 6,
+                                "score": 5,
                                 "author_fullname": "t2_vxbs7cf4",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -844,7 +844,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 5
                               }
                             },
                             {
@@ -871,12 +871,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "SillyLilBear",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1iuoz4",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_wjjtz",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -919,7 +919,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -933,14 +933,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": "LOW_SCORE",
+                      "collapsed_reason_code": null,
                       "no_follow": true,
                       "author": "juggarjew",
                       "can_mod_post": false,
                       "created_utc": 1751745913,
                       "send_replies": true,
                       "parent_id": "t1_n1iuhag",
-                      "score": -6,
+                      "score": -3,
                       "author_fullname": "t2_i2ox1",
                       "removal_reason": null,
                       "approved_by": null,
@@ -957,7 +957,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Im writing product reviews, im giving it my review of the item from my own personal use and using AI to round it out and hit all the talking points that I need to hit. Im not having it just make things up, I am giving it my own honest feedback first, then having it write the review. Basically, this results in high quality reviews that save a lot of time in terms of formatting and fluffing it up on my own.&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": "comment score below threshold",
+                      "collapsed_reason": null,
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -974,7 +974,7 @@
                       "created": 1751745913,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": true,
+                      "collapsed": false,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -982,7 +982,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -6
+                      "ups": -3
                     }
                   }
                 ],
@@ -1003,7 +1003,7 @@
             "created_utc": 1751745841,
             "send_replies": true,
             "parent_id": "t3_1lsiov1",
-            "score": 9,
+            "score": 8,
             "author_fullname": "t2_vxbs7cf4",
             "approved_by": null,
             "mod_note": null,
@@ -1045,7 +1045,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 8
           }
         },
         {
@@ -1176,7 +1176,7 @@
                       "created_utc": 1751749340,
                       "send_replies": true,
                       "parent_id": "t1_n1j33ho",
-                      "score": 0,
+                      "score": -1,
                       "author_fullname": "t2_i2ox1",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1218,7 +1218,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": -1
                     }
                   }
                 ],

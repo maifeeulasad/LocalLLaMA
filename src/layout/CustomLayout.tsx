@@ -2229,6 +2229,22 @@ const defaultMenus: MenuDataItem[] = [
         name: 'How to set up MCP for fast code',
       },
       {
+        path: '/1lrbwmz',
+        name: 'Created an Open Source Conversation Response Path Exploration System using Monte Carlo Tree Search',
+      },
+      {
+        path: '/1lri12r',
+        name: 'Great price on a 5090',
+      },
+      {
+        path: '/1lrjy15',
+        name: 'Anyone else feel like working with LLM libs is like navigating a minefield ?',
+      },
+      {
+        path: '/1lrmxn7',
+        name: 'llama : add high-throughput mode by ggerganov · Pull Request #14363 · ggml-org/llama.cpp',
+      },
+      {
         path: '/1lro41o',
         name: 'how can i make langchain stream the same way openai does?',
       },
@@ -2611,6 +2627,90 @@ const defaultMenus: MenuDataItem[] = [
       {
         path: '/1lsqr9n',
         name: 'Llama &amp; GRAMPS',
+      },
+      {
+        path: '/1lss6b9',
+        name: 'Fine-tuning Qwen3-32B for sentiment analysis.',
+      },
+      {
+        path: '/1lsses1',
+        name: 'Vibecoding: Exploring Dynamic Quantization for LLMs: My PoC with Qwen-0.6B',
+      },
+      {
+        path: '/1lssymd',
+        name: 'Check out my reverse vibe coding approach',
+      },
+      {
+        path: '/1lst2uk',
+        name: 'Ollama API image payload format for python',
+      },
+      {
+        path: '/1lstg8c',
+        name: 'Why does LLaMA suck so much at frontend?',
+      },
+      {
+        path: '/1lsu2ks',
+        name: 'Taught AI Agents Live for 15 hours | No fluff',
+      },
+      {
+        path: '/1lsuje6',
+        name: 'Anyone building a local coding cli or coding agent?',
+      },
+      {
+        path: '/1lsv6hn',
+        name: 'Update on spinning ball in hexagon test',
+      },
+      {
+        path: '/1lsv7j1',
+        name: 'Using local LLM for anonymizing prompts before sending to cloud LLM - are there any open source solutions?',
+      },
+      {
+        path: '/1lsvff1',
+        name: 'Help choosing LLM',
+      },
+      {
+        path: '/1lsvsw0',
+        name: 'Creating a Knowledge Base for Agentic Research Architect',
+      },
+      {
+        path: '/1lsw9vz',
+        name: 'Run Large LLMs on RunPod with text-generation-webui – Full Setup Guide + Template',
+      },
+      {
+        path: '/1lswa0q',
+        name: 'Looking for an AI client',
+      },
+      {
+        path: '/1lswhaj',
+        name: 'Upgrade for my 4060ti',
+      },
+      {
+        path: '/1lswkv4',
+        name: 'What are some good in-browser inference tools for small LLMs? (Use case: JSON to Chart.js config)',
+      },
+      {
+        path: '/1lswnto',
+        name: 'gemini-cli: falling back to gemini-flash is the best marketing strategy Anthropic could have dreamed of for claude-code.',
+      },
+      {
+        path: '/1lsx9pn',
+        name: 'Advice Needed: Building an In-House LLM System Using Latest Tech — Recommendations?',
+      },
+      {
+        path: '/1lsxfpt',
+        name: 'Is this good enough for AI work?',
+      },
+      {
+        path: '/1lsxxo2',
+        name: 'Python Implementation of Google\'s MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encodings',
+      },
+      {
+        path: '/1lsyd4g',
+        name: 'After Huawei Pangu LLM faced plagiarism allegations, an anonymous insider shares their side of the story',
+      },
+      {
+        path: '/1lsye88',
+        name: 'Is that possible built a local gemini-cli totally in local and workable?',
       },
     ],
   },
