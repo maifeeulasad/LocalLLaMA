@@ -36,9 +36,9 @@
             "name": "t3_1lt254p",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.93,
+            "upvote_ratio": 0.94,
             "author_flair_background_color": null,
-            "ups": 103,
+            "ups": 111,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 103,
+            "score": 111,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "cpldcpu",
             "discussion_type": null,
-            "num_comments": 8,
+            "num_comments": 9,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lt254p/zhipu_company_behind_glm_secures_14_billion/",
             "stickied": false,
             "url": "https://technode.com/2025/07/04/zhipu-secures-1-4-billion-strategic-investment-from-shanghai-state-funds/",
-            "subreddit_subscribers": 495395,
+            "subreddit_subscribers": 495650,
             "created_utc": 1751810963,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -281,7 +281,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1nsza0",
-                                          "score": 8,
+                                          "score": 7,
                                           "author_fullname": "t2_a1p8p",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -324,7 +324,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 8
+                                          "ups": 7
                                         }
                                       },
                                       {
@@ -356,7 +356,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1nsza0",
-                                          "score": -1,
+                                          "score": -3,
                                           "author_fullname": "t2_uz37qfx5",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -399,7 +399,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -1
+                                          "ups": -3
                                         }
                                       }
                                     ],
@@ -419,7 +419,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1nbglw",
-                                "score": 10,
+                                "score": 12,
                                 "author_fullname": "t2_1i64v8h8e2",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -462,7 +462,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 10
+                                "ups": 12
                               }
                             }
                           ],
@@ -483,7 +483,7 @@
                       "created_utc": 1751815328,
                       "send_replies": true,
                       "parent_id": "t1_n1mzn80",
-                      "score": -14,
+                      "score": -16,
                       "author_fullname": "t2_uz37qfx5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -525,7 +525,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -14
+                      "ups": -16
                     }
                   }
                 ],
@@ -546,7 +546,7 @@
             "created_utc": 1751811632,
             "send_replies": true,
             "parent_id": "t3_1lt254p",
-            "score": 39,
+            "score": 38,
             "author_fullname": "t2_lis7z",
             "approved_by": null,
             "mod_note": null,
@@ -588,7 +588,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 39
+            "ups": 38
           }
         },
         {
@@ -621,7 +621,7 @@
             "created_utc": 1751822064,
             "send_replies": true,
             "parent_id": "t3_1lt254p",
-            "score": 8,
+            "score": 9,
             "author_fullname": "t2_2kndo",
             "approved_by": null,
             "mod_note": null,
@@ -663,7 +663,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -681,7 +681,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n1sd1nb",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "fullouterjoin",
+                      "can_mod_post": false,
+                      "created_utc": 1751886050,
+                      "send_replies": true,
+                      "parent_id": "t1_n1n463p",
+                      "score": 1,
+                      "author_fullname": "t2_406sj",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "God, this is just a grifter be grifting, doing the Red Scare thing to get infront of government.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n1sd1nb",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;God, this is just a grifter be grifting, doing the Red Scare thing to get infront of government.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1lt254p",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1lt254p/zhipu_company_behind_glm_secures_14_billion/n1sd1nb/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1751886050,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n1n463p",

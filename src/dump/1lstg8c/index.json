@@ -125,7 +125,7 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.39,
+            "upvote_ratio": 0.35,
             "author_flair_background_color": null,
             "ups": 0,
             "domain": "reddit.com",
@@ -218,7 +218,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lstg8c/why_does_llama_suck_so_much_at_frontend/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1lstg8c",
-            "subreddit_subscribers": 495396,
+            "subreddit_subscribers": 495652,
             "created_utc": 1751779286,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -312,7 +312,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1l8sln",
-                                "score": 4,
+                                "score": 2,
                                 "author_fullname": "t2_nheifhi0",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -355,7 +355,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 2
                               }
                             }
                           ],
@@ -376,7 +376,7 @@
                       "created_utc": 1751779801,
                       "send_replies": true,
                       "parent_id": "t1_n1l878h",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_cn7ew",
                       "removal_reason": null,
                       "approved_by": null,
@@ -418,7 +418,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -439,7 +439,7 @@
             "created_utc": 1751779486,
             "send_replies": true,
             "parent_id": "t3_1lstg8c",
-            "score": 18,
+            "score": 19,
             "author_fullname": "t2_cn7ew",
             "approved_by": null,
             "mod_note": null,
@@ -481,7 +481,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 19
           }
         },
         {
