@@ -5,6 +5,7 @@ import react from '@vitejs/plugin-react-swc';
 import ViteVisualizer from 'rollup-plugin-visualizer';
 import { VitePWA } from 'vite-plugin-pwa'
 import { VitePluginRadar } from 'vite-plugin-radar';
+import Sitemap from 'vite-plugin-sitemap'
 
 // const maxAgeSeconds = 365 * 24 * 60 * 60; // Cache for 1 year
 const maxAgeSeconds = 7 * 24 * 60 * 60; // cache for 1 week
@@ -67,6 +68,10 @@ export default defineConfig({
           },
         ],
       },
+    }),
+    Sitemap({ 
+      hostname: 'https://maifeeulasad.github.io/LocalLLaMA',
+      outDir: './build',
     }),
     svgrPlugin({
       svgrOptions: {
