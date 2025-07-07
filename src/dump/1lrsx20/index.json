@@ -36,10 +36,10 @@
             "name": "t3_1lrsx20",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.96,
+            "upvote_ratio": 0.97,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 594,
+            "ups": 627,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Tutorial | Guide",
             "can_mod_post": false,
-            "score": 594,
+            "score": 627,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "Main-Fisherman-2075",
             "discussion_type": null,
-            "num_comments": 65,
+            "num_comments": 66,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/",
-            "subreddit_subscribers": 494987,
+            "subreddit_subscribers": 495396,
             "created_utc": 1751661855,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -196,7 +196,93 @@
                                 "subreddit": "LocalLLaMA",
                                 "author_flair_template_id": null,
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n1rkyvh",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "HiddenoO",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n1gci3r",
+                                          "score": 1,
+                                          "author_fullname": "t2_8127x",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "&gt;Text not become too long (yes, there is heater repetition, but this just brings context closer).\n\nYou cannot just wave this aspect away. Repeating the column header for every value in the table can massively increase the token count, especially when you don't have full control over the underlying file (e.g., user-submitted).\n\nAlso, \"this just brings context closer\" isn't true either. Yes, you bring *some* context closer, but by repeating that context over and over, everything else moves farther apart from another.\n\nIt may be a necessary evil right now, but it's definitely not as simple and straight-forward of a victory as you're suggesting here.",
+                                          "edited": 1751870146,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n1rkyvh",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Text not become too long (yes, there is heater repetition, but this just brings context closer).&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;You cannot just wave this aspect away. Repeating the column header for every value in the table can massively increase the token count, especially when you don&amp;#39;t have full control over the underlying file (e.g., user-submitted).&lt;/p&gt;\n\n&lt;p&gt;Also, &amp;quot;this just brings context closer&amp;quot; isn&amp;#39;t true either. Yes, you bring &lt;em&gt;some&lt;/em&gt; context closer, but by repeating that context over and over, everything else moves farther apart from another.&lt;/p&gt;\n\n&lt;p&gt;It may be a necessary evil right now, but it&amp;#39;s definitely not as simple and straight-forward of a victory as you&amp;#39;re suggesting here.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1lrsx20",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/n1rkyvh/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1751869868,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1751869868,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "n1gci3r",
@@ -371,7 +457,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1g82bm",
-                                "score": 3,
+                                "score": 4,
                                 "author_fullname": "t2_1ndqhesvuo",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -414,7 +500,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             }
                           ],
@@ -498,7 +584,7 @@
             "created_utc": 1751703291,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 52,
+            "score": 56,
             "author_fullname": "t2_1ndqhesvuo",
             "approved_by": null,
             "mod_note": null,
@@ -540,7 +626,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 52
+            "ups": 56
           }
         },
         {
@@ -709,7 +795,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1ektoa",
-                                "score": 5,
+                                "score": 4,
                                 "author_fullname": "t2_f4boq",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -752,7 +838,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             }
                           ],
@@ -773,7 +859,7 @@
                       "created_utc": 1751680096,
                       "send_replies": true,
                       "parent_id": "t1_n1dy9i7",
-                      "score": 15,
+                      "score": 16,
                       "author_fullname": "t2_5oltmr5b",
                       "removal_reason": null,
                       "approved_by": null,
@@ -815,7 +901,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 15
+                      "ups": 16
                     }
                   }
                 ],
@@ -934,7 +1020,7 @@
                       "created_utc": 1751718407,
                       "send_replies": true,
                       "parent_id": "t1_n1e5puw",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_kenmq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -976,7 +1062,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -1009,7 +1095,7 @@
                       "created_utc": 1751687599,
                       "send_replies": true,
                       "parent_id": "t1_n1e5puw",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_22rf5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1051,7 +1137,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   }
                 ],
@@ -1072,7 +1158,7 @@
             "created_utc": 1751673684,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 69,
+            "score": 68,
             "author_fullname": "t2_1p50pl73j2",
             "approved_by": null,
             "mod_note": null,
@@ -1114,7 +1200,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 69
+            "ups": 68
           }
         },
         {
@@ -1233,7 +1319,7 @@
             "created_utc": 1751706083,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 11,
+            "score": 13,
             "author_fullname": "t2_7zmam",
             "approved_by": null,
             "mod_note": null,
@@ -1275,7 +1361,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 13
           }
         },
         {
@@ -1469,7 +1555,7 @@
             "created_utc": 1751691358,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_1g7d4o9onj",
             "approved_by": null,
             "mod_note": null,
@@ -1511,7 +1597,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -1911,7 +1997,7 @@
                       "created_utc": 1751720700,
                       "send_replies": true,
                       "parent_id": "t1_n1f4trw",
-                      "score": 7,
+                      "score": 8,
                       "author_fullname": "t2_ofadi",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1953,7 +2039,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 8
                     }
                   },
                   {
@@ -2216,7 +2302,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n1fxm7k",
-                                                    "score": 5,
+                                                    "score": 4,
                                                     "author_fullname": "t2_5tvkhk4q",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -2258,7 +2344,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -2278,7 +2364,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1fvkuq",
-                                          "score": -1,
+                                          "score": -3,
                                           "author_fullname": "t2_uz37qfx5",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2321,7 +2407,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -1
+                                          "ups": -3
                                         }
                                       }
                                     ],
@@ -2405,7 +2491,7 @@
                       "created_utc": 1751697693,
                       "send_replies": true,
                       "parent_id": "t1_n1f4trw",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_jozy285b",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2452,7 +2538,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -2473,7 +2559,7 @@
             "created_utc": 1751689155,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_4hjtgq5u",
             "approved_by": null,
             "mod_note": null,
@@ -2515,82 +2601,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "n1j0fc4",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": false,
-            "author": "hotnerds28",
-            "can_mod_post": false,
-            "created_utc": 1751747789,
-            "send_replies": true,
-            "parent_id": "t3_1lrsx20",
-            "score": 5,
-            "author_fullname": "t2_eoq08",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "# How carpentry actually works — a toy example with real math\n\nMost carpentry teachers jump into wood and scary materials theory. But I find this very difficult to understand. Here’s the tiny end-to-end demo that can easy to understand for me:\n\n# Suppose we have a nail.\n\nAnd we want to do carpentry on wood.\n\n# Step 1: Lift your arm\n\nThe tool weighs 1.5 kg.\nWe raise it up about 70 cm using elbow and wrist.\nCarpentry now enters a *pre-strike latent state*:\n\n    PE = m * g * h\n       = 1.5 kg * 9.81 m/s² * 0.7 m\n       ≈ 10.3 Joules\n\nAt this point, **carpentry exists as potential** — it is stored, waiting to become real.\n\n# Step 2: Swing\n\nWe now convert this potential carpentry into true carpentry via muscle contraction:\n\n    v = √(2gh) ≈ √(2 * 9.81 * 0.7) ≈ 3.7 m/s\n\nCarpentry reaches peak velocity. The wrist transmits the energy. The nail receives it.\n\n# Step 3: Contact\n\nImpact time ≈ 0.02 seconds\nWe deliver momentum:\n\n    Δp = m * v = 1.5 * 3.7 = 5.55 kg·m/s  \n    F = Δp / Δt = 5.55 / 0.02 = 277.5 N\n\nAt the moment of contact, the entire concept of carpentry is realized in 20 milliseconds.\n\nThis is it. This is carpentry.\n\n# Step 4: Tendon Load\n\nThe tendons absorb the reaction. Here's the rough tension in the forearm flexor:\n\n    T ≈ F * arm leverage compensation ≈ 277.5 N * 1.1 ≈ 305 N\n\n# Step 5: Muscle Energy\n\nMuscle efficiency ≈ 25%, so:\n\n    Energy burned = 10.3 J * 4 = 41.2 J per swing\n\n60 swings per minute = 2472 J/min = 41.2 W\n\n# Step 6: Conclusion\n\nPeople think carpentry is hard. But **when you do the math it is actually simple** to understand.",
-            "edited": 1751774131,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n1j0fc4",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;h1&gt;How carpentry actually works — a toy example with real math&lt;/h1&gt;\n\n&lt;p&gt;Most carpentry teachers jump into wood and scary materials theory. But I find this very difficult to understand. Here’s the tiny end-to-end demo that can easy to understand for me:&lt;/p&gt;\n\n&lt;h1&gt;Suppose we have a nail.&lt;/h1&gt;\n\n&lt;p&gt;And we want to do carpentry on wood.&lt;/p&gt;\n\n&lt;h1&gt;Step 1: Lift your arm&lt;/h1&gt;\n\n&lt;p&gt;The tool weighs 1.5 kg.\nWe raise it up about 70 cm using elbow and wrist.\nCarpentry now enters a &lt;em&gt;pre-strike latent state&lt;/em&gt;:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;PE = m * g * h\n   = 1.5 kg * 9.81 m/s² * 0.7 m\n   ≈ 10.3 Joules\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;At this point, &lt;strong&gt;carpentry exists as potential&lt;/strong&gt; — it is stored, waiting to become real.&lt;/p&gt;\n\n&lt;h1&gt;Step 2: Swing&lt;/h1&gt;\n\n&lt;p&gt;We now convert this potential carpentry into true carpentry via muscle contraction:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;v = √(2gh) ≈ √(2 * 9.81 * 0.7) ≈ 3.7 m/s\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;Carpentry reaches peak velocity. The wrist transmits the energy. The nail receives it.&lt;/p&gt;\n\n&lt;h1&gt;Step 3: Contact&lt;/h1&gt;\n\n&lt;p&gt;Impact time ≈ 0.02 seconds\nWe deliver momentum:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Δp = m * v = 1.5 * 3.7 = 5.55 kg·m/s  \nF = Δp / Δt = 5.55 / 0.02 = 277.5 N\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;At the moment of contact, the entire concept of carpentry is realized in 20 milliseconds.&lt;/p&gt;\n\n&lt;p&gt;This is it. This is carpentry.&lt;/p&gt;\n\n&lt;h1&gt;Step 4: Tendon Load&lt;/h1&gt;\n\n&lt;p&gt;The tendons absorb the reaction. Here&amp;#39;s the rough tension in the forearm flexor:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;T ≈ F * arm leverage compensation ≈ 277.5 N * 1.1 ≈ 305 N\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;h1&gt;Step 5: Muscle Energy&lt;/h1&gt;\n\n&lt;p&gt;Muscle efficiency ≈ 25%, so:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Energy burned = 10.3 J * 4 = 41.2 J per swing\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;60 swings per minute = 2472 J/min = 41.2 W&lt;/p&gt;\n\n&lt;h1&gt;Step 6: Conclusion&lt;/h1&gt;\n\n&lt;p&gt;People think carpentry is hard. But &lt;strong&gt;when you do the math it is actually simple&lt;/strong&gt; to understand.&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/n1j0fc4/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1751747789,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1lrsx20",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 5
+            "ups": 9
           }
         },
         {
@@ -2623,7 +2634,7 @@
             "created_utc": 1751746297,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_eoq08",
             "approved_by": null,
             "mod_note": null,
@@ -2665,7 +2676,82 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n1j0fc4",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "hotnerds28",
+            "can_mod_post": false,
+            "created_utc": 1751747789,
+            "send_replies": true,
+            "parent_id": "t3_1lrsx20",
+            "score": 2,
+            "author_fullname": "t2_eoq08",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "# How carpentry actually works — a toy example with real math\n\nMost carpentry teachers jump into wood and scary materials theory. But I find this very difficult to understand. Here’s the tiny end-to-end demo that can easy to understand for me:\n\n# Suppose we have a nail.\n\nAnd we want to do carpentry on wood.\n\n# Step 1: Lift your arm\n\nThe tool weighs 1.5 kg.\nWe raise it up about 70 cm using elbow and wrist.\nCarpentry now enters a *pre-strike latent state*:\n\n    PE = m * g * h\n       = 1.5 kg * 9.81 m/s² * 0.7 m\n       ≈ 10.3 Joules\n\nAt this point, **carpentry exists as potential** — it is stored, waiting to become real.\n\n# Step 2: Swing\n\nWe now convert this potential carpentry into true carpentry via muscle contraction:\n\n    v = √(2gh) ≈ √(2 * 9.81 * 0.7) ≈ 3.7 m/s\n\nCarpentry reaches peak velocity. The wrist transmits the energy. The nail receives it.\n\n# Step 3: Contact\n\nImpact time ≈ 0.02 seconds\nWe deliver momentum:\n\n    Δp = m * v = 1.5 * 3.7 = 5.55 kg·m/s  \n    F = Δp / Δt = 5.55 / 0.02 = 277.5 N\n\nAt the moment of contact, the entire concept of carpentry is realized in 20 milliseconds.\n\nThis is it. This is carpentry.\n\n# Step 4: Tendon Load\n\nThe tendons absorb the reaction. Here's the rough tension in the forearm flexor:\n\n    T ≈ F * arm leverage compensation ≈ 277.5 N * 1.1 ≈ 305 N\n\n# Step 5: Muscle Energy\n\nMuscle efficiency ≈ 25%, so:\n\n    Energy burned = 10.3 J * 4 = 41.2 J per swing\n\n60 swings per minute = 2472 J/min = 41.2 W\n\n# Step 6: Conclusion\n\nPeople think carpentry is hard. But **when you do the math it is actually simple** to understand.",
+            "edited": 1751774131,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n1j0fc4",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;h1&gt;How carpentry actually works — a toy example with real math&lt;/h1&gt;\n\n&lt;p&gt;Most carpentry teachers jump into wood and scary materials theory. But I find this very difficult to understand. Here’s the tiny end-to-end demo that can easy to understand for me:&lt;/p&gt;\n\n&lt;h1&gt;Suppose we have a nail.&lt;/h1&gt;\n\n&lt;p&gt;And we want to do carpentry on wood.&lt;/p&gt;\n\n&lt;h1&gt;Step 1: Lift your arm&lt;/h1&gt;\n\n&lt;p&gt;The tool weighs 1.5 kg.\nWe raise it up about 70 cm using elbow and wrist.\nCarpentry now enters a &lt;em&gt;pre-strike latent state&lt;/em&gt;:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;PE = m * g * h\n   = 1.5 kg * 9.81 m/s² * 0.7 m\n   ≈ 10.3 Joules\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;At this point, &lt;strong&gt;carpentry exists as potential&lt;/strong&gt; — it is stored, waiting to become real.&lt;/p&gt;\n\n&lt;h1&gt;Step 2: Swing&lt;/h1&gt;\n\n&lt;p&gt;We now convert this potential carpentry into true carpentry via muscle contraction:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;v = √(2gh) ≈ √(2 * 9.81 * 0.7) ≈ 3.7 m/s\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;Carpentry reaches peak velocity. The wrist transmits the energy. The nail receives it.&lt;/p&gt;\n\n&lt;h1&gt;Step 3: Contact&lt;/h1&gt;\n\n&lt;p&gt;Impact time ≈ 0.02 seconds\nWe deliver momentum:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Δp = m * v = 1.5 * 3.7 = 5.55 kg·m/s  \nF = Δp / Δt = 5.55 / 0.02 = 277.5 N\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;At the moment of contact, the entire concept of carpentry is realized in 20 milliseconds.&lt;/p&gt;\n\n&lt;p&gt;This is it. This is carpentry.&lt;/p&gt;\n\n&lt;h1&gt;Step 4: Tendon Load&lt;/h1&gt;\n\n&lt;p&gt;The tendons absorb the reaction. Here&amp;#39;s the rough tension in the forearm flexor:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;T ≈ F * arm leverage compensation ≈ 277.5 N * 1.1 ≈ 305 N\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;h1&gt;Step 5: Muscle Energy&lt;/h1&gt;\n\n&lt;p&gt;Muscle efficiency ≈ 25%, so:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Energy burned = 10.3 J * 4 = 41.2 J per swing\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;60 swings per minute = 2472 J/min = 41.2 W&lt;/p&gt;\n\n&lt;h1&gt;Step 6: Conclusion&lt;/h1&gt;\n\n&lt;p&gt;People think carpentry is hard. But &lt;strong&gt;when you do the math it is actually simple&lt;/strong&gt; to understand.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/n1j0fc4/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1751747789,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1lrsx20",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
           }
         },
         {
@@ -3699,7 +3785,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1erm73",
-                                          "score": -7,
+                                          "score": -5,
                                           "author_fullname": "t2_22rf5",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3742,7 +3828,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -7
+                                          "ups": -5
                                         }
                                       }
                                     ],
@@ -3762,7 +3848,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1el8zp",
-                                "score": 11,
+                                "score": 12,
                                 "author_fullname": "t2_4s94u",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -3805,7 +3891,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 11
+                                "ups": 12
                               }
                             },
                             {
@@ -4126,7 +4212,93 @@
                                                                                             "subreddit": "LocalLLaMA",
                                                                                             "author_flair_template_id": null,
                                                                                             "likes": null,
-                                                                                            "replies": "",
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "after": null,
+                                                                                                "dist": null,
+                                                                                                "modhash": "",
+                                                                                                "geo_filter": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_81eyvm",
+                                                                                                      "approved_at_utc": null,
+                                                                                                      "author_is_blocked": false,
+                                                                                                      "comment_type": null,
+                                                                                                      "awarders": [],
+                                                                                                      "mod_reason_by": null,
+                                                                                                      "banned_by": null,
+                                                                                                      "author_flair_type": "text",
+                                                                                                      "total_awards_received": 0,
+                                                                                                      "subreddit": "LocalLLaMA",
+                                                                                                      "author_flair_template_id": null,
+                                                                                                      "likes": null,
+                                                                                                      "replies": "",
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "n1lubmz",
+                                                                                                      "banned_at_utc": null,
+                                                                                                      "mod_reason_title": null,
+                                                                                                      "gilded": 0,
+                                                                                                      "archived": false,
+                                                                                                      "collapsed_reason_code": null,
+                                                                                                      "no_follow": true,
+                                                                                                      "author": "ohdog",
+                                                                                                      "can_mod_post": false,
+                                                                                                      "created_utc": 1751792262,
+                                                                                                      "send_replies": true,
+                                                                                                      "parent_id": "t1_n1lu5ca",
+                                                                                                      "score": 1,
+                                                                                                      "author_fullname": "t2_7zmam",
+                                                                                                      "approved_by": null,
+                                                                                                      "mod_note": null,
+                                                                                                      "all_awardings": [],
+                                                                                                      "collapsed": false,
+                                                                                                      "body": "Well, that is your and your clients business, but 90-99% solutions are where most of the value of ML based applications is, which include LLM applications. There is no reason to use an LLM as google in any application as google does that already...",
+                                                                                                      "edited": false,
+                                                                                                      "top_awarded_type": null,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "name": "t1_n1lubmz",
+                                                                                                      "is_submitter": false,
+                                                                                                      "downs": 0,
+                                                                                                      "author_flair_richtext": [],
+                                                                                                      "author_patreon_flair": false,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well, that is your and your clients business, but 90-99% solutions are where most of the value of ML based applications is, which include LLM applications. There is no reason to use an LLM as google in any application as google does that already...&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "removal_reason": null,
+                                                                                                      "collapsed_reason": null,
+                                                                                                      "distinguished": null,
+                                                                                                      "associated_award": null,
+                                                                                                      "stickied": false,
+                                                                                                      "author_premium": false,
+                                                                                                      "can_gild": false,
+                                                                                                      "gildings": {},
+                                                                                                      "unrepliable_reason": null,
+                                                                                                      "author_flair_text_color": null,
+                                                                                                      "score_hidden": false,
+                                                                                                      "permalink": "/r/LocalLLaMA/comments/1lrsx20/how_rag_actually_works_a_toy_example_with_real/n1lubmz/",
+                                                                                                      "subreddit_type": "public",
+                                                                                                      "locked": false,
+                                                                                                      "report_reasons": null,
+                                                                                                      "created": 1751792262,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "treatment_tags": [],
+                                                                                                      "link_id": "t3_1lrsx20",
+                                                                                                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                                                                      "controversiality": 0,
+                                                                                                      "depth": 9,
+                                                                                                      "author_flair_background_color": null,
+                                                                                                      "collapsed_because_crowd_control": null,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "ups": 1
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
                                                                                             "user_reports": [],
                                                                                             "saved": false,
                                                                                             "id": "n1lu5ca",
@@ -4784,7 +4956,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1esuuh",
-                                          "score": 16,
+                                          "score": 15,
                                           "author_fullname": "t2_58u1t2z",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -4827,7 +4999,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 16
+                                          "ups": 15
                                         }
                                       },
                                       {
@@ -4997,7 +5169,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1ena5u",
-                                "score": -9,
+                                "score": -8,
                                 "author_fullname": "t2_4s94u",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -5040,7 +5212,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -9
+                                "ups": -8
                               }
                             }
                           ],
@@ -5124,7 +5296,7 @@
             "created_utc": 1751679276,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": -7,
+            "score": -6,
             "author_fullname": "t2_k7mcz",
             "approved_by": null,
             "mod_note": null,
@@ -5166,7 +5338,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -7
+            "ups": -6
           }
         },
         {
@@ -5179,7 +5351,7 @@
             "awarders": [],
             "mod_reason_by": null,
             "banned_by": null,
-            "ups": -5,
+            "ups": -6,
             "removal_reason": null,
             "link_id": "t3_1lrsx20",
             "author_flair_template_id": null,
@@ -5222,7 +5394,7 @@
                       "created_utc": 1751706141,
                       "send_replies": true,
                       "parent_id": "t1_n1ezuzc",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_7zmam",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5264,7 +5436,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   }
                 ],
@@ -5284,7 +5456,7 @@
             "can_mod_post": false,
             "send_replies": true,
             "parent_id": "t3_1lrsx20",
-            "score": -5,
+            "score": -6,
             "approved_by": null,
             "report_reasons": null,
             "all_awardings": [],
