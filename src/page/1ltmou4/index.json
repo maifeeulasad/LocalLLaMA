@@ -36,7 +36,7 @@
             "name": "t3_1ltmou4",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.25,
+            "upvote_ratio": 0.36,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1ltmou4/what_is_the_point_of_qat/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ltmou4/what_is_the_point_of_qat/",
-            "subreddit_subscribers": 495395,
+            "subreddit_subscribers": 495646,
             "created_utc": 1751868472,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -233,7 +233,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1rmc22",
-                                          "score": 0,
+                                          "score": 1,
                                           "author_fullname": "t2_1flwpwd3",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -276,7 +276,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 0
+                                          "ups": 1
                                         }
                                       }
                                     ],
@@ -584,7 +584,7 @@
             "created_utc": 1751870370,
             "send_replies": true,
             "parent_id": "t3_1ltmou4",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_mcvyi",
             "approved_by": null,
             "mod_note": null,
@@ -626,7 +626,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         }
       ],

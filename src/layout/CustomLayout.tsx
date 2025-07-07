@@ -2964,6 +2964,90 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1ltpidd',
         name: '🔓 No jailbreak, no prompt hacks — Just tone. Echo Mode SDK now open',
       },
+      {
+        path: '/1ltq7n9',
+        name: 'GUYS HELP ME : Ollama is utilizing my CPU more than my GPU.',
+      },
+      {
+        path: '/1ltqb0n',
+        name: 'How to Run a One-Shot Prompt (Non-Interactive) with llama.cpp?',
+      },
+      {
+        path: '/1ltqf9a',
+        name: 'LM Studio crashes',
+      },
+      {
+        path: '/1ltqw46',
+        name: 'Best cheap GPUs to run Local LLaMA / Mistral / GPTQ right now (A100, T4, 4090...)',
+      },
+      {
+        path: '/1lts4q2',
+        name: 'Video Dubbing: TTS + Speaker Detection + Auto-Length Adjustments?',
+      },
+      {
+        path: '/1lts4wd',
+        name: 'Inside Google Gemma 3n: my PyTorch Profiler insights',
+      },
+      {
+        path: '/1lts4y9',
+        name: 'eGPU Setup: Legion Laptop + RTX 5060 Ti',
+      },
+      {
+        path: '/1lts8ai',
+        name: 'Would you pay for a service that uses your localLLM to power the app',
+      },
+      {
+        path: '/1ltstdt',
+        name: '[PAPER] Overclocking LLM Reasoning: Monitoring and Controlling Thinking Path Lengths in LLMs',
+      },
+      {
+        path: '/1ltt72w',
+        name: 'Free context tool that runs local',
+      },
+      {
+        path: '/1lttyf5',
+        name: 'n8n vs Zapier',
+      },
+      {
+        path: '/1ltubvs',
+        name: 'Jamba 1.7 - a ai21labs Collection',
+      },
+      {
+        path: '/1ltv847',
+        name: 'Understanding trade-offs between: m4 max studio vs AI Max+ 395',
+      },
+      {
+        path: '/1ltvkqq',
+        name: '(Kramer UI for Ollama) I was tired of dealing with Docker, so I built a simple, portable Windows UI for Ollama.',
+      },
+      {
+        path: '/1ltw5lh',
+        name: 'Radeon Pro Duo or AMD Instinct Mi50?',
+      },
+      {
+        path: '/1ltwuga',
+        name: 'Trouble setting up conda environment for unsloth finetuning',
+      },
+      {
+        path: '/1ltxiy4',
+        name: 'LangChain/Crew/AutoGen made it easy to build agents, but operating them is a joke',
+      },
+      {
+        path: '/1ltxsqh',
+        name: 'Qwen3-8B-BitNet',
+      },
+      {
+        path: '/1ltxzad',
+        name: 'Hardware recommendations? Mac Mini, NVIDIA Orin, Ryzen AI... ?',
+      },
+      {
+        path: '/1ltyc9k',
+        name: 'Has anyone here tried to augment text data using local domain specific LLMs ?',
+      },
+      {
+        path: '/1ltze9d',
+        name: 'Do you use prompt caching to save chat history in your LLM apps?',
+      },
     ],
   },
   {
