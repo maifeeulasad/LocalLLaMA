@@ -36,7 +36,7 @@
             "name": "t3_1lsl6p6",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.2,
+            "upvote_ratio": 0.32,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "CarlosDelfino",
             "discussion_type": null,
-            "num_comments": 9,
+            "num_comments": 10,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lsl6p6/my_llm_server/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lsl6p6/my_llm_server/",
-            "subreddit_subscribers": 494986,
+            "subreddit_subscribers": 495396,
             "created_utc": 1751752493,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -342,7 +342,93 @@
                                                               "author_flair_template_id": null,
                                                               "distinguished": null,
                                                               "likes": null,
-                                                              "replies": "",
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "after": null,
+                                                                  "dist": null,
+                                                                  "modhash": "",
+                                                                  "geo_filter": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_81eyvm",
+                                                                        "approved_at_utc": null,
+                                                                        "author_is_blocked": false,
+                                                                        "comment_type": null,
+                                                                        "awarders": [],
+                                                                        "mod_reason_by": null,
+                                                                        "banned_by": null,
+                                                                        "author_flair_type": "text",
+                                                                        "total_awards_received": 0,
+                                                                        "subreddit": "LocalLLaMA",
+                                                                        "author_flair_template_id": null,
+                                                                        "distinguished": null,
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "n1op3kk",
+                                                                        "banned_at_utc": null,
+                                                                        "mod_reason_title": null,
+                                                                        "gilded": 0,
+                                                                        "archived": false,
+                                                                        "collapsed_reason_code": null,
+                                                                        "no_follow": true,
+                                                                        "author": "muxxington",
+                                                                        "can_mod_post": false,
+                                                                        "send_replies": true,
+                                                                        "parent_id": "t1_n1k62xp",
+                                                                        "score": 1,
+                                                                        "author_fullname": "t2_1ktdmsvo",
+                                                                        "approved_by": null,
+                                                                        "mod_note": null,
+                                                                        "all_awardings": [],
+                                                                        "collapsed": false,
+                                                                        "body": "[https://www.reddit.com/r/LocalLLaMA/comments/1lsl6p6/comment/n1jhwnz/](https://www.reddit.com/r/LocalLLaMA/comments/1lsl6p6/comment/n1jhwnz/)\n\nCan you send me the credentials via PM please?",
+                                                                        "edited": false,
+                                                                        "gildings": {},
+                                                                        "author_flair_css_class": null,
+                                                                        "name": "t1_n1op3kk",
+                                                                        "is_submitter": false,
+                                                                        "downs": 0,
+                                                                        "author_flair_richtext": [],
+                                                                        "author_patreon_flair": false,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1lsl6p6/comment/n1jhwnz/\"&gt;https://www.reddit.com/r/LocalLLaMA/comments/1lsl6p6/comment/n1jhwnz/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Can you send me the credentials via PM please?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "removal_reason": null,
+                                                                        "collapsed_reason": null,
+                                                                        "link_id": "t3_1lsl6p6",
+                                                                        "associated_award": null,
+                                                                        "stickied": false,
+                                                                        "author_premium": false,
+                                                                        "can_gild": false,
+                                                                        "top_awarded_type": null,
+                                                                        "unrepliable_reason": null,
+                                                                        "author_flair_text_color": null,
+                                                                        "score_hidden": false,
+                                                                        "permalink": "/r/LocalLLaMA/comments/1lsl6p6/my_llm_server/n1op3kk/",
+                                                                        "subreddit_type": "public",
+                                                                        "locked": false,
+                                                                        "report_reasons": null,
+                                                                        "created": 1751830391,
+                                                                        "author_flair_text": null,
+                                                                        "treatment_tags": [],
+                                                                        "created_utc": 1751830391,
+                                                                        "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                                        "controversiality": 0,
+                                                                        "depth": 6,
+                                                                        "author_flair_background_color": null,
+                                                                        "collapsed_because_crowd_control": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "before": null
+                                                                }
+                                                              },
                                                               "user_reports": [],
                                                               "saved": false,
                                                               "id": "n1k62xp",
@@ -356,7 +442,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n1jnrpm",
-                                                              "score": -2,
+                                                              "score": -4,
                                                               "author_fullname": "t2_jrhu3",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -398,7 +484,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": -2
+                                                              "ups": -4
                                                             }
                                                           }
                                                         ],
@@ -480,7 +566,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n1jjr12",
-                                          "score": -3,
+                                          "score": -4,
                                           "author_fullname": "t2_jrhu3",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -523,7 +609,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -3
+                                          "ups": -4
                                         }
                                       }
                                     ],
@@ -543,7 +629,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n1jix6o",
-                                "score": 4,
+                                "score": 5,
                                 "author_fullname": "t2_1ktdmsvo",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -586,7 +672,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -607,7 +693,7 @@
                       "created_utc": 1751754082,
                       "send_replies": true,
                       "parent_id": "t1_n1jhwnz",
-                      "score": -3,
+                      "score": -4,
                       "author_fullname": "t2_jrhu3",
                       "removal_reason": null,
                       "approved_by": null,
@@ -649,7 +735,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -3
+                      "ups": -4
                     }
                   }
                 ],

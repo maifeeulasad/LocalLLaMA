@@ -2712,6 +2712,258 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lsye88',
         name: 'Is that possible built a local gemini-cli totally in local and workable?',
       },
+      {
+        path: '/1lsyza0',
+        name: 'Getting started with local AI',
+      },
+      {
+        path: '/1lsz4hk',
+        name: 'Huawei\'s Pangu AI Rocked by Unverified Claims of Fraud from Alleged Team Member',
+      },
+      {
+        path: '/1lsz9iu',
+        name: 'Looking for an open-source TTS model for multi-hour, multilingual audio generation',
+      },
+      {
+        path: '/1lt0z6j',
+        name: 'Need an inference endpoint students can set up and use to test n8n workflows for an AI class, what free or non-GPU options are available?',
+      },
+      {
+        path: '/1lt13ht',
+        name: 'I built ccundo - instantly undo Claude Code\'s mistakes without wasting tokens',
+      },
+      {
+        path: '/1lt18hg',
+        name: 'Are Qwen3 Embedding GGUF faulty?',
+      },
+      {
+        path: '/1lt1z1a',
+        name: 'How do I see my tokens per second speed? I\'m using llama.cpp / ik_llama.cpp with OpenWebUI',
+      },
+      {
+        path: '/1lt254p',
+        name: 'Zhipu (company behind GLM) secures $1.4 billion strategic investment from Shanghai state funds',
+      },
+      {
+        path: '/1lt4994',
+        name: 'Streaming or non streamed responses, assuming the same (and reasonably fast) time to final token',
+      },
+      {
+        path: '/1lt4y1z',
+        name: 'Self-hosted AI coding that just works',
+      },
+      {
+        path: '/1lt6o4d',
+        name: 'I made Otacon into a desktop buddy. He comments on your active application and generally keeps you company. (X-Post /r/metalgear)',
+      },
+      {
+        path: '/1lt79jg',
+        name: 'Nvidia RTX 5060 Ti 16GB for local LLM inference with Olllama + Open WebUI',
+      },
+      {
+        path: '/1lt7zl8',
+        name: 'Best practice for domain-specific LLM?',
+      },
+      {
+        path: '/1lt7zx1',
+        name: 'Would you use a plug-and-play dev stack for building local AI apps?',
+      },
+      {
+        path: '/1lt8j4u',
+        name: 'Llamacpp | Samsung s24+ | Snapdragon 8 Gen 3 + Adreno 750 | Real world testing with Qwen3-4B',
+      },
+      {
+        path: '/1lt8zkl',
+        name: 'Im working with a project that needed synthetic data generation using LLM.Anyone here have experience with it?',
+      },
+      {
+        path: '/1lt98oq',
+        name: 'Wouldn\'t it be great if we have a local offline ChatGPT runs on a phone, with all the functionality of normal ChatGPT, such as search, deep research, perhaps function tooling. What do you think?',
+      },
+      {
+        path: '/1lt9ot6',
+        name: 'Are there any local Text-to-Speech model options that can do screamo/metal style vocals (existing models)?',
+      },
+      {
+        path: '/1lt9t7r',
+        name: 'Does anyone have a link/supplier for Nvlink cables/bridges?',
+      },
+      {
+        path: '/1ltabcu',
+        name: 'Simple and free STT (voice to text) website',
+      },
+      {
+        path: '/1ltamap',
+        name: 'Cheapest way to stack VRAM in 2025?',
+      },
+      {
+        path: '/1ltavu1',
+        name: 'deepseek promt',
+      },
+      {
+        path: '/1ltbaqx',
+        name: 'gpus and tpus needed',
+      },
+      {
+        path: '/1ltbg2s',
+        name: 'Narrative Beam Search workflow in Open WebUI',
+      },
+      {
+        path: '/1ltblb3',
+        name: 'Help Needed: Fine-Tuning Mistral 7B on Yelp Dataset',
+      },
+      {
+        path: '/1ltbr1t',
+        name: 'Best reasoning model for Apple silicon with 128GB',
+      },
+      {
+        path: '/1ltbrlf',
+        name: '🎧 Listen and Compare 12 Open-Source Text-to-Speech Models (Hugging Face Space)',
+      },
+      {
+        path: '/1ltcsbv',
+        name: 'Microsoft AI learning certification',
+      },
+      {
+        path: '/1ltcwbx',
+        name: 'Local LLM for business',
+      },
+      {
+        path: '/1ltdh0n',
+        name: 'Self hosted LLM with GPU support, Apache server, Email server on a Windows 10 PC - need to upgrade PC and OS',
+      },
+      {
+        path: '/1ltdi5y',
+        name: 'OpenWebUI - Truncating Context or Model Limitation?',
+      },
+      {
+        path: '/1ltdmhl',
+        name: 'Looking for an LLM suggestion for sorting massive CSVs.',
+      },
+      {
+        path: '/1ltdrkm',
+        name: 'tenstorrent for LLM inference',
+      },
+      {
+        path: '/1lte7m8',
+        name: 'use Blender MCP with a ready made asset pack',
+      },
+      {
+        path: '/1ltetl3',
+        name: 'ollama and lmstudio cant browser the web why not?',
+      },
+      {
+        path: '/1ltfgoy',
+        name: 'I drew a silly comic about Llama model',
+      },
+      {
+        path: '/1ltfwjv',
+        name: 'Website-Crawler: Extract data from websites in LLM ready JSON or CSV format. Crawl or Scrape entire website with Website Crawler',
+      },
+      {
+        path: '/1ltg9ji',
+        name: 'M4 Max VS M3 Ultra Qwen3 mlx inference',
+      },
+      {
+        path: '/1ltgayn',
+        name: 'Fused Qwen3 MoE layer for faster training Qwen3-30B-A3B LoRA',
+      },
+      {
+        path: '/1ltgh9h',
+        name: 'GitHub - tallesborges/agentic-system-prompts: A collection of system prompts and tool definitions from production AI coding agents',
+      },
+      {
+        path: '/1ltgq4i',
+        name: 'Split Brain Project - P4 Side adventure. MOE token heads',
+      },
+      {
+        path: '/1lth6ga',
+        name: 'The AI Revolution: How\'s it Going for You?',
+      },
+      {
+        path: '/1lthtbn',
+        name: '8.5K people voted on which AI models create the best website, games, and visualizations. Both Llama Models came almost dead last. Claude comes up on top.',
+      },
+      {
+        path: '/1ltidhz',
+        name: 'Buy a Local PC with GPU or Go for Cloud',
+      },
+      {
+        path: '/1ltj8pg',
+        name: 'Gemma 3n is not performing well with macOS M2 MacBook Pro',
+      },
+      {
+        path: '/1ltjqct',
+        name: 'Thoughts on lmsys/lmarena?',
+      },
+      {
+        path: '/1ltk7yh',
+        name: 'I\'d like to add some features to my ai if possible',
+      },
+      {
+        path: '/1ltkdjz',
+        name: 'LogiQ CLI Beta | Full LMStudio Support.',
+      },
+      {
+        path: '/1ltkkxd',
+        name: 'Built an open source project for analyzing csv files using LLMs without the llm seeing your data',
+      },
+      {
+        path: '/1ltks5a',
+        name: 'ADR–Academic Deep Research for Cybersecurity and Academic: An AI-Driven Framework for Multi-Step Threat Analysis',
+      },
+      {
+        path: '/1ltl6ui',
+        name: 'Multiple Local Supabase',
+      },
+      {
+        path: '/1ltm1mp',
+        name: 'Newbie questions in this world',
+      },
+      {
+        path: '/1ltm49x',
+        name: 'Training 8 repos of UI code',
+      },
+      {
+        path: '/1ltm6uw',
+        name: 'Dice Rolling MCP',
+      },
+      {
+        path: '/1ltmfsg',
+        name: '📘 The Aperion Prompt Discipline — A Constitution-Driven Method for Runtime-Resilient AI Systems',
+      },
+      {
+        path: '/1ltmou4',
+        name: 'What is the point of QAT?',
+      },
+      {
+        path: '/1ltmrag',
+        name: 'Which TTS Model to use?',
+      },
+      {
+        path: '/1ltmrvo',
+        name: 'Will w7900 work?',
+      },
+      {
+        path: '/1ltnpsl',
+        name: 'How good is Qwen3-14B for local use? Any benchmarks vs other models?',
+      },
+      {
+        path: '/1lto2in',
+        name: 'best llm for 32 gb ram and 8gb vram',
+      },
+      {
+        path: '/1lto3t9',
+        name: 'PGDS approach to full model inference on consumer grade GPUs',
+      },
+      {
+        path: '/1ltonwy',
+        name: 'Should I remove these?',
+      },
+      {
+        path: '/1ltpidd',
+        name: '🔓 No jailbreak, no prompt hacks — Just tone. Echo Mode SDK now open',
+      },
     ],
   },
   {
