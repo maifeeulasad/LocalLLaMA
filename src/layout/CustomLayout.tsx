@@ -3013,6 +3013,10 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Jamba 1.7 - a ai21labs Collection',
       },
       {
+        path: '/1ltv7wq',
+        name: 'Double GPU setup 3090 and 5060 ti 16GB',
+      },
+      {
         path: '/1ltv847',
         name: 'Understanding trade-offs between: m4 max studio vs AI Max+ 395',
       },
@@ -3047,6 +3051,182 @@ const defaultMenus: MenuDataItem[] = [
       {
         path: '/1ltze9d',
         name: 'Do you use prompt caching to save chat history in your LLM apps?',
+      },
+      {
+        path: '/1lu0x2s',
+        name: 'Tool Calling',
+      },
+      {
+        path: '/1lu1z10',
+        name: 'Learning triton &amp; cuda: How far can colab + nsight-compute take me?',
+      },
+      {
+        path: '/1lu3ohu',
+        name: 'Am I stupid? I just got Gigabyte AI TOP W7900 for ~$1000',
+      },
+      {
+        path: '/1lu4t37',
+        name: 'Octominer + P102-100 build... worth it?',
+      },
+      {
+        path: '/1lu5g8c',
+        name: 'Thanks to you, I built an open-source website that can watch your screen and trigger actions. It runs 100% locally and was inspired by all of you!',
+      },
+      {
+        path: '/1lu5lz6',
+        name: 'API for OSS TTS models (Sesame CSM-1B etc.)',
+      },
+      {
+        path: '/1lu6yud',
+        name: 'i\'d like to see ai push 928,726 changes to prod on a friday evening',
+      },
+      {
+        path: '/1lu7506',
+        name: 'What are the best options currently for a real time voice chat?',
+      },
+      {
+        path: '/1lu75js',
+        name: 'Please gut-check these W7900 vs 7900 XTX server builds',
+      },
+      {
+        path: '/1lu7hd6',
+        name: 'Has anyone set up a generalized work/research assistant?',
+      },
+      {
+        path: '/1lu7hm7',
+        name: 'Let the LLM Write the Prompts: An Intro to Building with DSPy',
+      },
+      {
+        path: '/1lu7lsi',
+        name: 'UI/UX Benchmark Update and Response: More Models, Updating Ranking, Open Data Soon',
+      },
+      {
+        path: '/1lu818k',
+        name: 'Locally run TTS Models',
+      },
+      {
+        path: '/1lu8bw3',
+        name: 'Help Us Improve Automation Tools – Share Your Experience in a 5-Minute Survey!',
+      },
+      {
+        path: '/1lu8x2i',
+        name: 'Need help with basic functionality',
+      },
+      {
+        path: '/1lu9zh2',
+        name: 'Stream of consciousness from Gemma3-1B',
+      },
+      {
+        path: '/1luacs4',
+        name: 'Looking for "local" models to run on Super Computer',
+      },
+      {
+        path: '/1luahr3',
+        name: 'Looking to connect devs who want to build something real this summer',
+      },
+      {
+        path: '/1luaket',
+        name: 'No "attach" button in Jan',
+      },
+      {
+        path: '/1lub87l',
+        name: 'Dual GPU with 2nd PSU and add2psu confusion.',
+      },
+      {
+        path: '/1lubdcg',
+        name: 'So, does anyone have a good workflow to replace google search yet?',
+      },
+      {
+        path: '/1lubunz',
+        name: 'Chrome now includes a built-in local LLM, I built a wrapper to make the API easier to use',
+      },
+      {
+        path: '/1lubwky',
+        name: 'Insulting LLMs instead of encouraging LLMs in their system prompts works as well.',
+      },
+      {
+        path: '/1lue5xt',
+        name: 'Qwen3-235B-Q2 running locally on my 64GB (DDR4) and 32GB VRAM machine',
+      },
+      {
+        path: '/1lue75q',
+        name: 'Day 11/50: Building a small language from scratch: Introduction to the Attention Mechanism in Large Language Models (LLMs)',
+      },
+      {
+        path: '/1lueszq',
+        name: 'Sanity Check',
+      },
+      {
+        path: '/1luevql',
+        name: 'test',
+      },
+      {
+        path: '/1lueziv',
+        name: 'Mercury: Ultra-Fast Language Models Based on Diffusion',
+      },
+      {
+        path: '/1luf8d1',
+        name: 'Using content filters in AI apps: ShieldGemma, LlamaGuard, or something else?',
+      },
+      {
+        path: '/1lufhso',
+        name: 'Let\'s train a local open-source coding agent model and kick BigAI\'s ass!',
+      },
+      {
+        path: '/1lugblm',
+        name: 'OpenAI Board Member on AI Job Displacement',
+      },
+      {
+        path: '/1lugdls',
+        name: 'How to train lora on 5090',
+      },
+      {
+        path: '/1luh1w3',
+        name: 'Gemma 3n on phone with 6GB of ram',
+      },
+      {
+        path: '/1luh8e2',
+        name: 'I need help understanding what model I can run on my laptop',
+      },
+      {
+        path: '/1luha71',
+        name: 'Seeking advice on unifying local LLaMA and cloud LLMs under one API',
+      },
+      {
+        path: '/1luhmmi',
+        name: 'Bytedance releases new agentic coding assistant: Trae-Agent',
+      },
+      {
+        path: '/1luhpxa',
+        name: 'Grok open source',
+      },
+      {
+        path: '/1lui2hs',
+        name: 'Which model has good user interface in results part?',
+      },
+      {
+        path: '/1lui7nc',
+        name: 'Prompt House: A prompt manager that connects directly to your AI tools',
+      },
+      {
+        path: '/1luia44',
+        name: 'Law training',
+      },
+      {
+        path: '/1luig63',
+        name: 'Whisper-large-v3 on VertexAI not supporting return_timstamps: True ?',
+      },
+      {
+        path: '/1luiigi',
+        name: '[Tool Release] Finetune &amp; Quantize 1–3B LLMs on 8GB RAM using LoFT CLI (TinyLlama + QLoRA + llama.cpp)',
+      },
+      {
+        path: '/1luj1cb',
+        name: 'Agents or Workflows? 150 practitioners voted on the difference',
+      },
+      {
+        path: '/1lujedm',
+        name: 'Hunyuan-A13B model support has been merged into llama.cpp',
       },
     ],
   },

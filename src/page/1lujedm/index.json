@@ -1,0 +1,270 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Hunyuan-A13B model support has been merged into llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1lujedm",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#bbbdbf",
+            "ups": 16,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_vqgbql9w",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 16,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=aec3ead8535f727ba58857fb2d8729dbb4c22ec1",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1751963809,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "github.com",
+            "allow_live_comments": false,
+            "selftext_html": null,
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://github.com/ggml-org/llama.cpp/pull/14425",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?auto=webp&amp;s=d4342d1c11e611651e0e4e88fb4f8eecc93ee069",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8f8321301cd9e7e2450ca67d1db3bab2b2eac99c",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d6a60aaccbbf98bd766667379045fc5798f647a0",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=98aab1a7bfec8ea7635c8210798d8de572447cc5",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d85e0ea0459ffe03d3921b645c9c77dcaf2f99bd",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9387a9b771242f51f3a135a158247896026dcd8d",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bc9c58e73c20dfe8c813ebb545cae6a2b0a165bc",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "9jUZNMJtHKaljkWO0STnEWPE0o_A8ZlYFbsk9KFfTaQ"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1lujedm",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "jacek2023",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1lujedm/hunyuana13b_model_support_has_been_merged_into/",
+            "stickied": false,
+            "url": "https://github.com/ggml-org/llama.cpp/pull/14425",
+            "subreddit_subscribers": 496036,
+            "created_utc": 1751963809,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n1ycckn",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Sorry_Ad191",
+            "can_mod_post": false,
+            "created_utc": 1751964313,
+            "send_replies": true,
+            "parent_id": "t3_1lujedm",
+            "score": 2,
+            "author_fullname": "t2_1rig07ocmc",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Hurray!!!!! Nice work!!!!!",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n1ycckn",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hurray!!!!! Nice work!!!!!&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1lujedm/hunyuana13b_model_support_has_been_merged_into/n1ycckn/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1751964313,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1lujedm",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
