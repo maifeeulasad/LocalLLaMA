@@ -3228,6 +3228,656 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1lujedm',
         name: 'Hunyuan-A13B model support has been merged into llama.cpp',
       },
+      {
+        path: '/1lupg1f',
+        name: 'Q&amp;A Content Pattern Assessment — Survey from Stack Overflow',
+      },
+      {
+        path: '/1lupk47',
+        name: 'Efficient Multimodal Data Pipeline',
+      },
+      {
+        path: '/1luq8hp',
+        name: 'Skywork/Skywork-R1V3-38B · Hugging Face',
+      },
+      {
+        path: '/1lure0g',
+        name: 'What kind of throughput can I expect with Llama 3.1 on a H200?',
+      },
+      {
+        path: '/1lurili',
+        name: 'Practical Attacks on AI Text Classifiers with RL (Qwen/Llama, datasets and models available for download)',
+      },
+      {
+        path: '/1luroqh',
+        name: 'NVIDIA’s Highly Anticipated “Mini-Supercomputer,” the DGX Spark, Launches This Month — Bringing Immense AI Power to Your Hands — up to 4000
+
+const loopMenuItem = (menus: MenuDataItem[]): MenuDataItem[] =>
+  menus.map(({ icon, children, ...item }) => ({
+    ...item,
+    icon,
+    children: children && loopMenuItem(children),
+    path: item.path,
+  }));
+
+interface ICustomFooterMenuProps {
+  collapsed?: boolean;
+}
+
+// @ts-ignore
+const TRACE: string = __HEAD_COMMIT_HASH__;
+
+const CustomFooterMenu = ({ collapsed }: ICustomFooterMenuProps) => {
+  const [api, contextHolder] = notification.useNotification();
+
+  const copyLink = () => {
+    copyText(TRACE);
+    api.open({
+      key: TRACE,
+      message: 'Trace ID copied to clipboard',
+      description: `ID: ${TRACE}`,
+      duration: 2,
+      closeIcon: <div />,
+    });
+  };
+
+  if (collapsed) return undefined;
+  return (
+    <>
+      {contextHolder}
+      <div style={{ textAlign: 'center' }}>
+        <div style={{ textAlign: 'center', wordBreak: 'break-word', whiteSpace: 'pre-wrap' }}>
+          <div>
+            { /* @ts-ignore */}
+            {TRACE ? `Trace: ${TRACE}` : ''}
+            <CopyOutlined onClick={() => copyLink()} />
+          </div>
+          <div>
+            &copy; {new Date().getFullYear()} - Maifee Ul Asad
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+const debounce = (func: (...args: any[]) => void, wait: number) => {
+  let timeout: NodeJS.Timeout;
+  return (...args: any[]) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func(...args), wait);
+  };
+};
+
+const SearchBar = () => {
+  const navigate = useNavigate();
+  const [form] = Form.useForm();
+  const sections = ['whole']; // todo: add sections dynamically, news, discussion, etc.
+
+  const [resetVisibility, setResetVisibility] = useState(true);
+  const [results, setResults] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [fuse, setFuse] = useState<Fuse<any> | null>(null);
+
+  useEffect(() => {
+    // Flatten your menus for Fuse index
+    const flattenMenus = (menus: any[], acc: any[] = []): any[] => {
+      menus.forEach((menu) => {
+        if (menu.children) {
+          flattenMenus(menu.children, acc);
+        } else {
+          acc.push({
+            id: menu.path.replace('/', ''),
+            title: menu.name,
+          });
+        }
+      });
+      return acc;
+    };
+
+    const flatList = flattenMenus(defaultMenus);
+    const fuseInstance = new Fuse(flatList, {
+      keys: ['title'],
+      threshold: 0.4,
+    });
+    setFuse(fuseInstance);
+    setLoading(false);
+  }, []);
+
+  const doSearch = useMemo(
+    () =>
+      debounce((keyword: string) => {
+        if (fuse && keyword) {
+          const searchResults = fuse.search(keyword);
+          setResults(searchResults.map((r) => r.item));
+        } else {
+          setResults([]);
+        }
+      }, 200),
+    [fuse]
+  );
+
+  const onValuesChange = (_changedValues: any, allValues: any) => {
+    const { keyword } = allValues;
+    setResetVisibility(!keyword);
+    if (keyword) {
+      doSearch(keyword);
+    } else {
+      setResults([]);
+    }
+  };
+
+  const onFinish = () => {
+    if (results.length > 0) {
+      navigate(results[0].path || `/${results[0].id}`);
+      form.resetFields();
+      setResults([]);
+    }
+  };
+
+  return (
+    <div style={{ width: '100%' }}>
+      <Form
+        form={form}
+        layout="inline"
+        onValuesChange={onValuesChange}
+        onFinish={onFinish}
+        autoComplete="on"
+        style={{
+          display: 'flex',
+          padding: 8,
+          backdropFilter: 'blur(10px)',
+          backgroundColor: 'rgba(255, 255, 255, 0.5)',
+        }}
+      >
+        <Form.Item name="range" initialValue={sections[0]}>
+          <Select
+            options={sections.map((section) => ({ label: section, value: section }))}
+            style={{ width: 120 }}
+          />
+        </Form.Item>
+
+        <Form.Item name="keyword" style={{ flex: 1 }}>
+          <Input placeholder="Search posts..." allowClear />
+        </Form.Item>
+
+        <Form.Item hidden={resetVisibility}>
+          <Button icon={<ReloadOutlined />} onClick={() => form.resetFields()} />
+        </Form.Item>
+
+        <Form.Item>
+          <Button icon={<SearchOutlined />} type="primary" htmlType="submit" />
+        </Form.Item>
+      </Form>
+
+      {loading ? (
+        <div style={{ marginTop: 12, textAlign: 'center' }}>
+          <Spin tip="Building search index..." />
+        </div>
+      ) : results.length > 0 ? (
+        <List
+          size="small"
+          bordered
+          style={{
+            marginTop: 8,
+            background: '#fff',
+            border: '1px solid #ddd',
+            maxHeight: 250,
+            overflowY: 'auto',
+          }}
+          dataSource={results}
+          renderItem={(item) => (
+            <List.Item
+              style={{ cursor: 'pointer' }}
+              onClick={() => {
+                navigate(item.path || `/${item.id}`);
+                form.resetFields();
+                setResults([]);
+              }}
+            >
+              {item.title}
+            </List.Item>
+          )}
+        />
+      ) : null}
+    </div>
+  );
+};
+
+const renderMenuItem = (item: any, dom: React.ReactNode) => <Link to={item.path || '/'}>{dom}</Link>;
+
+const subMenuItemRender = (item: any, dom: React.ReactNode) => <Link to={item.path || '/'}>{dom}</Link>;
+
+interface ICustomLayoutProps {
+  children: ReactNode;
+}
+
+const CustomLayout = ({ children }: ICustomLayoutProps) => {
+  const location = useLocation();
+
+  const [scrollPercent, setScrollPercent] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const scrolled = (scrollTop / scrollHeight) * 100;
+      setScrollPercent(scrolled);
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  return (
+    <ProLayout
+      logo={logo}
+      title="r/LocalLLaMA"
+      style={{ minHeight: '100vh' }}
+      fixSiderbar
+      location={location}
+      menu={{
+        request: async () => loopMenuItem(defaultMenus),
+      }}
+      route={{ routes: defaultMenus }}
+      menuItemRender={renderMenuItem}
+      subMenuItemRender={subMenuItemRender}
+      // eslint-disable-next-line
+      menuFooterRender={(props) => <CustomFooterMenu {...props} />}
+    >
+      <PageContainer header={{ title: true }}>
+        <Affix offsetTop={0}>
+          <div style={{ position: 'relative' }}>
+            <div
+              style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                height: 4,
+                width: `${scrollPercent}%`,
+                background: '#1890ff',
+                transition: 'width 0.1s ease-out',
+                zIndex: 9999,
+              }}
+            />
+            <SearchBar />
+          </div>
+        </Affix>
+        <div style={{ padding: 16, background: 'transparent' }}>
+          {children}
+        </div>
+      </PageContainer>
+    </ProLayout>
+  );
+};
+
+export { CustomLayout };
+,
+      },
+      {
+        path: '/1lurv79',
+        name: 'Major Hugging Face announcement on July 24th',
+      },
+      {
+        path: '/1lurzqf',
+        name: 'NextCoder - a Microsoft Collection',
+      },
+      {
+        path: '/1lus2yw',
+        name: 'new models from NVIDIA: OpenCodeReasoning-Nemotron-1.1 7B/14B/32B',
+      },
+      {
+        path: '/1lusfyg',
+        name: 'Run Fine-Tuned LLMs on iPhone Neural Engine',
+      },
+      {
+        path: '/1lusr7l',
+        name: 'SmolLM3: reasoning, long context and multilinguality for 3B parameter only',
+      },
+      {
+        path: '/1lutlfx',
+        name: 'Local PDF Database searchable with ollama - best setup?',
+      },
+      {
+        path: '/1lutzav',
+        name: 'I am having trouble with llama fine tuning using LoRA unsloth',
+      },
+      {
+        path: '/1luu65g',
+        name: 'Best model for spanish?',
+      },
+      {
+        path: '/1luu7x2',
+        name: 'LLM Writing Style / GPT Slop',
+      },
+      {
+        path: '/1luu94f',
+        name: 'I used ChatGPT to formulate 50+ questions to test the latest Cogito Qwen 8b model, in "thinking" mode, here are the results',
+      },
+      {
+        path: '/1luvt31',
+        name: 'Which project/program or IDE to use attached with LLM online/local for free use for entire code-repos?',
+      },
+      {
+        path: '/1luw10n',
+        name: 'Need help with on prem',
+      },
+      {
+        path: '/1luw2yu',
+        name: 'In-browser Local Document Understanding Using SmolDocling 256M with Transformers.js',
+      },
+      {
+        path: '/1luw8s3',
+        name: 'Is hyperthreads the right language to use?',
+      },
+      {
+        path: '/1luwa98',
+        name: 'Help Needed: Building a PC.',
+      },
+      {
+        path: '/1luwgkn',
+        name: 'Most effective way to host LLM of over 20B params',
+      },
+      {
+        path: '/1luwtdr',
+        name: 'NSFW Model image analysis',
+      },
+      {
+        path: '/1luwyou',
+        name: 'MCP alternative tailored to local models',
+      },
+      {
+        path: '/1lux0q2',
+        name: 'LM Studio is now free for use at work',
+      },
+      {
+        path: '/1lux5d5',
+        name: 'What\'s the differences between thoes Qwen3-30B-A3B versions?',
+      },
+      {
+        path: '/1luxkms',
+        name: 'My Serires of Cartoon',
+      },
+      {
+        path: '/1luxtzk',
+        name: '9950x3d+nvidia cuda+integrated gpu on vulkan, is it possibile?',
+      },
+      {
+        path: '/1luxu6s',
+        name: 'Any one tried ERNIE-4.5-21B-A3B?',
+      },
+      {
+        path: '/1luy32e',
+        name: 'SmolLM3 has day-0 support in MistralRS!',
+      },
+      {
+        path: '/1luy711',
+        name: 'Comparing LLM Providers Throughput',
+      },
+      {
+        path: '/1luybka',
+        name: 'LLM Hallucination Detection Leaderboard for both RAG and Chat',
+      },
+      {
+        path: '/1luycyq',
+        name: 'Has there been research into prompting strategies for models?',
+      },
+      {
+        path: '/1luyhi9',
+        name: 'LLM to answer someone\'s contacts as themselves ?',
+      },
+      {
+        path: '/1luytx2',
+        name: 'Best Local LLM for Code assist similar to Sonnet 4?',
+      },
+      {
+        path: '/1luz92k',
+        name: 'Thoughts on local LLM &amp; Proxmox homelab using Chinese x99 dual Xeon board + 2x3090',
+      },
+      {
+        path: '/1lv0ukq',
+        name: 'Claude / GPT4 keeps breaking JSON formatting. Anyone find a real fix?',
+      },
+      {
+        path: '/1lv0wvw',
+        name: 'Are there tools to make a model respond to itself using different system prompts ?',
+      },
+      {
+        path: '/1lv1763',
+        name: 'Prompt to "compress" transcripts',
+      },
+      {
+        path: '/1lv1fpo',
+        name: 'Is there a Grammarly equivalent I can run locally?',
+      },
+      {
+        path: '/1lv1m0i',
+        name: 'Best context compression other than llmlingua?',
+      },
+      {
+        path: '/1lv1z7b',
+        name: 'Why hasn\'t RTX Pro 6000 Balckwell significantly shake down the price of older RTX 6000 / RTX 6000 Ada',
+      },
+      {
+        path: '/1lv2t7n',
+        name: '"Not x, but y" Slop Leaderboard',
+      },
+      {
+        path: '/1lv53nn',
+        name: 'What\'s local about this?',
+      },
+      {
+        path: '/1lv5je7',
+        name: 'How fast is inference when utilizing DDR5 and PCIe 5.0x16?',
+      },
+      {
+        path: '/1lv5uie',
+        name: 'High Precision',
+      },
+      {
+        path: '/1lv6mju',
+        name: 'How Antropic has teached the Claude to decide wherher to choose a tool or respond normally?',
+      },
+      {
+        path: '/1lv7j1j',
+        name: 'Guidance Needed on Local Setup',
+      },
+      {
+        path: '/1lv7s0r',
+        name: 'Reimplementing an LLM from Scratch',
+      },
+      {
+        path: '/1lv7tgz',
+        name: 'LLM Model Response Diff Tool',
+      },
+      {
+        path: '/1lv7vsm',
+        name: 'Most explicit erotic LLM model',
+      },
+      {
+        path: '/1lv7xnh',
+        name: 'Web application for comparing responses from different LLMs side-by-side.',
+      },
+      {
+        path: '/1lv85jp',
+        name: 'Day 12/50: Building a Small Language Model from Scratch - Implementing a Simplified Attention Mechanism in Python',
+      },
+      {
+        path: '/1lv88fs',
+        name: 'Anime and manga conversational model?',
+      },
+      {
+        path: '/1lv8b55',
+        name: 'Good books or resources on hosting LLMs and VLMs in production',
+      },
+      {
+        path: '/1lv8cje',
+        name: 'Just built an open-source MCP server to live-monitor your screen — ScreenMonitorMCP',
+      },
+      {
+        path: '/1lv8j5q',
+        name: 'Pocket LLM Server Just Like a Pocket WiFi',
+      },
+      {
+        path: '/1lv910v',
+        name: 'State of Foundation Models, 2025 | Innovation Endeavors',
+      },
+      {
+        path: '/1lv94fb',
+        name: 'Code for Skywork-R1V3-38B',
+      },
+      {
+        path: '/1lv9m3j',
+        name: 'MemOS: A Memory OS for AI System',
+      },
+      {
+        path: '/1lv9yhq',
+        name: 'OPENCODE - Like Claude Code or Gemini CLI, but works with local models and/or paid ones as well',
+      },
+      {
+        path: '/1lvah1f',
+        name: 'Best SSD Stick for Nvidia Jetson Orin Nano?',
+      },
+      {
+        path: '/1lvakg5',
+        name: 'Trying to recreate benchmark results',
+      },
+      {
+        path: '/1lvaq6n',
+        name: 'Limitation of NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition',
+      },
+      {
+        path: '/1lvbmje',
+        name: 'I Built a Multi-Agent System to Generate Better Tech Conference Talk Abstracts',
+      },
+      {
+        path: '/1lvbzpx',
+        name: 'A language model built for the public good',
+      },
+      {
+        path: '/1lvc2nj',
+        name: 'Linux Foundation to Host A2A Protocol',
+      },
+      {
+        path: '/1lvcb72',
+        name: 'Here is how we beat ChatGPT at classification with 1 dollar in cloud compute',
+      },
+      {
+        path: '/1lvcyvf',
+        name: 'Is knowledge found in the thinking taken into consideration by the LLM?',
+      },
+      {
+        path: '/1lvd5nj',
+        name: '[Open Source] Private AI assistant extension - thoughts on local vs cloud approaches?',
+      },
+      {
+        path: '/1lvd7z4',
+        name: 'support for Falcon-H1 model family has been merged into llama.cpp',
+      },
+      {
+        path: '/1lvek0j',
+        name: 'Difficulty in fine tuning (Llora) SmolLM2-135M-Instruct on "GSM8K and MATH" training data.',
+      },
+      {
+        path: '/1lveslz',
+        name: 'Is AMD GPU a viable choice for AI/ML task with Intel processor?',
+      },
+      {
+        path: '/1lvevuz',
+        name: 'Building a silent, budget 4-GPU LLM workstation—1×3090 + 3×P40, need advice',
+      },
+      {
+        path: '/1lvex1e',
+        name: 'Need help translating Korean videos',
+      },
+      {
+        path: '/1lvf448',
+        name: 'Anyone have ideas for preventing file corruption and saving errors when i save model weights after training?.After training the whole model on a rented gpu server and realising that the model weight file got corrupted hurts🙂',
+      },
+      {
+        path: '/1lvf7ww',
+        name: 'First Hugging Face robot: Reachy Mini. Hackable yet easy to use, powered by open-source and the community',
+      },
+      {
+        path: '/1lvg25f',
+        name: 'A satirical theory-fiction on the transformation of academic tutors into Turing cops, marking into an imitation game, and Al generated homework into the trigger for the technological singularity',
+      },
+      {
+        path: '/1lvglk7',
+        name: 'vLLM vs SGLang vs MAX — Who\'s the fastest?',
+      },
+      {
+        path: '/1lvh4ou',
+        name: 'Qwen3 0.6b MNN acting weird',
+      },
+      {
+        path: '/1lvh87a',
+        name: 'What modes can expect I run on an AMD Ryzen AI Max+ 395?',
+      },
+      {
+        path: '/1lvhxe7',
+        name: '🚀 Built another 124m parameter transformer based model from scratch.This time with multi GPU training using DDP.Inspired from nanoGPT.But redesigned to suit my own training pipeline.Model and training code is on huggingface⬇️',
+      },
+      {
+        path: '/1lvhzeg',
+        name: 'Is there a opensource local model implementation of an agent out there?',
+      },
+      {
+        path: '/1lvi022',
+        name: 'Generate low-dimension embeddings *quickly*?',
+      },
+      {
+        path: '/1lvipg4',
+        name: 'Looking for Prompt collections',
+      },
+      {
+        path: '/1lvirqs',
+        name: 'Hunyuan A13B tensor override',
+      },
+      {
+        path: '/1lviwb4',
+        name: 'What model could I finetune to create a study assistant llm?',
+      },
+      {
+        path: '/1lvj0hl',
+        name: 'How should I install Jan on a local machine to convert PDF bank statements to CSV?',
+      },
+      {
+        path: '/1lvj98v',
+        name: 'I built a Deep Researcher agent and exposed it as an MCP server!',
+      },
+      {
+        path: '/1lvjtc4',
+        name: 'Best Local LLM for Agentic Coding on Ollama (8 vCore, 16 GB RAM VPS)? + VS Code Extension Recommendation',
+      },
+      {
+        path: '/1lvjwoh',
+        name: 'Correct a dangerous racial bias in an LLM through targeted pruning',
+      },
+      {
+        path: '/1lvjxoy',
+        name: 'OOS Implementation of NotebookLM and DeepResearch?',
+      },
+      {
+        path: '/1lvk1ms',
+        name: 'What impressive (borderline creepy) local AI tools can I run now that everything is local?',
+      },
+      {
+        path: '/1lvkdxg',
+        name: 'Megan AI Open Playtest!',
+      },
+      {
+        path: '/1lvkigw',
+        name: 'Why TTS level is not constant?',
+      },
+      {
+        path: '/1lvm3kv',
+        name: 'Need help setting up a local LLM server with RTX 3060',
+      },
+      {
+        path: '/1lvm3tl',
+        name: 'offline AI for sensitive data processing like client bank statements PDFs to CSV - recommend me a solution',
+      },
     ],
   },
   {

@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "https://huggingface.co/abhinavv3/MEMGPT\n\nBefore training the current code Im planning to experiment by replacing the existing attention layer with GQA and the positional encoding with RoPE.Also tryingg to implement some concepts from research papers like Memorizing Transformers.\n\nBt these changes haven’t been implemented yet.Hopefully,finish them this weekend",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "🚀 Built another 124m parameter transformer based model from scratch.This time with multi GPU training using DDP.Inspired from nanoGPT.But redesigned to suit my own training pipeline.Model and training code is on huggingface⬇️",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Tutorial | Guide"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1lvhxe7",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 7,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_lpanmabv",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Tutorial | Guide",
+            "can_mod_post": false,
+            "score": 7,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1752065331,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://huggingface.co/abhinavv3/MEMGPT\"&gt;https://huggingface.co/abhinavv3/MEMGPT&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Before training the current code Im planning to experiment by replacing the existing attention layer with GQA and the positional encoding with RoPE.Also tryingg to implement some concepts from research papers like Memorizing Transformers.&lt;/p&gt;\n\n&lt;p&gt;Bt these changes haven’t been implemented yet.Hopefully,finish them this weekend&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?auto=webp&amp;s=9eb6b3e33153d9a1e7eec47f81d7366649b44f43",
+                    "width": 1200,
+                    "height": 648
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=75930a8cb5bc8aba988e25a5bac82cc215a0e3fc",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c5765a787140dc2ce42634cbfe309d6c09af0f2a",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1692e46b9b4d0df17bb239a9550751f6b89c2608",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=984cda25d5cef002021283fc911938db87b845a4",
+                      "width": 640,
+                      "height": 345
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=280811aa51b58e948f1928c17a4ec625430505e3",
+                      "width": 960,
+                      "height": 518
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a3094841cc6d3388d2ef1a0ef0463f052679efc2",
+                      "width": 1080,
+                      "height": 583
+                    }
+                  ],
+                  "variants": {},
+                  "id": "PkaVJdjdt2e0bH0yRf3ozkpDnxMg4PDYNZHjCoWf310"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "449b05a6-bf8e-11ed-b4bd-66961e47bd50",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#0079d3",
+            "id": "1lvhxe7",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Remarkable-Ad3290",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1lvhxe7/built_another_124m_parameter_transformer_based/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lvhxe7/built_another_124m_parameter_transformer_based/",
+            "subreddit_subscribers": 496591,
+            "created_utc": 1752065331,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
