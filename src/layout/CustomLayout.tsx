@@ -3229,6 +3229,10 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Hunyuan-A13B model support has been merged into llama.cpp',
       },
       {
+        path: '/1lumsd2',
+        name: 'Mac Studio 512GB online!',
+      },
+      {
         path: '/1lupg1f',
         name: 'Q&amp;A Content Pattern Assessment — Survey from Stack Overflow',
       },
@@ -3877,6 +3881,262 @@ export { CustomLayout };
       {
         path: '/1lvm3tl',
         name: 'offline AI for sensitive data processing like client bank statements PDFs to CSV - recommend me a solution',
+      },
+      {
+        path: '/1lvm4vg',
+        name: 'Budget GPU options?',
+      },
+      {
+        path: '/1lvm7vk',
+        name: 'BastionChat: Finally got Qwen3 + Gemma3 (thinking models) running locally on iPhone/iPad with full RAG and voice mode',
+      },
+      {
+        path: '/1lvn1sd',
+        name: 'OpenAI\'s open-weight model will debut as soon as next week',
+      },
+      {
+        path: '/1lvne34',
+        name: 'Local LLMs in small biz setups — anyone using them in production-like scenarios?',
+      },
+      {
+        path: '/1lvnevz',
+        name: 'Favorite local model for therapy chat?',
+      },
+      {
+        path: '/1lvngkz',
+        name: 'Nvidia RTX Pro 6000 (96 Gb) vs Apple M3 Ultra (512 Gb)',
+      },
+      {
+        path: '/1lvnkuk',
+        name: 'Drummer\'s Big Tiger Gemma 27B v3 and Tiger Gemma 12B v3! More capable, less positive!',
+      },
+      {
+        path: '/1lvo6ae',
+        name: 'Advice on switching to LLM',
+      },
+      {
+        path: '/1lvoagh',
+        name: 'New to Local LLMs. Why all local models are so censored?',
+      },
+      {
+        path: '/1lvovpb',
+        name: 'Seeking 1 Dev to Build Private Multi-Agent LLM Sanctuary (Local Only)',
+      },
+      {
+        path: '/1lvowxo',
+        name: 'The guide to OpenAI Codex CLI',
+      },
+      {
+        path: '/1lvpp0e',
+        name: 'Help settle a debate on the Lemonade team: how much web UI is too much for a local server?',
+      },
+      {
+        path: '/1lvprv4',
+        name: 'MLC Chat for iOS',
+      },
+      {
+        path: '/1lvqc2u',
+        name: 'How to provide most accurate context to LLMs?',
+      },
+      {
+        path: '/1lvqnjh',
+        name: 'T5Gemma - A Google Collection',
+      },
+      {
+        path: '/1lvqtxa',
+        name: 'multimodal medgemma 27b',
+      },
+      {
+        path: '/1lvqv8e',
+        name: 'new tiny 1.7B open-source reranker beats Cohere rerank3.5',
+      },
+      {
+        path: '/1lvqzxa',
+        name: 'Advice on building an AI pc',
+      },
+      {
+        path: '/1lvr2ea',
+        name: 'There\'s a strange double standard at play in the AI community',
+      },
+      {
+        path: '/1lvr3ym',
+        name: 'OpenAI\'s open source LLM is a reasoning model, coming Next Thursday!',
+      },
+      {
+        path: '/1lvr711',
+        name: 'support for Jamba hybrid Transformer-Mamba models has been merged into llama.cpp',
+      },
+      {
+        path: '/1lvs37w',
+        name: '2x3090, Ollama: gemma3:27b-it-qat keeps partial offloading to cpu',
+      },
+      {
+        path: '/1lvslsc',
+        name: 'Currently in the process of building a stacked ai agent system any advice?',
+      },
+      {
+        path: '/1lvsw5d',
+        name: 'Bulk captioning/VLM query tool, standalone app',
+      },
+      {
+        path: '/1lvt4a9',
+        name: 'Open-source SLM for games, Unity package, demo game The Tell-Tale Heart',
+      },
+      {
+        path: '/1lvtp4h',
+        name: 'New Nvidia Jetson AGX Thor developer kit specs',
+      },
+      {
+        path: '/1lvttkc',
+        name: 'Is it possible to generate audio mimicking sample style ?',
+      },
+      {
+        path: '/1lvu7sp',
+        name: 'Musings on recent trends in closed-source and the way forward for open-source',
+      },
+      {
+        path: '/1lvun89',
+        name: 'How to run Gemma 3 27B QAT with 128k context window with 3 parallel requests possible on 2x3090',
+      },
+      {
+        path: '/1lvvkh2',
+        name: 'Hunyuan-A13B is here for real!',
+      },
+      {
+        path: '/1lvwya4',
+        name: 'Possible size of new the open model from openai',
+      },
+      {
+        path: '/1lvx088',
+        name: 'Creating .mp3 audio dialogue for RPG - RTX 3060 12GB - Which model?',
+      },
+      {
+        path: '/1lvxft1',
+        name: 'We are building a 192GB (2x 96GB) Blackwell Pro 6000 server. It deserves a beautiful case. What should we use?',
+      },
+      {
+        path: '/1lvydpk',
+        name: 'Help me, I\'m struggling with maintaining personality in LLMs? I’d love to learn from your experience!',
+      },
+      {
+        path: '/1lvyfws',
+        name: 'LLamaCPP just merged Mamba/Jamba support!!',
+      },
+      {
+        path: '/1lvyjpw',
+        name: 'ChatGPT 4.5 Quality Writing',
+      },
+      {
+        path: '/1lvyqvq',
+        name: 'Help im lost',
+      },
+      {
+        path: '/1lvyvmw',
+        name: 'Proposal: Modular, Domain &amp; Subdomain-Aware MoE for Mistral—Next Steps?',
+      },
+      {
+        path: '/1lvz9ic',
+        name: 'Subjectivity of LLM performance vs benchmarks (Garbage In Garbage Out!)',
+      },
+      {
+        path: '/1lvzf8y',
+        name: 'Lamini playground down?',
+      },
+      {
+        path: '/1lvzonf',
+        name: 'https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms',
+      },
+      {
+        path: '/1lvzwah',
+        name: 'Preceptor – A Local AI Focus App That Nudges You Back on Track | Waitlist + Suggestions needed',
+      },
+      {
+        path: '/1lw0138',
+        name: 'Do you use local LLMs for work over cloud models? Why/how?',
+      },
+      {
+        path: '/1lw05ob',
+        name: 'Llama-3_3-Nemotron-Super-49B-v1-mlx-4bit cannot be run in lm studio',
+      },
+      {
+        path: '/1lw12gt',
+        name: '[Beginner Question] Entry-Level Hobbyist Build Advice — RTX 5070 Ti vs 5090? 64GB vs 128GB RAM?',
+      },
+      {
+        path: '/1lw1qp5',
+        name: 'Fine Tune a smaller LLM for Code generation',
+      },
+      {
+        path: '/1lw3729',
+        name: 'Phi-4-mini-flash-reasoning',
+      },
+      {
+        path: '/1lw3cqn',
+        name: 'Need help buying power supplies for LocalLlama rig',
+      },
+      {
+        path: '/1lw402u',
+        name: 'Skywork-R1V3 Technical Report',
+      },
+      {
+        path: '/1lw4eej',
+        name: 'Grok 4 Benchmarks',
+      },
+      {
+        path: '/1lw5knn',
+        name: 'LLMs can find the attached papers',
+      },
+      {
+        path: '/1lw5nxi',
+        name: 'UI/UX Benchmark Update: We\'ve added Grok 4 and more models',
+      },
+      {
+        path: '/1lw5oco',
+        name: 'Local llms works great!',
+      },
+      {
+        path: '/1lw5v9y',
+        name: 'Good image 2 video that doesn\'t need high specs?',
+      },
+      {
+        path: '/1lw6jz5',
+        name: 'Transformers.js vs WebLLM',
+      },
+      {
+        path: '/1lw6u69',
+        name: 'Difference in output from Gemma3 running on Ollama.',
+      },
+      {
+        path: '/1lw71av',
+        name: 'GLM-4 MoE incoming',
+      },
+      {
+        path: '/1lw72q8',
+        name: 'What can I expect from current amd igpu performance?',
+      },
+      {
+        path: '/1lw7igq',
+        name: 'Survivalist Edge AI?',
+      },
+      {
+        path: '/1lw7yxp',
+        name: 'SYSTEM PROMPT LEAK FOR GROK 4',
+      },
+      {
+        path: '/1lw8lvt',
+        name: 'Ram Speed importance when exceeding VRAM',
+      },
+      {
+        path: '/1lw9ch2',
+        name: 'Added Grok-4 to the UGI-Leaderboard',
+      },
+      {
+        path: '/1lw9m9a',
+        name: 'QAT finetuning question',
+      },
+      {
+        path: '/1lwafqm',
+        name: 'running local LLM for the first time',
       },
     ],
   },
