@@ -36,10 +36,10 @@
             "name": "t3_1luxu6s",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.92,
+            "upvote_ratio": 0.94,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 38,
+            "ups": 42,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 38,
+            "score": 42,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1luxu6s/any_one_tried_ernie4521ba3b/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1luxu6s/any_one_tried_ernie4521ba3b/",
-            "subreddit_subscribers": 496592,
+            "subreddit_subscribers": 497025,
             "created_utc": 1752002865,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -326,7 +326,7 @@
             "created_utc": 1752004676,
             "send_replies": true,
             "parent_id": "t3_1luxu6s",
-            "score": 13,
+            "score": 15,
             "author_fullname": "t2_nm7qj8vc",
             "approved_by": null,
             "mod_note": null,
@@ -368,7 +368,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 15
           }
         },
         {
@@ -401,7 +401,7 @@
             "created_utc": 1752004587,
             "send_replies": true,
             "parent_id": "t3_1luxu6s",
-            "score": 32,
+            "score": 35,
             "author_fullname": "t2_cctud",
             "approved_by": null,
             "mod_note": null,
@@ -443,7 +443,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 32
+            "ups": 35
           }
         },
         {
@@ -492,14 +492,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": null,
+                      "collapsed_reason_code": "LOW_SCORE",
                       "no_follow": true,
                       "author": "gpupoor",
                       "can_mod_post": false,
                       "created_utc": 1752046779,
                       "send_replies": true,
                       "parent_id": "t1_n237lz5",
-                      "score": -3,
+                      "score": -5,
                       "author_fullname": "t2_1hcyral852",
                       "removal_reason": null,
                       "approved_by": null,
@@ -516,7 +516,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;ol&gt;\n&lt;li&gt;&lt;p&gt;No one (irrelevant, international local users with hardware to waste with the slowest inference engine there is that has to reimplement the wheel for no good reason) can try the models.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Gets dumped by the aforementioned irrelevant users&lt;/p&gt;&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;I think you&amp;#39;re giving yourselves a tad too much importance&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": null,
+                      "collapsed_reason": "comment score below threshold",
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -533,7 +533,7 @@
                       "created": 1752046779,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": false,
+                      "collapsed": true,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -541,7 +541,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -3
+                      "ups": -5
                     }
                   }
                 ],
@@ -562,7 +562,7 @@
             "created_utc": 1752021366,
             "send_replies": true,
             "parent_id": "t3_1luxu6s",
-            "score": 19,
+            "score": 20,
             "author_fullname": "t2_1s8rdwqx9a",
             "approved_by": null,
             "mod_note": null,
@@ -604,7 +604,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 19
+            "ups": 20
           }
         },
         {
@@ -787,7 +787,7 @@
             "created_utc": 1752005060,
             "send_replies": true,
             "parent_id": "t3_1luxu6s",
-            "score": 6,
+            "score": 4,
             "author_fullname": "t2_8nlxwtdi",
             "approved_by": null,
             "mod_note": null,
@@ -829,7 +829,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {

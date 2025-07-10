@@ -36,10 +36,10 @@
             "name": "t3_1lv1z7b",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.83,
+            "upvote_ratio": 0.86,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 24,
+            "ups": 25,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 24,
+            "score": 25,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "--dany--",
             "discussion_type": null,
-            "num_comments": 33,
+            "num_comments": 34,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lv1z7b/why_hasnt_rtx_pro_6000_balckwell_significantly/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lv1z7b/why_hasnt_rtx_pro_6000_balckwell_significantly/",
-            "subreddit_subscribers": 496591,
+            "subreddit_subscribers": 497025,
             "created_utc": 1752012747,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1752017794,
             "send_replies": true,
             "parent_id": "t3_1lv1z7b",
-            "score": 14,
+            "score": 20,
             "author_fullname": "t2_9hl4ymvj",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 20
           }
         },
         {
@@ -257,13 +257,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "HilLiedTroopsDied",
                       "can_mod_post": false,
                       "created_utc": 1752016769,
                       "send_replies": true,
                       "parent_id": "t1_n22po06",
-                      "score": 2,
+                      "score": 4,
                       "author_fullname": "t2_1snfn3ui",
                       "removal_reason": null,
                       "approved_by": null,
@@ -305,7 +305,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 4
                     }
                   },
                   {
@@ -338,7 +338,7 @@
                       "created_utc": 1752017327,
                       "send_replies": true,
                       "parent_id": "t1_n22po06",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_1socz1cgsc",
                       "removal_reason": null,
                       "approved_by": null,
@@ -380,7 +380,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -413,7 +413,7 @@
                       "created_utc": 1752029400,
                       "send_replies": true,
                       "parent_id": "t1_n22po06",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_p7nc2",
                       "removal_reason": null,
                       "approved_by": null,
@@ -455,7 +455,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -551,7 +551,7 @@
             "created_utc": 1752015491,
             "send_replies": true,
             "parent_id": "t3_1lv1z7b",
-            "score": 9,
+            "score": 12,
             "author_fullname": "t2_b0d7j6x9",
             "approved_by": null,
             "mod_note": null,
@@ -593,7 +593,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 12
           }
         },
         {
@@ -787,7 +787,7 @@
             "created_utc": 1752015822,
             "send_replies": true,
             "parent_id": "t3_1lv1z7b",
-            "score": 8,
+            "score": 9,
             "author_fullname": "t2_ah13x",
             "approved_by": null,
             "mod_note": null,
@@ -834,7 +834,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -867,7 +867,7 @@
             "created_utc": 1752017050,
             "send_replies": true,
             "parent_id": "t3_1lv1z7b",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_u6i8a0ay",
             "approved_by": null,
             "mod_note": null,
@@ -909,7 +909,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -1274,6 +1274,81 @@
             "locked": false,
             "report_reasons": null,
             "created": 1752063656,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1lv1z7b",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n2b77oz",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Imaginary_Bench_7294",
+            "can_mod_post": false,
+            "created_utc": 1752123372,
+            "send_replies": true,
+            "parent_id": "t3_1lv1z7b",
+            "score": 1,
+            "author_fullname": "t2_fling4kx",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "The pro series GPUs more than likely won't cause price drops until the data centers start rotating inventory.\n\nFor example, a data center might be running on Ada gen cards, but they're still working. Instead of just buying the new BW and replacing the ADA gen, they instead introduce tiered pricing, making the ADA GPUs cheaper to rent out. They're still cost-effective in terms of renting out hardware, just not top of the line.\n\nOnce the company decides to start phasing out the ADA Gen they'll sell off the old-new stock in bulk, then work through the active hardware as it fails or they get enough newer gen units to replace them.\n\nOnce they reach a certain threshold, they'll pull the older gen hardware in bulk and sell in bulk.\n\nBoth of these events should cause a sudden influx of the GPUs on the market, dropping their price point. But that is only if the bulk sales aren't to a company intending to utilize the HW.\n\nUntil we start seeing this happen, we will probably only witness normal market fluctuations.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n2b77oz",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The pro series GPUs more than likely won&amp;#39;t cause price drops until the data centers start rotating inventory.&lt;/p&gt;\n\n&lt;p&gt;For example, a data center might be running on Ada gen cards, but they&amp;#39;re still working. Instead of just buying the new BW and replacing the ADA gen, they instead introduce tiered pricing, making the ADA GPUs cheaper to rent out. They&amp;#39;re still cost-effective in terms of renting out hardware, just not top of the line.&lt;/p&gt;\n\n&lt;p&gt;Once the company decides to start phasing out the ADA Gen they&amp;#39;ll sell off the old-new stock in bulk, then work through the active hardware as it fails or they get enough newer gen units to replace them.&lt;/p&gt;\n\n&lt;p&gt;Once they reach a certain threshold, they&amp;#39;ll pull the older gen hardware in bulk and sell in bulk.&lt;/p&gt;\n\n&lt;p&gt;Both of these events should cause a sudden influx of the GPUs on the market, dropping their price point. But that is only if the bulk sales aren&amp;#39;t to a company intending to utilize the HW.&lt;/p&gt;\n\n&lt;p&gt;Until we start seeing this happen, we will probably only witness normal market fluctuations.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1lv1z7b/why_hasnt_rtx_pro_6000_balckwell_significantly/n2b77oz/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1752123372,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1lv1z7b",
@@ -2064,7 +2139,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n22warf",
-                                                    "score": -3,
+                                                    "score": -4,
                                                     "author_fullname": "t2_wn888",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -2106,7 +2181,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -3
+                                                    "ups": -4
                                                   }
                                                 }
                                               ],
@@ -2126,7 +2201,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n22usm7",
-                                          "score": 7,
+                                          "score": 5,
                                           "author_fullname": "t2_j1kqr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2174,7 +2249,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 7
+                                          "ups": 5
                                         }
                                       },
                                       {
@@ -2278,7 +2353,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n23gevh",
-                                                                        "score": 0,
+                                                                        "score": -1,
                                                                         "author_fullname": "t2_wn888",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -2320,7 +2395,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 0
+                                                                        "ups": -1
                                                                       }
                                                                     }
                                                                   ],
@@ -2527,7 +2602,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n22lk2z",
-                                "score": -7,
+                                "score": -9,
                                 "author_fullname": "t2_wn888",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2570,7 +2645,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -7
+                                "ups": -9
                               }
                             }
                           ],
@@ -2591,7 +2666,7 @@
                       "created_utc": 1752014181,
                       "send_replies": true,
                       "parent_id": "t1_n22l3b9",
-                      "score": 12,
+                      "score": 14,
                       "author_fullname": "t2_smvqlry",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2633,7 +2708,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 14
                     }
                   }
                 ],
@@ -2647,19 +2722,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": "LOW_SCORE",
+            "collapsed_reason_code": null,
             "no_follow": true,
             "author": "false79",
             "can_mod_post": false,
             "created_utc": 1752014034,
             "send_replies": true,
             "parent_id": "t3_1lv1z7b",
-            "score": -5,
+            "score": -4,
             "author_fullname": "t2_wn888",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": true,
+            "collapsed": false,
             "body": "I would imagine the marketplace for RTX 6000 Ada is larger than that of Blackwell due to PCIe 5.0 adoption is below that of 4.0.\n\nBlackwell is a great starting point if one just setup a PCIe 5 / DDR5 rig.",
             "edited": false,
             "top_awarded_type": null,
@@ -2671,7 +2746,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I would imagine the marketplace for RTX 6000 Ada is larger than that of Blackwell due to PCIe 5.0 adoption is below that of 4.0.&lt;/p&gt;\n\n&lt;p&gt;Blackwell is a great starting point if one just setup a PCIe 5 / DDR5 rig.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": "comment score below threshold",
+            "collapsed_reason": null,
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -2696,7 +2771,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -4
           }
         }
       ],
