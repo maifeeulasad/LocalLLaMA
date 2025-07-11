@@ -36,9 +36,9 @@
             "name": "t3_1lvyfws",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.92,
+            "upvote_ratio": 0.9,
             "author_flair_background_color": null,
-            "ups": 22,
+            "ups": 35,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 22,
+            "score": 35,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lvyfws/llamacpp_just_merged_mambajamba_support/",
             "stickied": false,
             "url": "https://github.com/ggml-org/llama.cpp/pull/7531",
-            "subreddit_subscribers": 497022,
+            "subreddit_subscribers": 497354,
             "created_utc": 1752105732,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -299,7 +299,7 @@
             "created_utc": 1752105992,
             "send_replies": true,
             "parent_id": "t3_1lvyfws",
-            "score": 6,
+            "score": 13,
             "author_fullname": "t2_88fma001",
             "approved_by": null,
             "mod_note": null,
@@ -341,7 +341,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 13
           }
         }
       ],
