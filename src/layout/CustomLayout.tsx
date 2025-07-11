@@ -4138,6 +4138,246 @@ export { CustomLayout };
         path: '/1lwafqm',
         name: 'running local LLM for the first time',
       },
+      {
+        path: '/1lwb5py',
+        name: 'Does the OpenAI Responses API work with Ollama?',
+      },
+      {
+        path: '/1lwbv22',
+        name: 'Generated Voices are Not same everytime... How to fix?',
+      },
+      {
+        path: '/1lwcixn',
+        name: 'Kimina Prover - Test-time RL to reach 92.2% on miniF2F',
+      },
+      {
+        path: '/1lwe0gn',
+        name: 'Best LLM (and setup) recommendation for $20k health analytics project (LLM + some vision + fine-tuning)',
+      },
+      {
+        path: '/1lwe5y8',
+        name: 'mistralai/Devstral-Small-2507',
+      },
+      {
+        path: '/1lwebzq',
+        name: 'GROK 4 IS NOW LIVE ON LMARENA',
+      },
+      {
+        path: '/1lwedkk',
+        name: 'Pixel 9 local llm help',
+      },
+      {
+        path: '/1lwf1t6',
+        name: 'people downvoted me for saying this. but now it is confirmed that grok 4 is just grok 3 + more RL training',
+      },
+      {
+        path: '/1lwfn7n',
+        name: 'DeliteAI: Open platform for building and running agents on Mobile',
+      },
+      {
+        path: '/1lwgohu',
+        name: 'I\'m curating a list of every OCR out there and running tests on their features. Contribution welcome!',
+      },
+      {
+        path: '/1lwgy9m',
+        name: 'RekaAI/reka-flash-3.1 · Hugging Face',
+      },
+      {
+        path: '/1lwhwq0',
+        name: 'Grok open source',
+      },
+      {
+        path: '/1lwhy37',
+        name: 'MCP server that is a memory for MCP clients (AI assistants) with your custom data types + full UI + team sharing',
+      },
+      {
+        path: '/1lwif50',
+        name: 'Using Siri to talk to a local LLM',
+      },
+      {
+        path: '/1lwih1t',
+        name: 'What\'s Happening here exactly',
+      },
+      {
+        path: '/1lwjok4',
+        name: 'Best Roleplaying Models',
+      },
+      {
+        path: '/1lwk84b',
+        name: 'Why do base models give gibberish and need further \'fine tuning\'',
+      },
+      {
+        path: '/1lwkrg4',
+        name: 'Reka Flash 3.1 benchmarks show strong progress in LLM quantisation',
+      },
+      {
+        path: '/1lwkxry',
+        name: 'AI workstation',
+      },
+      {
+        path: '/1lwl9ai',
+        name: 'The New Nvidia Model is Really Chatty',
+      },
+      {
+        path: '/1lwlw1j',
+        name: 'VS Code June 2025 (version 1.102)',
+      },
+      {
+        path: '/1lwm3w0',
+        name: 'MAXSUN preparing all-Intel Mini Station: up to Core Ultra 9 285HX and two Arc Pro B60 GPU - VideoCardz.com',
+      },
+      {
+        path: '/1lwmk0y',
+        name: 'Just released my app',
+      },
+      {
+        path: '/1lwmpqf',
+        name: 'New Devstral 2707 with mistral.rs - MCP client, automatic tool calling!',
+      },
+      {
+        path: '/1lwmxbx',
+        name: 'Whats wrong with my vLLM Config? I have 2x4070TiSupers and I couldn\'t run many models at bnb-4bit Quants.',
+      },
+      {
+        path: '/1lwn3ut',
+        name: 'Grok 4 on Fiction.liveBench Long Context Comprehension',
+      },
+      {
+        path: '/1lwniq0',
+        name: 'Workflows aren’t a weakness in AI agents, they’re why they work',
+      },
+      {
+        path: '/1lwnj5x',
+        name: 'Performance benchmarks on DeepSeek V3-0324/R1-0528/TNG-R1T2-Chimera on consumer CPU (7800X3D, 192GB RAM at 6000Mhz) and 208GB VRAM (5090x2/4090x2/3090x2/A6000) on ikllamacpp! From 3bpw (Q2_K_XL) to 4.2 bpw (IQ4_XS)',
+      },
+      {
+        path: '/1lwnxhz',
+        name: 'Can AI assist with 3d mapping?',
+      },
+      {
+        path: '/1lwp7e5',
+        name: 'Pls help with JanitorAI😭',
+      },
+      {
+        path: '/1lwp7tv',
+        name: 'Is there some localllm benchmarking tool to see how well your system will handle a model?',
+      },
+      {
+        path: '/1lwphbh',
+        name: 'Building a domain specific dataset',
+      },
+      {
+        path: '/1lwpi5p',
+        name: 'Need advice on how to improve Handwritten Text Recognition of names using Vision models (for academic research purposes)',
+      },
+      {
+        path: '/1lwqsso',
+        name: 'People Are Using AI Chatbots to Guide Their Psychedelic Trips',
+      },
+      {
+        path: '/1lwr8eh',
+        name: 'How to stream only final LLM response while tool calling',
+      },
+      {
+        path: '/1lwrad1',
+        name: 'How are reasonable models built? Are they fine tuned from base non reasoning models?',
+      },
+      {
+        path: '/1lwrd38',
+        name: 'Best large open-source LLM for health/medical data analytics (RTX 6000 Pro, $10k budget)',
+      },
+      {
+        path: '/1lwsrx7',
+        name: 'Support for the upcoming IBM Granite 4.0 has been merged into llama.cpp',
+      },
+      {
+        path: '/1lwta86',
+        name: 'AMD\'s Pull Request for llama.cpp: Enhancing GPU Support',
+      },
+      {
+        path: '/1lwtaor',
+        name: 'What is your wishlist for OpenAI\'s upcoming open source model?',
+      },
+      {
+        path: '/1lwuzjo',
+        name: '[OC] Comprehensive AI Data Quality Metrics Documentation - 50+ Evaluation Metrics with Academic Sources',
+      },
+      {
+        path: '/1lwva7f',
+        name: 'Terraformed Binary Classifier',
+      },
+      {
+        path: '/1lwvci3',
+        name: 'Grok 4 seems to consult Elon Musk to answer controversial questions | TechCrunch',
+      },
+      {
+        path: '/1lwvrev',
+        name: 'Local AI server with Ollama and Tailscale integration looking for feedback',
+      },
+      {
+        path: '/1lwvuuv',
+        name: 'Hunyuan responding with &lt;answer&gt; &lt;/answer&gt; tag on LMstudio',
+      },
+      {
+        path: '/1lww2ld',
+        name: 'Anyone using Block\'s goose?',
+      },
+      {
+        path: '/1lww2w9',
+        name: 'Open Source Claude Coder alternative?',
+      },
+      {
+        path: '/1lwwh8s',
+        name: 'Tired of writing /no_think every time you prompt?',
+      },
+      {
+        path: '/1lwwuwq',
+        name: 'Help me find the best Android app for running LLMs locally',
+      },
+      {
+        path: '/1lwx50s',
+        name: '2-bit Quant: CCQ, Convolutional Code for Extreme Low-bit Quantization in LLMs',
+      },
+      {
+        path: '/1lwx77q',
+        name: 'Is LLM first RAG better than traditional RAG?',
+      },
+      {
+        path: '/1lwxglp',
+        name: 'What is up AI Bros I am stupid and maybe your AI can help me be less of these stupid',
+      },
+      {
+        path: '/1lwxnf0',
+        name: 'LM Studio model recommendation for writing, emails, and general summarizations',
+      },
+      {
+        path: '/1lwxr2l',
+        name: 'What other models would you like to see on Design Arena?',
+      },
+      {
+        path: '/1lwxrai',
+        name: 'Ollama calling tools',
+      },
+      {
+        path: '/1lwycam',
+        name: 'Longform text has become iconic — almost like an emoji.',
+      },
+      {
+        path: '/1lwztnp',
+        name: 'Granite-speech-3.3-8b',
+      },
+      {
+        path: '/1lx0b5w',
+        name: 'Manage multiple MCP servers for Ollama + OpenWebUI as Docker service',
+      },
+      {
+        path: '/1lx0e8i',
+        name: 'Comet (AI first) browser from Perplexity needs better 403 page',
+      },
+      {
+        path: '/1lx10ja',
+        name: 'With a 1M context Gemini, does it still make sense to do embedding or use RAG for long texts?',
+      },
     ],
   },
   {
