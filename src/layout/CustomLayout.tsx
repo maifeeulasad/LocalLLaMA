@@ -4542,6 +4542,258 @@ export { CustomLayout };
         path: '/1lxd7nh',
         name: 'H-Net: a hierarchical network that replaces tokenization with a dynamic chunking process directly inside the model, automatically discovering and operating over meaningful units of data',
       },
+      {
+        path: '/1lxehv3',
+        name: 'FlexOlmo: Open Language Models for Flexible Data Use | Implications for federated training in the open source community',
+      },
+      {
+        path: '/1lxep4s',
+        name: 'Deepseek\'s Simple, yet Genius Data Generation Pipeline',
+      },
+      {
+        path: '/1lxes5c',
+        name: 'Is there any Llama based chat application?',
+      },
+      {
+        path: '/1lxfep2',
+        name: 'What is the most wide use case of Llama ?',
+      },
+      {
+        path: '/1lxfs4d',
+        name: 'Trying to fine-tune LLaMA locally… and my GPU is crying',
+      },
+      {
+        path: '/1lxg042',
+        name: ': Looking for Uncensored LLMs - Anyone Have Recommendations?',
+      },
+      {
+        path: '/1lxgb9q',
+        name: 'Stanford\'s CS336 2025 (Language Modeling from Scratch) is now available on YouTube',
+      },
+      {
+        path: '/1lxgi3j',
+        name: 'People with a Mac Studio 512G: what are you doing with it?',
+      },
+      {
+        path: '/1lxgm02',
+        name: 'An alternative to semantic or benchmark-based routing: A preference-aligned router model',
+      },
+      {
+        path: '/1lxgp5c',
+        name: 'Unrestrained AI Chat Companion?',
+      },
+      {
+        path: '/1lxgwgo',
+        name: 'I built a GPT bot that my colleagues love and has a valuable real-world use case. Now I want to make it standalone &amp; more broadly available.  What’s the best way to do it?',
+      },
+      {
+        path: '/1lxhcom',
+        name: 'What\'s a setup for local voice translation?',
+      },
+      {
+        path: '/1lxhj7h',
+        name: 'How to set the Context Overflow Policy in LM Studio? Apparently they removed the option...',
+      },
+      {
+        path: '/1lxhjjn',
+        name: 'Most energy efficient way to run Gemma 3 27b?',
+      },
+      {
+        path: '/1lxhnjo',
+        name: 'Bypassing Meta\'s Llama Firewall: A Case Study in Prompt Injection Vulnerabilities',
+      },
+      {
+        path: '/1lxj1o0',
+        name: 'How are people doing the whole video captioning and understanding thing?',
+      },
+      {
+        path: '/1lxlgjk',
+        name: 'Best Local Model for Snappy Conversations?',
+      },
+      {
+        path: '/1lxljco',
+        name: '[D] Any limitations if you try to split your dataset and run full epochs',
+      },
+      {
+        path: '/1lxmhx2',
+        name: 'Gemma-3n prompts to uncensor?',
+      },
+      {
+        path: '/1lxmldq',
+        name: 'LiquidAI LFM2 Model Released',
+      },
+      {
+        path: '/1lxmr2h',
+        name: 'Thank you r/LocalLLaMA! Observer AI launches tonight! 🚀 I built the local open-source screen-watching tool you guys asked for.',
+      },
+      {
+        path: '/1lxn8ry',
+        name: 'Where local is lagging behind... Wish lists for the rest of 2025',
+      },
+      {
+        path: '/1lxnsh1',
+        name: 'OpenAI delays its open weight model again for "safety tests"',
+      },
+      {
+        path: '/1lxnsmm',
+        name: 'Tinyllama on old Mediatek G80 android device',
+      },
+      {
+        path: '/1lxnwtg',
+        name: 'Does this mean it’s likely not gonna be open source?',
+      },
+      {
+        path: '/1lxo0xc',
+        name: 'Kimi K2 is funny and great',
+      },
+      {
+        path: '/1lxo8za',
+        name: 'Why don’t we have a big torrent repo for open-source LLMs?',
+      },
+      {
+        path: '/1lxp144',
+        name: 'How to SFT diffusion large language model ?',
+      },
+      {
+        path: '/1lxpidc',
+        name: 'Where that Unsloth Q0.01_K_M GGUF at?',
+      },
+      {
+        path: '/1lxps1s',
+        name: 'Need help with my interview ASAP',
+      },
+      {
+        path: '/1lxpw2g',
+        name: 'Offline AI — Calling All Experts and Noobs',
+      },
+      {
+        path: '/1lxqk44',
+        name: 'Will an 8gbvram laptop gpu add any value?',
+      },
+      {
+        path: '/1lxr5s3',
+        name: 'Kimi K2 q4km is here and also the instructions to run it locally with KTransformers 10-14tps',
+      },
+      {
+        path: '/1lxryp4',
+        name: 'Semantic code search for local directory',
+      },
+      {
+        path: '/1lxs0s0',
+        name: 'New local AI system planning stage need advice.',
+      },
+      {
+        path: '/1lxs7c9',
+        name: 'Is there a way to sort models by download size in LM Studio?',
+      },
+      {
+        path: '/1lxseu8',
+        name: 'MBP M3 Max 36 GB Memory - what can I run?',
+      },
+      {
+        path: '/1lxth6s',
+        name: '7/11 Update on Design Arena: Added Devstral, Qwen, and kimi-k2, Grok 4 struggling but coding model coming out later?',
+      },
+      {
+        path: '/1lxtivp',
+        name: 'Trying to use AI agent to play N-puzzle but the agent could only solve 8-puzzle but completely failed on 15-puzzle.',
+      },
+      {
+        path: '/1lxufzz',
+        name: 'Best model for M3 Max 96GB?',
+      },
+      {
+        path: '/1lxuu5m',
+        name: 'How does having a very long context window impact performance?',
+      },
+      {
+        path: '/1lxv6a5',
+        name: 'What drives progress in newer LLMs?',
+      },
+      {
+        path: '/1lxvf0j',
+        name: 'Qwen 3 Embeddings 0.6B faring really poorly inspite of high score on benchmarks',
+      },
+      {
+        path: '/1lxvh5t',
+        name: '5090 minimum power limit = 400W ?',
+      },
+      {
+        path: '/1lxvrjm',
+        name: 'Traditional Data Science work is going to be back',
+      },
+      {
+        path: '/1lxw3zz',
+        name: 'We built an open-source medical triage benchmark',
+      },
+      {
+        path: '/1lxw7es',
+        name: 'New GPU 7900 XT vs 9070 XT where price difference is ~40 USD',
+      },
+      {
+        path: '/1lxwb4m',
+        name: 'Performant open weights foundation text-specific models are where now?',
+      },
+      {
+        path: '/1lxwodv',
+        name: 'Best setup for ~20 tokens/sec DeepSeek R1 671B Q8 w/ 128K context window',
+      },
+      {
+        path: '/1lxwpqp',
+        name: 'Rtx 5060ti 16gb vs Rtx 3090',
+      },
+      {
+        path: '/1lxx4sb',
+        name: 'Local LLM on laptop?',
+      },
+      {
+        path: '/1lxxgm2',
+        name: 'i’m building a platform where you can use your local gpus, rent remote gpus, or use co-op shared gpus. what is more important to you?',
+      },
+      {
+        path: '/1lxy8xz',
+        name: 'newbie here. Is this normal? Am I doing everything wrong? Am I asking too much? Gemma3 4b was transcribing ok with some mistakes',
+      },
+      {
+        path: '/1lxybu4',
+        name: 'What is your "perfect" £10,000 for Local LLM, Gaming, plex with the following conditional and context.',
+      },
+      {
+        path: '/1lxycdh',
+        name: 'Safety first, or whatever🙄',
+      },
+      {
+        path: '/1lxyg6z',
+        name: 'Have you tried that new devstral?! Myyy! The next 8x7b?',
+      },
+      {
+        path: '/1lxyj92',
+        name: '"We will release o3 wieghts next week"',
+      },
+      {
+        path: '/1lxyvto',
+        name: 'we have to delay it',
+      },
+      {
+        path: '/1lxz268',
+        name: 'What LLM Workflow UI Are You Using?',
+      },
+      {
+        path: '/1lxzn8c',
+        name: 'Suggest a Suitable Ai Model to run locally ( beginner)',
+      },
+      {
+        path: '/1ly02iv',
+        name: 'Demo Video of AutoBE, No-code agent for Backend Application, writing 100% compilable code (Open Source)',
+      },
+      {
+        path: '/1ly0jnx',
+        name: 'It\'s been a while, I\'m out of date, suggest me a model',
+      },
+      {
+        path: '/1ly0oln',
+        name: 'Are there any builder companies that sell pre-assembled Blackwell 6000 machines?',
+      },
     ],
   },
   {
