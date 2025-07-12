@@ -36,7 +36,7 @@
             "name": "t3_1lwmk0y",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.26,
+            "upvote_ratio": 0.27,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lwmk0y/just_released_my_app/",
             "stickied": false,
             "url": "https://i.redd.it/5vpiechlr3cf1.jpeg",
-            "subreddit_subscribers": 497353,
+            "subreddit_subscribers": 497505,
             "created_utc": 1752177599,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -344,7 +344,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n2ft7uy",
-                                "score": 6,
+                                "score": 7,
                                 "author_fullname": "t2_13904b0dor",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -387,7 +387,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             }
                           ],
@@ -408,7 +408,7 @@
                       "created_utc": 1752183112,
                       "send_replies": true,
                       "parent_id": "t1_n2fpwt8",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_goc8vvu4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -450,7 +450,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   },
                   {
@@ -483,7 +483,7 @@
                       "created_utc": 1752182178,
                       "send_replies": true,
                       "parent_id": "t1_n2fpwt8",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_goc8vvu4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -525,7 +525,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   }
                 ],
@@ -546,7 +546,7 @@
             "created_utc": 1752182117,
             "send_replies": true,
             "parent_id": "t3_1lwmk0y",
-            "score": 7,
+            "score": 8,
             "author_fullname": "t2_13904b0dor",
             "approved_by": null,
             "mod_note": null,
@@ -588,7 +588,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -936,7 +936,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n2fhd3s",
-                                          "score": 1,
+                                          "score": 0,
                                           "author_fullname": "t2_goc8vvu4",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -973,13 +973,13 @@
                                           "treatment_tags": [],
                                           "created_utc": 1752180012,
                                           "subreddit_name_prefixed": "r/LocalLLaMA",
-                                          "controversiality": 0,
+                                          "controversiality": 1,
                                           "depth": 3,
                                           "author_flair_background_color": null,
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 0
                                         }
                                       }
                                     ],
@@ -1063,7 +1063,7 @@
                       "created_utc": 1752178629,
                       "send_replies": true,
                       "parent_id": "t1_n2fde2o",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_goc8vvu4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1105,7 +1105,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   },
                   {
@@ -1299,7 +1299,7 @@
                       "created_utc": 1752186078,
                       "send_replies": true,
                       "parent_id": "t1_n2g1o3s",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_goc8vvu4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1341,7 +1341,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   }
                 ],

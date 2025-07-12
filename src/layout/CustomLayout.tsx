@@ -4378,6 +4378,170 @@ export { CustomLayout };
         path: '/1lx10ja',
         name: 'With a 1M context Gemini, does it still make sense to do embedding or use RAG for long texts?',
       },
+      {
+        path: '/1lx20h2',
+        name: 'hey guys im working in comapany they gave me a task to download open souce ai image generation model and run in the local system but the problem im facing',
+      },
+      {
+        path: '/1lx2dw4',
+        name: 'Is a heavily quantised Q235b any better than Q32b?',
+      },
+      {
+        path: '/1lx2hn2',
+        name: 'Uncensored LLM ranking for roleplay?',
+      },
+      {
+        path: '/1lx2j1l',
+        name: 'I built a tool to run Humanity\'s Last Exam on your favorite local models!',
+      },
+      {
+        path: '/1lx2uwr',
+        name: 'Made a Mock Interview Agent That Talks, Listens, Searches - and Logs Everything',
+      },
+      {
+        path: '/1lx32mx',
+        name: 'What do you think future AI agents will look like?',
+      },
+      {
+        path: '/1lx3jtc',
+        name: 'A language model built for the public good',
+      },
+      {
+        path: '/1lx3ngj',
+        name: 'Sensitivity Aware Mixed Precision Quantization',
+      },
+      {
+        path: '/1lx3p4i',
+        name: 'How do I force the LLM to respond shortly?',
+      },
+      {
+        path: '/1lx3u8s',
+        name: 'EuroEval: The robust European language model benchmark.',
+      },
+      {
+        path: '/1lx4a3t',
+        name: 'Prime Intellect on X: Releasing SYNTHETIC-2: our open dataset of 4m verified reasoning traces',
+      },
+      {
+        path: '/1lx4hxt',
+        name: 'SmolTalk2: The dataset behind SmolLM3\'s dual reasoning',
+      },
+      {
+        path: '/1lx4mad',
+        name: 'Need help',
+      },
+      {
+        path: '/1lx4qhp',
+        name: 'Moonshot AI about to release their 1T parameters model?',
+      },
+      {
+        path: '/1lx4ya7',
+        name: 'New OSS project: llamac-lab or a pure C runtime for LLaMA models, made for the edge',
+      },
+      {
+        path: '/1lx4zpr',
+        name: 'Blackwell FP8 W8A8 NVFP4 support discussion',
+      },
+      {
+        path: '/1lx5awq',
+        name: 'Friendly reminder that Grok 3 should be now open-sourced',
+      },
+      {
+        path: '/1lx5jc1',
+        name: 'Quick Question: Best Open-Source Model for Local Q&amp;A RAG App? 🤔',
+      },
+      {
+        path: '/1lx5n8c',
+        name: 'FYI Qwen3 235B A22B IQ4_XS works with 128 GB DDR5 + 8GB VRAM in Windows',
+      },
+      {
+        path: '/1lx5p9b',
+        name: 'I have made a github repository for streamlining AI coding flow. Please suggest improvements as additions and substraction to the codebase.',
+      },
+      {
+        path: '/1lx5wvp',
+        name: 'What\'s the best way to work with granulized AI tasks or "agents." Any front-end UI/program?',
+      },
+      {
+        path: '/1lx62hd',
+        name: 'Nvidia being Nvidia: FP8 is 150 Tflops faster when kernel name contain "cutlass"',
+      },
+      {
+        path: '/1lx66on',
+        name: 'Issues with Qwen 3 Embedding models (4B and 0.6B)',
+      },
+      {
+        path: '/1lx6dcm',
+        name: 'llama2.c running on the original 2007 iPhone',
+      },
+      {
+        path: '/1lx6g3p',
+        name: 'Has Local Llama Development Slowed Down, or Am I Missing Something? 🤔',
+      },
+      {
+        path: '/1lx6yer',
+        name: 'Skywork/Skywork-R1V3-38B · Hugging Face',
+      },
+      {
+        path: '/1lx7kfh',
+        name: 'Potentially Noob Question Regarding Live Weight Adjustments',
+      },
+      {
+        path: '/1lx7l3k',
+        name: 'This week, Google released in Open Source: MedGemma 27B Multimodal, MedSigLIP, T5Gemma',
+      },
+      {
+        path: '/1lx7loe',
+        name: 'Simple barebones MCP tutorial?',
+      },
+      {
+        path: '/1lx85jo',
+        name: 'Devstral-Vision-Small-2507',
+      },
+      {
+        path: '/1lx8qrz',
+        name: 'ETH Zurich and EPFL will release a fully open-source LLM developed on public infrastructure. Trained on the “Alps” supercomputer at the Swiss National Supercomputing Centre (CSCS). Trained on 60% english/40% non-english, it will be released in 8B and 70B sizes.',
+      },
+      {
+        path: '/1lx8xdm',
+        name: 'moonshotai/Kimi-K2-Instruct (and Kimi-K2-Base)',
+      },
+      {
+        path: '/1lx94ht',
+        name: 'Kimi K2 - 1T MoE, 32B active params',
+      },
+      {
+        path: '/1lx9pny',
+        name: 'Damn this is deepseek moment one of the 3bst coding model and it\'s open source and by far it\'s so good !!',
+      },
+      {
+        path: '/1lxa4hy',
+        name: 'DeepSeek-TNG-R1T2-Chimera vs DeepSeek R1-0528 quick test',
+      },
+      {
+        path: '/1lxaz08',
+        name: 'The BastionRank Showdown: Crowning the Best On-Device AI Models of 2025',
+      },
+      {
+        path: '/1lxb0eo',
+        name: 'The 1T Kimi K2 model is using DeepSeek V3 architecture',
+      },
+      {
+        path: '/1lxbsw0',
+        name: 'Drummer\'s Snowpiercer 15B v2',
+      },
+      {
+        path: '/1lxbynb',
+        name: 'How much do you use your local model on average on a day?',
+      },
+      {
+        path: '/1lxd7ki',
+        name: 'Introducing Local AI Monster: Run Powerful LLMs Right in Your Browser 🚀',
+      },
+      {
+        path: '/1lxd7nh',
+        name: 'H-Net: a hierarchical network that replaces tokenization with a dynamic chunking process directly inside the model, automatically discovering and operating over meaningful units of data',
+      },
     ],
   },
   {
