@@ -4794,6 +4794,182 @@ export { CustomLayout };
         path: '/1ly0oln',
         name: 'Are there any builder companies that sell pre-assembled Blackwell 6000 machines?',
       },
+      {
+        path: '/1ly182t',
+        name: 'Grok4 consults with daddy on answers',
+      },
+      {
+        path: '/1ly19br',
+        name: 'Simplest way to run single batch jobs for experiments on determinism',
+      },
+      {
+        path: '/1ly1d7v',
+        name: 'Beginner\'s tip: How to fix the Jinja template error in LM Studio (in my case: for Mistral-qwq-12b-merge)',
+      },
+      {
+        path: '/1ly256a',
+        name: 'How Are YOU Using LLMs? (A Quick Survey)',
+      },
+      {
+        path: '/1ly358h',
+        name: 'Using llama3.2-vision:11b for UI element identification',
+      },
+      {
+        path: '/1ly35wd',
+        name: 'Support for the LiquidAI LFM2 hybrid model family is now available in llama.cpp',
+      },
+      {
+        path: '/1ly36ht',
+        name: 'Anyone got lobe-chat-database working?',
+      },
+      {
+        path: '/1ly3dk9',
+        name: 'Building a Claude/ChatGPT Projects-like system: How to implement persistent context with uploaded documents?',
+      },
+      {
+        path: '/1ly3exz',
+        name: 'What do you think of Huawei\'s Pangu model counterfeiting behaviour?',
+      },
+      {
+        path: '/1ly3mrl',
+        name: 'Cactus - Edge AI Inference Framework',
+      },
+      {
+        path: '/1ly42e5',
+        name: 'Interesting info about Kimi K2',
+      },
+      {
+        path: '/1ly476r',
+        name: 'Music Analysis - another attempt',
+      },
+      {
+        path: '/1ly4tus',
+        name: 'RL local llm for coding',
+      },
+      {
+        path: '/1ly4xvb',
+        name: 'GPU UPGRADE!!!!NEED Suggestion!!!!.Upgrading current workstation either with 4x RTX 6000 ada or 4x L40s. Can i use NVlink bridge the pair them up.??',
+      },
+      {
+        path: '/1ly4zh8',
+        name: 'Okay kimi-k2 is an INSANE model WTF those one-shot animations',
+      },
+      {
+        path: '/1ly513g',
+        name: 'New LLM DOS rig',
+      },
+      {
+        path: '/1ly59tz',
+        name: 'Open-Source LLM-Based Solution for Online Content Filtering - Is There One?',
+      },
+      {
+        path: '/1ly5g2t',
+        name: 'What\'s the most natural sounding TTS model for local right now?',
+      },
+      {
+        path: '/1ly6cg6',
+        name: 'Kyutai Text-to-Speech is considering opening up custom voice model training, but they are asking for community support!',
+      },
+      {
+        path: '/1ly7sb0',
+        name: '[Rust] qwen3-rs: Educational Qwen3 Architecture Inference (No Python, Minimal Deps)',
+      },
+      {
+        path: '/1ly84xd',
+        name: 'Introducing GGUF Tool Suite - Create and Optimise Quantisation Mix for DeepSeek-R1-0528 for Your Own Specs',
+      },
+      {
+        path: '/1ly894z',
+        name: 'mlx-community/Kimi-Dev-72B-4bit-DWQ',
+      },
+      {
+        path: '/1ly8fyj',
+        name: 'This whole thing is giving me WizardLM2 vibes.',
+      },
+      {
+        path: '/1ly983h',
+        name: 'Local Llama with Home Assistant Integration and Multilingual-Fuzzy naming',
+      },
+      {
+        path: '/1lya4ks',
+        name: 'Browser Use vs Model Context Protocol (MCP): Two Philosophies for AI Interaction with the Digital World',
+      },
+      {
+        path: '/1lyaozv',
+        name: 'Moonshot AI just made their moonshot',
+      },
+      {
+        path: '/1lyb8tz',
+        name: 'Banana for scale',
+      },
+      {
+        path: '/1lybdr2',
+        name: 'Qwen3-30B-A3B aider polyglot score?',
+      },
+      {
+        path: '/1lybh8e',
+        name: 'Runpod, Hugging Face, or what for super-simple uncensored LLM-in-the-cloud setup?',
+      },
+      {
+        path: '/1lybm7b',
+        name: 'Unlocking AMD MI300X for High-Throughput, Low-Cost LLM Inference',
+      },
+      {
+        path: '/1lybqtw',
+        name: 'Should I buy Tesla K80 for 70€ or Tesla M10 for 110€?',
+      },
+      {
+        path: '/1lybx9x',
+        name: 'Internal networking components for Nvidia’s System',
+      },
+      {
+        path: '/1lyckyk',
+        name: 'Looking for trusted websites with benchmark leaderboards to build LLM reranking — plus how to evaluate LLMs in production without ground truth?',
+      },
+      {
+        path: '/1lydp3k',
+        name: 'DeepSeek R2 delayed',
+      },
+      {
+        path: '/1lyen05',
+        name: 'Laptop GPU for Agentic Coding -- Worth it?',
+      },
+      {
+        path: '/1lyf8g5',
+        name: 'Anybody else broken Meta "Ai" yet?',
+      },
+      {
+        path: '/1lyfngg',
+        name: 'How do you keep up with all these things?',
+      },
+      {
+        path: '/1lyhnhw',
+        name: 'Is there any book writing software that can utilize an local LLM?',
+      },
+      {
+        path: '/1lyhuuq',
+        name: 'Heaviest model that can be ran with RTX 3060 12Gb?',
+      },
+      {
+        path: '/1lyitq9',
+        name: 'Any suggestions for generating academic-style/advanced plots?',
+      },
+      {
+        path: '/1lyiyvq',
+        name: '32g SXM2 V100s for $360, Good Deal for LLMs?',
+      },
+      {
+        path: '/1lyj81f',
+        name: 'Do you think an AI will achieve gold medal in 2025 International Math Olympad (tomorrow)',
+      },
+      {
+        path: '/1lyjgwv',
+        name: '[Help] Fastest model for real-time UI automation? (Browser-Use too slow)',
+      },
+      {
+        path: '/1lyjm7t',
+        name: 'What providers are people using for GLM-4?',
+      },
     ],
   },
   {
