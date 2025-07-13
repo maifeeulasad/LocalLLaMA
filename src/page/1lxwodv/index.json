@@ -36,10 +36,10 @@
             "name": "t3_1lxwodv",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.93,
+            "upvote_ratio": 0.91,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 22,
+            "ups": 24,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 22,
+            "score": 24,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "MidnightProgrammer",
             "discussion_type": null,
-            "num_comments": 54,
+            "num_comments": 56,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1lxwodv/best_setup_for_20_tokenssec_deepseek_r1_671b_q8_w/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1lxwodv/best_setup_for_20_tokenssec_deepseek_r1_671b_q8_w/",
-            "subreddit_subscribers": 498114,
+            "subreddit_subscribers": 498346,
             "created_utc": 1752313888,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -188,7 +188,7 @@
                       "created_utc": 1752319736,
                       "send_replies": true,
                       "parent_id": "t1_n2pckaa",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_cj9kap4bx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -235,7 +235,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   },
                   {
@@ -477,6 +477,81 @@
                       "mod_reports": [],
                       "num_reports": null,
                       "ups": 2
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n2unkbx",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "Caffdy",
+                      "can_mod_post": false,
+                      "created_utc": 1752384069,
+                      "send_replies": true,
+                      "parent_id": "t1_n2pckaa",
+                      "score": 1,
+                      "author_fullname": "t2_ql2vu0wz",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Intel Xeon 6962P, 12 channels at 8800MT/s could pull it off, but it's a pretty penny that's for sure",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n2unkbx",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Intel Xeon 6962P, 12 channels at 8800MT/s could pull it off, but it&amp;#39;s a pretty penny that&amp;#39;s for sure&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1lxwodv",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1lxwodv/best_setup_for_20_tokenssec_deepseek_r1_671b_q8_w/n2unkbx/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1752384069,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
                     }
                   },
                   {
@@ -824,7 +899,7 @@
             "created_utc": 1752314393,
             "send_replies": true,
             "parent_id": "t3_1lxwodv",
-            "score": 24,
+            "score": 25,
             "author_fullname": "t2_41gmkw5z",
             "approved_by": null,
             "mod_note": null,
@@ -866,7 +941,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 25
           }
         },
         {
@@ -1167,7 +1242,7 @@
             "created_utc": 1752316843,
             "send_replies": true,
             "parent_id": "t3_1lxwodv",
-            "score": 13,
+            "score": 11,
             "author_fullname": "t2_70vzcleel",
             "approved_by": null,
             "mod_note": null,
@@ -1209,7 +1284,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 11
           }
         },
         {
@@ -1351,7 +1426,7 @@
                       "created_utc": 1752329062,
                       "send_replies": true,
                       "parent_id": "t1_n2pp03k",
-                      "score": 11,
+                      "score": 10,
                       "author_fullname": "t2_9hl4ymvj",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1393,7 +1468,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 10
                     }
                   },
                   {
@@ -1946,7 +2021,7 @@
                       "created_utc": 1752328297,
                       "send_replies": true,
                       "parent_id": "t1_n2pp03k",
-                      "score": 3,
+                      "score": 2,
                       "author_fullname": "t2_g8xg6sut",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1988,7 +2063,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 2
                     }
                   },
                   {
@@ -2440,7 +2515,7 @@
                       "created_utc": 1752320063,
                       "send_replies": true,
                       "parent_id": "t1_n2pdgpr",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_1nisx8ggay",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2482,7 +2557,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   }
                 ],
@@ -3102,7 +3177,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n2qkc6s",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "author_fullname": "t2_bvqb8ng0",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -3144,7 +3219,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 1
+                                                              "ups": 2
                                                             }
                                                           }
                                                         ],
@@ -3164,7 +3239,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n2qj0zs",
-                                                    "score": 3,
+                                                    "score": 2,
                                                     "author_fullname": "t2_igbly",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -3206,7 +3281,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -3819,7 +3894,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n2shkyk",
-                                                    "score": 3,
+                                                    "score": 4,
                                                     "author_fullname": "t2_15wqsifdjf",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -3861,7 +3936,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -4421,7 +4496,7 @@
                       "created_utc": 1752320013,
                       "send_replies": true,
                       "parent_id": "t1_n2pf1r5",
-                      "score": 8,
+                      "score": 9,
                       "author_fullname": "t2_8e8y0",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4463,7 +4538,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 9
                     }
                   }
                 ],
@@ -4484,7 +4559,7 @@
             "created_utc": 1752315840,
             "send_replies": true,
             "parent_id": "t3_1lxwodv",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_g177e",
             "approved_by": null,
             "mod_note": null,
@@ -4531,13 +4606,12 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
           "kind": "t1",
           "data": {
-            "body": "OK, gotchas abound here:\n\n1. A suitable EPYC (/+GPU) setup can do full 128k context (total), and it can do 20 tokens/s (at short context, while you're memory bandwidth limited), but 20tps at 128k context (when you're compute limited)...probably not. DeepSeek doesn't even serve the full 128k context of their model, third parties mostly don't either, and this is why. Much though I love DeepSeek, their advertised 128K is kind-of fake given the compute needed with their MLA configuration --and the May release of their model is absurdly yappy in thinking, which exacerbates this problem.\n\n2. Unless you have a compelling need for R1 in particular, you're probably better off making room for Kimi K2 if you care about context capacity and speed at high context. You need a bit more RAM, but it's a stronger model that is MUCH faster: more concise (many fewer tokens and shorter context for the same work), faster at long context (because less attention), with fewer total active parameters.\n\nIf you do need R1 in particular, maybe consider the Chimera model (/merge) from TNG-Tech, which reduces the yap factor somewhat.\n\n3. AMD blatantly lies about their memory bandwidth specs, so configuring a \\*\\*suitable\\*\\* EPYC + GPU configuration is non-obvious. Specifically, AMD advertises 12 memory channels per chip (/24 for a dual processor setup), but the number you can actually make use of depends on the number of CCDs on the particular SKUs you buy.  \n  \nSo what keeps happening is people look at the specs, buy a processor or two that looks suitable (but has too few CCDs), and then wonder why their LLM is so slow. The Level1Tech build mentioned here was one such case, iirc. So do some research + find some MBW benchmarks before buying chips.\n\n4. Dual processor might be a good idea: the board is a bit more expensive, but price per core, price per MBW, and price per GB ram all goes down...and ofc maximum performance goes up if you've got budget for it (and it sounds like you do).  \n  \n5. You want all your common parameters (attention and shared experts) and ideally also your KV cache on a GPU. This takes a ton of burden off the MBW of your CPU memory because you're only hosting the non-shared experts. The RTX 6000 Pro you mentioned elsewhere would work, but idk if it's optimal. Your GPU(s) are going to be doing most of the processing (at long context when it makes a difference), so you may end up caring more about FLOPs per dollar (at FP8!) than VRAM per dollar provided you have enough ram for all the shared parameters and KV cache.\n\n6. ktransformers is inference framework that is set up specifically for these CPU+GPU offloading scenarios.",
             "subreddit_id": "t5_81eyvm",
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -4550,7 +4624,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n2upkrq",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "MidnightProgrammer",
+                      "can_mod_post": false,
+                      "created_utc": 1752385100,
+                      "send_replies": true,
+                      "parent_id": "t1_n2trbca",
+                      "score": 1,
+                      "author_fullname": "t2_ijzb7",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "I am not specifically tied to R1, I was just looking at building around it and hope it will allow me to keep up with better than average models.  I find most things under R1 are not worth running for anything serious.\n\nKimi looks really interesting, but I haven't looked into what is required to get that running locally without lobotomizing it as it just got announced.  I heard great things about it.\n\nIdeally I want a system that just runs a single RTX 6000 Pro, that would be great, but I don't think there is enough VRAM to run anything that could justify not using Claude.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n2upkrq",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I am not specifically tied to R1, I was just looking at building around it and hope it will allow me to keep up with better than average models.  I find most things under R1 are not worth running for anything serious.&lt;/p&gt;\n\n&lt;p&gt;Kimi looks really interesting, but I haven&amp;#39;t looked into what is required to get that running locally without lobotomizing it as it just got announced.  I heard great things about it.&lt;/p&gt;\n\n&lt;p&gt;Ideally I want a system that just runs a single RTX 6000 Pro, that would be great, but I don&amp;#39;t think there is enough VRAM to run anything that could justify not using Claude.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1lxwodv",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1lxwodv/best_setup_for_20_tokenssec_deepseek_r1_671b_q8_w/n2upkrq/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1752385100,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n2trbca",
@@ -4571,7 +4731,7 @@
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "author_cakeday": true,
+            "body": "OK, gotchas abound here:\n\n1. A suitable EPYC (/+GPU) setup can do full 128k context (total), and it can do 20 tokens/s (at short context, while you're memory bandwidth limited), but 20tps at 128k context (when you're compute limited)...probably not. DeepSeek doesn't even serve the full 128k context of their model, third parties mostly don't either, and this is why. Much though I love DeepSeek, their advertised 128K is kind-of fake given the compute needed with their MLA configuration --and the May release of their model is absurdly yappy in thinking, which exacerbates this problem.\n\n2. Unless you have a compelling need for R1 in particular, you're probably better off making room for Kimi K2 if you care about context capacity and speed at high context. You need a bit more RAM, but it's a stronger model that is MUCH faster: more concise (many fewer tokens and shorter context for the same work), faster at long context (because less attention), with fewer total active parameters.\n\nIf you do need R1 in particular, maybe consider the Chimera model (/merge) from TNG-Tech, which reduces the yap factor somewhat.\n\n3. AMD blatantly lies about their memory bandwidth specs, so configuring a \\*\\*suitable\\*\\* EPYC + GPU configuration is non-obvious. Specifically, AMD advertises 12 memory channels per chip (/24 for a dual processor setup), but the number you can actually make use of depends on the number of CCDs on the particular SKUs you buy.  \n  \nSo what keeps happening is people look at the specs, buy a processor or two that looks suitable (but has too few CCDs), and then wonder why their LLM is so slow. The Level1Tech build mentioned here was one such case, iirc. So do some research + find some MBW benchmarks before buying chips.\n\n4. Dual processor might be a good idea: the board is a bit more expensive, but price per core, price per MBW, and price per GB ram all goes down...and ofc maximum performance goes up if you've got budget for it (and it sounds like you do).  \n  \n5. You want all your common parameters (attention and shared experts) and ideally also your KV cache on a GPU. This takes a ton of burden off the MBW of your CPU memory because you're only hosting the non-shared experts. The RTX 6000 Pro you mentioned elsewhere would work, but idk if it's optimal. Your GPU(s) are going to be doing most of the processing (at long context when it makes a difference), so you may end up caring more about FLOPs per dollar (at FP8!) than VRAM per dollar provided you have enough ram for all the shared parameters and KV cache.\n\n6. ktransformers is inference framework that is set up specifically for these CPU+GPU offloading scenarios.",
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,

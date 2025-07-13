@@ -4970,6 +4970,130 @@ export { CustomLayout };
         path: '/1lyjm7t',
         name: 'What providers are people using for GLM-4?',
       },
+      {
+        path: '/1lykf38',
+        name: 'What LLMs work with VScode like copilot?',
+      },
+      {
+        path: '/1lykf92',
+        name: 'What Causes Poor Long-Context Performance?',
+      },
+      {
+        path: '/1lykpo6',
+        name: 'Which model is best for translation?',
+      },
+      {
+        path: '/1lykqbu',
+        name: 'SmolLM-3B when asked if it was Peter Griffin',
+      },
+      {
+        path: '/1lyl697',
+        name: 'How do you make Loras for Qwen coder /  devstral?',
+      },
+      {
+        path: '/1lylo75',
+        name: 'Kimi-K2 takes top spot on EQ-Bench3 and Creative Writing',
+      },
+      {
+        path: '/1lyltyb',
+        name: 'When a model is delayed because the boss isn\'t happy, is it doomed forever?',
+      },
+      {
+        path: '/1lymewq',
+        name: 'I have a Laptop with 3050 Ti 4GB VRAM, will upgrading my RAM from 16 to 48 help?',
+      },
+      {
+        path: '/1lymlgp',
+        name: 'Dark Arts: Speaker embedding gradient descent for local TTS models',
+      },
+      {
+        path: '/1lynwk4',
+        name: 'Need Help with Agents and AnythingLLM',
+      },
+      {
+        path: '/1lyonb4',
+        name: 'How are people actually able to get the system prompt of these AI companies?',
+      },
+      {
+        path: '/1lyozcn',
+        name: 'Wrote a deep dive on LLM tool calling with step-by-step REST and Spring AI examples',
+      },
+      {
+        path: '/1lyptl7',
+        name: 'Building an App That Builds Apps – Feedback Appreciated',
+      },
+      {
+        path: '/1lyq1yh',
+        name: 'LLM evaluation in real life?',
+      },
+      {
+        path: '/1lyq22j',
+        name: 'Local LLM to back Elastic AI',
+      },
+      {
+        path: '/1lyq7mc',
+        name: 'Help Needed for MedGemma 27B',
+      },
+      {
+        path: '/1lyqefd',
+        name: 'What are these random AI services?? Why are they so bad?',
+      },
+      {
+        path: '/1lyqhqq',
+        name: 'Why has Meta started throwing billions at AI now?',
+      },
+      {
+        path: '/1lyqwil',
+        name: 'What does it take to run llms?',
+      },
+      {
+        path: '/1lysmo9',
+        name: 'Qwen3-235B-A22B @ 0.7t/s. Hardware or configuration bottleneck?',
+      },
+      {
+        path: '/1lysqk7',
+        name: '[Rumor] Huawei 920 accelerator coming H2 2026',
+      },
+      {
+        path: '/1lyt0zp',
+        name: 'Is anyone training a religion model?',
+      },
+      {
+        path: '/1lyt372',
+        name: 'How can I figure out the speed in tokens per second that my model will run on the CPU?',
+      },
+      {
+        path: '/1lytioc',
+        name: 'Looking for my next laptop soon',
+      },
+      {
+        path: '/1lyu7bf',
+        name: 'AI fever D:',
+      },
+      {
+        path: '/1lyuxj5',
+        name: 'Built a plugin-based system automation layer for LLMs, safe, modular, and dead simple to extend',
+      },
+      {
+        path: '/1lyv5uc',
+        name: 'LLM model for live translation into subtitles [RU-EN]',
+      },
+      {
+        path: '/1lyv750',
+        name: 'How I use Gemma 3 to help me reply my texts',
+      },
+      {
+        path: '/1lyv7s7',
+        name: 'Testing ChatGPT and Claude capabilities to "simple projects": Block Site extension for Google Chrome',
+      },
+      {
+        path: '/1lyvah4',
+        name: 'Tried Kimi K2 for writing and reasoning, and was not impressed.',
+      },
+      {
+        path: '/1lyvkhr',
+        name: 'Let’s talk about models you believed are more Hyped than Hot',
+      },
     ],
   },
   {
