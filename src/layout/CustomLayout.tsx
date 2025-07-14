@@ -5094,6 +5094,326 @@ export { CustomLayout };
         path: '/1lyvkhr',
         name: 'Let’s talk about models you believed are more Hyped than Hot',
       },
+      {
+        path: '/1lyvsqv',
+        name: 'Orpheus TTS FastAPI Server Release v1.0 (Async and Audio Issues Fixes)',
+      },
+      {
+        path: '/1lyvyhq',
+        name: 'Like some help setting up MCP sever for LM studio',
+      },
+      {
+        path: '/1lyw5u2',
+        name: 'Audiobook Creator - v1.4 - Added support for Orpheus along with Kokoro',
+      },
+      {
+        path: '/1lyxf1f',
+        name: 'Benchmarking Qwen3 30B and 235B on dual RTX PRO 6000 Blackwell Workstation Edition',
+      },
+      {
+        path: '/1lyy0yi',
+        name: 'dots.llm1 appears to be very sensitive to quantization?',
+      },
+      {
+        path: '/1lyy39n',
+        name: 'IndexTTS2, the most realistic and expressive text-to-speech model so far, has leaked their demos ahead of the official launch! And... wow!',
+      },
+      {
+        path: '/1lyy4k8',
+        name: 'Easy way to log input/output in llama.cpp?  (server and chat)',
+      },
+      {
+        path: '/1lyybq8',
+        name: 'Jan doesn\'t show all available GGUF models from Hugging Face',
+      },
+      {
+        path: '/1lyyelr',
+        name: 'What kind of hardware would I need to self-host a local LLM for coding (like Cursor)?',
+      },
+      {
+        path: '/1lyyhwz',
+        name: 'Never seen fastllm mentioned here, anyone using it? (kimi k2 local)',
+      },
+      {
+        path: '/1lyyoff',
+        name: 'How to get LLM structured outputs in TS?',
+      },
+      {
+        path: '/1lyyryy',
+        name: 'i need the best local llm i can run on my gaming pc',
+      },
+      {
+        path: '/1lyyu6i',
+        name: 'Kimi k2 not available on iPhone',
+      },
+      {
+        path: '/1lz0b1p',
+        name: 'OpenAI’s announcement of their new Open Weights (Probably)',
+      },
+      {
+        path: '/1lz0hk3',
+        name: 'Need advice on search pipeline for retail products (BM25 + embeddings + reranking)',
+      },
+      {
+        path: '/1lz17w8',
+        name: 'Madness, the ignorant\'s question. Would it be possible to lighten an LLM model?',
+      },
+      {
+        path: '/1lz1fjz',
+        name: 'Problems with LocalDocs on GPT4All',
+      },
+      {
+        path: '/1lz1rv1',
+        name: 'We\'re all context for llms',
+      },
+      {
+        path: '/1lz1s8x',
+        name: 'Some small PPL benchmarks on DeepSeek R1 0528 quants, from Unlosh and ubergarm, from 1.6bpw (1Q_S_R4) to 4.7bpw (IQ4_KS_R4) (and Q8/FP8 baseline). Also a few V3 0324 ones.',
+      },
+      {
+        path: '/1lz2i5h',
+        name: 'Kimi k2 on cli ?',
+      },
+      {
+        path: '/1lz2zt2',
+        name: 'Local free PDF parser for academic pdfs',
+      },
+      {
+        path: '/1lz3n8n',
+        name: 'Added MCP Support to Kimi.com via MCP SuperAssistant',
+      },
+      {
+        path: '/1lz4f51',
+        name: '📢 [Paid Study] Interviewing Individual AI Agent Developers – Share Your Experience + $15/hr',
+      },
+      {
+        path: '/1lz4sk3',
+        name: 'Computing embeddings offline for Gemma 3 1B (on-device model)',
+      },
+      {
+        path: '/1lz5cwa',
+        name: '480mm wide multi GPU frame - can only find 500+mm frames',
+      },
+      {
+        path: '/1lz5sm6',
+        name: 'Safe methods of increasing Context Window of models?',
+      },
+      {
+        path: '/1lz7vh3',
+        name: 'Will this work?',
+      },
+      {
+        path: '/1lz81ea',
+        name: 'Which LLM should I use to generate high quality Q&amp;A from physics textbook chapters?',
+      },
+      {
+        path: '/1lza5bu',
+        name: 'Can you add pacing control option in TTS ?',
+      },
+      {
+        path: '/1lzampg',
+        name: 'Training an LLM only on books from the 1800\'s - no modern bias',
+      },
+      {
+        path: '/1lzb04f',
+        name: 'Fine-tuning / RL post training for tool calling',
+      },
+      {
+        path: '/1lzb7fh',
+        name: 'Any Actual alternative to gpt-4o or claude?',
+      },
+      {
+        path: '/1lzbad8',
+        name: 'Building “Auto-Analyst” — A data analytics AI agentic system. LLM Agnostic can be used locally',
+      },
+      {
+        path: '/1lzbadq',
+        name: 'What kind of rig would you build with a 5k budget for local LLM?',
+      },
+      {
+        path: '/1lzcuom',
+        name: 'Kimi-K2 is a DeepSeek V3 with more experts',
+      },
+      {
+        path: '/1lzdgc8',
+        name: 'There will be some frontend for FishSpeech?',
+      },
+      {
+        path: '/1lzdu0l',
+        name: 'Practice Pytorch like Leetcode? (Also with cool LLM questions)',
+      },
+      {
+        path: '/1lze1r3',
+        name: 'Diffusion model support in llama.cpp.',
+      },
+      {
+        path: '/1lze20x',
+        name: 'Can VRAM be combined of 2 brands',
+      },
+      {
+        path: '/1lzf6zi',
+        name: 'Xttsv2 model, Chatterbox on MacBook air 8 gb',
+      },
+      {
+        path: '/1lzfdiw',
+        name: 'Looking for affordable dedicated GPUs (A100, H100) outside AWS?',
+      },
+      {
+        path: '/1lzfhhq',
+        name: 'Apple “will seriously consider” buying Mistral | Bloomberg - Mark Gurman',
+      },
+      {
+        path: '/1lzfsxt',
+        name: 'about LLM tools design',
+      },
+      {
+        path: '/1lzfwdj',
+        name: 'Stop-Sequences - Real World Use Cases',
+      },
+      {
+        path: '/1lzggo2',
+        name: 'Best way to run dockerized linux LLM server?',
+      },
+      {
+        path: '/1lzh0cf',
+        name: 'What best model(s) to use for inference using a 4090+3090 for Aider?',
+      },
+      {
+        path: '/1lzhlvb',
+        name: 'local model for SQL Q&amp;A + dashboard agent',
+      },
+      {
+        path: '/1lzhns3',
+        name: 'Comparison of latest reasoning models on the most recent LeetCode questions (Qwen-32B vs Qwen-235B vs nvidia-OpenCodeReasoning-32B vs Hunyuan-A13B)',
+      },
+      {
+        path: '/1lzhqz8',
+        name: 'Responses keep dissolving into word salad - how to stop it?',
+      },
+      {
+        path: '/1lzijk2',
+        name: 'MI50 32GB with bios flash',
+      },
+      {
+        path: '/1lzikqt',
+        name: 'Annoyed with LibreChat',
+      },
+      {
+        path: '/1lzimcq',
+        name: 'Anyone else interested in a 100% on-device browser AI assistant?',
+      },
+      {
+        path: '/1lzjaf5',
+        name: 'Foundations of Large Language Models (LLMs) | NLP Lab Research',
+      },
+      {
+        path: '/1lzjlvi',
+        name: 'Ollama retaining history?',
+      },
+      {
+        path: '/1lzjsu3',
+        name: 'Are there any local LLMS that support Browser use MCP?',
+      },
+      {
+        path: '/1lzk041',
+        name: 'A mid range PC build for Dual GPU Local LLMs and SLMs.',
+      },
+      {
+        path: '/1lzkcg3',
+        name: 'Multiple 5060 Ti\'s',
+      },
+      {
+        path: '/1lzkrwg',
+        name: 'Suggestions/Alternatives for Image captions with efficient system requirements',
+      },
+      {
+        path: '/1lzl5zk',
+        name: 'UTCP: A safer, scalable tool-calling alternative to MCP',
+      },
+      {
+        path: '/1lzlm2t',
+        name: 'getting started with code assistant',
+      },
+      {
+        path: '/1lzm645',
+        name: 'After Kimi K2 Is Released: No Longer Just a ChatBot',
+      },
+      {
+        path: '/1lzn4ae',
+        name: 'Agentic Secretary System - Tips and Recommendations?',
+      },
+      {
+        path: '/1lzn9th',
+        name: 'Suggestions for ai agent framework and ai model for Text-to-SQL ai agent',
+      },
+      {
+        path: '/1lzna91',
+        name: 'Is there a better frontend than OpenWebui for RAG?',
+      },
+      {
+        path: '/1lznxy5',
+        name: 'Project Idea: A REAL Community-driven LLM Stack',
+      },
+      {
+        path: '/1lzocuk',
+        name: 'I ditch all LLM framework and use only OpenAI SDK for everything, I start loving building AI application this way.',
+      },
+      {
+        path: '/1lzooed',
+        name: 'Best LLM for Educators ?',
+      },
+      {
+        path: '/1lzoxbl',
+        name: 'LM Studio cant use my gpu as main',
+      },
+      {
+        path: '/1lzps3b',
+        name: 'Kimi K2 1.8bit Unsloth Dynamic GGUFs',
+      },
+      {
+        path: '/1lzqh66',
+        name: 'How to improve response times for multimodal requests?',
+      },
+      {
+        path: '/1lzql0b',
+        name: 'A practical handbook on Context Engineering with the latest research from IBM Zurich, ICML, Princeton, and more.',
+      },
+      {
+        path: '/1lzrqoi',
+        name: 'Esoteric Game with Llama3.2',
+      },
+      {
+        path: '/1lzsnna',
+        name: 'Ollama, Why No Reka Flash, SmolLM3, GLM-4?',
+      },
+      {
+        path: '/1lzsoqc',
+        name: 'Recorded a userflow for my vibecoding pet project - character selection, model setup, inline replies, and image generation',
+      },
+      {
+        path: '/1lztjtc',
+        name: 'Kimi-K2 🤝 Anthropic | Blog Post by Justin Wong',
+      },
+      {
+        path: '/1lzts1z',
+        name: 'Is real-time voice-to-voice still science fiction?',
+      },
+      {
+        path: '/1lzu9e8',
+        name: 'Is the output of only the shared expert(s) in a MOE model coherent?',
+      },
+      {
+        path: '/1lzuaa3',
+        name: 'If you limit context to 4k tokens, which models today beat Llama2-70B from 2 years ago?',
+      },
+      {
+        path: '/1lzv16g',
+        name: 'Meta’s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes',
+      },
+      {
+        path: '/1lzvuu7',
+        name: 'I want to hire 100k programmers and create the first tech giant startup',
+      },
     ],
   },
   {
