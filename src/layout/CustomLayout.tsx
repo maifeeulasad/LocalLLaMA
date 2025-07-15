@@ -5414,6 +5414,222 @@ export { CustomLayout };
         path: '/1lzvuu7',
         name: 'I want to hire 100k programmers and create the first tech giant startup',
       },
+      {
+        path: '/1lzw6yu',
+        name: 'Open Source Alternative to NotebookLM',
+      },
+      {
+        path: '/1lzwps3',
+        name: 'Building a Focus App with Local LLMs — But Latency Is a Real Challenge , seeking suggestions',
+      },
+      {
+        path: '/1lzx039',
+        name: 'NVMe for local LLM is too slow. Any ideas?',
+      },
+      {
+        path: '/1lzy059',
+        name: 'Code assistant way to start',
+      },
+      {
+        path: '/1lzyk1k',
+        name: 'GitHub - SrijanSriv211/Palm: Palm is a tree, not a language model',
+      },
+      {
+        path: '/1lzywie',
+        name: 'Kimi K2 tops creative writing benchmark',
+      },
+      {
+        path: '/1lzz13f',
+        name: 'What are the best practices for vector search + filtering with LLM?',
+      },
+      {
+        path: '/1lzzcje',
+        name: 'MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation',
+      },
+      {
+        path: '/1lzzka4',
+        name: 'Enough resources for light AI workloads?',
+      },
+      {
+        path: '/1m00yn1',
+        name: 'Help needed: 20+ devs on the local model',
+      },
+      {
+        path: '/1m0115d',
+        name: 'Meta on track to be first lab with a 1GW supercluster',
+      },
+      {
+        path: '/1m013ou',
+        name: 'Moonshot AI’s open source Kimi K2 outperforms GPT-4 in key benchmarks',
+      },
+      {
+        path: '/1m01d8x',
+        name: 'Did anyone manage to use nllb with cuda acceleration on Windows?',
+      },
+      {
+        path: '/1m021nx',
+        name: 'Thank you, Unsloth! You guys are legends!!! (Now I just need 256GB of DDR5)',
+      },
+      {
+        path: '/1m03sh9',
+        name: 'A very nice overview on how llama.cpp quantization works',
+      },
+      {
+        path: '/1m03sio',
+        name: 'Does vLLM not support Qwen3 ggufs? What sort of models/quants are people running in vLLM?',
+      },
+      {
+        path: '/1m040ag',
+        name: 'What\'s up with the weird OR provider prices, they make no sense at all.',
+      },
+      {
+        path: '/1m041m4',
+        name: 'Meta’s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes',
+      },
+      {
+        path: '/1m04a20',
+        name: 'EXAONE 4.0 32B',
+      },
+      {
+        path: '/1m04ic2',
+        name: 'Grok no more model Open-source?',
+      },
+      {
+        path: '/1m06bru',
+        name: 'Which local LLMs and/or libraries can I use to guide or train to identify where relevant data is located on a web page for web scraping purposes? Using natural language',
+      },
+      {
+        path: '/1m06lrz',
+        name: 'I built an AI PC - what should I try out first?',
+      },
+      {
+        path: '/1m06nhe',
+        name: 'Non-reasoning models adopting reasoning behavior from previous messages',
+      },
+      {
+        path: '/1m07tkl',
+        name: '[XTTS v2] ¿Por qué algunas voces suenan bien y otras fallan al entrenar?',
+      },
+      {
+        path: '/1m081hm',
+        name: 'Test MNN Chat for Android',
+      },
+      {
+        path: '/1m084lw',
+        name: 'gemini 2.5 pro bug',
+      },
+      {
+        path: '/1m086sk',
+        name: 'How to increase character limit in TTS?',
+      },
+      {
+        path: '/1m08bvp',
+        name: 'Are there any models that can upmix stereo into surround!!!',
+      },
+      {
+        path: '/1m09bzn',
+        name: 'Multi-Code-Agent Orchestration VS Code Extension',
+      },
+      {
+        path: '/1m09rbh',
+        name: 'SLM for local coding assistance',
+      },
+      {
+        path: '/1m0a9ni',
+        name: 'What is requests limit for kimi k2 ?',
+      },
+      {
+        path: '/1m0apct',
+        name: 'Which model can I run comfortably on M4 Max 128GB with a long context window?',
+      },
+      {
+        path: '/1m0auae',
+        name: 'Без цензуры',
+      },
+      {
+        path: '/1m0b73m',
+        name: 'Open source vs expansive models',
+      },
+      {
+        path: '/1m0bh4b',
+        name: 'Model size for RTX 3060 (12 Gb) + 32 Gb ram',
+      },
+      {
+        path: '/1m0biux',
+        name: 'Introducing r/heartwired !!!',
+      },
+      {
+        path: '/1m0c569',
+        name: 'AI Agent tutorial in TS from the basics to building multi-agent teams',
+      },
+      {
+        path: '/1m0c7am',
+        name: 'Open source LLMs leaderboard',
+      },
+      {
+        path: '/1m0cdle',
+        name: 'PydanticAI is GOAT for building agents in Python',
+      },
+      {
+        path: '/1m0cgmc',
+        name: 'Cognition, maker of the AI coding agent Devin, acquires Windsurf',
+      },
+      {
+        path: '/1m0cgnl',
+        name: 'Kimi K2: cheap and fast API access for those who can\'t run locally',
+      },
+      {
+        path: '/1m0cja9',
+        name: 'Do DeepseekR1-distilled-Llama-8B has the same tokenizer and tokens vocab as Llama3-1B or 2B?',
+      },
+      {
+        path: '/1m0cnzs',
+        name: 'XSched: Preemptive Scheduling for Diverse XPUs',
+      },
+      {
+        path: '/1m0d0vz',
+        name: 'Analyzed 5K+ reddit posts to see how people are actually using AI in their work (other than for coding)',
+      },
+      {
+        path: '/1m0d47q',
+        name: 'OCTAVE addon to REPOMIX',
+      },
+      {
+        path: '/1m0d6ry',
+        name: 'Can I fine-tune Qwen3 with DPO? How do I handle &lt;thinking&gt; tokens?',
+      },
+      {
+        path: '/1m0dqgh',
+        name: 'Open source and free iOS app to chat with your LLMs when you are away from home.',
+      },
+      {
+        path: '/1m0drwa',
+        name: 'AI Assistant Agent with function calling - Update 2',
+      },
+      {
+        path: '/1m0ec9o',
+        name: 'Need help with mcp setup in LM studio',
+      },
+      {
+        path: '/1m0eq11',
+        name: 'Whisper.cpp Node.js Addon with Vulkan Support',
+      },
+      {
+        path: '/1m0fboi',
+        name: 'Announcing the launch of the Startup Catalyst Program for early-stage AI teams.',
+      },
+      {
+        path: '/1m0fp0r',
+        name: 'GPU for local LLM',
+      },
+      {
+        path: '/1m0g2mk',
+        name: 'Well, if anyone was waiting for Llama 4 Behemoth, it\'s gone',
+      },
+      {
+        path: '/1m0gdfi',
+        name: 'Kiro (Cursor alternative from Amazon)',
+      },
     ],
   },
   {
