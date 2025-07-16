@@ -5630,6 +5630,338 @@ export { CustomLayout };
         path: '/1m0gdfi',
         name: 'Kiro (Cursor alternative from Amazon)',
       },
+      {
+        path: '/1m0gu3p',
+        name: 'May use? May? like "I don\'t know, just like the rest, but they\'re from China" may? Racist much?',
+      },
+      {
+        path: '/1m0gvhm',
+        name: 'Study finds AI tools made open source software developers 19 percent slower',
+      },
+      {
+        path: '/1m0gyhy',
+        name: 'We built Explainable AI with pinpointed citations &amp; reasoning — works across PDFs, Excel, CSV, Docs &amp; more',
+      },
+      {
+        path: '/1m0h6k5',
+        name: 'Need advice on prompt instruction format',
+      },
+      {
+        path: '/1m0h6qt',
+        name: 'Has anyone dived into Universal Tool Calling Protocol (UTCP), a potential MCP alternative, yet? Is it worth standardizing?',
+      },
+      {
+        path: '/1m0h7sx',
+        name: 'Does Apple have the best value for money for running LLMs?',
+      },
+      {
+        path: '/1m0hgtt',
+        name: 'Why LangGraph overcomplicates AI agents (and my Go alternative)',
+      },
+      {
+        path: '/1m0i8k5',
+        name: 'I built an open-source GUI editor for JSON and function call schema',
+      },
+      {
+        path: '/1m0ihkh',
+        name: 'Anybody put a game on steam that included Localllm?',
+      },
+      {
+        path: '/1m0j7w4',
+        name: 'Swiss Open LLM',
+      },
+      {
+        path: '/1m0jeyu',
+        name: 'Can you have more vram than system ram?',
+      },
+      {
+        path: '/1m0k22v',
+        name: 'mistralai/Voxtral-Mini-3B-2507 · Hugging Face',
+      },
+      {
+        path: '/1m0k27c',
+        name: 'RAG Agent that tells me what to work on',
+      },
+      {
+        path: '/1m0k38k',
+        name: 'What does anyone know about CUDA support being added to MLX? This sounds intriguing to me but I haven\'t heard a peep about it except this hackernews thing I saw yesterday linking to the github PR',
+      },
+      {
+        path: '/1m0kqma',
+        name: 'free ai generators like bluewillow still hold up with the right edits',
+      },
+      {
+        path: '/1m0lyjn',
+        name: 'Kimi has impressive coding performance! Even deep into context usage.',
+      },
+      {
+        path: '/1m0lykb',
+        name: 'What\'s the best offline TTS models at the moment?',
+      },
+      {
+        path: '/1m0mcbq',
+        name: 'seems visual models are more sensitive than text models on quantization loss.',
+      },
+      {
+        path: '/1m0mg5b',
+        name: 'Least sycophantic AI yet? Kimi K2',
+      },
+      {
+        path: '/1m0mnjk',
+        name: 'Kimi K2 at ~200 tps on Groq',
+      },
+      {
+        path: '/1m0mo2d',
+        name: 'OK, now we\'re at 1T parameter models, what\'s the 3090 equivalent way to run them locally?',
+      },
+      {
+        path: '/1m0muph',
+        name: 'GitHub - restyler/awesome-sandbox: Awesome Code Sandboxing for AI',
+      },
+      {
+        path: '/1m0nutb',
+        name: 'Totally lightweight local inference...',
+      },
+      {
+        path: '/1m0o6am',
+        name: 'A personal mathematics benchmark (IOQM 2024)',
+      },
+      {
+        path: '/1m0onbu',
+        name: 'Alibaba-backed Moonshot releases new Kimi AI model that beats ChatGPT, Claude in coding — and it costs less',
+      },
+      {
+        path: '/1m0p3bh',
+        name: 'News feed for new interesting local LLMs ?',
+      },
+      {
+        path: '/1m0pjk9',
+        name: 'As a developer vibe coding with intellectual property...',
+      },
+      {
+        path: '/1m0pn5c',
+        name: 'RTX 5090 performance with vLLM and batching?',
+      },
+      {
+        path: '/1m0pxot',
+        name: 'Just tried out the Exaone 4.0 1.2b bf16 and i\'m extremely suprised at how good a 1.2b can be!',
+      },
+      {
+        path: '/1m0r95k',
+        name: '2 M3 Ultra’s 512GB running Kimi K2 quant 4 with mlx-lm and mlx.distributed',
+      },
+      {
+        path: '/1m0rk8t',
+        name: 'Notes on Kimi K2: A Deepseek derivative but the true Sonnet 3.6 Succesor',
+      },
+      {
+        path: '/1m0s32z',
+        name: 'NO ILLUMINATI, YOU LET US HAVE THIS ONE!',
+      },
+      {
+        path: '/1m0slrh',
+        name: 'support for Kimi-K2 has been merged into llama.cpp',
+      },
+      {
+        path: '/1m0ssma',
+        name: 'How did you manage to use llama server with openhands ?',
+      },
+      {
+        path: '/1m0t5m9',
+        name: 'NousResearch/Hermes-3-Dataset Release',
+      },
+      {
+        path: '/1m0thc5',
+        name: 'FULL Cursor System Prompt and Tools [UPDATED, v1.2]',
+      },
+      {
+        path: '/1m0tkly',
+        name: 'Is it possible to get a common memory pool of 48 on two 3090?',
+      },
+      {
+        path: '/1m0twqa',
+        name: 'Alternative to llama.cpp for Apple Silicon',
+      },
+      {
+        path: '/1m0txlx',
+        name: 'Choosing the Right Model for academic Evaluation: Llama 3.1 Base vs Instruct?',
+      },
+      {
+        path: '/1m0ukji',
+        name: '‘Waiting… ‘, 2025, whatthehellisa.jpg',
+      },
+      {
+        path: '/1m0uoqo',
+        name: 'IQ2_KL 345.687 GiB (2.892 BPW) Kimi-K2-Instruct GGUF ik exclusive!',
+      },
+      {
+        path: '/1m0v9m1',
+        name: 'Incoming late summer: 8B and 70B models trained on 15T tokens, fluent in 1000+ languages, open weights and code, Apache 2.0. Thanks Switzerland!',
+      },
+      {
+        path: '/1m0vc09',
+        name: 'Open WebUI RAG and pipelines',
+      },
+      {
+        path: '/1m0vci4',
+        name: 'What version of Deepseek is being served in Deepseek app as the reasoning model?',
+      },
+      {
+        path: '/1m0wigu',
+        name: 'Made a beginner-friendly guide to AI agent security.',
+      },
+      {
+        path: '/1m0wji2',
+        name: 'I feel that the duality of llama.cpp and ik-llama is worrysome',
+      },
+      {
+        path: '/1m0y3a6',
+        name: 'Fine-tuning Leaderboard!',
+      },
+      {
+        path: '/1m0yqq2',
+        name: 'Kimi K2 vs. Claude vs. OpenAI | Cursor Real-World Research Task',
+      },
+      {
+        path: '/1m0yw9z',
+        name: 'How is the new Grok AI girlfriend animation implemented?',
+      },
+      {
+        path: '/1m0z1zx',
+        name: 'Your unpopular takes on LLMs',
+      },
+      {
+        path: '/1m0z80y',
+        name: 'Visualization for MuonClip',
+      },
+      {
+        path: '/1m0z8sn',
+        name: 'What is the most underrated model in your opinion?',
+      },
+      {
+        path: '/1m0zy1a',
+        name: 'New documentation / explainer for GGUF quantization',
+      },
+      {
+        path: '/1m101yf',
+        name: '[WANTED] Moonshot K2 Jailbreak',
+      },
+      {
+        path: '/1m10jln',
+        name: 'Obsidian note summarizer using local LLMs',
+      },
+      {
+        path: '/1m10y6t',
+        name: 'Grok 3 just leak me it\'s system prompt',
+      },
+      {
+        path: '/1m118is',
+        name: 'Use claudecode with local models',
+      },
+      {
+        path: '/1m12ij7',
+        name: '🚨 Docker container stuck on “Waiting for application startup” — Open WebUI won’t load in browser',
+      },
+      {
+        path: '/1m13eb2',
+        name: 'AMD Radeon AI PRO R9700 32 GB GPU Listed Online, Pricing Expected Around $1250, Half The Price of NVIDIA\'s RTX PRO "Blackwell" With 24 GB VRAM',
+      },
+      {
+        path: '/1m13eg0',
+        name: 'Seeking advice: Which Ollama model should I run on my modest laptop?',
+      },
+      {
+        path: '/1m13t7g',
+        name: 'DIY Voice Chat with Local LLMs on iOS/Mac: Apple Shortcut Using LM Studio + Kokoro-FastAPI (Free &amp; Private)',
+      },
+      {
+        path: '/1m142vi',
+        name: 'Can someone nudge me into the right direction for creating MCPs using Local models. Tutorials or articles or something.',
+      },
+      {
+        path: '/1m145cw',
+        name: 'Could I be put in the right direction for the best model/s ive been using an app for chatting with bots but can\'t use it anymore due to circumstances and I\'m totally new to this stuff',
+      },
+      {
+        path: '/1m14a9j',
+        name: 'Meta\'s new ASI team discussed about abandoning Meta\'s powerful Open-source and focus on developing close',
+      },
+      {
+        path: '/1m157wo',
+        name: 'Model recommendations for GPU-less server',
+      },
+      {
+        path: '/1m15yss',
+        name: 'Local RAG + LLM as a Narrative RPG Game Master — Does This Make Sense and How to Build It?',
+      },
+      {
+        path: '/1m16h0b',
+        name: 'GPUs low utilization?',
+      },
+      {
+        path: '/1m16kdm',
+        name: 'T5Gemma: A new collection of encoder-decoder Gemma models- Google Developers Blog',
+      },
+      {
+        path: '/1m16o6r',
+        name: 'Official Local LLM support by AMD released. Lemonade',
+      },
+      {
+        path: '/1m1701z',
+        name: 'TTS models for realtime streaming',
+      },
+      {
+        path: '/1m17ify',
+        name: 'Running Ollama locally with a smooth UI and no technical skills',
+      },
+      {
+        path: '/1m17wf2',
+        name: 'Ryzen AI 7 350 and rocm',
+      },
+      {
+        path: '/1m187yw',
+        name: 'Open alternative to Dia / Comet AI Browsers - Can run w/ Local models',
+      },
+      {
+        path: '/1m18nke',
+        name: 'GitHub - boneylizard/Eloquent: A local front-end for open-weight LLMs with memory, RAG, TTS/STT, Elo ratings, and dynamic research tools. Built with React and FastAPI.',
+      },
+      {
+        path: '/1m18tr9',
+        name: 'Does llama.cpp support to run kimi-k2 with multi GPUs',
+      },
+      {
+        path: '/1m19igi',
+        name: 'getting acceleration on Intel integrated GPU/NPU',
+      },
+      {
+        path: '/1m19kfw',
+        name: 'Help me figure out how ?',
+      },
+      {
+        path: '/1m19upn',
+        name: 'So how do I fine-time a local model?',
+      },
+      {
+        path: '/1m1a4z7',
+        name: 'Ok this tool is actually insane!! I just found a tool that turns ANY document into LLM-ready data!!',
+      },
+      {
+        path: '/1m1aj8n',
+        name: '📢 [RELEASE] LoFT CLI: Fine-tune &amp; Deploy LLMs on CPU (8GB RAM, No GPU, No Cloud)',
+      },
+      {
+        path: '/1m1aps5',
+        name: 'How do you RAG multiple docs in LM STUDIO',
+      },
+      {
+        path: '/1m1as5s',
+        name: 'Using Llama MaaS in Google\'s Vertex AI',
+      },
+      {
+        path: '/1m1au28',
+        name: 'Vllm vs. llama.cpp',
+      },
     ],
   },
   {
