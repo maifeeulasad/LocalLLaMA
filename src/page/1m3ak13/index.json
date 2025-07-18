@@ -1,0 +1,217 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I've shown drafts of the project's future UI/UX recently, now I'm just posting an update about what's already there on a backend. Nothing fancy yet, but I'm doing my best tinkering it.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Just recorded a walkthrough of my chatbot platform - saved characters, model selection, image gen &amp; more",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 78,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1m3ak13",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1zyh18yq",
+            "secure_media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/6ngt4yazhodf1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1920,
+                "scrubber_media_url": "https://v.redd.it/6ngt4yazhodf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755456551%2CNmY1NDg5MDZkMWMzMDRlNmMyNTJjODFmYzk3YWQ1NDI2ZWVjMGQ1YTY5MDUyYzE1YWQxM2Q0OTM4ZGYyZDU4Ng%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 28,
+                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755456551%2CYjYxOGEzMmM1MjMwMjUzODUxYTY2OGUwMDBkNWY5YmQzMTc3YzBkZWQwNjNkMzE4N2IxN2Q3NjhjOWUxOTViNw%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=140&amp;height=78&amp;crop=140:78,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=bdcbff4d9d796878a10fa3a7c9c8725a18ce083f",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "hosted:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1752864466,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "v.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve shown drafts of the project&amp;#39;s future UI/UX recently, now I&amp;#39;m just posting an update about what&amp;#39;s already there on a backend. Nothing fancy yet, but I&amp;#39;m doing my best tinkering it.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://v.redd.it/6ngt4yazhodf1",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?format=pjpg&amp;auto=webp&amp;s=500d2b90257b1461c3ce0720c431fe66d28f4bc0",
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=4498946972de430858b93d355cbe7e46c8b5c3df",
+                      "width": 108,
+                      "height": 60
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=cf177385568160bfe5f12cef02cf75bbe72725ce",
+                      "width": 216,
+                      "height": 121
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=bd5b2d6a205b24a3122d839364c9e3cfed9ee1ac",
+                      "width": 320,
+                      "height": 180
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=20b7c11a2a705f2c7b9650b377f69fb1b4b4f14e",
+                      "width": 640,
+                      "height": 360
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=351170c0ca49015e6e071cbc82c3c0e41465a001",
+                      "width": 960,
+                      "height": 540
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=f2be83cdb35af1a2fd1d27e3f95d173c965ec6c3",
+                      "width": 1080,
+                      "height": 607
+                    }
+                  ],
+                  "variants": {},
+                  "id": "Zjc1dWUyYnpob2RmMbkTAbisFA-bXEP72UB2cKiRRNQrr_ZpblEyu3qhcRW_"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1m3ak13",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "RIPT1D3_Z",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/6ngt4yazhodf1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1920,
+                "scrubber_media_url": "https://v.redd.it/6ngt4yazhodf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755456551%2CNmY1NDg5MDZkMWMzMDRlNmMyNTJjODFmYzk3YWQ1NDI2ZWVjMGQ1YTY5MDUyYzE1YWQxM2Q0OTM4ZGYyZDU4Ng%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 28,
+                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755456551%2CYjYxOGEzMmM1MjMwMjUzODUxYTY2OGUwMDBkNWY5YmQzMTc3YzBkZWQwNjNkMzE4N2IxN2Q3NjhjOWUxOTViNw%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m3ak13/just_recorded_a_walkthrough_of_my_chatbot/",
+            "stickied": false,
+            "url": "https://v.redd.it/6ngt4yazhodf1",
+            "subreddit_subscribers": 500894,
+            "created_utc": 1752864466,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": true
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

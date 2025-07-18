@@ -5962,6 +5962,478 @@ export { CustomLayout };
         path: '/1m1au28',
         name: 'Vllm vs. llama.cpp',
       },
+      {
+        path: '/1m1i922',
+        name: 'He’s out of line but he’s right',
+      },
+      {
+        path: '/1m1np9n',
+        name: 'Sometime… in the next 3 to 5 decades….',
+      },
+      {
+        path: '/1m1sjsn',
+        name: 'MCPS are awesome!',
+      },
+      {
+        path: '/1m1vf6g',
+        name: 'Kimi K2 on Aider Polyglot Coding Leaderboard',
+      },
+      {
+        path: '/1m1xqv1',
+        name: 'We have hit 500,000 members! We have come a long way from the days of the leaked LLaMA 1 models',
+      },
+      {
+        path: '/1m1ylw0',
+        name: 'My simple test: Qwen3-32b &gt; Qwen3-14B ≈ DS Qwen3-8 ≳ Qwen3-4B &gt; Mistral 3.2 24B &gt; Gemma3-27b-it,',
+      },
+      {
+        path: '/1m22w76',
+        name: 'Securing AI Agents with Honeypots, catch prompt injections before they bite',
+      },
+      {
+        path: '/1m23efn',
+        name: 'ARGO - A Local-First, Offline AI Agent That Puts You in Control',
+      },
+      {
+        path: '/1m279pe',
+        name: 'How to combine local OCR with LLM for document Q&amp;A?',
+      },
+      {
+        path: '/1m285sn',
+        name: 'Help Deciding Between NVIDIA H200 (2x GPUs) vs NVIDIA L40S (8x GPUs) for Serving 24b-30b LLM to 50 Concurrent Users',
+      },
+      {
+        path: '/1m28oqc',
+        name: 'Anyone here experimenting with LLMs for translation QA — not rewriting, just evaluating?',
+      },
+      {
+        path: '/1m28r3c',
+        name: 'AI devs in NYC — heads up about the RAISE Act',
+      },
+      {
+        path: '/1m2981a',
+        name: 'UTCP Golang prototype',
+      },
+      {
+        path: '/1m2acb8',
+        name: 'LoRA adapter on emails to mimic users style of writing from their emails',
+      },
+      {
+        path: '/1m2asou',
+        name: 'Kimi-k2 on lmarena',
+      },
+      {
+        path: '/1m2bigh',
+        name: 'Mistral announces Deep Research, Voice mode, multilingual reasoning and Projects for Le Chat',
+      },
+      {
+        path: '/1m2c4hz',
+        name: 'Kimi K2 Fiction.liveBench: On-par with DeepSeek V3, behind GPT-4.1',
+      },
+      {
+        path: '/1m2c9w6',
+        name: 'LLMs Playing Competitive Games Emerge Critical Reasoning: A Latest Study Showing Surprising Results',
+      },
+      {
+        path: '/1m2cygz',
+        name: 'The most insane hardware for running the biggest open-source LLMs locally',
+      },
+      {
+        path: '/1m2d7n2',
+        name: 'Is there a local tool that works like readability.js (extract article content from a webpage) but using local LLMs to do it more intelligently?',
+      },
+      {
+        path: '/1m2e8vc',
+        name: 'Do these models have vision?',
+      },
+      {
+        path: '/1m2el95',
+        name: 'Wordle-like game using your photos and on-device Small Language Models (SLMs)',
+      },
+      {
+        path: '/1m2ex4z',
+        name: '[2506.00045] ACE-Step: A Step Towards Music Generation Foundation Model',
+      },
+      {
+        path: '/1m2fkw6',
+        name: 'Batch processing for MiniCPM',
+      },
+      {
+        path: '/1m2fmwu',
+        name: 'I just had a random though',
+      },
+      {
+        path: '/1m2furm',
+        name: 'Locally Running AI model with Intel GPU',
+      },
+      {
+        path: '/1m2g9x8',
+        name: 'Exploring a local chorus/crowd mechanism or something similar to AI writing looms as a callable tool -- has anything been done in this area?',
+      },
+      {
+        path: '/1m2gios',
+        name: 'Given that powerful models like K2 are available cheaply on hosted platforms with great inference speed, are you regretting investing in hardware for LLMs?',
+      },
+      {
+        path: '/1m2gle9',
+        name: 'When will we get a local version of ChatGPT Agent?',
+      },
+      {
+        path: '/1m2glqg',
+        name: 'Wanted y’all’s thoughts on a project',
+      },
+      {
+        path: '/1m2gnnk',
+        name: 'Running an open source AI anime girl avatar',
+      },
+      {
+        path: '/1m2gp16',
+        name: 'Just a reminder that today OpenAI was going to release a SOTA open source model… until Kimi dropped.',
+      },
+      {
+        path: '/1m2gy2t',
+        name: 'GPU advice for running local LLMs',
+      },
+      {
+        path: '/1m2hedt',
+        name: 'Has anyone used DSPy for creative writing or story generation? Looking for examples',
+      },
+      {
+        path: '/1m2hjdb',
+        name: 'Apple Technical Report on their AFM Local and Server Models',
+      },
+      {
+        path: '/1m2i0cn',
+        name: 'Best Open Programming Model by Language',
+      },
+      {
+        path: '/1m2i79e',
+        name: 'Why does it do this? Why does ALL models do this?',
+      },
+      {
+        path: '/1m2ibq0',
+        name: 'Is it possible to run something like Grok\'s anime girl companion free, open source, and local?',
+      },
+      {
+        path: '/1m2igfi',
+        name: 'Migrating a semantically-anchored assistant from OpenAI to local environment (Domina): any successful examples of memory-aware agent migration?',
+      },
+      {
+        path: '/1m2inuu',
+        name: 'How to use the same context across LLMs and Agents',
+      },
+      {
+        path: '/1m2j33z',
+        name: 'Google Edge AI says it\'s created by Open AI, using Gemma-3n-E4B',
+      },
+      {
+        path: '/1m2jluy',
+        name: 'CXL Benefits for DB, AI',
+      },
+      {
+        path: '/1m2k480',
+        name: 'support for Ernie 4.5 MoE models has been merged into llama.cpp',
+      },
+      {
+        path: '/1m2kjrm',
+        name: 'Thunderbolt vs Oculink',
+      },
+      {
+        path: '/1m2kz44',
+        name: 'When to RAG',
+      },
+      {
+        path: '/1m2lklq',
+        name: 'Multimodal models that can "read" data on the monitor',
+      },
+      {
+        path: '/1m2lq3q',
+        name: 'Lab environment',
+      },
+      {
+        path: '/1m2lsbm',
+        name: '#1 model on Open ASR nvidia/canary-qwen-2.5b is available now',
+      },
+      {
+        path: '/1m2lxq3',
+        name: 'Best OCR to extract text from ECG images',
+      },
+      {
+        path: '/1m2mdc8',
+        name: 'MCP capable small local models?',
+      },
+      {
+        path: '/1m2ml3n',
+        name: 'I’ll build an expert AI for your impossible challenge and give it away free - looking for the hardest technical problem you’ve got',
+      },
+      {
+        path: '/1m2nvpn',
+        name: 'Training an LLM only on books from the 1800\'s - Update',
+      },
+      {
+        path: '/1m2o3ht',
+        name: 'Help vote for improved Vulkan performance in ik_llama.cpp',
+      },
+      {
+        path: '/1m2osrh',
+        name: 'Need recommendations for some good prompting strategies, that yield high accuracies for a text classification task (conversational English)',
+      },
+      {
+        path: '/1m2phy1',
+        name: 'Do you give your LLM terminal and code execution access?',
+      },
+      {
+        path: '/1m2pvwt',
+        name: 'LPOI: Listwise Preference Optimization for Vision-Language Models (ACL 2025 Main)',
+      },
+      {
+        path: '/1m2r1dw',
+        name: 'Lizard: An Efficient Linearization Framework for Large Language Models',
+      },
+      {
+        path: '/1m2riey',
+        name: 'Seed-X by Bytedance- LLM for multilingual translation',
+      },
+      {
+        path: '/1m2ruo5',
+        name: 'Abogen: Generate Audiobooks with Synced Subtitles (Free &amp; Open Source)',
+      },
+      {
+        path: '/1m2rw38',
+        name: 'Best Hardware Setup to Run DeepSeek-V3 670B Locally on $40K–$80K?',
+      },
+      {
+        path: '/1m2s686',
+        name: 'Amazing performance! Kimi K2 on ik_llama.cpp',
+      },
+      {
+        path: '/1m2spkm',
+        name: 'Mini PC / LLM questions for someone with a new 5080/9800x3d PC',
+      },
+      {
+        path: '/1m2su9b',
+        name: 'Local model on two different GPUs',
+      },
+      {
+        path: '/1m2tjjc',
+        name: 'Lucy: A Mobile-Capable 1.7B Reasoning Model That Rivals Jan-Nano',
+      },
+      {
+        path: '/1m2u7i8',
+        name: 'spy search cli',
+      },
+      {
+        path: '/1m2u9n3',
+        name: 'Can you recommend something I can personally do with two H100?',
+      },
+      {
+        path: '/1m2ukka',
+        name: 'UIGEN-X-8B, Hybrid Reasoning model built for direct and efficient frontend UI generation, trained on 116 tech stacks including Visual Styles',
+      },
+      {
+        path: '/1m2uvgk',
+        name: 'What can I do with an old computer?',
+      },
+      {
+        path: '/1m2vcrx',
+        name: 'mergekit LoRA extractor – how good is that?',
+      },
+      {
+        path: '/1m2w1ez',
+        name: 'Language/Framework Recommendations for CLI Chat Assistant with a Local LLM on EC2',
+      },
+      {
+        path: '/1m2w3i3',
+        name: 'Maximum parameters for this 4050 RTX 6GB vram with 32GB RAM',
+      },
+      {
+        path: '/1m2w4qw',
+        name: 'How can I benchmark different AI models?',
+      },
+      {
+        path: '/1m2w5ge',
+        name: 'Did Kimi K2 train on Claude\'s generated code? I think yes',
+      },
+      {
+        path: '/1m2wl24',
+        name: 'Local Ai image generators',
+      },
+      {
+        path: '/1m2x30u',
+        name: 'RAG at the Crossroads - Mid-2025 Reflections on AI’s Incremental Evolution | RAGFlow',
+      },
+      {
+        path: '/1m2xdjr',
+        name: 'New drop of LaToile ! Best orchestration framework !',
+      },
+      {
+        path: '/1m2xewp',
+        name: 'GPU bottleneck?',
+      },
+      {
+        path: '/1m2xh8s',
+        name: 'Run Kimi-K2 without quantization locally for under $10k?',
+      },
+      {
+        path: '/1m2yjv8',
+        name: 'voltapi',
+      },
+      {
+        path: '/1m2yy93',
+        name: 'Where\'s Mistral Nemo 2.0?',
+      },
+      {
+        path: '/1m2z10w',
+        name: 'Local LLM with SQL function support.',
+      },
+      {
+        path: '/1m2z38k',
+        name: 'In light of recent events',
+      },
+      {
+        path: '/1m2zj5b',
+        name: 'Dataset for structured (JSON) output?',
+      },
+      {
+        path: '/1m300cf',
+        name: 'Is DIY AGI Possible?',
+      },
+      {
+        path: '/1m301uy',
+        name: 'Tool calling or not, I will use anyway',
+      },
+      {
+        path: '/1m305vc',
+        name: 'What upgrade option is better with $2000 available for my configuration?',
+      },
+      {
+        path: '/1m30ehv',
+        name: 'Local Tiny Agents with AMD NPU and GPU Acceleration - Hugging Face MCP Course',
+      },
+      {
+        path: '/1m31moj',
+        name: 'What hardware to run two 3090?',
+      },
+      {
+        path: '/1m31n2o',
+        name: 'B200 idle - why?',
+      },
+      {
+        path: '/1m31p26',
+        name: 'I built an open-source Python front-end to turn local LLMs into stable, long-term TTRPG Game Masters.',
+      },
+      {
+        path: '/1m31p47',
+        name: 'How to get small models (&lt;= 4B) to have better "common sense" for use with daily conversations?',
+      },
+      {
+        path: '/1m31z4z',
+        name: 'support for EXAONE 4.0 model architecture has been merged into llama.cpp',
+      },
+      {
+        path: '/1m321eo',
+        name: 'Which SLM is best for meeting summarization?',
+      },
+      {
+        path: '/1m327c9',
+        name: 'Is OpenRouter payment safe?',
+      },
+      {
+        path: '/1m32z28',
+        name: 'Piaget, a language model for psychological and philosophical reasoning',
+      },
+      {
+        path: '/1m33647',
+        name: 'overwhelmed by ai tools in 2025 here’s a quick cheat',
+      },
+      {
+        path: '/1m342g1',
+        name: 'Local LLM system framework',
+      },
+      {
+        path: '/1m35kib',
+        name: 'Has anyone actually ran VLAs locally and how good are they?',
+      },
+      {
+        path: '/1m3643z',
+        name: 'DiffRhythm+ is coming soon',
+      },
+      {
+        path: '/1m36d91',
+        name: 'Meta says it won\'t sign Europe AI agreement, calling it an overreach that will stunt growth',
+      },
+      {
+        path: '/1m3792k',
+        name: 'What happens if I hit the context limit before the LLM is done responding?',
+      },
+      {
+        path: '/1m37o5r',
+        name: 'Drummer\'s Cydonia 24B v4 - A creative finetune of Mistral Small 3.2',
+      },
+      {
+        path: '/1m386sc',
+        name: 'Thoughts on this DeepSeekR1/Kimi K2 build',
+      },
+      {
+        path: '/1m389gi',
+        name: '32GB Mi50, but llama.cpp Vulkan sees only 16GB',
+      },
+      {
+        path: '/1m38b25',
+        name: 'What\'s a good and cheap place to host trained Lora/llamas. Is Hugging face better than doing your own Vast.ai server?',
+      },
+      {
+        path: '/1m38mqc',
+        name: 'What are the hypothetical methods for constructing and training a SUPERINTELLIGENCE model?',
+      },
+      {
+        path: '/1m38ou1',
+        name: 'Is there any limit for kimi k2 chat (free tier) ?',
+      },
+      {
+        path: '/1m390kj',
+        name: 'DGAF if it’s dumber. It’s mine.',
+      },
+      {
+        path: '/1m394zh',
+        name: 'new models from NVIDIA: OpenReasoning-Nemotron 32B/14B/7B/1.5B',
+      },
+      {
+        path: '/1m39eyr',
+        name: 'A demo space for Voxtral with transformers version of the models',
+      },
+      {
+        path: '/1m39liw',
+        name: 'Introcuding KokoroDoki a Local, Open-Source and Real-Time TTS.',
+      },
+      {
+        path: '/1m39n48',
+        name: 'Trying to run kimi-k2 on cpu only, getting about 1token / 30sec',
+      },
+      {
+        path: '/1m39uqi',
+        name: 'I made a 1000 hour NSFW TTS dataset',
+      },
+      {
+        path: '/1m39xy5',
+        name: 'Looking for feedback on this basic setup',
+      },
+      {
+        path: '/1m3a4yu',
+        name: 'Working on a game with a local llama model',
+      },
+      {
+        path: '/1m3ai5u',
+        name: 'Just recorded a walkthrough of my chatbot platform - saved characters, model selection, image gen &amp; more',
+      },
+      {
+        path: '/1m3aixn',
+        name: 'A100 Setup Recommendations',
+      },
+      {
+        path: '/1m3ak13',
+        name: 'Just recorded a walkthrough of my chatbot platform - saved characters, model selection, image gen &amp; more',
+      },
     ],
   },
   {
