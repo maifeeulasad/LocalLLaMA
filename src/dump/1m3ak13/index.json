@@ -53,9 +53,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/6ngt4yazhodf1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755494897%2CMWFiYTZlMTViYWU2ZTFkMmY0ZjE2NGMwM2QzNDBjMTliM2Q1NzY1MmQzOGM5N2UyNGQwZTg5ZWJlYzVjMmE3NQ%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755499053%2CZDZhZWFkOGFmNzdkNjc4YmU5YmYwNTA5NGY3YTMyZTQ3ZTExODU2N2IwMGNmMzYzN2M3YTlmMGY0ODI4ZTA3Mw%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 28,
-                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755494897%2CNmQwM2ZhMWI2YTBlOTc3YTAzNjc4YjUzZjVjY2NkZTc2NWZkNzBmYjU0M2E5ZTA2OTBjNWFlZjVjM2Q2ZDZlMQ%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755499053%2CNWE1ZTlmZjVmZmU4MDU1ODgyM2YzMWNiM2E5M2IzOWJjYWEyY2M0YzY0MjM4OWU5MDQ3MWZmNjhlYTA0ZDZiMA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -179,9 +179,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/6ngt4yazhodf1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755494897%2CMWFiYTZlMTViYWU2ZTFkMmY0ZjE2NGMwM2QzNDBjMTliM2Q1NzY1MmQzOGM5N2UyNGQwZTg5ZWJlYzVjMmE3NQ%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/6ngt4yazhodf1/DASHPlaylist.mpd?a=1755499053%2CZDZhZWFkOGFmNzdkNjc4YmU5YmYwNTA5NGY3YTMyZTQ3ZTExODU2N2IwMGNmMzYzN2M3YTlmMGY0ODI4ZTA3Mw%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 28,
-                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755494897%2CNmQwM2ZhMWI2YTBlOTc3YTAzNjc4YjUzZjVjY2NkZTc2NWZkNzBmYjU0M2E5ZTA2OTBjNWFlZjVjM2Q2ZDZlMQ%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/6ngt4yazhodf1/HLSPlaylist.m3u8?a=1755499053%2CNWE1ZTlmZjVmZmU4MDU1ODgyM2YzMWNiM2E5M2IzOWJjYWEyY2M0YzY0MjM4OWU5MDQ3MWZmNjhlYTA0ZDZiMA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m3ak13/just_recorded_a_walkthrough_of_my_chatbot/",
             "stickied": false,
             "url": "https://v.redd.it/6ngt4yazhodf1",
-            "subreddit_subscribers": 501076,
+            "subreddit_subscribers": 501103,
             "created_utc": 1752864466,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -1338,7 +1338,7 @@
                       "created_utc": 1752867551,
                       "send_replies": true,
                       "parent_id": "t1_n3vcyr2",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_1zyh18yq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1380,7 +1380,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],

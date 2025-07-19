@@ -39,7 +39,7 @@
             "upvote_ratio": 0.97,
             "author_flair_background_color": "#bbbdbf",
             "subreddit_type": "public",
-            "ups": 127,
+            "ups": 138,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 127,
+            "score": 138,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -159,7 +159,7 @@
             "report_reasons": null,
             "author": "jacek2023",
             "discussion_type": null,
-            "num_comments": 37,
+            "num_comments": 38,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -168,7 +168,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m394zh/new_models_from_nvidia_openreasoningnemotron/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m394zh/new_models_from_nvidia_openreasoningnemotron/",
-            "subreddit_subscribers": 501076,
+            "subreddit_subscribers": 501103,
             "created_utc": 1752861182,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -262,7 +262,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3vbcfg",
-                                "score": 11,
+                                "score": 12,
                                 "author_fullname": "t2_gem8t",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -305,7 +305,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 11
+                                "ups": 12
                               }
                             },
                             {
@@ -498,7 +498,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3vbcfg",
-                                "score": 6,
+                                "score": 7,
                                 "author_fullname": "t2_c8xp0mh4c",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -541,7 +541,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             }
                           ],
@@ -947,7 +947,7 @@
             "created_utc": 1752862209,
             "send_replies": true,
             "parent_id": "t3_1m394zh",
-            "score": 47,
+            "score": 49,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -989,7 +989,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 47
+            "ups": 49
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "created_utc": 1752875066,
             "send_replies": true,
             "parent_id": "t3_1m394zh",
-            "score": 8,
+            "score": 9,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -1769,7 +1769,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -1825,7 +1825,7 @@
                       "created_utc": 1752866755,
                       "send_replies": true,
                       "parent_id": "t1_n3uvhs8",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_zr0g49ixt",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1867,7 +1867,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   }
                 ],
@@ -1980,7 +1980,7 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "gunkanreddit",
                       "can_mod_post": false,
                       "created_utc": 1752864877,
@@ -2233,7 +2233,7 @@
                       "created_utc": 1752880047,
                       "send_replies": true,
                       "parent_id": "t1_n3vgfd4",
-                      "score": 7,
+                      "score": 8,
                       "author_fullname": "t2_byt5wa14",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2280,7 +2280,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 8
                     }
                   }
                 ],
@@ -2761,7 +2761,7 @@
             "created_utc": 1752902487,
             "send_replies": true,
             "parent_id": "t3_1m394zh",
-            "score": 1,
+            "score": 0,
             "author_fullname": "t2_dissgzyl",
             "approved_by": null,
             "mod_note": null,
@@ -2793,6 +2793,81 @@
             "locked": false,
             "report_reasons": null,
             "created": 1752902487,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m394zh",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n3y8av6",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Guilty-History-9249",
+            "can_mod_post": false,
+            "created_utc": 1752904604,
+            "send_replies": true,
+            "parent_id": "t3_1m394zh",
+            "score": 1,
+            "author_fullname": "t2_rxk6hx4t",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Perfect for the dual 5090, threadripper 7985WX with 256 GB's of ram that was just delivered to me today.  Really.  I'm ready to rock and roll!!!  After I copy all my stuff and models from my old single 4090 system sitting next to it.  Nothing like waiting for a recursive scp of several terabytes to finish.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n3y8av6",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Perfect for the dual 5090, threadripper 7985WX with 256 GB&amp;#39;s of ram that was just delivered to me today.  Really.  I&amp;#39;m ready to rock and roll!!!  After I copy all my stuff and models from my old single 4090 system sitting next to it.  Nothing like waiting for a recursive scp of several terabytes to finish.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m394zh/new_models_from_nvidia_openreasoningnemotron/n3y8av6/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1752904604,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1m394zh",
@@ -3127,7 +3202,7 @@
                       "created_utc": 1752863042,
                       "send_replies": true,
                       "parent_id": "t1_n3uwua6",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_yrl9ztfsa",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3169,7 +3244,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
