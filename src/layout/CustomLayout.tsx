@@ -6280,6 +6280,78 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m3osbo',
         name: 'Local deep research that web searches only academic sources?',
       },
+      {
+        path: '/1m3pez5',
+        name: 'Best Russian language conversational model?',
+      },
+      {
+        path: '/1m3pg0s',
+        name: 'What is the best small model for summarization for a low spec pc?',
+      },
+      {
+        path: '/1m3qc1g',
+        name: 'Would there be a reasoning version of Kimi K2?',
+      },
+      {
+        path: '/1m3qejc',
+        name: 'Viability of the Threadripper Platform for a General Purpose AI+Gaming Machine?',
+      },
+      {
+        path: '/1m3qg3w',
+        name: 'Escaping quantization brain damage with BF16?',
+      },
+      {
+        path: '/1m3qpxz',
+        name: 'What are the most intriguing AI papers of 2025',
+      },
+      {
+        path: '/1m3r8jb',
+        name: 'Offline STT in real time?',
+      },
+      {
+        path: '/1m3rhy2',
+        name: 'llama.cpp running too slow',
+      },
+      {
+        path: '/1m3rnvw',
+        name: 'I made the CLI for AWS S3 Vectors (Preview)',
+      },
+      {
+        path: '/1m3ro3y',
+        name: 'The strongest wills… until they see $1.99 B200s',
+      },
+      {
+        path: '/1m3rpx1',
+        name: 'external usb4 dock for two or more egpu',
+      },
+      {
+        path: '/1m3s01i',
+        name: 'Structured output help (LM Studio)',
+      },
+      {
+        path: '/1m3sgr1',
+        name: 'WordPecker: Open Source Personalized Duolingo',
+      },
+      {
+        path: '/1m3smiz',
+        name: 'Trouble running MythoMax-L2-13B-GPTQ on RunPod – Model loads but returns empty responses',
+      },
+      {
+        path: '/1m3spek',
+        name: 'I want to create a local AI Agent that can call tools. but my model call tools even for "hey"',
+      },
+      {
+        path: '/1m3ssb2',
+        name: 'ARC AGI 3 is stupid',
+      },
+      {
+        path: '/1m3tk92',
+        name: 'I love local models',
+      },
+      {
+        path: '/1m3u4rl',
+        name: '3060 12gb useful (pair with 3080 10gb?)',
+      },
     ],
   },
   {

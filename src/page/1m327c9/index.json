@@ -36,7 +36,7 @@
             "name": "t3_1m327c9",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.32,
+            "upvote_ratio": 0.37,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m327c9/is_openrouter_payment_safe/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m327c9/is_openrouter_payment_safe/",
-            "subreddit_subscribers": 501103,
+            "subreddit_subscribers": 501232,
             "created_utc": 1752844932,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1752845531,
             "send_replies": true,
             "parent_id": "t3_1m327c9",
-            "score": 8,
+            "score": 7,
             "author_fullname": "t2_4i1mjqjt",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -320,7 +320,7 @@
             "created_utc": 1752845801,
             "send_replies": true,
             "parent_id": "t3_1m327c9",
-            "score": 9,
+            "score": 10,
             "author_fullname": "t2_9luw9wiy",
             "approved_by": null,
             "mod_note": null,
@@ -362,7 +362,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
@@ -754,14 +754,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": "LOW_SCORE",
+                      "collapsed_reason_code": null,
                       "no_follow": true,
                       "author": "Thomas-Lore",
                       "can_mod_post": false,
                       "created_utc": 1752848306,
                       "send_replies": true,
                       "parent_id": "t1_n3tad7k",
-                      "score": -5,
+                      "score": -3,
                       "author_fullname": "t2_5hobp6m4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -778,7 +778,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, instead you should pay in cash. /s&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": "comment score below threshold",
+                      "collapsed_reason": null,
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -795,7 +795,7 @@
                       "created": 1752848306,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": true,
+                      "collapsed": false,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -803,7 +803,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -5
+                      "ups": -3
                     }
                   }
                 ],
@@ -824,7 +824,7 @@
             "created_utc": 1752845238,
             "send_replies": true,
             "parent_id": "t3_1m327c9",
-            "score": 9,
+            "score": 8,
             "author_fullname": "t2_1tp8zldw5g",
             "approved_by": null,
             "mod_note": null,
@@ -866,7 +866,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 8
           }
         },
         {

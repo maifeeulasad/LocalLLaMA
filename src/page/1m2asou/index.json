@@ -238,7 +238,7 @@
             "report_reasons": null,
             "author": "BreakfastFriendly728",
             "discussion_type": null,
-            "num_comments": 27,
+            "num_comments": 26,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -247,7 +247,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m2asou/kimik2_on_lmarena/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m2asou/kimik2_on_lmarena/",
-            "subreddit_subscribers": 501104,
+            "subreddit_subscribers": 501231,
             "created_utc": 1752766629,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -457,7 +457,7 @@
             "created_utc": 1752785203,
             "send_replies": true,
             "parent_id": "t3_1m2asou",
-            "score": 11,
+            "score": 10,
             "author_fullname": "t2_158u6z",
             "approved_by": null,
             "mod_note": null,
@@ -499,7 +499,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {
@@ -946,7 +946,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n3oqih6",
-                                                    "score": 3,
+                                                    "score": 4,
                                                     "author_fullname": "t2_ihqq0",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -988,7 +988,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 4
                                                   }
                                                 },
                                                 {
@@ -1083,7 +1083,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n3nvh6c",
-                                          "score": 3,
+                                          "score": 5,
                                           "author_fullname": "t2_1iuzpxw7eg",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1126,7 +1126,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 3
+                                          "ups": 5
                                         }
                                       },
                                       {
@@ -1321,18 +1321,17 @@
                                                 {
                                                   "kind": "t1",
                                                   "data": {
-                                                    "subreddit_id": "t5_81eyvm",
+                                                    "total_awards_received": 0,
                                                     "approved_at_utc": null,
                                                     "author_is_blocked": false,
                                                     "comment_type": null,
                                                     "awarders": [],
                                                     "mod_reason_by": null,
                                                     "banned_by": null,
-                                                    "author_flair_type": "text",
-                                                    "total_awards_received": 0,
-                                                    "subreddit": "LocalLLaMA",
+                                                    "ups": 1,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_1m2asou",
                                                     "author_flair_template_id": null,
-                                                    "distinguished": null,
                                                     "likes": null,
                                                     "replies": {
                                                       "kind": "Listing",
@@ -1433,55 +1432,51 @@
                                                     "mod_reason_title": null,
                                                     "gilded": 0,
                                                     "archived": false,
-                                                    "collapsed_reason_code": null,
+                                                    "collapsed_reason_code": "DELETED",
                                                     "no_follow": true,
-                                                    "author": "ProfessionalJackals",
+                                                    "author": "[deleted]",
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n3ohg12",
                                                     "score": 1,
-                                                    "author_fullname": "t2_1lqtnyul8t",
-                                                    "removal_reason": null,
                                                     "approved_by": null,
-                                                    "mod_note": null,
+                                                    "report_reasons": null,
                                                     "all_awardings": [],
-                                                    "body": "&gt; Consumer hardware will never \"catch up\" as sota models will always be sized for professional infrastructure.\n\nThat quote is going to age badly. \n\nThere is only so much useful information you can put into a LLM model before you hit redundancy or slob. \n\nBut the biggest one is:\n\nHardware gets better and faster over time. Just like with gaming cards, there becomes a point where buying the most expensive high end model is for most people useless, as \"it good enough\" at 1080/1440p for most games.\n\nNow we are back to this cycle the first generations of GPUs. Where every new generation had a impact on the data you processed. But years later, unless you want to run something unoptimized or full of slop, even a basic low end GPU runs every game.\n\nThe fact that we are able to run open source models with a rather good token rate, on a mix of older hardware is already impressive. Sure, its specialized / not for the common man/women, but just like with all hardware, things will evolve to the point that the common / mass buyers is going to pickup his AI coprocessor card, what will turn into something partially build in, until it becomes a standard feature on whatever cpu/motherbord/gpu combo.",
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "body": "[deleted]",
                                                     "edited": false,
                                                     "author_flair_css_class": null,
-                                                    "name": "t1_n3qcqew",
-                                                    "is_submitter": false,
+                                                    "collapsed": true,
                                                     "downs": 0,
-                                                    "author_flair_richtext": [],
-                                                    "author_patreon_flair": false,
-                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Consumer hardware will never &amp;quot;catch up&amp;quot; as sota models will always be sized for professional infrastructure.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;That quote is going to age badly. &lt;/p&gt;\n\n&lt;p&gt;There is only so much useful information you can put into a LLM model before you hit redundancy or slob. &lt;/p&gt;\n\n&lt;p&gt;But the biggest one is:&lt;/p&gt;\n\n&lt;p&gt;Hardware gets better and faster over time. Just like with gaming cards, there becomes a point where buying the most expensive high end model is for most people useless, as &amp;quot;it good enough&amp;quot; at 1080/1440p for most games.&lt;/p&gt;\n\n&lt;p&gt;Now we are back to this cycle the first generations of GPUs. Where every new generation had a impact on the data you processed. But years later, unless you want to run something unoptimized or full of slop, even a basic low end GPU runs every game.&lt;/p&gt;\n\n&lt;p&gt;The fact that we are able to run open source models with a rather good token rate, on a mix of older hardware is already impressive. Sure, its specialized / not for the common man/women, but just like with all hardware, things will evolve to the point that the common / mass buyers is going to pickup his AI coprocessor card, what will turn into something partially build in, until it becomes a standard feature on whatever cpu/motherbord/gpu combo.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "is_submitter": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
                                                     "gildings": {},
                                                     "collapsed_reason": null,
-                                                    "link_id": "t3_1m2asou",
                                                     "associated_award": null,
                                                     "stickied": false,
-                                                    "author_premium": false,
+                                                    "subreddit_type": "public",
                                                     "can_gild": false,
                                                     "top_awarded_type": null,
                                                     "unrepliable_reason": null,
-                                                    "author_flair_text_color": null,
-                                                    "treatment_tags": [],
+                                                    "author_flair_text_color": "dark",
                                                     "score_hidden": false,
                                                     "permalink": "/r/LocalLLaMA/comments/1m2asou/kimik2_on_lmarena/n3qcqew/",
-                                                    "subreddit_type": "public",
+                                                    "num_reports": null,
                                                     "locked": false,
-                                                    "report_reasons": null,
+                                                    "name": "t1_n3qcqew",
                                                     "created": 1752798520,
+                                                    "subreddit": "LocalLLaMA",
                                                     "author_flair_text": null,
-                                                    "collapsed": false,
+                                                    "treatment_tags": [],
                                                     "created_utc": 1752798520,
                                                     "subreddit_name_prefixed": "r/LocalLLaMA",
                                                     "controversiality": 0,
                                                     "depth": 4,
-                                                    "author_flair_background_color": null,
+                                                    "author_flair_background_color": "",
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
-                                                    "num_reports": null,
-                                                    "ups": 1
+                                                    "mod_note": null,
+                                                    "distinguished": null
                                                   }
                                                 }
                                               ],
@@ -1569,7 +1564,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3nof0a",
-                                "score": 6,
+                                "score": 4,
                                 "author_fullname": "t2_ihqq0",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1612,7 +1607,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 4
                               }
                             }
                           ],
@@ -1633,7 +1628,7 @@
                       "created_utc": 1752769848,
                       "send_replies": true,
                       "parent_id": "t1_n3nimd6",
-                      "score": 27,
+                      "score": 26,
                       "author_fullname": "t2_730bgdulm",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1675,7 +1670,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 27
+                      "ups": 26
                     }
                   },
                   {
@@ -1846,7 +1841,7 @@
             "created_utc": 1752771787,
             "send_replies": true,
             "parent_id": "t3_1m2asou",
-            "score": 15,
+            "score": 14,
             "author_fullname": "t2_ozxxf",
             "approved_by": null,
             "mod_note": null,
@@ -1888,7 +1883,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 14
           }
         },
         {
