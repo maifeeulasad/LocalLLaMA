@@ -2,7 +2,7 @@ name: Run Scrapper Hourly
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '0 0,12 * * *'  # twice a day, midnight and noon UTC
 
 permissions:
   contents: write
