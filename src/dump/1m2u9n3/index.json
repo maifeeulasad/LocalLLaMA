@@ -36,10 +36,10 @@
             "name": "t3_1m2u9n3",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.75,
+            "upvote_ratio": 0.67,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 6,
+            "ups": 5,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m2u9n3/can_you_recommend_something_i_can_personally_do/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m2u9n3/can_you_recommend_something_i_can_personally_do/",
-            "subreddit_subscribers": 500896,
+            "subreddit_subscribers": 501077,
             "created_utc": 1752817529,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -251,7 +251,7 @@
             "created_utc": 1752827627,
             "send_replies": true,
             "parent_id": "t3_1m2u9n3",
-            "score": 24,
+            "score": 28,
             "author_fullname": "t2_j1i0o",
             "approved_by": null,
             "mod_note": null,
@@ -293,7 +293,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 28
           }
         },
         {
@@ -577,13 +577,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "arthurwolf",
             "can_mod_post": false,
             "created_utc": 1752835442,
             "send_replies": true,
             "parent_id": "t3_1m2u9n3",
-            "score": 2,
+            "score": 4,
             "author_fullname": "t2_db9zf",
             "approved_by": null,
             "mod_note": null,
@@ -625,7 +625,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 4
           }
         },
         {
@@ -1062,7 +1062,7 @@
                       "created_utc": 1752851462,
                       "send_replies": true,
                       "parent_id": "t1_n3rtwm8",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_p7nc2",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1104,7 +1104,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -1125,7 +1125,7 @@
             "created_utc": 1752820602,
             "send_replies": true,
             "parent_id": "t3_1m2u9n3",
-            "score": -9,
+            "score": -10,
             "author_fullname": "t2_1tpuoj72sa",
             "approved_by": null,
             "mod_note": null,
@@ -1167,7 +1167,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -9
+            "ups": -10
           }
         }
       ],
