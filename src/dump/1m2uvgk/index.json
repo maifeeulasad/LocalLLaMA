@@ -36,9 +36,9 @@
             "name": "t3_1m2uvgk",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.56,
+            "upvote_ratio": 0.52,
             "author_flair_background_color": null,
-            "ups": 3,
+            "ups": 1,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 3,
+            "score": 1,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -80,7 +80,7 @@
             "url_overridden_by_dest": "https://i.redd.it/r33tmk8yskdf1.jpeg",
             "view_count": null,
             "archived": false,
-            "no_follow": false,
+            "no_follow": true,
             "is_crosspostable": false,
             "pinned": false,
             "over_18": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m2uvgk/what_can_i_do_with_an_old_computer/",
             "stickied": false,
             "url": "https://i.redd.it/r33tmk8yskdf1.jpeg",
-            "subreddit_subscribers": 501103,
+            "subreddit_subscribers": 501233,
             "created_utc": 1752819719,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -626,13 +626,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": false,
+            "no_follow": true,
             "author": "eloquentemu",
             "can_mod_post": false,
             "created_utc": 1752820513,
             "send_replies": true,
             "parent_id": "t3_1m2uvgk",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_lpdsy",
             "approved_by": null,
             "mod_note": null,
@@ -674,7 +674,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -782,7 +782,7 @@
             "created_utc": 1752820191,
             "send_replies": true,
             "parent_id": "t3_1m2uvgk",
-            "score": 8,
+            "score": 10,
             "author_fullname": "t2_e6v0plyv",
             "approved_by": null,
             "mod_note": null,
@@ -824,7 +824,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 10
           }
         },
         {
@@ -943,7 +943,7 @@
             "created_utc": 1752825453,
             "send_replies": true,
             "parent_id": "t3_1m2uvgk",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_e4ru5ouw",
             "approved_by": null,
             "mod_note": null,
@@ -985,7 +985,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -1801,7 +1801,7 @@
             "created_utc": 1752820207,
             "send_replies": true,
             "parent_id": "t3_1m2uvgk",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_uz37qfx5",
             "approved_by": null,
             "mod_note": null,
@@ -1843,7 +1843,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
