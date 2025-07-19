@@ -6172,6 +6172,106 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m3ak13',
         name: 'Just recorded a walkthrough of my chatbot platform - saved characters, model selection, image gen &amp; more',
       },
+      {
+        path: '/1m3amtu',
+        name: 'Is there any promising alternative to Transformers?',
+      },
+      {
+        path: '/1m3bjhv',
+        name: 'Hunyuan A13B &lt;/answer&gt; tag mistakes.',
+      },
+      {
+        path: '/1m3cf4c',
+        name: 'Local model for voice audio cleanup',
+      },
+      {
+        path: '/1m3cfy9',
+        name: 'Looking for help with terrible vLLM performance',
+      },
+      {
+        path: '/1m3ct76',
+        name: 'Open source OCR options for handwritten text, dates',
+      },
+      {
+        path: '/1m3ezgz',
+        name: 'Need help setting up Jan',
+      },
+      {
+        path: '/1m3f3p7',
+        name: 'Is RVC-Project the best way to train a custom voice with thousands of short high quality samples WAV files?',
+      },
+      {
+        path: '/1m3f570',
+        name: 'Is it fine to buy a *no display* issue GPU?',
+      },
+      {
+        path: '/1m3gow1',
+        name: 'How do we secure AI agents that act on their own?',
+      },
+      {
+        path: '/1m3gr3n',
+        name: 'What is the difference betwen `n_batch` and `n_ubatch`',
+      },
+      {
+        path: '/1m3htbw',
+        name: 'Here is the prompt of a conversation agent from Whatsapp (Llama 4)',
+      },
+      {
+        path: '/1m3i9p3',
+        name: 'Nvidia GTX-1080Ti Ollama review',
+      },
+      {
+        path: '/1m3is87',
+        name: 'Flash 2.5 vs Open weights',
+      },
+      {
+        path: '/1m3iv6s',
+        name: 'any idea how to open source that?',
+      },
+      {
+        path: '/1m3jo3d',
+        name: 'voltapi 3rd party api',
+      },
+      {
+        path: '/1m3jogm',
+        name: '4k local image gen',
+      },
+      {
+        path: '/1m3kfad',
+        name: 'Best reasoning model for inspecting the raw CoT?',
+      },
+      {
+        path: '/1m3kjsm',
+        name: 'Are P40s useful for 70B models',
+      },
+      {
+        path: '/1m3kzg4',
+        name: 'voltapi',
+      },
+      {
+        path: '/1m3n89p',
+        name: '(Confirmed) Kimi K2’s “modified-MIT” license does NOT apply to synthetic data/distilled models',
+      },
+      {
+        path: '/1m3nah0',
+        name: '[WTS] Perplexity Pro 1-Year Subscription — 50% OFF',
+      },
+      {
+        path: '/1m3nb1q',
+        name: 'Is it worth getting 48GB of RAM alongside my 12GB VRAM GPU ? (cheapskate upgrade)',
+      },
+      {
+        path: '/1m3nc51',
+        name: 'When Llama4 Nemotron 250B MoE?',
+      },
+      {
+        path: '/1m3no1m',
+        name: 'Built a forensic linguistics tool to verify disputed quotes using computational stylometry - tested it on the Trump/Epstein birthday letter controversy.',
+      },
+      {
+        path: '/1m3nwlf',
+        name: 'Any local models with decent tooling capabilities worth running with 3090?',
+      },
     ],
   },
   {
