@@ -1,68 +1,130 @@
 const fs = require('fs');
+const https = require('https');
 
-const BASE_URL = "https://www.reddit.com/r/LocalLLaMA";
-const TOP_URL = `${BASE_URL}/top.json?t=all&limit=100`;
-const HOT_URL = `${BASE_URL}/hot.json?t=all&limit=100`;
-const BEST_URL = `${BASE_URL}/best.json?t=all&limit=100`;
-const NEW_URL = `${BASE_URL}/new.json?t=all&limit=100`;
+const REDDIT_CLIENT_ID = process.env.REDDIT_CLIENT_ID;
+const REDDIT_SECRET = process.env.REDDIT_SECRET;
 
-const URLs = [NEW_URL, HOT_URL, BEST_URL];
+if (!REDDIT_CLIENT_ID || !REDDIT_SECRET) {
+  throw new Error("Missing Reddit client credentials in environment variables.");
+}
+
+const USER_AGENT = "LocalLLaMA - runner/1.0 by maifee";
+
+const BASE_URL = "https://oauth.reddit.com/r/LocalLLaMA";
+const TOKEN_URL = "https://www.reddit.com/api/v1/access_token";
+const ENDPOINTS = ["new", "hot", "best"];
+const LIMIT = 100;
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-(async () => {
-  const uniqueIds = new Set();
+function getAccessToken() {
+  return new Promise((resolve, reject) => {
+    const auth = Buffer.from(`${REDDIT_CLIENT_ID}:${REDDIT_SECRET}`).toString("base64");
 
-  console.log(`🔍 Collecting post IDs from:`);
-  for (const url of URLs) {
-    console.log(`➡️ ${url}`);
-    const res = await fetch(url);
-    const json = await res.json();
+    const options = {
+      method: "POST",
+      headers: {
+        "Authorization": `Basic ${auth}`,
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": USER_AGENT
+      }
+    };
 
-    json.data.children.forEach(child => {
-      uniqueIds.add(child.data.id);
+    const body = "grant_type=client_credentials";
+    const req = https.request(TOKEN_URL, options, res => {
+      let data = "";
+      res.on("data", chunk => data += chunk);
+      res.on("end", () => {
+        const parsed = JSON.parse(data);
+        if (parsed.access_token) {
+          resolve(parsed.access_token);
+        } else {
+          reject(new Error("Failed to obtain access token"));
+        }
+      });
     });
-    fs.mkdirSync('./src/dump/__base__', { recursive: true });
-    // `${BASE_URL}/hot.json?t=all&limit=100`;
-    // name in between first / and first .json
-    const nameMatch = url.match(/\/([^\/]+)\.json/);
-    const name = nameMatch ? nameMatch[1] : 'unknown';
-    fs.writeFileSync(
-      `./src/dump/__base__/${name}.json`,
-      JSON.stringify(json, null, 2)
-    );
 
-    await sleep(1000);
-  }
+    req.on("error", reject);
+    req.write(body);
+    req.end();
+  });
+}
 
-  const ids = Array.from(uniqueIds);
-  console.log(`✅ Found ${ids.length} unique posts.`);
+function fetchJson(url, token) {
+  return new Promise((resolve, reject) => {
+    const req = https.request(url, {
+      method: "GET",
+      headers: {
+        "Authorization": `Bearer ${token}`,
+        "User-Agent": USER_AGENT
+      }
+    }, res => {
+      let data = "";
+      res.on("data", chunk => data += chunk);
+      res.on("end", () => {
+        try {
+          resolve(JSON.parse(data));
+        } catch (err) {
+          reject(err);
+        }
+      });
+    });
 
-  for (let i = 0; i < ids.length; i++) {
-    const postId = ids[i];
-    try {
-      console.log(`🔗 Fetching ${i + 1} of ${ids.length}: ${postId}`);
+    req.on("error", reject);
+    req.end();
+  });
+}
 
-      const postUrl = `${BASE_URL}/comments/${postId}.json`;
-      const postRes = await fetch(postUrl);
-      const postJson = await postRes.json();
+(async () => {
+  try {
+    const token = await getAccessToken();
+    const uniqueIds = new Set();
 
-      fs.mkdirSync(`./src/dump/${postId}`, { recursive: true });
+    console.log(`🔐 Authenticated. Fetching from Reddit...`);
+
+    for (const endpoint of ENDPOINTS) {
+      const url = `${BASE_URL}/${endpoint}.json?limit=${LIMIT}`;
+      console.log(`➡️ ${url}`);
+      const json = await fetchJson(url, token);
+
+      json.data.children.forEach(child => uniqueIds.add(child.data.id));
+
+      fs.mkdirSync('./src/dump/__base__', { recursive: true });
       fs.writeFileSync(
-        `./src/dump/${postId}/index.json`,
-        JSON.stringify(postJson, null, 2)
+        `./src/dump/__base__/${endpoint}.json`,
+        JSON.stringify(json, null, 2)
       );
 
-      console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
-
-      // NB: never remove this, keeps Reddit happy, keep Reddit happy
-      await sleep(2000);
-    } catch (error) {
-      console.error(`❌ Error fetching post ${postId}:`, error);
+      await sleep(1000);
     }
-  }
 
-  console.log("🎉 Done! All posts saved.");
+    const ids = Array.from(uniqueIds);
+    console.log(`✅ Found ${ids.length} unique posts.`);
+
+    for (let i = 0; i < ids.length; i++) {
+      const postId = ids[i];
+      const postUrl = `${BASE_URL}/comments/${postId}.json`;
+      try {
+        console.log(`🔗 Fetching ${i + 1} of ${ids.length}: ${postId}`);
+        const postJson = await fetchJson(postUrl, token);
+
+        fs.mkdirSync(`./src/dump/${postId}`, { recursive: true });
+        fs.writeFileSync(
+          `./src/dump/${postId}/index.json`,
+          JSON.stringify(postJson, null, 2)
+        );
+
+        console.log(`✅ Saved: ./src/dump/${postId}/index.json`);
+        await sleep(2000);
+      } catch (err) {
+        console.error(`❌ Failed to fetch post ${postId}:`, err.message);
+      }
+    }
+
+    console.log("🎉 Done! All posts saved.");
+  } catch (err) {
+    console.error("❌ Authentication or fetch failed:", err.message);
+  }
 })();
