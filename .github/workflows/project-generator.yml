@@ -3,13 +3,14 @@ name: Project Generator
 on:
   push:
     branches: [ main ]
+  repository_dispatch:
+    types: [ scrapper_completed ]
 
 permissions:
   contents: write
 
 jobs:
   generator:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     strategy:
