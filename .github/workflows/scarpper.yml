@@ -6,6 +6,10 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+
+
 jobs:
   run-builder-scrapper:
     runs-on: ubuntu-latest
