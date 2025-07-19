@@ -121,11 +121,23 @@ ${menuItems.join('\n')}
 `;
 
 const layoutContent = fs.readFileSync(layoutFile, 'utf8');
+const lines = layoutContent.split('\n');
 
-const newLayoutContent = layoutContent.replace(
-  /\/\/ replace start---mua--localllama[\s\S]*?\/\/ replace end---mua--localllama/,
-  menuBlock.trim()
-);
+const startIndex = lines.findIndex(line => line.includes('// replace start---mua--localllama'));
+const endIndex = lines.findIndex(line => line.includes('// replace end---mua--localllama'));
+
+if (startIndex === -1 || endIndex === -1 || endIndex <= startIndex) {
+  console.error('❌ Marker comments not found or out of order.');
+  process.exit(1);
+}
+
+const newBlockLines = menuBlock.trim().split('\n');
+
+const newLayoutContent = [
+  ...lines.slice(0, startIndex),
+  ...newBlockLines,
+  ...lines.slice(endIndex + 1),
+].join('\n');
 
 fs.writeFileSync(layoutFile, newLayoutContent, 'utf8');
 console.log('✅ Updated src/layout/CustomLayout.tsx!');
