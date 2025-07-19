@@ -83,7 +83,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 57,
+            "ups": 58,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -97,7 +97,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 57,
+            "score": 58,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -199,7 +199,7 @@
             "report_reasons": null,
             "author": "timmytimmy01",
             "discussion_type": null,
-            "num_comments": 62,
+            "num_comments": 64,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -208,7 +208,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m2s686/amazing_performance_kimi_k2_on_ik_llamacpp/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m2s686/amazing_performance_kimi_k2_on_ik_llamacpp/",
-            "subreddit_subscribers": 501077,
+            "subreddit_subscribers": 501103,
             "created_utc": 1752810550,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -366,7 +366,7 @@
                       "created_utc": 1752812459,
                       "send_replies": true,
                       "parent_id": "t1_n3rbzyl",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_vi73k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -408,7 +408,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -429,7 +429,7 @@
             "created_utc": 1752811877,
             "send_replies": true,
             "parent_id": "t3_1m2s686",
-            "score": 8,
+            "score": 7,
             "author_fullname": "t2_c705ri9b",
             "approved_by": null,
             "mod_note": null,
@@ -471,7 +471,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -3392,7 +3392,29 @@
                                                                                                       "subreddit": "LocalLLaMA",
                                                                                                       "author_flair_template_id": null,
                                                                                                       "likes": null,
-                                                                                                      "replies": "",
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "after": null,
+                                                                                                          "dist": null,
+                                                                                                          "modhash": "",
+                                                                                                          "geo_filter": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "name": "t1__",
+                                                                                                                "id": "_",
+                                                                                                                "parent_id": "t1_n3y45zx",
+                                                                                                                "depth": 10,
+                                                                                                                "children": []
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
                                                                                                       "user_reports": [],
                                                                                                       "saved": false,
                                                                                                       "id": "n3y45zx",
@@ -3467,7 +3489,29 @@
                                                                                                       "subreddit": "LocalLLaMA",
                                                                                                       "author_flair_template_id": null,
                                                                                                       "likes": null,
-                                                                                                      "replies": "",
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "after": null,
+                                                                                                          "dist": null,
+                                                                                                          "modhash": "",
+                                                                                                          "geo_filter": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "name": "t1__",
+                                                                                                                "id": "_",
+                                                                                                                "parent_id": "t1_n3y4h37",
+                                                                                                                "depth": 10,
+                                                                                                                "children": []
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
                                                                                                       "user_reports": [],
                                                                                                       "saved": false,
                                                                                                       "id": "n3y4h37",
@@ -4102,7 +4146,7 @@
                       "created_utc": 1752855501,
                       "send_replies": true,
                       "parent_id": "t1_n3u514y",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_vi73k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4144,7 +4188,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -5100,7 +5144,7 @@
                       "created_utc": 1752826341,
                       "send_replies": true,
                       "parent_id": "t1_n3rdcnl",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_vi73k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5142,7 +5186,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   },
                   {

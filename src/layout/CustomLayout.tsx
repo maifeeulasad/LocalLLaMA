@@ -6272,6 +6272,14 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m3nwlf',
         name: 'Any local models with decent tooling capabilities worth running with 3090?',
       },
+      {
+        path: '/1m3oma3',
+        name: 'Newbie question, how do I see which 8b models are the strongest at math or coding?',
+      },
+      {
+        path: '/1m3osbo',
+        name: 'Local deep research that web searches only academic sources?',
+      },
     ],
   },
   {

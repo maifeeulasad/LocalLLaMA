@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m300cf/is_diy_agi_possible/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m300cf/is_diy_agi_possible/",
-            "subreddit_subscribers": 501077,
+            "subreddit_subscribers": 501103,
             "created_utc": 1752838751,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -1565,7 +1565,7 @@
             "created_utc": 1752851005,
             "send_replies": true,
             "parent_id": "t3_1m300cf",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_cpegz",
             "approved_by": null,
             "mod_note": null,
@@ -1612,7 +1612,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -1979,7 +1979,7 @@
                       "created_utc": 1752839439,
                       "send_replies": true,
                       "parent_id": "t1_n3ssngx",
-                      "score": 6,
+                      "score": 4,
                       "author_fullname": "t2_dkgrhaet",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2021,7 +2021,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 4
                     }
                   },
                   {
@@ -3873,10 +3873,10 @@
             "awarders": [],
             "mod_reason_by": null,
             "banned_by": null,
-            "author_flair_type": "richtext",
+            "author_flair_type": "text",
             "total_awards_received": 0,
             "subreddit": "LocalLLaMA",
-            "author_flair_template_id": "7d1f04e6-4920-11ef-b2e1-2e580594e1a1",
+            "author_flair_template_id": null,
             "likes": null,
             "replies": "",
             "user_reports": [],
@@ -3906,12 +3906,7 @@
             "name": "t1_n3uddgu",
             "is_submitter": false,
             "downs": 0,
-            "author_flair_richtext": [
-              {
-                "e": "text",
-                "t": "Llama 3.1"
-              }
-            ],
+            "author_flair_richtext": [],
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In a garage? no. years/decades of research, yes. Will it be called AGI? no. It&amp;#39;ll probably called something &amp;#39;Multimodal Embodied Ego-based Hierarchical Processing Latent-Energy Matching Reasoner&amp;#39; or something more ridiculous.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
@@ -3923,20 +3918,20 @@
             "can_gild": false,
             "gildings": {},
             "unrepliable_reason": null,
-            "author_flair_text_color": "light",
+            "author_flair_text_color": null,
             "score_hidden": false,
             "permalink": "/r/LocalLLaMA/comments/1m300cf/is_diy_agi_possible/n3uddgu/",
             "subreddit_type": "public",
             "locked": false,
             "report_reasons": null,
             "created": 1752856500,
-            "author_flair_text": "Llama 3.1",
+            "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1m300cf",
             "subreddit_name_prefixed": "r/LocalLLaMA",
             "controversiality": 0,
             "depth": 0,
-            "author_flair_background_color": "#93b1ba",
+            "author_flair_background_color": null,
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,

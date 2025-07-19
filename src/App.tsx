@@ -1579,6 +1579,8 @@ import { LazyPage1m3nb1q } from './page/1m3nb1q/LazyPage';
 import { LazyPage1m3nc51 } from './page/1m3nc51/LazyPage';
 import { LazyPage1m3no1m } from './page/1m3no1m/LazyPage';
 import { LazyPage1m3nwlf } from './page/1m3nwlf/LazyPage';
+import { LazyPage1m3oma3 } from './page/1m3oma3/LazyPage';
+import { LazyPage1m3osbo } from './page/1m3osbo/LazyPage';
 
 
 const App = () => (
@@ -3151,6 +3153,8 @@ const App = () => (
           <Route path="/1m3nc51" element={<LazyPage1m3nc51 />} />
           <Route path="/1m3no1m" element={<LazyPage1m3no1m />} />
           <Route path="/1m3nwlf" element={<LazyPage1m3nwlf />} />
+          <Route path="/1m3oma3" element={<LazyPage1m3oma3 />} />
+          <Route path="/1m3osbo" element={<LazyPage1m3osbo />} />
           <Route path="*" element={<Navigate to="/landing" replace />} />
         </Routes>
       </CustomLayout>
