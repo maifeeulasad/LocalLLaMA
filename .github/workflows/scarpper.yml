@@ -1,0 +1,43 @@
+name: Run Scrapper Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  push:
+    branches: [ main ]
+
+jobs:
+  run-builder-scrapper:
+    runs-on: ubuntu-latest
+    env:
+      REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+      REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Deps
+        run: npm i -g pnpm && pnpm install
+
+      - name: Run Scrapper
+        run: node scripts/scrapper.js
+
+      - name: Commit Scrapper Output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          TIMESTAMP=$(TZ=Asia/Dhaka date '+%Y.%m.%d %H.%M GMT+6;')
+          git commit -m "[dump,bot]: data dump at ${TIMESTAMP}" || echo "No changes to commit"
+
+      - name: Push Changes
+        run: git push
