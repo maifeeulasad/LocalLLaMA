@@ -6352,6 +6352,158 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m3u4rl',
         name: '3060 12gb useful (pair with 3080 10gb?)',
       },
+      {
+        path: '/1m3vqom',
+        name: 'A new paper from Apple shows you can tack on Multi-Token Prediction to any LLM with no loss in quality',
+      },
+      {
+        path: '/1m3w96r',
+        name: 'Looking for `113-D1631711QA-10` vBIOS for AMD MI50 32GB',
+      },
+      {
+        path: '/1m3wnnm',
+        name: 'What\'s New in Agent Leaderboard v2?',
+      },
+      {
+        path: '/1m3wogu',
+        name: 'Are there any quants of larger models 48 VRAM + 96 RAM can run, which are better than just 32B models?',
+      },
+      {
+        path: '/1m3wslq',
+        name: 'Any package that provides treesitter-based mark commands?',
+      },
+      {
+        path: '/1m3wzm9',
+        name: 'AMD 6x7900xtx + VLLM + Docker + QWEN3-235B error',
+      },
+      {
+        path: '/1m3xbj7',
+        name: 'The Final build: help me finish a CPU FIRST hybrid MOE rig',
+      },
+      {
+        path: '/1m3xgjo',
+        name: 'Dual GPU set up was surprisingly easy',
+      },
+      {
+        path: '/1m3xp21',
+        name: 'ChatSong, a lightweight, local LLM chat tool that\'s a single executable file',
+      },
+      {
+        path: '/1m3xuqx',
+        name: 'What would be a great roadmap for jumping into local LMM for a pretty newbie?',
+      },
+      {
+        path: '/1m3y0m8',
+        name: 'Motherboard with 2 PCI Express running at full 16x/16x',
+      },
+      {
+        path: '/1m3yy5a',
+        name: '🚨 Stealth Vocab Injections in llama.cpp? I Never Installed These. You? [🔥Image Proof Included]',
+      },
+      {
+        path: '/1m3yzes',
+        name: 'Localllama’s (first?) IFTA - I’ll Fine-Tune Anything',
+      },
+      {
+        path: '/1m3zg5k',
+        name: 'Best tools for local AI memory?',
+      },
+      {
+        path: '/1m40o0v',
+        name: 'Image processing limit on Groq...alternatives?',
+      },
+      {
+        path: '/1m40yo6',
+        name: 'any lovable and bolt alternative open source?',
+      },
+      {
+        path: '/1m41bj1',
+        name: 'A Request for Comments (RFC) for MCP-alternative Universal Tool Calling Protocol (UTCP) was created',
+      },
+      {
+        path: '/1m41f79',
+        name: 'Any idea when llama 4 behemoth will be released?',
+      },
+      {
+        path: '/1m42c2q',
+        name: 'Running AIs Locally without a GPU: Context Window',
+      },
+      {
+        path: '/1m42gid',
+        name: 'Build advice: Consumer AI workstation with RTX 3090 + dual MI50s for LLM inference and Stable Diffusion (~$5k budget)',
+      },
+      {
+        path: '/1m42iio',
+        name: 'GPT-4o Updated: Has It Been Nerfed?',
+      },
+      {
+        path: '/1m42n4v',
+        name: 'How to speed up the initial inference when using llama.rn (llama.cpp) wrapper on android.',
+      },
+      {
+        path: '/1m42uel',
+        name: 'Why is download options blank and why is choose an action greyed out?',
+      },
+      {
+        path: '/1m43isp',
+        name: 'Kimi K2 is less CCP censored than R1',
+      },
+      {
+        path: '/1m43owh',
+        name: 'Hear me out, an LLM which is more like a dictionary to refer syntax from, and is trained that way.',
+      },
+      {
+        path: '/1m44tnz',
+        name: 'Keras vs Transformers fine tuning',
+      },
+      {
+        path: '/1m45po2',
+        name: 'How would you write evals for chat apps running dozens of open models?',
+      },
+      {
+        path: '/1m45sh1',
+        name: 'I am really hoping the openai IMO announcement will motivate the open source community to match it',
+      },
+      {
+        path: '/1m461jh',
+        name: 'For a very specific text knowledge resource, can a local model outperform cloud models?',
+      },
+      {
+        path: '/1m46gtn',
+        name: 'Can we finally "index" a code project?',
+      },
+      {
+        path: '/1m46w7u',
+        name: 'Price performance comparison from the Gemini 2.5 Paper',
+      },
+      {
+        path: '/1m48ffs',
+        name: 'OCR and GenAI: Key Trends from H1 2025',
+      },
+      {
+        path: '/1m48v53',
+        name: 'Looking for diarization model better than Pyannote',
+      },
+      {
+        path: '/1m49j3n',
+        name: 'Maybe physics-based AI is the right approach?',
+      },
+      {
+        path: '/1m49p7w',
+        name: 'Running the 70B sized models on a budget',
+      },
+      {
+        path: '/1m4ag6u',
+        name: 'Hackers are never sleeping',
+      },
+      {
+        path: '/1m4al6m',
+        name: 'Which model is best for vision fitting 24gb vram',
+      },
+      {
+        path: '/1m4b8ji',
+        name: 'NSFW AI Local',
+      },
     ],
   },
   {
