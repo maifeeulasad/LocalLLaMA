@@ -36,7 +36,7 @@
             "name": "t3_1m3f570",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.38,
+            "upvote_ratio": 0.44,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -108,7 +108,7 @@
             "report_reasons": null,
             "author": "KKLC547",
             "discussion_type": null,
-            "num_comments": 13,
+            "num_comments": 14,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -117,7 +117,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m3f570/is_it_fine_to_buy_a_no_display_issue_gpu/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m3f570/is_it_fine_to_buy_a_no_display_issue_gpu/",
-            "subreddit_subscribers": 501232,
+            "subreddit_subscribers": 501527,
             "created_utc": 1752875641,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -166,7 +166,7 @@
             "created_utc": 1752876145,
             "send_replies": true,
             "parent_id": "t3_1m3f570",
-            "score": 13,
+            "score": 14,
             "author_fullname": "t2_1z54e4a",
             "approved_by": null,
             "mod_note": null,
@@ -208,7 +208,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 14
           }
         },
         {
@@ -264,7 +264,7 @@
                       "created_utc": 1752914680,
                       "send_replies": true,
                       "parent_id": "t1_n3w8xtz",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_a06q0mmx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -311,7 +311,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -332,7 +332,7 @@
             "created_utc": 1752876401,
             "send_replies": true,
             "parent_id": "t3_1m3f570",
-            "score": 8,
+            "score": 9,
             "author_fullname": "t2_h6ti9h6i8",
             "approved_by": null,
             "mod_note": null,
@@ -374,7 +374,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -438,7 +438,93 @@
                                 "subreddit": "LocalLLaMA",
                                 "author_flair_template_id": null,
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n3zjkym",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "BusRevolutionary9893",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n3wq8fj",
+                                          "score": 0,
+                                          "author_fullname": "t2_1by73qs5e5",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "If it's an issue it's obvious that something is broken, otherwise he would have said model instead of issue. ",
+                                          "edited": false,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n3zjkym",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If it&amp;#39;s an issue it&amp;#39;s obvious that something is broken, otherwise he would have said model instead of issue. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1m3f570",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1m3f570/is_it_fine_to_buy_a_no_display_issue_gpu/n3zjkym/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1752928991,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1752928991,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 0
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "n3wq8fj",
@@ -516,7 +602,7 @@
                       "created_utc": 1752877915,
                       "send_replies": true,
                       "parent_id": "t1_n3wb8g0",
-                      "score": -9,
+                      "score": -11,
                       "author_fullname": "t2_1by73qs5e5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -558,7 +644,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -9
+                      "ups": -11
                     }
                   }
                 ],
@@ -729,7 +815,7 @@
             "created_utc": 1752876826,
             "send_replies": true,
             "parent_id": "t3_1m3f570",
-            "score": 3,
+            "score": 0,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -770,13 +856,13 @@
             "treatment_tags": [],
             "link_id": "t3_1m3f570",
             "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
+            "controversiality": 1,
             "depth": 0,
             "author_flair_background_color": "#bbbdbf",
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 0
           }
         },
         {

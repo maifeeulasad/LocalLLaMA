@@ -39,7 +39,7 @@
             "upvote_ratio": 0.9,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 120,
+            "ups": 122,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 120,
+            "score": 122,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -154,7 +154,7 @@
             "report_reasons": null,
             "author": "DepthHour1669",
             "discussion_type": null,
-            "num_comments": 144,
+            "num_comments": 149,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m2xh8s/run_kimik2_without_quantization_locally_for_under/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m2xh8s/run_kimik2_without_quantization_locally_for_under/",
-            "subreddit_subscribers": 501232,
+            "subreddit_subscribers": 501527,
             "created_utc": 1752829800,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -257,7 +257,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3t7oh5",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_g4rgng0",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -300,7 +300,83 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "body": "But how many tokens is your input prompt? For long context generation &gt; 5k tokens, I figured Mac Studios are total trash.",
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n4181ca",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "couscous_sun",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n3t7oh5",
+                                "score": 1,
+                                "author_fullname": "t2_fslqiqx57",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "author_cakeday": true,
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n4181ca",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;But how many tokens is your input prompt? For long context generation &amp;gt; 5k tokens, I figured Mac Studios are total trash.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m2xh8s",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m2xh8s/run_kimik2_without_quantization_locally_for_under/n4181ca/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1752948460,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1752948460,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
                               }
                             }
                           ],
@@ -321,7 +397,7 @@
                       "created_utc": 1752844383,
                       "send_replies": true,
                       "parent_id": "t1_n3shurs",
-                      "score": 41,
+                      "score": 44,
                       "author_fullname": "t2_1mhx5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -363,7 +439,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 41
+                      "ups": 44
                     }
                   },
                   {
@@ -588,7 +664,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n3tbgsk",
-                                                                        "score": 2,
+                                                                        "score": 3,
                                                                         "author_fullname": "t2_kdmu4",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -630,7 +706,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 2
+                                                                        "ups": 3
                                                                       }
                                                                     },
                                                                     {
@@ -811,7 +887,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n3t6vv4",
-                                                              "score": 8,
+                                                              "score": 9,
                                                               "author_fullname": "t2_10n3b6gg97",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -853,7 +929,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 8
+                                                              "ups": 9
                                                             }
                                                           }
                                                         ],
@@ -873,7 +949,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n3svq24",
-                                                    "score": 8,
+                                                    "score": 9,
                                                     "author_fullname": "t2_cw9f6o0r",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -915,7 +991,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 8
+                                                    "ups": 9
                                                   }
                                                 },
                                                 {
@@ -1171,7 +1247,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n3std1v",
-                                          "score": 19,
+                                          "score": 22,
                                           "author_fullname": "t2_t6glzswk",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1214,7 +1290,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 19
+                                          "ups": 22
                                         }
                                       }
                                     ],
@@ -1234,7 +1310,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3skdqv",
-                                "score": 25,
+                                "score": 26,
                                 "author_fullname": "t2_p7nc2",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1277,7 +1353,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 25
+                                "ups": 26
                               }
                             },
                             {
@@ -1380,7 +1456,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n3vr2j5",
-                                                              "score": 2,
+                                                              "score": 3,
                                                               "author_fullname": "t2_t6glzswk",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -1422,7 +1498,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 2
+                                                              "ups": 3
                                                             }
                                                           }
                                                         ],
@@ -1562,12 +1638,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "eloquentemu",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3skdqv",
-                                "score": 3,
+                                "score": 4,
                                 "author_fullname": "t2_lpdsy",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1610,7 +1686,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             },
                             {
@@ -1706,7 +1782,7 @@
                       "created_utc": 1752835253,
                       "send_replies": true,
                       "parent_id": "t1_n3shurs",
-                      "score": 19,
+                      "score": 20,
                       "author_fullname": "t2_t6glzswk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1748,7 +1824,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 19
+                      "ups": 20
                     }
                   },
                   {
@@ -2177,7 +2253,7 @@
             "created_utc": 1752833956,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": 85,
+            "score": 87,
             "author_fullname": "t2_7iw5w8ac",
             "approved_by": null,
             "mod_note": null,
@@ -2219,7 +2295,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 85
+            "ups": 87
           }
         },
         {
@@ -2315,7 +2391,7 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "eloquentemu",
                                           "can_mod_post": false,
                                           "send_replies": true,
@@ -2941,7 +3017,7 @@
                       "created_utc": 1752844739,
                       "send_replies": true,
                       "parent_id": "t1_n3sw9h5",
-                      "score": 10,
+                      "score": 12,
                       "author_fullname": "t2_1mhx5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2983,7 +3059,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 12
                     }
                   },
                   {
@@ -3016,7 +3092,7 @@
                       "created_utc": 1752840616,
                       "send_replies": true,
                       "parent_id": "t1_n3sw9h5",
-                      "score": 3,
+                      "score": 2,
                       "author_fullname": "t2_t6glzswk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3058,7 +3134,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 2
                     }
                   }
                 ],
@@ -3079,7 +3155,7 @@
             "created_utc": 1752840384,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": 19,
+            "score": 21,
             "author_fullname": "t2_p7nc2",
             "approved_by": null,
             "mod_note": null,
@@ -3121,7 +3197,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 19
+            "ups": 21
           }
         },
         {
@@ -3418,7 +3494,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n3sg8sv",
-                                                    "score": -1,
+                                                    "score": 0,
                                                     "author_fullname": "t2_66vte",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -3460,7 +3536,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -1
+                                                    "ups": 0
                                                   }
                                                 }
                                               ],
@@ -3745,7 +3821,7 @@
             "created_utc": 1752831022,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": 4,
+            "score": 6,
             "author_fullname": "t2_hn2ed",
             "approved_by": null,
             "mod_note": null,
@@ -3787,7 +3863,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -4045,7 +4121,7 @@
             "created_utc": 1752835046,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_elxdc",
             "approved_by": null,
             "mod_note": null,
@@ -4087,7 +4163,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -4229,7 +4305,7 @@
                       "created_utc": 1752832710,
                       "send_replies": true,
                       "parent_id": "t1_n3sf7ow",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_t6glzswk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4271,7 +4347,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -4292,7 +4368,7 @@
             "created_utc": 1752832553,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": 3,
+            "score": 2,
             "author_fullname": "t2_azse6ibv",
             "approved_by": null,
             "mod_note": null,
@@ -4334,7 +4410,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -4918,7 +4994,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n3u7u21",
-                                          "score": 1,
+                                          "score": 2,
                                           "author_fullname": "t2_t6glzswk",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -4961,7 +5037,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 2
                                         }
                                       }
                                     ],
@@ -7242,6 +7318,161 @@
         {
           "kind": "t1",
           "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": "ef488598-491f-11ef-a847-9a3dd315819c",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n42gwvx",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "numbers18",
+            "can_mod_post": false,
+            "created_utc": 1752963080,
+            "send_replies": true,
+            "parent_id": "t3_1m2xh8s",
+            "score": 1,
+            "author_fullname": "t2_cg6xsz9d",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Both Q\\_0 and Q4\\_K\\_M (Kimi K2 from Unsloth) seem to occupy the same 1TB RAM when running:\n\nQ8\\_0:  \nMiB Mem : 2062853.+total, 408019.7 free,  17251.4 used, 1637582.+buff/cache  \nMiB Swap:      0.0 total,      0.0 free,      0.0 used. 2036204.+avail Mem\n\nPID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  \n6533 dd        20   0 1029.5g   1.0t   1.0t R  5611  51.0  18:15.67 llama-c+\n\nQ4\\_K\\_M:  \nMiB Mem : 2062853.+total,   5532.1 free, 470648.4 used, 1586672.+buff/cache  \nMiB Swap:      0.0 total,      0.0 free,      0.0 used. 1582482.+avail Mem\n\nPID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  \n8986 dd        20   0  995.9g 994.1g 541.7g R  5480  49.3   9:47.20 llama-c+\n\n====\n\nQ4 for me runs slower, as on startup it repacks weights from Q4 to Q8 for 3 minutes, printing dots while doing it.\n\nload\\_tensors:   CPU\\_REPACK model buffer size = 456624.00 MiB  \nload\\_tensors:          AMX model buffer size =  5841.80 MiB",
+            "edited": 1752965986,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n42gwvx",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Llama 405B"
+              }
+            ],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Both Q_0 and Q4_K_M (Kimi K2 from Unsloth) seem to occupy the same 1TB RAM when running:&lt;/p&gt;\n\n&lt;p&gt;Q8_0:&lt;br/&gt;\nMiB Mem : 2062853.+total, 408019.7 free,  17251.4 used, 1637582.+buff/cache&lt;br/&gt;\nMiB Swap:      0.0 total,      0.0 free,      0.0 used. 2036204.+avail Mem&lt;/p&gt;\n\n&lt;p&gt;PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND&lt;br/&gt;\n6533 dd        20   0 1029.5g   1.0t   1.0t R  5611  51.0  18:15.67 llama-c+&lt;/p&gt;\n\n&lt;p&gt;Q4_K_M:&lt;br/&gt;\nMiB Mem : 2062853.+total,   5532.1 free, 470648.4 used, 1586672.+buff/cache&lt;br/&gt;\nMiB Swap:      0.0 total,      0.0 free,      0.0 used. 1582482.+avail Mem&lt;/p&gt;\n\n&lt;p&gt;PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND&lt;br/&gt;\n8986 dd        20   0  995.9g 994.1g 541.7g R  5480  49.3   9:47.20 llama-c+&lt;/p&gt;\n\n&lt;h1&gt;&lt;/h1&gt;\n\n&lt;p&gt;Q4 for me runs slower, as on startup it repacks weights from Q4 to Q8 for 3 minutes, printing dots while doing it.&lt;/p&gt;\n\n&lt;p&gt;load_tensors:   CPU_REPACK model buffer size = 456624.00 MiB&lt;br/&gt;\nload_tensors:          AMX model buffer size =  5841.80 MiB&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": "light",
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m2xh8s/run_kimik2_without_quantization_locally_for_under/n42gwvx/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1752963080,
+            "author_flair_text": "Llama 405B",
+            "treatment_tags": [],
+            "link_id": "t3_1m2xh8s",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": "#bbbdbf",
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n43b62c",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Every_Bathroom_119",
+            "can_mod_post": false,
+            "created_utc": 1752974046,
+            "send_replies": true,
+            "parent_id": "t3_1m2xh8s",
+            "score": 1,
+            "author_fullname": "t2_t39ypn0v",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Hi guys,\nAnyone really tried this? I had a 8×H20 server, I want to run Kimi-K2 without quantization locally, what is solution for this? Is it possible to run with ktransformers?",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n43b62c",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hi guys,\nAnyone really tried this? I had a 8×H20 server, I want to run Kimi-K2 without quantization locally, what is solution for this? Is it possible to run with ktransformers?&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m2xh8s/run_kimik2_without_quantization_locally_for_under/n43b62c/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1752974046,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m2xh8s",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
             "total_awards_received": 0,
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -9418,7 +9649,7 @@
             "awarders": [],
             "mod_reason_by": null,
             "banned_by": null,
-            "ups": -1,
+            "ups": -2,
             "removal_reason": null,
             "link_id": "t3_1m2xh8s",
             "author_flair_template_id": null,
@@ -9942,7 +10173,7 @@
             "can_mod_post": false,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": -1,
+            "score": -2,
             "approved_by": null,
             "report_reasons": null,
             "all_awardings": [],
@@ -10036,7 +10267,7 @@
                       "created_utc": 1752832913,
                       "send_replies": true,
                       "parent_id": "t1_n3sdi5d",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_bvqb8ng0",
                       "removal_reason": null,
                       "approved_by": null,
@@ -10078,12 +10309,13 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
                     "kind": "t1",
                     "data": {
+                      "body": "It's 32B active, so roughly 20 TPS at 8bit quant, which is decent. I think the bigger issue with CPU only is the KV cache size and prompt processing speeds. How fast could the cpu pre-fill with full context? So then I was looking at having a GPU for pre fill only , but even that needs like 109GB of vram just for the kv cache at 8bit quant. When is the RTX 7000 PRO with 256GB vram coming out? \\*sigh\\*",
                       "subreddit_id": "t5_81eyvm",
                       "approved_at_utc": null,
                       "author_is_blocked": false,
@@ -10130,6 +10362,7 @@
                                       {
                                         "kind": "t1",
                                         "data": {
+                                          "body": "Oh that's awesome, I didn't know about MLA. This could be a pretty viable approach with 12 channel ddr5.",
                                           "subreddit_id": "t5_81eyvm",
                                           "approved_at_utc": null,
                                           "author_is_blocked": false,
@@ -10163,7 +10396,7 @@
                                           "mod_note": null,
                                           "all_awardings": [],
                                           "collapsed": false,
-                                          "body": "Oh that's awesome, I didn't know about MLA. This could be a pretty viable approach with 12 channel ddr5.",
+                                          "author_cakeday": true,
                                           "edited": false,
                                           "top_awarded_type": null,
                                           "author_flair_css_class": null,
@@ -10283,13 +10516,13 @@
                       "created_utc": 1752833141,
                       "send_replies": true,
                       "parent_id": "t1_n3sdi5d",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_8e8y0",
                       "removal_reason": null,
                       "approved_by": null,
                       "mod_note": null,
                       "all_awardings": [],
-                      "body": "It's 32B active, so roughly 20 TPS at 8bit quant, which is decent. I think the bigger issue with CPU only is the KV cache size and prompt processing speeds. How fast could the cpu pre-fill with full context? So then I was looking at having a GPU for pre fill only , but even that needs like 109GB of vram just for the kv cache at 8bit quant. When is the RTX 7000 PRO with 256GB vram coming out? \\*sigh\\*",
+                      "author_cakeday": true,
                       "edited": false,
                       "top_awarded_type": null,
                       "author_flair_css_class": null,
@@ -10325,7 +10558,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   },
                   {
@@ -11061,7 +11294,7 @@
                       "created_utc": 1752900035,
                       "send_replies": true,
                       "parent_id": "t1_n3xwbu7",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_t6glzswk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -11103,7 +11336,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -11813,7 +12046,7 @@
                       "created_utc": 1752835783,
                       "send_replies": true,
                       "parent_id": "t1_n3sk8oc",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_t6glzswk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -11855,7 +12088,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -11869,19 +12102,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": null,
+            "collapsed_reason_code": "LOW_SCORE",
             "no_follow": true,
             "author": "cantgetthistowork",
             "can_mod_post": false,
             "created_utc": 1752835184,
             "send_replies": true,
             "parent_id": "t3_1m2xh8s",
-            "score": -3,
+            "score": -5,
             "author_fullname": "t2_j1i0o",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": false,
+            "collapsed": true,
             "body": "GPUs make more sense",
             "edited": false,
             "top_awarded_type": null,
@@ -11893,7 +12126,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;GPUs make more sense&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": null,
+            "collapsed_reason": "comment score below threshold",
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -11918,7 +12151,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -5
           }
         }
       ],

@@ -36,10 +36,10 @@
             "name": "t3_1m31p26",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.94,
+            "upvote_ratio": 0.89,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 27,
+            "ups": 30,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 27,
+            "score": 30,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -154,7 +154,7 @@
             "report_reasons": null,
             "author": "Serious_Character_64",
             "discussion_type": null,
-            "num_comments": 13,
+            "num_comments": 12,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m31p26/i_built_an_opensource_python_frontend_to_turn/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m31p26/i_built_an_opensource_python_frontend_to_turn/",
-            "subreddit_subscribers": 501232,
+            "subreddit_subscribers": 501527,
             "created_utc": 1752843624,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -304,7 +304,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n3ux3sp",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "author_fullname": "t2_qz1qjc86",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -346,7 +346,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -366,7 +366,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n3ui55d",
-                                          "score": 0,
+                                          "score": -1,
                                           "author_fullname": "t2_oogia7mi",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -409,7 +409,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 0
+                                          "ups": -1
                                         }
                                       }
                                     ],
@@ -424,7 +424,7 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "Cool-Chemical-5629",
                                 "can_mod_post": false,
                                 "send_replies": true,
@@ -493,7 +493,7 @@
                       "created_utc": 1752853445,
                       "send_replies": true,
                       "parent_id": "t1_n3u1f6p",
-                      "score": 0,
+                      "score": -1,
                       "author_fullname": "t2_oogia7mi",
                       "removal_reason": null,
                       "approved_by": null,
@@ -535,7 +535,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": -1
                     }
                   }
                 ],
@@ -556,7 +556,7 @@
             "created_utc": 1752853100,
             "send_replies": true,
             "parent_id": "t3_1m31p26",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_qz1qjc86",
             "approved_by": null,
             "mod_note": null,
@@ -598,7 +598,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -676,7 +676,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3tr3f0",
-                                "score": 3,
+                                "score": 5,
                                 "author_fullname": "t2_hi1n3",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -719,7 +719,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 5
                               }
                             }
                           ],
@@ -740,7 +740,7 @@
                       "created_utc": 1752850208,
                       "send_replies": true,
                       "parent_id": "t1_n3tkqpp",
-                      "score": 0,
+                      "score": -1,
                       "author_fullname": "t2_oogia7mi",
                       "removal_reason": null,
                       "approved_by": null,
@@ -782,7 +782,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": -1
                     }
                   }
                 ],
@@ -803,7 +803,7 @@
             "created_utc": 1752848400,
             "send_replies": true,
             "parent_id": "t3_1m31p26",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_1f8trxud0p",
             "approved_by": null,
             "mod_note": null,
@@ -845,7 +845,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -1136,7 +1136,7 @@
             "created_utc": 1752852021,
             "send_replies": true,
             "parent_id": "t3_1m31p26",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_388ox",
             "approved_by": null,
             "mod_note": null,
@@ -1178,82 +1178,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "n3tu29e",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": true,
-            "author": "createthiscom",
-            "can_mod_post": false,
-            "created_utc": 1752851040,
-            "send_replies": true,
-            "parent_id": "t3_1m31p26",
-            "score": -1,
-            "author_fullname": "t2_ozxxf",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "So you put the AI in the cuck chair? reference: [https://youtube.com/shorts/1oAo\\_kH0FFU](https://youtube.com/shorts/1oAo_kH0FFU)",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n3tu29e",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So you put the AI in the cuck chair? reference: &lt;a href=\"https://youtube.com/shorts/1oAo_kH0FFU\"&gt;https://youtube.com/shorts/1oAo_kH0FFU&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1m31p26/i_built_an_opensource_python_frontend_to_turn/n3tu29e/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1752851040,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1m31p26",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": -1
+            "ups": 2
           }
         }
       ],
