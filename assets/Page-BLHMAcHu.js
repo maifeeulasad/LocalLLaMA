@@ -1,0 +1,31 @@
+import{j as e}from"./index-DACS7Nh6.js";import{R as t}from"./RedditPostRenderer-Dqa1NZuX.js";import"./index-DiMIVQx4.js";const a=[{kind:"Listing",data:{after:null,dist:1,modhash:"",geo_filter:"",children:[{kind:"t3",data:{approved_at_utc:null,subreddit:"LocalLLaMA",selftext:`I am pleased to present **ADR–Academic Deep Research**, a novel AI‐powered platform designed to advance the rigor and scale of cybersecurity investigations. ADR leverages the o4-mini-deep research and o3-deep-research model (paid tier) to execute multi-step analytical workflows on complex security problems, automatically harvesting, synthesizing, and cross-referencing hundreds of online sources alongside peer-reviewed literature. The result is a comprehensive, researcher‐grade report that integrates:
+
+* **Threat Landscape Mapping:** Correlating indicators of compromise (IoCs) from disparate repositories and academic databases.
+* **Technical Deep Dives:** Disassembling malware samples, vulnerability proofs-of-concept, and exploit chains with citation-backed commentary.
+* **Literature Synthesis:** Summarizing and comparing state-of-the-art methodologies from recent conference proceedings and journal articles.
+
+This demonstration requires an OpenAI API key and showcases how ADR can both accelerate hypothesis testing and elevate the depth of traditional literature reviews. I welcome your feedback on this prototype—please explore the demo at:  
+[https://adr-academic-deep-research.vercel.app/](https://adr-academic-deep-research.vercel.app/)
+
+  
+Sign up for waitlist as well for o3-deep-research:
+
+[https://scriptlabs.wixstudio.com/adrdeepresearch](https://scriptlabs.wixstudio.com/adrdeepresearch)
+
+Your insights will help refine ADR’s research heuristics, citation accuracy, and report structure. Thank you for evaluating ADR as a next-generation tool for cybersecurity scholarship.`,user_reports:[],saved:!1,mod_reason_title:null,gilded:0,clicked:!1,title:"ADR–Academic Deep Research for Cybersecurity and Academic: An AI-Driven Framework for Multi-Step Threat Analysis",link_flair_richtext:[{e:"text",t:"Discussion"}],subreddit_name_prefixed:"r/LocalLLaMA",hidden:!1,pwls:6,link_flair_css_class:"",downs:0,thumbnail_height:null,top_awarded_type:null,hide_score:!1,name:"t3_1ltks5a",quarantine:!1,link_flair_text_color:"light",upvote_ratio:.5,author_flair_background_color:null,subreddit_type:"public",ups:0,total_awards_received:0,media_embed:{},thumbnail_width:null,author_flair_template_id:null,is_original_content:!1,author_fullname:"t2_7xm4orss",secure_media:null,is_reddit_media_domain:!1,is_meta:!1,category:null,secure_media_embed:{},link_flair_text:"Discussion",can_mod_post:!1,score:0,approved_by:null,is_created_from_ads_ui:!1,author_premium:!1,thumbnail:"self",edited:1751862055,author_flair_css_class:null,author_flair_richtext:[],gildings:{},content_categories:null,is_self:!0,mod_note:null,created:1751861676,link_flair_type:"richtext",wls:6,removed_by_category:null,banned_by:null,author_flair_type:"text",domain:"self.LocalLLaMA",allow_live_comments:!1,selftext_html:`&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I am pleased to present &lt;strong&gt;ADR–Academic Deep Research&lt;/strong&gt;, a novel AI‐powered platform designed to advance the rigor and scale of cybersecurity investigations. ADR leverages the o4-mini-deep research and o3-deep-research model (paid tier) to execute multi-step analytical workflows on complex security problems, automatically harvesting, synthesizing, and cross-referencing hundreds of online sources alongside peer-reviewed literature. The result is a comprehensive, researcher‐grade report that integrates:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Threat Landscape Mapping:&lt;/strong&gt; Correlating indicators of compromise (IoCs) from disparate repositories and academic databases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Deep Dives:&lt;/strong&gt; Disassembling malware samples, vulnerability proofs-of-concept, and exploit chains with citation-backed commentary.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Literature Synthesis:&lt;/strong&gt; Summarizing and comparing state-of-the-art methodologies from recent conference proceedings and journal articles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This demonstration requires an OpenAI API key and showcases how ADR can both accelerate hypothesis testing and elevate the depth of traditional literature reviews. I welcome your feedback on this prototype—please explore the demo at:&lt;br/&gt;
+&lt;a href="https://adr-academic-deep-research.vercel.app/"&gt;https://adr-academic-deep-research.vercel.app/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sign up for waitlist as well for o3-deep-research:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://scriptlabs.wixstudio.com/adrdeepresearch"&gt;https://scriptlabs.wixstudio.com/adrdeepresearch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Your insights will help refine ADR’s research heuristics, citation accuracy, and report structure. Thank you for evaluating ADR as a next-generation tool for cybersecurity scholarship.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;`,likes:null,suggested_sort:null,banned_at_utc:null,view_count:null,archived:!1,no_follow:!0,is_crosspostable:!1,pinned:!1,over_18:!1,all_awardings:[],awarders:[],media_only:!1,link_flair_template_id:"5f921ea4-c7bc-11ed-9c23-3a00622979b4",can_gild:!1,spoiler:!1,locked:!1,author_flair_text:null,treatment_tags:[],visited:!1,removed_by:null,num_reports:null,distinguished:null,subreddit_id:"t5_81eyvm",author_is_blocked:!1,mod_reason_by:null,removal_reason:null,link_flair_background_color:"#646d73",id:"1ltks5a",is_robot_indexable:!0,num_duplicates:0,report_reasons:null,author:"Haunting-Ad6565",discussion_type:null,num_comments:1,send_replies:!0,media:null,contest_mode:!1,author_patreon_flair:!1,author_flair_text_color:null,permalink:"/r/LocalLLaMA/comments/1ltks5a/adracademic_deep_research_for_cybersecurity_and/",stickied:!1,url:"https://www.reddit.com/r/LocalLLaMA/comments/1ltks5a/adracademic_deep_research_for_cybersecurity_and/",subreddit_subscribers:496034,created_utc:1751861676,num_crossposts:0,mod_reports:[],is_video:!1}}],before:null}},{kind:"Listing",data:{after:null,dist:null,modhash:"",geo_filter:"",children:[],before:null}}],i=()=>e.jsx(t,{data:a});export{i as default};
