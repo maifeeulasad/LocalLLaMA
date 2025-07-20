@@ -39,7 +39,7 @@
             "upvote_ratio": 0.97,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 343,
+            "ups": 426,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 343,
+            "score": 426,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -104,11 +104,11 @@
             "link_flair_background_color": "#cc3600",
             "id": "1m3vqom",
             "is_robot_indexable": true,
-            "num_duplicates": 0,
+            "num_duplicates": 1,
             "report_reasons": null,
             "author": "Kooshi_Govno",
             "discussion_type": null,
-            "num_comments": 27,
+            "num_comments": 29,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -117,9 +117,9 @@
             "permalink": "/r/LocalLLaMA/comments/1m3vqom/a_new_paper_from_apple_shows_you_can_tack_on/",
             "stickied": false,
             "url": "https://arxiv.org/abs/2507.11851",
-            "subreddit_subscribers": 501526,
+            "subreddit_subscribers": 501753,
             "created_utc": 1752930223,
-            "num_crossposts": 0,
+            "num_crossposts": 1,
             "mod_reports": [],
             "is_video": false
           }
@@ -252,6 +252,86 @@
                                                         "modhash": "",
                                                         "geo_filter": "",
                                                         "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_81eyvm",
+                                                              "approved_at_utc": null,
+                                                              "author_is_blocked": false,
+                                                              "comment_type": null,
+                                                              "awarders": [],
+                                                              "mod_reason_by": null,
+                                                              "banned_by": null,
+                                                              "author_flair_type": "richtext",
+                                                              "total_awards_received": 0,
+                                                              "subreddit": "LocalLLaMA",
+                                                              "author_flair_template_id": "7dba5c08-72f1-11ee-9b6f-ca195bc297d4",
+                                                              "distinguished": null,
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "n43nsij",
+                                                              "banned_at_utc": null,
+                                                              "mod_reason_title": null,
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "collapsed_reason_code": null,
+                                                              "no_follow": false,
+                                                              "author": "Electrical_Crow_2773",
+                                                              "can_mod_post": false,
+                                                              "send_replies": true,
+                                                              "parent_id": "t1_n40e0ai",
+                                                              "score": 5,
+                                                              "author_fullname": "t2_cm8eyb04",
+                                                              "approved_by": null,
+                                                              "mod_note": null,
+                                                              "all_awardings": [],
+                                                              "body": "Speculative decoding is most useful for locally hosted models with one user and is kind of useless for servers with a high number of concurrent users",
+                                                              "edited": false,
+                                                              "gildings": {},
+                                                              "downs": 0,
+                                                              "author_flair_css_class": null,
+                                                              "name": "t1_n43nsij",
+                                                              "is_submitter": false,
+                                                              "collapsed": false,
+                                                              "author_flair_richtext": [
+                                                                {
+                                                                  "e": "text",
+                                                                  "t": "Llama 70B"
+                                                                }
+                                                              ],
+                                                              "author_patreon_flair": false,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Speculative decoding is most useful for locally hosted models with one user and is kind of useless for servers with a high number of concurrent users&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "removal_reason": null,
+                                                              "collapsed_reason": null,
+                                                              "link_id": "t3_1m3vqom",
+                                                              "associated_award": null,
+                                                              "stickied": false,
+                                                              "author_premium": false,
+                                                              "can_gild": false,
+                                                              "top_awarded_type": null,
+                                                              "unrepliable_reason": null,
+                                                              "author_flair_text_color": "light",
+                                                              "score_hidden": false,
+                                                              "permalink": "/r/LocalLLaMA/comments/1m3vqom/a_new_paper_from_apple_shows_you_can_tack_on/n43nsij/",
+                                                              "subreddit_type": "public",
+                                                              "locked": false,
+                                                              "report_reasons": null,
+                                                              "created": 1752978916,
+                                                              "author_flair_text": "Llama 70B",
+                                                              "treatment_tags": [],
+                                                              "created_utc": 1752978916,
+                                                              "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                              "controversiality": 0,
+                                                              "depth": 5,
+                                                              "author_flair_background_color": "#bbbdbf",
+                                                              "collapsed_because_crowd_control": null,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "ups": 5
+                                                            }
+                                                          },
                                                           {
                                                             "kind": "t1",
                                                             "data": {
@@ -406,7 +486,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n3zqa18",
-                                          "score": 7,
+                                          "score": 8,
                                           "author_fullname": "t2_3wi6j7vwh",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -449,7 +529,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 7
+                                          "ups": 8
                                         }
                                       }
                                     ],
@@ -469,7 +549,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n3zoqpk",
-                                "score": 15,
+                                "score": 21,
                                 "author_fullname": "t2_7kg5p",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -512,7 +592,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 21
                               }
                             },
                             {
@@ -763,7 +843,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n413tkw",
-                                                    "score": 2,
+                                                    "score": 3,
                                                     "author_fullname": "t2_12s3hn4y0b",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -805,7 +885,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -952,7 +1032,7 @@
                       "created_utc": 1752930908,
                       "send_replies": true,
                       "parent_id": "t1_n3zoc02",
-                      "score": 36,
+                      "score": 40,
                       "author_fullname": "t2_3wi6j7vwh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -994,7 +1074,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 36
+                      "ups": 40
                     }
                   },
                   {
@@ -1176,7 +1256,7 @@
             "created_utc": 1752930760,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 93,
+            "score": 118,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -1218,7 +1298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 93
+            "ups": 118
           }
         },
         {
@@ -1251,7 +1331,7 @@
             "created_utc": 1752932644,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 25,
+            "score": 30,
             "author_fullname": "t2_k7w2h",
             "approved_by": null,
             "mod_note": null,
@@ -1293,7 +1373,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 25
+            "ups": 30
           }
         },
         {
@@ -1349,7 +1429,7 @@
                       "created_utc": 1752939868,
                       "send_replies": true,
                       "parent_id": "t1_n40a5lu",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_7kg5p",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1391,7 +1471,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -1412,7 +1492,7 @@
             "created_utc": 1752937991,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 18,
+            "score": 32,
             "author_fullname": "t2_17n3nqtj56",
             "approved_by": null,
             "mod_note": null,
@@ -1454,7 +1534,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 32
           }
         },
         {
@@ -1487,7 +1567,7 @@
             "created_utc": 1752933008,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 17,
+            "score": 21,
             "author_fullname": "t2_hnjq9xn4a",
             "approved_by": null,
             "mod_note": null,
@@ -1529,7 +1609,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 21
           }
         },
         {
@@ -1585,7 +1665,7 @@
                       "created_utc": 1752939190,
                       "send_replies": true,
                       "parent_id": "t1_n407cue",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_406sj",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1627,7 +1707,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   }
                 ],
@@ -1648,7 +1728,7 @@
             "created_utc": 1752937123,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 9,
+            "score": 13,
             "author_fullname": "t2_1p41v97q5d",
             "approved_by": null,
             "mod_note": null,
@@ -1690,7 +1770,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 13
           }
         },
         {
@@ -1746,7 +1826,7 @@
                       "created_utc": 1752937925,
                       "send_replies": true,
                       "parent_id": "t1_n4085em",
-                      "score": 17,
+                      "score": 19,
                       "author_fullname": "t2_a8xhk1ib",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1788,7 +1868,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 17
+                      "ups": 19
                     }
                   },
                   {
@@ -1821,7 +1901,7 @@
                       "created_utc": 1752938843,
                       "send_replies": true,
                       "parent_id": "t1_n4085em",
-                      "score": 9,
+                      "score": 12,
                       "author_fullname": "t2_7kg5p",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1863,7 +1943,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 12
                     }
                   },
                   {
@@ -1890,13 +1970,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Expensive-Apricot-25",
                       "can_mod_post": false,
                       "created_utc": 1752947507,
                       "send_replies": true,
                       "parent_id": "t1_n4085em",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_idqkwio0",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1938,7 +2018,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   },
                   {
@@ -2109,7 +2189,7 @@
             "created_utc": 1752937367,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 10,
+            "score": 11,
             "author_fullname": "t2_p8xr7r6g0",
             "approved_by": null,
             "mod_note": null,
@@ -2151,7 +2231,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 11
           }
         },
         {
@@ -2192,7 +2272,93 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n43g96z",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": false,
+                                "author": "squired",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n43b1if",
+                                "score": 4,
+                                "author_fullname": "t2_3k4yf",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "Sorry, it's just incredibly validating that I'm not in fact insane. I was kinda worried there for a few months. Remember, even last Christmas this stuff was not nearly as *normal* as it now feels. People irl were *literally* calling us crazy. So, yeah, I'm good brother! And if I ever decide to pickup a gig or start a new business, this kinda stuff and my publicly timestamped notes and code validate it. It's all a super cool surprise.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n43g96z",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sorry, it&amp;#39;s just incredibly validating that I&amp;#39;m not in fact insane. I was kinda worried there for a few months. Remember, even last Christmas this stuff was not nearly as &lt;em&gt;normal&lt;/em&gt; as it now feels. People irl were &lt;em&gt;literally&lt;/em&gt; calling us crazy. So, yeah, I&amp;#39;m good brother! And if I ever decide to pickup a gig or start a new business, this kinda stuff and my publicly timestamped notes and code validate it. It&amp;#39;s all a super cool surprise.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m3vqom",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m3vqom/a_new_paper_from_apple_shows_you_can_tack_on/n43g96z/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1752975994,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1752975994,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "n43b1if",
@@ -2207,7 +2373,7 @@
                       "created_utc": 1752973997,
                       "send_replies": true,
                       "parent_id": "t1_n42vnh4",
-                      "score": 1,
+                      "score": 3,
                       "author_fullname": "t2_7kg5p",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2249,7 +2415,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 3
                     }
                   }
                 ],
@@ -2270,14 +2436,14 @@
             "created_utc": 1752968266,
             "send_replies": true,
             "parent_id": "t3_1m3vqom",
-            "score": 0,
+            "score": 3,
             "author_fullname": "t2_3k4yf",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "Pardon my language, but we motherfucking called it!!!!\n\nI was working with a dude several months ago on effectively this, leveraging early coherence to map and/or divine later steps/tokens for Wan2.1. Unfortunately, I didn't have the math chops to complete the stochastic calculus and he got caught up with work after becoming discouraged when Veo3 dropped (it was just so damn good!).\n\nVery gratifying and assuring that we weren't just crazy and pushing bits for kicks! We were onto something legitimately big!\n\n*In a few words: the calculus involved in traversing the latent space allows you to predict the ending at the outset, sort of like graphing out a function to see the \"big picture\".* \n\nBut we were missing the forest for the trees, just as many here may be as well. We hadn't even considered the parallelism benefits.. Think of normal generation like hiking up a winding mountain path with the goal of taking one picture for every 10 steps. You have to follow the trail, counting your steps along the way, to get your pictures. But if you have a map, you can send 2 or 2000 people out, giving them each one leg to walk. Collectively, every step is still trodden, but all at once, provided enough hikers. Early coherence affords you the map so that you can assign x GPUs to each segment. These are the kind of speed explosions that define breakthroughs. Big deal!! And if Apple is publishing this, it means the other houses already have it. Veo3 makes a lot more sense now as does Gemini's context window.\n\nIf any other AI tourists are reading this, keep banging that code ya'll! Here we go!!",
-            "edited": 1752969084,
+            "body": "Pardon my language, but we motherfucking called it!!!! Those brilliant bastards found their way through!\n\nI was working with a dude several months ago on effectively this, leveraging early coherence to map and/or divine later steps/tokens for Wan2.1. Unfortunately, I didn't have the math chops to complete the stochastic calculus and he got caught up with work after becoming discouraged when Veo3 dropped (it was just so damn good!).\n\nVery gratifying and assuring that we weren't just crazy and pushing bits for kicks! We were onto something legitimately big!\n\n*In a few words: the calculus involved in traversing the latent space allows you to predict the ending at the outset, sort of like graphing out a function to see the \"big picture\".* \n\nBut we were missing the forest for the trees, just as many here may be as well. We hadn't even considered the parallelism benefits.. Think of normal generation like hiking up a winding mountain path with the goal of taking one picture for every 10 steps. You have to follow the trail, counting your steps along the way, to get your pictures. But if you have a map, you can send 2 or 2000 people out, giving them each one segment to walk. Collectively, every step is still trodden, but all at once, provided enough hikers. Early coherence affords you the map so that you can assign x GPUs to each segment. These are the kind of speed explosions that define breakthroughs. Big deal!! And if Apple is publishing this, it means the other houses already have it. Veo3 makes a lot more sense now as does Gemini's context window.\n\nIf any other AI tourists are reading this, keep banging that code ya'll! Here we go!!",
+            "edited": 1752979368,
             "top_awarded_type": null,
             "author_flair_css_class": null,
             "name": "t1_n42vnh4",
@@ -2285,7 +2451,7 @@
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Pardon my language, but we motherfucking called it!!!!&lt;/p&gt;\n\n&lt;p&gt;I was working with a dude several months ago on effectively this, leveraging early coherence to map and/or divine later steps/tokens for Wan2.1. Unfortunately, I didn&amp;#39;t have the math chops to complete the stochastic calculus and he got caught up with work after becoming discouraged when Veo3 dropped (it was just so damn good!).&lt;/p&gt;\n\n&lt;p&gt;Very gratifying and assuring that we weren&amp;#39;t just crazy and pushing bits for kicks! We were onto something legitimately big!&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;In a few words: the calculus involved in traversing the latent space allows you to predict the ending at the outset, sort of like graphing out a function to see the &amp;quot;big picture&amp;quot;.&lt;/em&gt; &lt;/p&gt;\n\n&lt;p&gt;But we were missing the forest for the trees, just as many here may be as well. We hadn&amp;#39;t even considered the parallelism benefits.. Think of normal generation like hiking up a winding mountain path with the goal of taking one picture for every 10 steps. You have to follow the trail, counting your steps along the way, to get your pictures. But if you have a map, you can send 2 or 2000 people out, giving them each one leg to walk. Collectively, every step is still trodden, but all at once, provided enough hikers. Early coherence affords you the map so that you can assign x GPUs to each segment. These are the kind of speed explosions that define breakthroughs. Big deal!! And if Apple is publishing this, it means the other houses already have it. Veo3 makes a lot more sense now as does Gemini&amp;#39;s context window.&lt;/p&gt;\n\n&lt;p&gt;If any other AI tourists are reading this, keep banging that code ya&amp;#39;ll! Here we go!!&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Pardon my language, but we motherfucking called it!!!! Those brilliant bastards found their way through!&lt;/p&gt;\n\n&lt;p&gt;I was working with a dude several months ago on effectively this, leveraging early coherence to map and/or divine later steps/tokens for Wan2.1. Unfortunately, I didn&amp;#39;t have the math chops to complete the stochastic calculus and he got caught up with work after becoming discouraged when Veo3 dropped (it was just so damn good!).&lt;/p&gt;\n\n&lt;p&gt;Very gratifying and assuring that we weren&amp;#39;t just crazy and pushing bits for kicks! We were onto something legitimately big!&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;In a few words: the calculus involved in traversing the latent space allows you to predict the ending at the outset, sort of like graphing out a function to see the &amp;quot;big picture&amp;quot;.&lt;/em&gt; &lt;/p&gt;\n\n&lt;p&gt;But we were missing the forest for the trees, just as many here may be as well. We hadn&amp;#39;t even considered the parallelism benefits.. Think of normal generation like hiking up a winding mountain path with the goal of taking one picture for every 10 steps. You have to follow the trail, counting your steps along the way, to get your pictures. But if you have a map, you can send 2 or 2000 people out, giving them each one segment to walk. Collectively, every step is still trodden, but all at once, provided enough hikers. Early coherence affords you the map so that you can assign x GPUs to each segment. These are the kind of speed explosions that define breakthroughs. Big deal!! And if Apple is publishing this, it means the other houses already have it. Veo3 makes a lot more sense now as does Gemini&amp;#39;s context window.&lt;/p&gt;\n\n&lt;p&gt;If any other AI tourists are reading this, keep banging that code ya&amp;#39;ll! Here we go!!&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -2306,13 +2472,13 @@
             "treatment_tags": [],
             "link_id": "t3_1m3vqom",
             "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
+            "controversiality": 1,
             "depth": 0,
             "author_flair_background_color": null,
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 3
           }
         }
       ],

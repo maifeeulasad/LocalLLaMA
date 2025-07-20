@@ -6504,6 +6504,90 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m4b8ji',
         name: 'NSFW AI Local',
       },
+      {
+        path: '/1m4cil7',
+        name: 'Getting into local ai. Photo restoration.',
+      },
+      {
+        path: '/1m4d74b',
+        name: 'I developed my own webapp to use the local templates.',
+      },
+      {
+        path: '/1m4djo6',
+        name: 'Made a local C++ utility to calculate RAM needed to fit a quantized model',
+      },
+      {
+        path: '/1m4fs2t',
+        name: 'Context Rot: How Increasing Input Tokens Impacts LLM Performance',
+      },
+      {
+        path: '/1m4goon',
+        name: 'How to prevent negative transfer when fine tuning?',
+      },
+      {
+        path: '/1m4gx69',
+        name: 'Wrote something about Rerankers - Why and How of it',
+      },
+      {
+        path: '/1m4hfy0',
+        name: 'Does LLM architecture allow for injecting some more input tokens in the middle of token generation?',
+      },
+      {
+        path: '/1m4hhg8',
+        name: 'Repo Wizard: Local AI Tool for Safe Code Changes (Inspired by Repo Prompt, Runs on Any OS)',
+      },
+      {
+        path: '/1m4j0sa',
+        name: '🆘 [Help] My Fine-Tuned Model Keeps Echoing Prompts or Giving Blank/Generic Responses',
+      },
+      {
+        path: '/1m4j5nf',
+        name: 'Best Budget SFF/Low profile gpu’s?',
+      },
+      {
+        path: '/1m4jxo9',
+        name: 'Advice on choice of model',
+      },
+      {
+        path: '/1m4jyrq',
+        name: '1 comet invite left : challenge',
+      },
+      {
+        path: '/1m4ke3x',
+        name: 'New to fine tuning',
+      },
+      {
+        path: '/1m4ktlb',
+        name: 'Looking for local provider for Kimi K2 at a better price',
+      },
+      {
+        path: '/1m4l1tl',
+        name: 'What\'s your biggest pain point running LLMs locally (especially with low VRAM GPUs)?',
+      },
+      {
+        path: '/1m4lwcu',
+        name: 'Do voice "changers / modifiers" actually exist?',
+      },
+      {
+        path: '/1m4lxak',
+        name: 'Semantic chunking using LLMs',
+      },
+      {
+        path: '/1m4mfs8',
+        name: 'Next big thing after LLMs - World Model [explained on the example of V-JEPA2]',
+      },
+      {
+        path: '/1m4mvbe',
+        name: 'Best uncensored creative writing GGUF model to run on 24 GB VRAM??',
+      },
+      {
+        path: '/1m4n2bx',
+        name: 'Qwen 3 8b/14b finetuning on 50k medical data unsloth on runpod and optimal training settings',
+      },
+      {
+        path: '/1m4n7fh',
+        name: 'AI Model Juggler automatically and transparently switches between LLM and image generation backends and models',
+      },
     ],
   },
   {
