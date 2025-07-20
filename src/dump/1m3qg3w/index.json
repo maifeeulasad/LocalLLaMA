@@ -36,10 +36,10 @@
             "name": "t3_1m3qg3w",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.56,
+            "upvote_ratio": 0.53,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 2,
+            "ups": 1,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "bitrumpled",
             "discussion_type": null,
-            "num_comments": 54,
+            "num_comments": 55,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m3qg3w/escaping_quantization_brain_damage_with_bf16/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m3qg3w/escaping_quantization_brain_damage_with_bf16/",
-            "subreddit_subscribers": 501527,
+            "subreddit_subscribers": 501753,
             "created_utc": 1752910988,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -349,7 +349,7 @@
                       "created_utc": 1752938935,
                       "send_replies": true,
                       "parent_id": "t1_n3ylegp",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_lpdsy",
                       "removal_reason": null,
                       "approved_by": null,
@@ -391,7 +391,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   },
                   {
@@ -922,14 +922,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": null,
+                      "collapsed_reason_code": "LOW_SCORE",
                       "no_follow": true,
                       "author": "bitrumpled",
                       "can_mod_post": false,
                       "created_utc": 1752912320,
                       "send_replies": true,
                       "parent_id": "t1_n3ylegp",
-                      "score": -4,
+                      "score": -6,
                       "author_fullname": "t2_z5dk4aa",
                       "removal_reason": null,
                       "approved_by": null,
@@ -946,7 +946,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have tried a variety of models (llama-3, llama-4, some forms of Qwen, some forms of Gemini) at different quantizations, none of them could produce usable output, so I am open to recommendations from the angle of what I could run at BF16.&lt;/p&gt;\n\n&lt;p&gt;Since eg Kimi-2 is 2TB at BF16, I am afraid trying BF 16 with a large model is going to need a different approach with the kind of hw.  So I am asking about how to come at that as much as choosing which model.&lt;/p&gt;\n\n&lt;p&gt;(I am also guessing most of the services offering to talk to the models are actually quite heavily quantized rather than running at BF16, none of them seem to explain the quantization level of the model you are actually talking to.&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": null,
+                      "collapsed_reason": "comment score below threshold",
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -963,7 +963,7 @@
                       "created": 1752912320,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": false,
+                      "collapsed": true,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -971,7 +971,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -4
+                      "ups": -6
                     }
                   }
                 ],
@@ -992,7 +992,7 @@
             "created_utc": 1752911789,
             "send_replies": true,
             "parent_id": "t3_1m3qg3w",
-            "score": 11,
+            "score": 10,
             "author_fullname": "t2_askwa",
             "approved_by": null,
             "mod_note": null,
@@ -1034,7 +1034,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {

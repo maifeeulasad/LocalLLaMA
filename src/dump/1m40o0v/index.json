@@ -36,7 +36,7 @@
             "name": "t3_1m40o0v",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.5,
+            "upvote_ratio": 0.44,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m40o0v/image_processing_limit_on_groqalternatives/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m40o0v/image_processing_limit_on_groqalternatives/",
-            "subreddit_subscribers": 501526,
+            "subreddit_subscribers": 501753,
             "created_utc": 1752943084,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -251,7 +251,7 @@
             "created_utc": 1752943131,
             "send_replies": true,
             "parent_id": "t3_1m40o0v",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_on5es7pe3",
             "approved_by": null,
             "mod_note": null,
@@ -298,7 +298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -376,7 +376,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n40t2oo",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_3uh4n690",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -419,7 +419,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -434,13 +434,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "AXYZE8",
                       "can_mod_post": false,
                       "created_utc": 1752943889,
                       "send_replies": true,
                       "parent_id": "t1_n40rywy",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_10dacl",
                       "removal_reason": null,
                       "approved_by": null,
@@ -482,7 +482,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   }
                 ],
