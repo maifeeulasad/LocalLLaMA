@@ -36,7 +36,7 @@
             "name": "t3_1m42gid",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 1,
+            "upvote_ratio": 0.84,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 4,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m42gid/build_advice_consumer_ai_workstation_with_rtx/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m42gid/build_advice_consumer_ai_workstation_with_rtx/",
-            "subreddit_subscribers": 501753,
+            "subreddit_subscribers": 502030,
             "created_utc": 1752947519,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -337,7 +337,7 @@
             "created_utc": 1752948885,
             "send_replies": true,
             "parent_id": "t3_1m42gid",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_15wqsifdjf",
             "approved_by": null,
             "mod_note": null,
@@ -379,7 +379,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -596,7 +596,7 @@
                       "created_utc": 1752969340,
                       "send_replies": true,
                       "parent_id": "t1_n41lwhq",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_h5utwre7",
                       "removal_reason": null,
                       "approved_by": null,
@@ -638,7 +638,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],

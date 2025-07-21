@@ -36,9 +36,9 @@
             "name": "t3_1m46w7u",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.89,
+            "upvote_ratio": 0.88,
             "author_flair_background_color": null,
-            "ups": 155,
+            "ups": 183,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 155,
+            "score": 183,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "DeltaSqueezer",
             "discussion_type": null,
-            "num_comments": 50,
+            "num_comments": 51,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/",
             "stickied": false,
             "url": "https://i.redd.it/032gntpz9wdf1.png",
-            "subreddit_subscribers": 501752,
+            "subreddit_subscribers": 502030,
             "created_utc": 1752958757,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -300,12 +300,12 @@
                                                     "gilded": 0,
                                                     "archived": false,
                                                     "collapsed_reason_code": null,
-                                                    "no_follow": true,
+                                                    "no_follow": false,
                                                     "author": "fibercrime",
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n44rrq1",
-                                                    "score": 1,
+                                                    "score": 6,
                                                     "author_fullname": "t2_byaexnmp",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -347,7 +347,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 6
                                                   }
                                                 }
                                               ],
@@ -367,7 +367,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n42njr9",
-                                          "score": 12,
+                                          "score": 23,
                                           "author_fullname": "t2_ps08rdmy",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -410,7 +410,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 12
+                                          "ups": 23
                                         }
                                       }
                                     ],
@@ -430,7 +430,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n42gt15",
-                                "score": 32,
+                                "score": 33,
                                 "author_fullname": "t2_2kndo",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -473,7 +473,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 32
+                                "ups": 33
                               }
                             },
                             {
@@ -505,7 +505,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n42gt15",
-                                "score": 7,
+                                "score": 6,
                                 "author_fullname": "t2_12s3hn4y0b",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -548,7 +548,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 6
                               }
                             }
                           ],
@@ -569,7 +569,7 @@
                       "created_utc": 1752963043,
                       "send_replies": true,
                       "parent_id": "t1_n42eimr",
-                      "score": 64,
+                      "score": 81,
                       "author_fullname": "t2_1rav5zv0dv",
                       "removal_reason": null,
                       "approved_by": null,
@@ -611,7 +611,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 64
+                      "ups": 81
                     }
                   },
                   {
@@ -629,7 +629,93 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n463er1",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "DeltaSqueezer",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n442x1f",
+                                "score": 2,
+                                "author_fullname": "t2_8jqx3m14",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "It's a good point the in/out mix can be very different for reasoning models.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n463er1",
+                                "is_submitter": true,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s a good point the in/out mix can be very different for reasoning models.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m46w7u",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n463er1/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753020930,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753020930,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "n442x1f",
@@ -644,7 +730,7 @@
                       "created_utc": 1752985326,
                       "send_replies": true,
                       "parent_id": "t1_n42eimr",
-                      "score": 11,
+                      "score": 17,
                       "author_fullname": "t2_8j5t7yjq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -686,7 +772,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 17
                     }
                   },
                   {
@@ -741,7 +827,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n42oxcx",
-                                "score": 12,
+                                "score": 14,
                                 "author_fullname": "t2_1o98744ubl",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -784,7 +870,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 12
+                                "ups": 14
                               }
                             }
                           ],
@@ -805,7 +891,7 @@
                       "created_utc": 1752965885,
                       "send_replies": true,
                       "parent_id": "t1_n42eimr",
-                      "score": 14,
+                      "score": 15,
                       "author_fullname": "t2_66xam",
                       "removal_reason": null,
                       "approved_by": null,
@@ -847,7 +933,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 14
+                      "ups": 15
                     }
                   },
                   {
@@ -1018,7 +1104,7 @@
             "created_utc": 1752962261,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 212,
+            "score": 266,
             "author_fullname": "t2_e11po",
             "approved_by": null,
             "mod_note": null,
@@ -1060,7 +1146,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 212
+            "ups": 266
           }
         },
         {
@@ -1116,7 +1202,7 @@
                       "created_utc": 1752979770,
                       "send_replies": true,
                       "parent_id": "t1_n42bwe4",
-                      "score": 30,
+                      "score": 42,
                       "author_fullname": "t2_31n1d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1158,7 +1244,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 30
+                      "ups": 42
                     }
                   },
                   {
@@ -1213,7 +1299,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n44ep2b",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_jr0nz87",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1256,7 +1342,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -1277,7 +1363,7 @@
                       "created_utc": 1752991033,
                       "send_replies": true,
                       "parent_id": "t1_n42bwe4",
-                      "score": 5,
+                      "score": 8,
                       "author_fullname": "t2_5hobp6m4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1319,7 +1405,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 8
                     }
                   },
                   {
@@ -1352,7 +1438,7 @@
                       "created_utc": 1752969174,
                       "send_replies": true,
                       "parent_id": "t1_n42bwe4",
-                      "score": 13,
+                      "score": 14,
                       "author_fullname": "t2_by77ogdhr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1394,7 +1480,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 14
                     }
                   }
                 ],
@@ -1415,7 +1501,7 @@
             "created_utc": 1752961394,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 29,
+            "score": 32,
             "author_fullname": "t2_j1kqr",
             "approved_by": null,
             "mod_note": null,
@@ -1462,7 +1548,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 29
+            "ups": 32
           }
         },
         {
@@ -1540,7 +1626,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n44f8ax",
-                                "score": 5,
+                                "score": 8,
                                 "author_fullname": "t2_neyagc1uz",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1583,7 +1669,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 8
                               }
                             },
                             {
@@ -1615,7 +1701,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n44f8ax",
-                                "score": 0,
+                                "score": 1,
                                 "author_fullname": "t2_101haj",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1658,7 +1744,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": 1
                               }
                             }
                           ],
@@ -1679,7 +1765,7 @@
                       "created_utc": 1752991314,
                       "send_replies": true,
                       "parent_id": "t1_n42zh7v",
-                      "score": 7,
+                      "score": 11,
                       "author_fullname": "t2_f471r",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1721,7 +1807,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 11
                     }
                   },
                   {
@@ -1817,7 +1903,7 @@
             "created_utc": 1752969642,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 55,
+            "score": 61,
             "author_fullname": "t2_31gku",
             "approved_by": null,
             "mod_note": null,
@@ -1859,7 +1945,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 55
+            "ups": 61
           }
         },
         {
@@ -1915,7 +2001,7 @@
                       "created_utc": 1752969964,
                       "send_replies": true,
                       "parent_id": "t1_n42b0lj",
-                      "score": 10,
+                      "score": 13,
                       "author_fullname": "t2_8vk2n",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1957,7 +2043,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 13
                     }
                   },
                   {
@@ -2059,7 +2145,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n43rdss",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "author_fullname": "t2_1nw9fzb7dt",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -2101,7 +2187,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -2311,7 +2397,7 @@
             "created_utc": 1752961105,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 26,
+            "score": 32,
             "author_fullname": "t2_16aa6w",
             "approved_by": null,
             "mod_note": null,
@@ -2353,7 +2439,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 26
+            "ups": 32
           }
         },
         {
@@ -2545,13 +2631,13 @@
                                                                                   "gilded": 0,
                                                                                   "archived": false,
                                                                                   "collapsed_reason_code": null,
-                                                                                  "no_follow": true,
+                                                                                  "no_follow": false,
                                                                                   "author": "KTibow",
                                                                                   "can_mod_post": false,
                                                                                   "created_utc": 1752987528,
                                                                                   "send_replies": true,
                                                                                   "parent_id": "t1_n44685n",
-                                                                                  "score": 3,
+                                                                                  "score": 4,
                                                                                   "author_fullname": "t2_83uo8ytp",
                                                                                   "approved_by": null,
                                                                                   "mod_note": null,
@@ -2592,7 +2678,7 @@
                                                                                   "collapsed_because_crowd_control": null,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
-                                                                                  "ups": 3
+                                                                                  "ups": 4
                                                                                 }
                                                                               }
                                                                             ],
@@ -2871,7 +2957,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n42fvzo",
-                                "score": 3,
+                                "score": 6,
                                 "author_fullname": "t2_rea1qh6m",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2919,7 +3005,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 6
                               }
                             }
                           ],
@@ -2940,7 +3026,7 @@
                       "created_utc": 1752962725,
                       "send_replies": true,
                       "parent_id": "t1_n427iwd",
-                      "score": 43,
+                      "score": 42,
                       "author_fullname": "t2_83uo8ytp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3027,7 +3113,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 43
+                      "ups": 42
                     }
                   }
                 ],
@@ -3048,7 +3134,7 @@
             "created_utc": 1752959945,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 28,
+            "score": 30,
             "author_fullname": "t2_1sssz6w996",
             "approved_by": null,
             "mod_note": null,
@@ -3090,7 +3176,299 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 28
+            "ups": 30
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n44mqqf",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "bene_42069",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n43rs3r",
+                                "score": 3,
+                                "author_fullname": "t2_9yo3ah1u",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "Ohh.... that's a logarithmic line. Thanks. The graph alone hasn't really made it obvious.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n44mqqf",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ohh.... that&amp;#39;s a logarithmic line. Thanks. The graph alone hasn&amp;#39;t really made it obvious.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m46w7u",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n44mqqf/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1752995386,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1752995386,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n43rs3r",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": false,
+                      "author": "SaratogaCx",
+                      "can_mod_post": false,
+                      "created_utc": 1752980522,
+                      "send_replies": true,
+                      "parent_id": "t1_n439ltk",
+                      "score": 3,
+                      "author_fullname": "t2_31n1d",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "It is because the prices don't really move linearly.  You'd have the most expensive models and a huge void before the cluster of the next group, followed by a void and than an almost straight vertical line showing the cheapest tier of models.  The log scale they are using helps give a better idea of relative ordering albeit at the loss of an absolute visual scale.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n43rs3r",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It is because the prices don&amp;#39;t really move linearly.  You&amp;#39;d have the most expensive models and a huge void before the cluster of the next group, followed by a void and than an almost straight vertical line showing the cheapest tier of models.  The log scale they are using helps give a better idea of relative ordering albeit at the loss of an absolute visual scale.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m46w7u",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n43rs3r/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1752980522,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 3
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n439ltk",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "bene_42069",
+            "can_mod_post": false,
+            "created_utc": 1752973446,
+            "send_replies": true,
+            "parent_id": "t3_1m46w7u",
+            "score": 8,
+            "author_fullname": "t2_9yo3ah1u",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Forgive me for not being knowledgeable enough, but why is the price per million axis like this?\n\nhttps://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;format=png&amp;auto=webp&amp;s=ddd003a0613880e0684eafbb58c110925086cb71",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n439ltk",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Forgive me for not being knowledgeable enough, but why is the price per million axis like this?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddd003a0613880e0684eafbb58c110925086cb71\"&gt;https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddd003a0613880e0684eafbb58c110925086cb71&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n439ltk/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1752973446,
+            "media_metadata": {
+              "13rbqthzhxdf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 8,
+                    "x": 108,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=0e9dc152defc35b3c5d71448c5f2b0180d515a6b"
+                  },
+                  {
+                    "y": 16,
+                    "x": 216,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e26643d5f733bb5c47ec89a60993edc78db32c84"
+                  },
+                  {
+                    "y": 23,
+                    "x": 320,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a272a0036e5cf3ef9dc07aa6b74b9879a340c6d0"
+                  },
+                  {
+                    "y": 47,
+                    "x": 640,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48b076c2c7b5bbaa7548f6779ad0039462476860"
+                  },
+                  {
+                    "y": 71,
+                    "x": 960,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=2a9dfdf6d261ce122b2f31b99315342afef59922"
+                  },
+                  {
+                    "y": 80,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cdd5566809eb3c98c2f58648b4c54ac4b916a94f"
+                  }
+                ],
+                "s": {
+                  "y": 161,
+                  "x": 2150,
+                  "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;format=png&amp;auto=webp&amp;s=ddd003a0613880e0684eafbb58c110925086cb71"
+                },
+                "id": "13rbqthzhxdf1"
+              }
+            },
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m46w7u",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 8
           }
         },
         {
@@ -3168,7 +3546,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4278g0",
-                                "score": 15,
+                                "score": 14,
                                 "author_fullname": "t2_1sssz6w996",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -3211,7 +3589,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 14
                               }
                             }
                           ],
@@ -3606,7 +3984,7 @@
             "created_utc": 1752972509,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 11,
+            "score": 13,
             "author_fullname": "t2_19353jsswd",
             "approved_by": null,
             "mod_note": null,
@@ -3648,299 +4026,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "after": null,
-                "dist": null,
-                "modhash": "",
-                "geo_filter": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_81eyvm",
-                      "approved_at_utc": null,
-                      "author_is_blocked": false,
-                      "comment_type": null,
-                      "awarders": [],
-                      "mod_reason_by": null,
-                      "banned_by": null,
-                      "author_flair_type": "text",
-                      "total_awards_received": 0,
-                      "subreddit": "LocalLLaMA",
-                      "author_flair_template_id": null,
-                      "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "after": null,
-                          "dist": null,
-                          "modhash": "",
-                          "geo_filter": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_81eyvm",
-                                "approved_at_utc": null,
-                                "author_is_blocked": false,
-                                "comment_type": null,
-                                "awarders": [],
-                                "mod_reason_by": null,
-                                "banned_by": null,
-                                "author_flair_type": "text",
-                                "total_awards_received": 0,
-                                "subreddit": "LocalLLaMA",
-                                "author_flair_template_id": null,
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "n44mqqf",
-                                "banned_at_utc": null,
-                                "mod_reason_title": null,
-                                "gilded": 0,
-                                "archived": false,
-                                "collapsed_reason_code": null,
-                                "no_follow": true,
-                                "author": "bene_42069",
-                                "can_mod_post": false,
-                                "send_replies": true,
-                                "parent_id": "t1_n43rs3r",
-                                "score": 2,
-                                "author_fullname": "t2_9yo3ah1u",
-                                "removal_reason": null,
-                                "approved_by": null,
-                                "mod_note": null,
-                                "all_awardings": [],
-                                "body": "Ohh.... that's a logarithmic line. Thanks. The graph alone hasn't really made it obvious.",
-                                "edited": false,
-                                "top_awarded_type": null,
-                                "downs": 0,
-                                "author_flair_css_class": null,
-                                "name": "t1_n44mqqf",
-                                "is_submitter": false,
-                                "collapsed": false,
-                                "author_flair_richtext": [],
-                                "author_patreon_flair": false,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ohh.... that&amp;#39;s a logarithmic line. Thanks. The graph alone hasn&amp;#39;t really made it obvious.&lt;/p&gt;\n&lt;/div&gt;",
-                                "gildings": {},
-                                "collapsed_reason": null,
-                                "distinguished": null,
-                                "associated_award": null,
-                                "stickied": false,
-                                "author_premium": false,
-                                "can_gild": false,
-                                "link_id": "t3_1m46w7u",
-                                "unrepliable_reason": null,
-                                "author_flair_text_color": null,
-                                "score_hidden": false,
-                                "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n44mqqf/",
-                                "subreddit_type": "public",
-                                "locked": false,
-                                "report_reasons": null,
-                                "created": 1752995386,
-                                "author_flair_text": null,
-                                "treatment_tags": [],
-                                "created_utc": 1752995386,
-                                "subreddit_name_prefixed": "r/LocalLLaMA",
-                                "controversiality": 0,
-                                "depth": 2,
-                                "author_flair_background_color": null,
-                                "collapsed_because_crowd_control": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 2
-                              }
-                            }
-                          ],
-                          "before": null
-                        }
-                      },
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "n43rs3r",
-                      "banned_at_utc": null,
-                      "mod_reason_title": null,
-                      "gilded": 0,
-                      "archived": false,
-                      "collapsed_reason_code": null,
-                      "no_follow": false,
-                      "author": "SaratogaCx",
-                      "can_mod_post": false,
-                      "created_utc": 1752980522,
-                      "send_replies": true,
-                      "parent_id": "t1_n439ltk",
-                      "score": 4,
-                      "author_fullname": "t2_31n1d",
-                      "removal_reason": null,
-                      "approved_by": null,
-                      "mod_note": null,
-                      "all_awardings": [],
-                      "body": "It is because the prices don't really move linearly.  You'd have the most expensive models and a huge void before the cluster of the next group, followed by a void and than an almost straight vertical line showing the cheapest tier of models.  The log scale they are using helps give a better idea of relative ordering albeit at the loss of an absolute visual scale.",
-                      "edited": false,
-                      "top_awarded_type": null,
-                      "author_flair_css_class": null,
-                      "name": "t1_n43rs3r",
-                      "is_submitter": false,
-                      "downs": 0,
-                      "author_flair_richtext": [],
-                      "author_patreon_flair": false,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It is because the prices don&amp;#39;t really move linearly.  You&amp;#39;d have the most expensive models and a huge void before the cluster of the next group, followed by a void and than an almost straight vertical line showing the cheapest tier of models.  The log scale they are using helps give a better idea of relative ordering albeit at the loss of an absolute visual scale.&lt;/p&gt;\n&lt;/div&gt;",
-                      "gildings": {},
-                      "collapsed_reason": null,
-                      "distinguished": null,
-                      "associated_award": null,
-                      "stickied": false,
-                      "author_premium": false,
-                      "can_gild": false,
-                      "link_id": "t3_1m46w7u",
-                      "unrepliable_reason": null,
-                      "author_flair_text_color": null,
-                      "score_hidden": false,
-                      "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n43rs3r/",
-                      "subreddit_type": "public",
-                      "locked": false,
-                      "report_reasons": null,
-                      "created": 1752980522,
-                      "author_flair_text": null,
-                      "treatment_tags": [],
-                      "collapsed": false,
-                      "subreddit_name_prefixed": "r/LocalLLaMA",
-                      "controversiality": 0,
-                      "depth": 1,
-                      "author_flair_background_color": null,
-                      "collapsed_because_crowd_control": null,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "ups": 4
-                    }
-                  }
-                ],
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "n439ltk",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": false,
-            "author": "bene_42069",
-            "can_mod_post": false,
-            "created_utc": 1752973446,
-            "send_replies": true,
-            "parent_id": "t3_1m46w7u",
-            "score": 6,
-            "author_fullname": "t2_9yo3ah1u",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "Forgive me for not being knowledgeable enough, but why is the price per million axis like this?\n\nhttps://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;format=png&amp;auto=webp&amp;s=ddd003a0613880e0684eafbb58c110925086cb71",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n439ltk",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Forgive me for not being knowledgeable enough, but why is the price per million axis like this?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddd003a0613880e0684eafbb58c110925086cb71\"&gt;https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddd003a0613880e0684eafbb58c110925086cb71&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1m46w7u/price_performance_comparison_from_the_gemini_25/n439ltk/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1752973446,
-            "media_metadata": {
-              "13rbqthzhxdf1": {
-                "status": "valid",
-                "e": "Image",
-                "m": "image/png",
-                "p": [
-                  {
-                    "y": 8,
-                    "x": 108,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=0e9dc152defc35b3c5d71448c5f2b0180d515a6b"
-                  },
-                  {
-                    "y": 16,
-                    "x": 216,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e26643d5f733bb5c47ec89a60993edc78db32c84"
-                  },
-                  {
-                    "y": 23,
-                    "x": 320,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a272a0036e5cf3ef9dc07aa6b74b9879a340c6d0"
-                  },
-                  {
-                    "y": 47,
-                    "x": 640,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48b076c2c7b5bbaa7548f6779ad0039462476860"
-                  },
-                  {
-                    "y": 71,
-                    "x": 960,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=2a9dfdf6d261ce122b2f31b99315342afef59922"
-                  },
-                  {
-                    "y": 80,
-                    "x": 1080,
-                    "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cdd5566809eb3c98c2f58648b4c54ac4b916a94f"
-                  }
-                ],
-                "s": {
-                  "y": 161,
-                  "x": 2150,
-                  "u": "https://preview.redd.it/13rbqthzhxdf1.png?width=2150&amp;format=png&amp;auto=webp&amp;s=ddd003a0613880e0684eafbb58c110925086cb71"
-                },
-                "id": "13rbqthzhxdf1"
-              }
-            },
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1m46w7u",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 6
+            "ups": 13
           }
         },
         {
@@ -3967,13 +4053,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "one-wandering-mind",
             "can_mod_post": false,
             "created_utc": 1752982975,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_1nb4dvvcpa",
             "approved_by": null,
             "mod_note": null,
@@ -4015,7 +4101,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -4117,13 +4203,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "coffee869",
             "can_mod_post": false,
             "created_utc": 1752990530,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_8ub6xia",
             "approved_by": null,
             "mod_note": null,
@@ -4165,7 +4251,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -4198,7 +4284,7 @@
             "created_utc": 1752980578,
             "send_replies": true,
             "parent_id": "t3_1m46w7u",
-            "score": -1,
+            "score": -2,
             "author_fullname": "t2_uxp2xkt",
             "approved_by": null,
             "mod_note": null,
@@ -4240,7 +4326,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": -2
           }
         }
       ],

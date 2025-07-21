@@ -12,7 +12,7 @@
           "data": {
             "approved_at_utc": null,
             "subreddit": "LocalLLaMA",
-            "selftext": "Hi all,\n\nI’ve noticed plenty of questions and great insights in Reddit threads about the latest OCR and document-AI tools. After learning a lot from those discussions—and adding lessons from my own enterprise projects —I pulled together a brief mid-2025 summary: key VLM releases, specialist models, pipeline updates, new benchmarks and intresting findings.\n\nIf you work with OCR or RAG, the 5-minute read might help you catch up. I’d love to swap notes and hear what I’ve missed.\n\nLink [here](https://www.linkedin.com/pulse/ocr-genai-key-trends-from-h1-2025-igor-galitskiy-lldie/?trackingId=BbmlpEfVIzeh2jXrWnUcdw%3D%3D) (LinkedIn)\n\nThanks, looking forward to the discussion",
+            "selftext": "https://preview.redd.it/04o2jpdv41ef1.png?width=1204&amp;format=png&amp;auto=webp&amp;s=75489cf9eed1b51eb6ff0ad9e2ca8b03adfbbe81\n\n  \n  \nHi all,\n\nI’ve noticed plenty of questions and great insights in Reddit threads about the latest OCR and document-AI tools. After learning a lot from those discussions—and adding lessons from my own enterprise projects —I pulled together a brief mid-2025 summary: key VLM releases, specialist models, pipeline updates, new benchmarks and intresting findings.\n\nIf you work with OCR or RAG, the 5-minute read might help you catch up. I’d love to swap notes and hear what I’ve missed.\n\nLink [here](https://www.linkedin.com/pulse/ocr-genai-key-trends-from-h1-2025-igor-galitskiy-lldie/?trackingId=BbmlpEfVIzeh2jXrWnUcdw%3D%3D) (LinkedIn)\n\nThanks, looking forward to the discussion",
             "user_reports": [],
             "saved": false,
             "mod_reason_title": null,
@@ -34,7 +34,7 @@
             "top_awarded_type": null,
             "hide_score": false,
             "media_metadata": {
-              "06kfcbmwvwdf1": {
+              "04o2jpdv41ef1": {
                 "status": "valid",
                 "e": "Image",
                 "m": "image/png",
@@ -42,49 +42,49 @@
                   {
                     "y": 96,
                     "x": 108,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d20dac0e88127994f1e4c914864893175b22058f"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=230e1be39dd0673d79d27abbd27aac3e900731c6"
                   },
                   {
                     "y": 193,
                     "x": 216,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c76ca4d5622bb5785b4fefdd748f9375db4ab85c"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f5be85a2e3198f71f7f7b7a9f2088f9b0d9071aa"
                   },
                   {
                     "y": 287,
                     "x": 320,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=316e221772e8f64e17333738596157354d9ea029"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=174008c0867b7bda39d6fb3bc35454147a373330"
                   },
                   {
                     "y": 574,
                     "x": 640,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d3629da3e41eb090bb6b5b3095e66491301d324"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=359ed185d5cdc682b0d42598277fe5c846dd8a57"
                   },
                   {
                     "y": 861,
                     "x": 960,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=024d943f4be90454acc409db131321068eafa226"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=aebfd055094ffc1ebff29d23650a9c4c014271db"
                   },
                   {
                     "y": 968,
                     "x": 1080,
-                    "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6ceccf6e75b41835f20c173ad071aefe4edb6145"
+                    "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ced0687aa9f06eb281ce4dc592f41533d63d8bac"
                   }
                 ],
                 "s": {
                   "y": 1080,
                   "x": 1204,
-                  "u": "https://preview.redd.it/06kfcbmwvwdf1.png?width=1204&amp;format=png&amp;auto=webp&amp;s=f6edb4c7dfea80ec1a6422a634f5d680f0bd9864"
+                  "u": "https://preview.redd.it/04o2jpdv41ef1.png?width=1204&amp;format=png&amp;auto=webp&amp;s=75489cf9eed1b51eb6ff0ad9e2ca8b03adfbbe81"
                 },
-                "id": "06kfcbmwvwdf1"
+                "id": "04o2jpdv41ef1"
               }
             },
             "name": "t3_1m48ffs",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.9,
+            "upvote_ratio": 0.91,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 8,
+            "ups": 9,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -98,12 +98,12 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 8,
+            "score": 9,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
-            "thumbnail": "https://b.thumbs.redditmedia.com/Lq7zM4DsEFII19bc0yxSQM-QEZerpL9N_AQPJZj_7fk.jpg",
-            "edited": 1752966059,
+            "thumbnail": "https://b.thumbs.redditmedia.com/1SpZQ9edxGWfxNZr-4YXXcyEeqF5T9DlXhQ7VQOiugY.jpg",
+            "edited": 1753017451,
             "author_flair_css_class": null,
             "author_flair_richtext": [],
             "gildings": {},
@@ -118,7 +118,7 @@
             "author_flair_type": "text",
             "domain": "self.LocalLLaMA",
             "allow_live_comments": false,
-            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi all,&lt;/p&gt;\n\n&lt;p&gt;I’ve noticed plenty of questions and great insights in Reddit threads about the latest OCR and document-AI tools. After learning a lot from those discussions—and adding lessons from my own enterprise projects —I pulled together a brief mid-2025 summary: key VLM releases, specialist models, pipeline updates, new benchmarks and intresting findings.&lt;/p&gt;\n\n&lt;p&gt;If you work with OCR or RAG, the 5-minute read might help you catch up. I’d love to swap notes and hear what I’ve missed.&lt;/p&gt;\n\n&lt;p&gt;Link &lt;a href=\"https://www.linkedin.com/pulse/ocr-genai-key-trends-from-h1-2025-igor-galitskiy-lldie/?trackingId=BbmlpEfVIzeh2jXrWnUcdw%3D%3D\"&gt;here&lt;/a&gt; (LinkedIn)&lt;/p&gt;\n\n&lt;p&gt;Thanks, looking forward to the discussion&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/04o2jpdv41ef1.png?width=1204&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=75489cf9eed1b51eb6ff0ad9e2ca8b03adfbbe81\"&gt;https://preview.redd.it/04o2jpdv41ef1.png?width=1204&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=75489cf9eed1b51eb6ff0ad9e2ca8b03adfbbe81&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Hi all,&lt;/p&gt;\n\n&lt;p&gt;I’ve noticed plenty of questions and great insights in Reddit threads about the latest OCR and document-AI tools. After learning a lot from those discussions—and adding lessons from my own enterprise projects —I pulled together a brief mid-2025 summary: key VLM releases, specialist models, pipeline updates, new benchmarks and intresting findings.&lt;/p&gt;\n\n&lt;p&gt;If you work with OCR or RAG, the 5-minute read might help you catch up. I’d love to swap notes and hear what I’ve missed.&lt;/p&gt;\n\n&lt;p&gt;Link &lt;a href=\"https://www.linkedin.com/pulse/ocr-genai-key-trends-from-h1-2025-igor-galitskiy-lldie/?trackingId=BbmlpEfVIzeh2jXrWnUcdw%3D%3D\"&gt;here&lt;/a&gt; (LinkedIn)&lt;/p&gt;\n\n&lt;p&gt;Thanks, looking forward to the discussion&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
             "likes": null,
             "suggested_sort": null,
             "banned_at_utc": null,
@@ -161,7 +161,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m48ffs/ocr_and_genai_key_trends_from_h1_2025/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m48ffs/ocr_and_genai_key_trends_from_h1_2025/",
-            "subreddit_subscribers": 501752,
+            "subreddit_subscribers": 502030,
             "created_utc": 1752962788,
             "num_crossposts": 0,
             "mod_reports": [],

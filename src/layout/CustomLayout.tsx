@@ -6588,6 +6588,186 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m4n7fh',
         name: 'AI Model Juggler automatically and transparently switches between LLM and image generation backends and models',
       },
+      {
+        path: '/1m4o11y',
+        name: 'how do i translate 30 pages like this and still have the same architecture and not raw translated text?',
+      },
+      {
+        path: '/1m4o37k',
+        name: 'MediPhi-Instruct',
+      },
+      {
+        path: '/1m4of82',
+        name: 'What\'s the smartest tiny LLM you\'ve actually used?',
+      },
+      {
+        path: '/1m4ojg7',
+        name: 'Any way to serve images and text from a single GPU?',
+      },
+      {
+        path: '/1m4op39',
+        name: 'Small LLM capable to describe images in greater details.',
+      },
+      {
+        path: '/1m4p75g',
+        name: 'which frontend supports diffusion model now? since llama.cpp has supported that.',
+      },
+      {
+        path: '/1m4pq8q',
+        name: 'Why AI feels inconsistent (and most people don\'t understand what\'s actually happening)',
+      },
+      {
+        path: '/1m4q4dx',
+        name: 'Any Proper high quality Voice cloning for TTS tool?',
+      },
+      {
+        path: '/1m4qdo6',
+        name: 'which is the best tiny vlm to recognize nsfw pics?',
+      },
+      {
+        path: '/1m4qzmt',
+        name: 'Ideal setup for long context window fine-tuning?',
+      },
+      {
+        path: '/1m4r4j1',
+        name: 'Open source is humanity’s last hope!',
+      },
+      {
+        path: '/1m4r7t5',
+        name: 'How to get 3b models to squeeze onto 2gig Nvidia GPU?',
+      },
+      {
+        path: '/1m4rbqv',
+        name: 'What is the latest version of ollama?',
+      },
+      {
+        path: '/1m4rmd5',
+        name: 'Anyone else tracking their local LLMs’ performance? I built a tool to make it easier',
+      },
+      {
+        path: '/1m4s9mt',
+        name: 'I\'m sorry Zuck please don\'t leave us we were just having fun',
+      },
+      {
+        path: '/1m4s9nn',
+        name: 'Chess Llama - Training a tiny Llama model to play chess',
+      },
+      {
+        path: '/1m4sdsg',
+        name: 'I built a desktop tool to auto-organize files using local LLMs (open source, cross-platform)',
+      },
+      {
+        path: '/1m4swld',
+        name: 'Smaller, Faster, Smarter: Why MoR Might Replace Transformers | Front Page',
+      },
+      {
+        path: '/1m4t22z',
+        name: 'What GPU is Moonshot Kimi K2 running on?',
+      },
+      {
+        path: '/1m4t85h',
+        name: 'Is there a way to use Ollama with vscode copilot in agent mode?',
+      },
+      {
+        path: '/1m4ta0f',
+        name: 'Where is DeepsSeek R2?',
+      },
+      {
+        path: '/1m4tll3',
+        name: 'Tools for LM Studio?',
+      },
+      {
+        path: '/1m4u7j6',
+        name: 'What\'s the most crackhead garbage local LLM setup you can think of?',
+      },
+      {
+        path: '/1m4u914',
+        name: 'Decentralized LLM inference from your terminal, verified on-chain',
+      },
+      {
+        path: '/1m4ukgp',
+        name: 'Local LLM file access',
+      },
+      {
+        path: '/1m4vcnz',
+        name: 'Best Small LLMs for Tool Calling?',
+      },
+      {
+        path: '/1m4vk88',
+        name: 'Anyone interested in adding their fine-tuned / open source models to this benchmark?',
+      },
+      {
+        path: '/1m4vw29',
+        name: 'Ikllamacpp repository gone, or it is only me?',
+      },
+      {
+        path: '/1m4y3cj',
+        name: 'Fine-tuned her the perfect local model. Still got API’d 💔',
+      },
+      {
+        path: '/1m4yo0g',
+        name: 'DiffRhythm 1.2 music generation model produces "Avicii vs Nicky Romero - I Could Be the One" nearly verbatim',
+      },
+      {
+        path: '/1m4z64o',
+        name: 'Why are LLMs not able to give an estimate on their own confidence or say that they are not sure about something?',
+      },
+      {
+        path: '/1m4zc1c',
+        name: 'UTCP Request For Comments',
+      },
+      {
+        path: '/1m4zj9q',
+        name: 'Replacing DevOps with agents',
+      },
+      {
+        path: '/1m4zogr',
+        name: 'Offloading layers',
+      },
+      {
+        path: '/1m4zpqt',
+        name: 'Is there a reason to prefer Nvidia over AMD for programming use cases?',
+      },
+      {
+        path: '/1m4zx8s',
+        name: 'What do we think of Devstral then?',
+      },
+      {
+        path: '/1m4zyv1',
+        name: 'Questions about AI for translation',
+      },
+      {
+        path: '/1m52b7l',
+        name: 'Unstructured financial data for Lama3B',
+      },
+      {
+        path: '/1m52e50',
+        name: 'FULL Orchids.app System Prompt and Tools',
+      },
+      {
+        path: '/1m52h10',
+        name: 'I posted 3 weeks ago about training my own model. Progress report.',
+      },
+      {
+        path: '/1m52h8x',
+        name: 'Best RAG pipeline for math-heavy documents?',
+      },
+      {
+        path: '/1m52r9e',
+        name: 'U.S. GPU compute available',
+      },
+      {
+        path: '/1m52sj5',
+        name: 'What are the biggest challenges in selling automations (and finding someone to implement them)? Looking for real insights from everyone!',
+      },
+      {
+        path: '/1m54wfh',
+        name: 'Need a totally open, free AI for deep-dive research across global sources',
+      },
+      {
+        path: '/1m5586n',
+        name: 'Best novel writing workflow?',
+      },
     ],
   },
   {
