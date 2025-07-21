@@ -1,0 +1,11 @@
+// @ts-nocheck
+import React from 'react';
+import RedditPostRenderer from '../../component/reddit/RedditPostRenderer';
+import data1m5ckr0 from './index.json';
+
+const Page1m5ckr0 = () => (
+  <RedditPostRenderer data={data1m5ckr0} />
+);
+
+// eslint-disable-next-line import/no-default-export
+export default Page1m5ckr0;

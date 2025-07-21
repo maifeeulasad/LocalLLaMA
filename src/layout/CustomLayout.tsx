@@ -6768,6 +6768,162 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m5586n',
         name: 'Best novel writing workflow?',
       },
+      {
+        path: '/1m55rrt',
+        name: 'How fast is gemma 3 27b on an H100? how many tokens per second can I expect?',
+      },
+      {
+        path: '/1m563lh',
+        name: 'Help with Finetuning Phi4-Mini',
+      },
+      {
+        path: '/1m566jg',
+        name: 'Hitting Data Walls with Local LLM Projects? Check Out This Curated Dataset Resource!',
+      },
+      {
+        path: '/1m568j8',
+        name: '[2507.09850] The Challenge of Teaching Reasoning to LLMs Without RL or Distillation',
+      },
+      {
+        path: '/1m56x5u',
+        name: 'A solution to deploy your LLM agent with one click',
+      },
+      {
+        path: '/1m56z4m',
+        name: 'why are there quite different quant strategies of bartowski and unsloth on MoE?',
+      },
+      {
+        path: '/1m576x6',
+        name: 'A question about running Ollama locally for NSFW/ERP',
+      },
+      {
+        path: '/1m57icy',
+        name: 'ASCII art and LocalLLMa',
+      },
+      {
+        path: '/1m57iep',
+        name: 'Pseudo RAID and Kimi-K2',
+      },
+      {
+        path: '/1m57utu',
+        name: 'Weird ollama pull behaviour',
+      },
+      {
+        path: '/1m5827d',
+        name: 'Which LLMs, tools, or research have been overlooked or deserve more attention?',
+      },
+      {
+        path: '/1m58695',
+        name: 'Which local 100B+ heavy weight models are your favorite and why?',
+      },
+      {
+        path: '/1m58ohn',
+        name: 'Model to retrieve information from Knowledge.',
+      },
+      {
+        path: '/1m58qf3',
+        name: 'First time using QLoRa results in gibberish',
+      },
+      {
+        path: '/1m59xzv',
+        name: 'What makes a model ethical?',
+      },
+      {
+        path: '/1m5bccx',
+        name: 'How\'s your experimentation with MCP going?',
+      },
+      {
+        path: '/1m5ckr0',
+        name: 'ONNX or GGUF',
+      },
+      {
+        path: '/1m5cr11',
+        name: 'What model shall i run?',
+      },
+      {
+        path: '/1m5d2cv',
+        name: 'GGUF on Android Studio',
+      },
+      {
+        path: '/1m5d66p',
+        name: 'ik_llama.cpp 404: temporary repo up to commit d44c2d3',
+      },
+      {
+        path: '/1m5dcqj',
+        name: 'What consumer hardware do I need to run Kimi-K2',
+      },
+      {
+        path: '/1m5djms',
+        name: 'What do you think of self-hosting a small LLM on a VPS or abstracted container, calling it externally for simple AI agents/API calls? Cheaper or more expensive than bigger models?',
+      },
+      {
+        path: '/1m5dq1e',
+        name: 'How does LLMs get more creative?',
+      },
+      {
+        path: '/1m5eulr',
+        name: 'Can any tool dub an entire Movie into another language?',
+      },
+      {
+        path: '/1m5ew98',
+        name: 'Offline Coding Assistant',
+      },
+      {
+        path: '/1m5fcdo',
+        name: 'NVIDIA Brings Reasoning Models to Consumers Ranging from 1.5B to 32B Parameters',
+      },
+      {
+        path: '/1m5ff1k',
+        name: 'Ryzen AI HX 370 or Mx Pro for travellers',
+      },
+      {
+        path: '/1m5fg2y',
+        name: 'HOWTO summarize on 16GB VRAM with 64k cache?',
+      },
+      {
+        path: '/1m5fkts',
+        name: 'My (practical) dual 3090 setup for local inference',
+      },
+      {
+        path: '/1m5fmlp',
+        name: 'Rockchip unveils RK182X LLM co-processor: Runs Qwen 2.5 7B at 50TPS decode, 800TPS prompt processing',
+      },
+      {
+        path: '/1m5fwpz',
+        name: 'Is it possible to have a specialized local llm perform at the level of cloud based models?',
+      },
+      {
+        path: '/1m5gcvl',
+        name: 'What programming language do AI Models have the best data on',
+      },
+      {
+        path: '/1m5ghs0',
+        name: '72$ for Instinct MI50 16GB',
+      },
+      {
+        path: '/1m5gl6e',
+        name: 'Chat webinterface for small company',
+      },
+      {
+        path: '/1m5gmfr',
+        name: 'What are people fine-tuning their models for?',
+      },
+      {
+        path: '/1m5gnfm',
+        name: 'Which uncensored model that supports MCP can you recommend?',
+      },
+      {
+        path: '/1m5gwzs',
+        name: 'I extracted the system prompts from closed-source tools like Cursor &amp; v0. The repo just hit 70k stars.',
+      },
+      {
+        path: '/1m5h2td',
+        name: 'How far are we from *convenient* local models supremacy?',
+      },
+      {
+        path: '/1m5hksu',
+        name: 'What if Meta really has the best AI?  Hear me out.',
+      },
     ],
   },
   {

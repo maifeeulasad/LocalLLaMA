@@ -36,7 +36,7 @@
             "name": "t3_1m4ta0f",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.2,
+            "upvote_ratio": 0.26,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m4ta0f/where_is_deepsseek_r2/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m4ta0f/where_is_deepsseek_r2/",
-            "subreddit_subscribers": 502030,
+            "subreddit_subscribers": 502273,
             "created_utc": 1753029087,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -532,7 +532,7 @@
                       "created_utc": 1753030143,
                       "send_replies": true,
                       "parent_id": "t1_n46uj7o",
-                      "score": -1,
+                      "score": 1,
                       "author_fullname": "t2_y1vyie97k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -574,7 +574,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -1
+                      "ups": 1
                     }
                   }
                 ],
@@ -595,7 +595,7 @@
             "created_utc": 1753029380,
             "send_replies": true,
             "parent_id": "t3_1m4ta0f",
-            "score": 18,
+            "score": 22,
             "author_fullname": "t2_zebuyjw9s",
             "approved_by": null,
             "mod_note": null,
@@ -637,7 +637,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 22
           }
         },
         {
@@ -670,7 +670,7 @@
             "created_utc": 1753030453,
             "send_replies": true,
             "parent_id": "t3_1m4ta0f",
-            "score": 6,
+            "score": 8,
             "author_fullname": "t2_lsixf36sr",
             "approved_by": null,
             "mod_note": null,
@@ -712,7 +712,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 8
           }
         },
         {
@@ -1261,7 +1261,7 @@
             "created_utc": 1753039603,
             "send_replies": true,
             "parent_id": "t3_1m4ta0f",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_aq4j0",
             "approved_by": null,
             "mod_note": null,
@@ -1303,7 +1303,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -1336,7 +1336,7 @@
             "created_utc": 1753029690,
             "send_replies": true,
             "parent_id": "t3_1m4ta0f",
-            "score": 5,
+            "score": 4,
             "author_fullname": "t2_2vre9dh1",
             "approved_by": null,
             "mod_note": null,
@@ -1378,7 +1378,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -2710,7 +2710,7 @@
             "created_utc": 1753030247,
             "send_replies": true,
             "parent_id": "t3_1m4ta0f",
-            "score": -1,
+            "score": 0,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -2746,13 +2746,13 @@
             "treatment_tags": [],
             "link_id": "t3_1m4ta0f",
             "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
+            "controversiality": 1,
             "depth": 0,
             "author_flair_background_color": null,
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         }
       ],
