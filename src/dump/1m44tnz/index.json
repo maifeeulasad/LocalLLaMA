@@ -39,7 +39,7 @@
             "upvote_ratio": 1,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 5,
+            "ups": 6,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m44tnz/keras_vs_transformers_fine_tuning/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m44tnz/keras_vs_transformers_fine_tuning/",
-            "subreddit_subscribers": 501753,
+            "subreddit_subscribers": 502030,
             "created_utc": 1752953435,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -159,20 +159,20 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "TacticalRock",
             "can_mod_post": false,
             "created_utc": 1752954049,
             "send_replies": true,
             "parent_id": "t3_1m44tnz",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_1f2ibv45",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "I'd check out Unloth docs for finetuning. That's what I did and it was pretty quick and easy to follow. I specifically used their orpo and kto notebooks and adapted them to fit my use case.",
-            "edited": false,
+            "body": "I'd check out Unsloth docs for finetuning. That's what I did and it was pretty quick and easy to follow. I specifically used their orpo and kto notebooks and adapted them to fit my use case.",
+            "edited": 1753018902,
             "top_awarded_type": null,
             "author_flair_css_class": null,
             "name": "t1_n41pe6z",
@@ -180,7 +180,7 @@
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;d check out Unloth docs for finetuning. That&amp;#39;s what I did and it was pretty quick and easy to follow. I specifically used their orpo and kto notebooks and adapted them to fit my use case.&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;d check out Unsloth docs for finetuning. That&amp;#39;s what I did and it was pretty quick and easy to follow. I specifically used their orpo and kto notebooks and adapted them to fit my use case.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -240,7 +240,7 @@
             "created_utc": 1752955446,
             "send_replies": true,
             "parent_id": "t3_1m44tnz",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_18x6fa",
             "approved_by": null,
             "mod_note": null,
@@ -282,7 +282,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -315,7 +315,7 @@
             "created_utc": 1752962841,
             "send_replies": true,
             "parent_id": "t3_1m44tnz",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_7rqtc",
             "approved_by": null,
             "mod_note": null,
@@ -357,7 +357,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -390,7 +390,7 @@
             "created_utc": 1752966860,
             "send_replies": true,
             "parent_id": "t3_1m44tnz",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_de5gm7w40",
             "approved_by": null,
             "mod_note": null,
@@ -432,7 +432,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

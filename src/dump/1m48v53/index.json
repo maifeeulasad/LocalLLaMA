@@ -36,10 +36,10 @@
             "name": "t3_1m48v53",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.9,
+            "upvote_ratio": 0.92,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 15,
+            "ups": 20,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 15,
+            "score": 20,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m48v53/looking_for_diarization_model_better_than_pyannote/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m48v53/looking_for_diarization_model_better_than_pyannote/",
-            "subreddit_subscribers": 501752,
+            "subreddit_subscribers": 502030,
             "created_utc": 1752964009,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -263,7 +263,7 @@
                       "created_utc": 1752993136,
                       "send_replies": true,
                       "parent_id": "t1_n43iakh",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_es4sq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -305,7 +305,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -718,7 +718,7 @@
             "created_utc": 1752973000,
             "send_replies": true,
             "parent_id": "t3_1m48v53",
-            "score": 1,
+            "score": 0,
             "author_fullname": "t2_1k4sjdwzk2",
             "approved_by": null,
             "mod_note": null,
@@ -760,7 +760,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {
@@ -793,7 +793,7 @@
             "created_utc": 1752996442,
             "send_replies": true,
             "parent_id": "t3_1m48v53",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_2t5x7yox",
             "approved_by": null,
             "mod_note": null,
@@ -835,7 +835,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -868,7 +868,7 @@
             "created_utc": 1752972266,
             "send_replies": true,
             "parent_id": "t3_1m48v53",
-            "score": -6,
+            "score": -11,
             "author_fullname": "t2_2rih34ty",
             "approved_by": null,
             "mod_note": null,
@@ -910,7 +910,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -11
           }
         }
       ],
