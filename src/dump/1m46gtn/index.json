@@ -36,7 +36,7 @@
             "name": "t3_1m46gtn",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.88,
+            "upvote_ratio": 0.89,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 52,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "CSEliot",
             "discussion_type": null,
-            "num_comments": 56,
+            "num_comments": 54,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m46gtn/can_we_finally_index_a_code_project/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m46gtn/can_we_finally_index_a_code_project/",
-            "subreddit_subscribers": 502030,
+            "subreddit_subscribers": 502274,
             "created_utc": 1752957618,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -184,16 +184,16 @@
                             {
                               "kind": "t1",
                               "data": {
-                                "subreddit_id": "t5_81eyvm",
+                                "total_awards_received": 0,
                                 "approved_at_utc": null,
                                 "author_is_blocked": false,
                                 "comment_type": null,
                                 "awarders": [],
                                 "mod_reason_by": null,
                                 "banned_by": null,
-                                "author_flair_type": "text",
-                                "total_awards_received": 0,
-                                "subreddit": "LocalLLaMA",
+                                "ups": -1,
+                                "removal_reason": null,
+                                "link_id": "t3_1m46gtn",
                                 "author_flair_template_id": null,
                                 "likes": null,
                                 "replies": {
@@ -230,18 +230,17 @@
                                                 {
                                                   "kind": "t1",
                                                   "data": {
-                                                    "subreddit_id": "t5_81eyvm",
+                                                    "total_awards_received": 0,
                                                     "approved_at_utc": null,
                                                     "author_is_blocked": false,
                                                     "comment_type": null,
                                                     "awarders": [],
                                                     "mod_reason_by": null,
                                                     "banned_by": null,
-                                                    "author_flair_type": "text",
-                                                    "total_awards_received": 0,
-                                                    "subreddit": "LocalLLaMA",
+                                                    "ups": 1,
+                                                    "removal_reason": null,
+                                                    "link_id": "t3_1m46gtn",
                                                     "author_flair_template_id": null,
-                                                    "distinguished": null,
                                                     "likes": null,
                                                     "replies": {
                                                       "kind": "Listing",
@@ -337,55 +336,51 @@
                                                     "mod_reason_title": null,
                                                     "gilded": 0,
                                                     "archived": false,
-                                                    "collapsed_reason_code": null,
+                                                    "collapsed_reason_code": "DELETED",
                                                     "no_follow": true,
-                                                    "author": "3dom",
+                                                    "author": "[deleted]",
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n464yeh",
                                                     "score": 1,
-                                                    "author_fullname": "t2_31gku",
-                                                    "removal_reason": null,
                                                     "approved_by": null,
-                                                    "mod_note": null,
+                                                    "report_reasons": null,
                                                     "all_awardings": [],
-                                                    "body": "TBH LLM conversations overwhelm me with the terms, I've re-read the thread and now from what I understand they think the grep search is fine for LLM to skim through the whole project on every prompt and you are telling them that it doesn't work like that despite relatively high speed (thus indexing is needed) - correct?\n\nFor me LLM don't work effectively on a 4Mb code base, something must be changed - like indexing added.",
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "body": "[deleted]",
                                                     "edited": false,
                                                     "author_flair_css_class": null,
-                                                    "name": "t1_n467mn5",
-                                                    "is_submitter": false,
+                                                    "collapsed": true,
                                                     "downs": 0,
-                                                    "author_flair_richtext": [],
-                                                    "author_patreon_flair": false,
-                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;TBH LLM conversations overwhelm me with the terms, I&amp;#39;ve re-read the thread and now from what I understand they think the grep search is fine for LLM to skim through the whole project on every prompt and you are telling them that it doesn&amp;#39;t work like that despite relatively high speed (thus indexing is needed) - correct?&lt;/p&gt;\n\n&lt;p&gt;For me LLM don&amp;#39;t work effectively on a 4Mb code base, something must be changed - like indexing added.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "is_submitter": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
                                                     "gildings": {},
                                                     "collapsed_reason": null,
-                                                    "link_id": "t3_1m46gtn",
                                                     "associated_award": null,
                                                     "stickied": false,
-                                                    "author_premium": false,
+                                                    "subreddit_type": "public",
                                                     "can_gild": false,
                                                     "top_awarded_type": null,
                                                     "unrepliable_reason": null,
-                                                    "author_flair_text_color": null,
-                                                    "treatment_tags": [],
+                                                    "author_flair_text_color": "dark",
                                                     "score_hidden": false,
                                                     "permalink": "/r/LocalLLaMA/comments/1m46gtn/can_we_finally_index_a_code_project/n467mn5/",
-                                                    "subreddit_type": "public",
+                                                    "num_reports": null,
                                                     "locked": false,
-                                                    "report_reasons": null,
+                                                    "name": "t1_n467mn5",
                                                     "created": 1753022318,
+                                                    "subreddit": "LocalLLaMA",
                                                     "author_flair_text": null,
-                                                    "collapsed": false,
+                                                    "treatment_tags": [],
                                                     "created_utc": 1753022318,
                                                     "subreddit_name_prefixed": "r/LocalLLaMA",
                                                     "controversiality": 0,
                                                     "depth": 4,
-                                                    "author_flair_background_color": null,
+                                                    "author_flair_background_color": "",
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
-                                                    "num_reports": null,
-                                                    "ups": 1
+                                                    "mod_note": null,
+                                                    "distinguished": null
                                                   }
                                                 }
                                               ],
@@ -462,56 +457,51 @@
                                 "mod_reason_title": null,
                                 "gilded": 0,
                                 "archived": false,
-                                "collapsed_reason_code": null,
+                                "collapsed_reason_code": "DELETED",
                                 "no_follow": true,
-                                "author": "3dom",
+                                "author": "[deleted]",
                                 "can_mod_post": false,
+                                "created_utc": 1753018754,
                                 "send_replies": true,
                                 "parent_id": "t1_n44qpzr",
                                 "score": -1,
-                                "author_fullname": "t2_31gku",
-                                "removal_reason": null,
                                 "approved_by": null,
-                                "mod_note": null,
+                                "report_reasons": null,
                                 "all_awardings": [],
-                                "body": "&gt; 25 Gigabytes a second\n\nMore than enough for mobile development. My whole Android project with 200 screens and 200 endpoints is 4Mb of code, half of it being spaces.",
+                                "subreddit_id": "t5_81eyvm",
+                                "body": "[deleted]",
                                 "edited": false,
-                                "top_awarded_type": null,
-                                "downs": 0,
                                 "author_flair_css_class": null,
-                                "name": "t1_n45x3wb",
+                                "downs": 0,
                                 "is_submitter": false,
-                                "collapsed": false,
-                                "author_flair_richtext": [],
-                                "author_patreon_flair": false,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;25 Gigabytes a second&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;More than enough for mobile development. My whole Android project with 200 screens and 200 endpoints is 4Mb of code, half of it being spaces.&lt;/p&gt;\n&lt;/div&gt;",
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
                                 "gildings": {},
                                 "collapsed_reason": null,
-                                "distinguished": null,
                                 "associated_award": null,
                                 "stickied": false,
-                                "author_premium": false,
+                                "subreddit_type": "public",
                                 "can_gild": false,
-                                "link_id": "t3_1m46gtn",
+                                "top_awarded_type": null,
                                 "unrepliable_reason": null,
-                                "author_flair_text_color": null,
+                                "author_flair_text_color": "dark",
                                 "score_hidden": false,
                                 "permalink": "/r/LocalLLaMA/comments/1m46gtn/can_we_finally_index_a_code_project/n45x3wb/",
-                                "subreddit_type": "public",
+                                "num_reports": null,
                                 "locked": false,
-                                "report_reasons": null,
+                                "name": "t1_n45x3wb",
                                 "created": 1753018754,
+                                "subreddit": "LocalLLaMA",
                                 "author_flair_text": null,
                                 "treatment_tags": [],
-                                "created_utc": 1753018754,
+                                "collapsed": true,
                                 "subreddit_name_prefixed": "r/LocalLLaMA",
                                 "controversiality": 0,
                                 "depth": 2,
-                                "author_flair_background_color": null,
+                                "author_flair_background_color": "",
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
-                                "num_reports": null,
-                                "ups": -1
+                                "mod_note": null,
+                                "distinguished": null
                               }
                             }
                           ],
@@ -532,7 +522,7 @@
                       "created_utc": 1752997642,
                       "send_replies": true,
                       "parent_id": "t1_n42xwvp",
-                      "score": 7,
+                      "score": 10,
                       "author_fullname": "t2_e6bnx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -574,7 +564,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 10
                     }
                   },
                   {
@@ -813,7 +803,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n43sl64",
-                                          "score": 1,
+                                          "score": 2,
                                           "author_fullname": "t2_uqwcijxv2",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -856,7 +846,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 2
                                         }
                                       }
                                     ],
@@ -1153,7 +1143,7 @@
             "created_utc": 1752969074,
             "send_replies": true,
             "parent_id": "t3_1m46gtn",
-            "score": 30,
+            "score": 31,
             "author_fullname": "t2_1hssjiqz5k",
             "approved_by": null,
             "mod_note": null,
@@ -1195,7 +1185,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 30
+            "ups": 31
           }
         },
         {
@@ -1228,7 +1218,7 @@
             "created_utc": 1752962333,
             "send_replies": true,
             "parent_id": "t3_1m46gtn",
-            "score": 17,
+            "score": 19,
             "author_fullname": "t2_gethr3mh",
             "approved_by": null,
             "mod_note": null,
@@ -1270,7 +1260,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 19
           }
         },
         {
@@ -1867,7 +1857,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n42ajpm",
-                                                    "score": 7,
+                                                    "score": 6,
                                                     "author_fullname": "t2_swee80pch",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -1909,7 +1899,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 7
+                                                    "ups": 6
                                                   }
                                                 }
                                               ],
@@ -1929,7 +1919,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n427z1c",
-                                          "score": 5,
+                                          "score": 4,
                                           "author_fullname": "t2_lw9me25",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1972,7 +1962,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 5
+                                          "ups": 4
                                         }
                                       },
                                       {
@@ -2090,7 +2080,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n427z1c",
-                                          "score": 3,
+                                          "score": 4,
                                           "author_fullname": "t2_n91ma",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2133,7 +2123,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 3
+                                          "ups": 4
                                         }
                                       }
                                     ],
@@ -2153,7 +2143,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n426rm6",
-                                "score": 13,
+                                "score": 12,
                                 "author_fullname": "t2_swee80pch",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2241,7 +2231,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 12
                               }
                             },
                             {
@@ -2337,7 +2327,7 @@
                       "created_utc": 1752959698,
                       "send_replies": true,
                       "parent_id": "t1_n4249nd",
-                      "score": 10,
+                      "score": 8,
                       "author_fullname": "t2_azse6ibv",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2379,7 +2369,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 8
                     }
                   },
                   {
@@ -3139,7 +3129,6 @@
                                       {
                                         "kind": "t1",
                                         "data": {
-                                          "body": "[https://www.reddit.com/r/LocalLLaMA/comments/1m118is/use\\_claudecode\\_with\\_local\\_models/](https://www.reddit.com/r/LocalLLaMA/comments/1m118is/use_claudecode_with_local_models/)\n\nJust use a proxy for claude code and use any LLM you want.",
                                           "subreddit_id": "t5_81eyvm",
                                           "approved_at_utc": null,
                                           "author_is_blocked": false,
@@ -3173,7 +3162,7 @@
                                           "mod_note": null,
                                           "all_awardings": [],
                                           "collapsed": false,
-                                          "author_cakeday": true,
+                                          "body": "[https://www.reddit.com/r/LocalLLaMA/comments/1m118is/use\\_claudecode\\_with\\_local\\_models/](https://www.reddit.com/r/LocalLLaMA/comments/1m118is/use_claudecode_with_local_models/)\n\nJust use a proxy for claude code and use any LLM you want.",
                                           "edited": false,
                                           "top_awarded_type": null,
                                           "author_flair_css_class": null,
@@ -3574,7 +3563,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n44brvw",
-                                          "score": 1,
+                                          "score": 2,
                                           "author_fullname": "t2_4c5ffpmr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3662,7 +3651,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 2
                                         }
                                       },
                                       {
@@ -3953,7 +3942,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n43843p",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_4c5ffpmr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -4041,7 +4030,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -4062,7 +4051,7 @@
                       "created_utc": 1752972882,
                       "send_replies": true,
                       "parent_id": "t1_n42opwm",
-                      "score": 0,
+                      "score": 1,
                       "author_fullname": "t2_uqwcijxv2",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4104,7 +4093,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": 1
                     }
                   }
                 ],
@@ -4395,7 +4384,7 @@
             "created_utc": 1753009351,
             "send_replies": true,
             "parent_id": "t3_1m46gtn",
-            "score": 1,
+            "score": 0,
             "author_fullname": "t2_8bu5nb0n",
             "approved_by": null,
             "mod_note": null,
@@ -4437,7 +4426,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {
