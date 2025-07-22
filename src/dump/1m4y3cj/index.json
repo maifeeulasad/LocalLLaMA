@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.83,
             "author_flair_background_color": null,
-            "ups": 100,
+            "ups": 104,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Funny",
             "can_mod_post": false,
-            "score": 100,
+            "score": 104,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -145,7 +145,7 @@
             "report_reasons": null,
             "author": "Weary-Wing-6806",
             "discussion_type": null,
-            "num_comments": 14,
+            "num_comments": 15,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -154,7 +154,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m4y3cj/finetuned_her_the_perfect_local_model_still_got/",
             "stickied": false,
             "url": "https://i.redd.it/xitr9w9f13ef1.png",
-            "subreddit_subscribers": 502516,
+            "subreddit_subscribers": 502722,
             "created_utc": 1753040590,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -364,7 +364,7 @@
             "created_utc": 1753041191,
             "send_replies": true,
             "parent_id": "t3_1m4y3cj",
-            "score": 15,
+            "score": 17,
             "author_fullname": "t2_16qoui",
             "approved_by": null,
             "mod_note": null,
@@ -406,7 +406,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 17
           }
         },
         {
@@ -439,7 +439,7 @@
             "created_utc": 1753068755,
             "send_replies": true,
             "parent_id": "t3_1m4y3cj",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_kctg798a",
             "approved_by": null,
             "mod_note": null,
@@ -481,7 +481,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -583,13 +583,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "Shaggypone23",
             "can_mod_post": false,
             "created_utc": 1753040802,
             "send_replies": true,
             "parent_id": "t3_1m4y3cj",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_yofnhxo",
             "approved_by": null,
             "mod_note": null,
@@ -631,7 +631,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -837,7 +837,7 @@
                       "created_utc": 1753088258,
                       "send_replies": true,
                       "parent_id": "t1_n49oqds",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_gz6yh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -879,7 +879,82 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n4g3l08",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "TakuyaTeng",
+                      "can_mod_post": false,
+                      "created_utc": 1753146981,
+                      "send_replies": true,
+                      "parent_id": "t1_n49oqds",
+                      "score": 2,
+                      "author_fullname": "t2_y4zp8",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "God this really is A+ advice. Certainly going to try to incorporate this mindset more often in life.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n4g3l08",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;God this really is A+ advice. Certainly going to try to incorporate this mindset more often in life.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m4y3cj",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m4y3cj/finetuned_her_the_perfect_local_model_still_got/n4g3l08/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753146981,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 2
                     }
                   }
                 ],
@@ -900,7 +975,7 @@
             "created_utc": 1753062802,
             "send_replies": true,
             "parent_id": "t3_1m4y3cj",
-            "score": 1,
+            "score": 3,
             "author_fullname": "t2_8vhsch4i",
             "approved_by": null,
             "mod_note": null,
@@ -942,7 +1017,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 3
           }
         },
         {
@@ -998,7 +1073,7 @@
                       "created_utc": 1753060907,
                       "send_replies": true,
                       "parent_id": "t1_n48wacl",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_5htqe",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1040,7 +1115,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -1148,7 +1223,7 @@
                       "created_utc": 1753058029,
                       "send_replies": true,
                       "parent_id": "t1_n48wacl",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_cbxyn",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1190,7 +1265,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -1211,7 +1286,7 @@
             "created_utc": 1753052435,
             "send_replies": true,
             "parent_id": "t3_1m4y3cj",
-            "score": -7,
+            "score": -5,
             "author_fullname": "t2_3wxyen0t",
             "approved_by": null,
             "mod_note": null,
@@ -1253,7 +1328,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -7
+            "ups": -5
           }
         }
       ],
