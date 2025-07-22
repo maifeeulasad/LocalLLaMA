@@ -6924,6 +6924,234 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m5hksu',
         name: 'What if Meta really has the best AI?  Hear me out.',
       },
+      {
+        path: '/1m5ijhw',
+        name: 'How does llama 4 perform within 8192 tokens?',
+      },
+      {
+        path: '/1m5iymb',
+        name: 'The reason why local models are better/necessary.',
+      },
+      {
+        path: '/1m5jr1v',
+        name: '[New Architecture] Hierarchical Reasoning Model',
+      },
+      {
+        path: '/1m5jr4s',
+        name: 'MacBook Air M3 24 GB Ram best LOCAL LLM for email drafting, Reddit posts, and light coding?',
+      },
+      {
+        path: '/1m5k5di',
+        name: 'What is the cheapest way to run unsloth/Kimi-K2-Instruct-GGUF BF16 in the cloud?',
+      },
+      {
+        path: '/1m5k88s',
+        name: 'As the creators of react-native-executorch, we built an open-source app for testing ExecuTorch LLMs on mobile.',
+      },
+      {
+        path: '/1m5kmxl',
+        name: 'What free TTS is the best to clone my voice for reading large portions of text?',
+      },
+      {
+        path: '/1m5kqk8',
+        name: 'FULL Windsurf System Prompt and Tools [UPDATED, Wave 11]',
+      },
+      {
+        path: '/1m5l0v3',
+        name: 'Common folder for model storage?',
+      },
+      {
+        path: '/1m5l52r',
+        name: 'Office hours for cloud GPU',
+      },
+      {
+        path: '/1m5l8e4',
+        name: 'Seeking the newest coding models, especially for SQL?',
+      },
+      {
+        path: '/1m5lf6l',
+        name: 'Chatterbox tts microphone results',
+      },
+      {
+        path: '/1m5lg47',
+        name: 'Best Local Models Per Budget Per Use Case',
+      },
+      {
+        path: '/1m5lgtr',
+        name: 'UIGEN-X 8B supports React Headless, Flutter, React Native, Static Site Generators, Tauri, Vue, Gradio/Python, Tailwind, and prompt-based design. GGUF/GPTQ/MLX Available',
+      },
+      {
+        path: '/1m5lwo6',
+        name: 'Is there a better local TTS than Kokoro, even if its slower to generate?',
+      },
+      {
+        path: '/1m5m1et',
+        name: 'SmolLM3-3B training logs and intermediate checkpoints',
+      },
+      {
+        path: '/1m5mjoc',
+        name: 'Looking for Open Source STT Tool to Detect Script Reading Errors in Real Time',
+      },
+      {
+        path: '/1m5mms1',
+        name: 'mistral-small-3.2 OCR accuracy way too bad with llama.cpp compared to ollama?',
+      },
+      {
+        path: '/1m5mrmy',
+        name: 'Help with choosing model to create bot that will talk like me.',
+      },
+      {
+        path: '/1m5mzxt',
+        name: 'DMOSpeech 2: 2x faster + higher-quality F5-TTS from the author of StyleTTS 2',
+      },
+      {
+        path: '/1m5n148',
+        name: 'Imminent release from Qwen tonight',
+      },
+      {
+        path: '/1m5n6lq',
+        name: 'EU is being left behinde and it sucks!',
+      },
+      {
+        path: '/1m5ndsf',
+        name: 'Heavily promoting the dishwashing benchmark',
+      },
+      {
+        path: '/1m5nt6s',
+        name: 'I want to start with local AI',
+      },
+      {
+        path: '/1m5ojym',
+        name: 'I messed up my brother\'s Llama AI workstation.. looking for advice',
+      },
+      {
+        path: '/1m5okz7',
+        name: 'Running vllm on Nvidia 5090',
+      },
+      {
+        path: '/1m5or7n',
+        name: 'Facing some problems with Docling parser',
+      },
+      {
+        path: '/1m5owi8',
+        name: 'Qwen3-235B-A22B-2507 Released!',
+      },
+      {
+        path: '/1m5owur',
+        name: 'Meet the Agent: The Brain Behind Gemini CLI',
+      },
+      {
+        path: '/1m5ox8z',
+        name: 'Qwen3-235B-A22B-2507',
+      },
+      {
+        path: '/1m5oxyp',
+        name: 'Qwen released Qwen3-235B-A22B-2507!',
+      },
+      {
+        path: '/1m5oyf5',
+        name: 'Qwen/Qwen3-235B-A22B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1m5oz0h',
+        name: 'Qwen3-235B-A22B-2507!',
+      },
+      {
+        path: '/1m5p69p',
+        name: 'Do not sleep on ERNIE-4.5-300B-A47B especially if you can\'t Kimi K2',
+      },
+      {
+        path: '/1m5pbj0',
+        name: 'Qwen/Qwen3-235B-A22B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1m5pbxo',
+        name: 'RTX 5090 not recognized on Ubuntu — anyone else figure this out?',
+      },
+      {
+        path: '/1m5pig4',
+        name: 'Why not build instruct models that give you straight answers with no positivity bias and no bs?',
+      },
+      {
+        path: '/1m5pmox',
+        name: 'Looking to possibly replace my ChatGPT subscription with running a local LLM. What local models match/rival 4o?',
+      },
+      {
+        path: '/1m5psqj',
+        name: 'Before &amp; after: redesigned the character catalog UI. What do you think?',
+      },
+      {
+        path: '/1m5q35o',
+        name: 'Interesting new blog post from Lemonade team',
+      },
+      {
+        path: '/1m5qflo',
+        name: 'Using ollama and claude to control Neu',
+      },
+      {
+        path: '/1m5qn1n',
+        name: 'Qwen3 insane SimpleQA',
+      },
+      {
+        path: '/1m5qsqx',
+        name: 'CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning',
+      },
+      {
+        path: '/1m5r9ss',
+        name: 'Exhausted man defeats AI model in world coding championship',
+      },
+      {
+        path: '/1m5ro7s',
+        name: 'RTX 5090 (32GB VRAM) - Full Fine-Tuning: What Can I Expect?',
+      },
+      {
+        path: '/1m5s6d1',
+        name: 'AI 395+ 64GB vs 128GB?',
+      },
+      {
+        path: '/1m5th6s',
+        name: 'Why are base non-finetuned models so bad?',
+      },
+      {
+        path: '/1m5uhwc',
+        name: '[Project Share] Built a 4K Instruction Dataset Based on SEC 6-K/8-K Filings (JSONL format, QLoRA-friendly)',
+      },
+      {
+        path: '/1m5uu0t',
+        name: 'Strong case for a 512GB Mac Studio?',
+      },
+      {
+        path: '/1m5v7if',
+        name: 'Im trying to make my own agent with openhands but I keep running into the same error.',
+      },
+      {
+        path: '/1m5vyku',
+        name: 'Now that Google and openai have both announced gold at the IMO 2025, how long until an open source model can match that?',
+      },
+      {
+        path: '/1m5w3kj',
+        name: 'How long until we have an alternative to LM studio that\'s just as good?',
+      },
+      {
+        path: '/1m5w8yl',
+        name: 'What can I run on my 5090?',
+      },
+      {
+        path: '/1m5x04m',
+        name: 'What is the top model for coding?',
+      },
+      {
+        path: '/1m5y9wj',
+        name: 'The Observer Desktop App is Here! + Discord/Pushover Notifications!!',
+      },
+      {
+        path: '/1m5ynit',
+        name: 'We asked Qwen3-235B-A22-Instruct-2507 for advice on how best to quantize itself to 4-bits for vLLM. Anyone who understands these things care to comment on its recommendations?',
+      },
+      {
+        path: '/1m60ahf',
+        name: 'Used A100 40GB just dropped below $2000, for those who care with caveat',
+      },
     ],
   },
   {
