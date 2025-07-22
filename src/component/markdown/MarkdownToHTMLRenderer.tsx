@@ -18,6 +18,7 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
         { regex: /`([^`]+)`/, tag: 'code' },
         { regex: /\[([^\]]+)\]\(([^)]+)\)/, tag: 'a' },
         { regex: /(https?:\/\/[^\s)]+[^\s).,;:'"\]\s])/, tag: 'auto-link' },
+        { regex: /---/, tag: 'hr' },
     ];
 
     while (line.length) {
@@ -63,6 +64,8 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
                             {match[1]}
                         </a>
                     );
+                } else if (pattern.tag === 'hr') {
+                    parts.push(<hr key={parts.length} style={{ border: '1px solid #ccc', margin: '16px 0' }} />);
                 }
 
                 line = remaining;
