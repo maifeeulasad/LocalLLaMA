@@ -17,6 +17,7 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
         { regex: /\*(.*?)\*/, tag: 'em' },
         { regex: /`([^`]+)`/, tag: 'code' },
         { regex: /\[([^\]]+)\]\(([^)]+)\)/, tag: 'a' },
+        { regex: /(https?:\/\/[^\s)]+[^\s).,;:'"\]\s])/, tag: 'auto-link' },
     ];
 
     while (line.length) {
@@ -54,6 +55,12 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
                     parts.push(
                         <a key={parts.length} href={match[2]} target="_blank" rel="noreferrer">
                             {content}
+                        </a>
+                    );
+                } else if (pattern.tag === 'auto-link') {
+                    parts.push(
+                        <a key={parts.length} href={match[1]} target="_blank" rel="noreferrer">
+                            {match[1]}
                         </a>
                     );
                 }
@@ -172,7 +179,7 @@ const parseMarkdown = (raw: string) => {
 
     // Flush any remaining list at end
     flushList(lines.length);
-    
+
     return elements;
 };
 
