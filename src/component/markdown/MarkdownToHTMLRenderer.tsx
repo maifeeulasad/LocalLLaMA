@@ -16,9 +16,8 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
         { regex: /\*\*(.*?)\*\*/, tag: 'strong' },
         { regex: /\*(.*?)\*/, tag: 'em' },
         { regex: /`([^`]+)`/, tag: 'code' },
-        { regex: /\[([^\]]+)\]\(([^)]+)\)/, tag: 'a' },
+        { regex: /\[([^\]]+)]\(([^)]+)\)/, tag: 'a' },
         { regex: /(https?:\/\/[^\s)]+[^\s).,;:'"\]\s])/, tag: 'auto-link' },
-        { regex: /---/, tag: 'hr' },
     ];
 
     while (line.length) {
@@ -53,9 +52,10 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
                         </code>
                     );
                 } else if (pattern.tag === 'a') {
+                    const isUrl = /^https?:\/\//.test(content);
                     parts.push(
                         <a key={parts.length} href={match[2]} target="_blank" rel="noreferrer">
-                            {content}
+                            {isUrl ? match[2] : content}
                         </a>
                     );
                 } else if (pattern.tag === 'auto-link') {
@@ -64,8 +64,6 @@ const parseInlineMarkdown = (line: string): React.ReactNode[] => {
                             {match[1]}
                         </a>
                     );
-                } else if (pattern.tag === 'hr') {
-                    parts.push(<hr key={parts.length} style={{ border: '1px solid #ccc', margin: '16px 0' }} />);
                 }
 
                 line = remaining;
@@ -101,19 +99,65 @@ const parseMarkdown = (raw: string) => {
         }
     };
 
-    lines.forEach((line, index) => {
+    let i = 0;
+    while (i < lines.length) {
+        const line = lines[i];
+
+        if (/^(\s*)([-*_])(\s*\2){2,}\s*$/.test(line)) {
+            flushList(i);
+            elements.push(
+                <hr key={`hr-${i}`} style={{ margin: '16px 0', border: 'none', borderTop: '1px solid #ccc' }} />
+            );
+            i++;
+            continue;
+        }
+
+        if (/^\|(.+)\|$/.test(line) && i + 1 < lines.length && /^\|[-\s|]+?\|$/.test(lines[i + 1])) {
+            flushList(i);
+            const headers = line.split('|').slice(1, -1).map(h => h.trim());
+            const rows: string[][] = [];
+            i += 2;
+
+            while (i < lines.length && /^\|(.+)\|$/.test(lines[i])) {
+                const cells = lines[i].split('|').slice(1, -1).map(c => c.trim());
+                rows.push(cells);
+                i++;
+            }
+
+            elements.push(
+                <table key={`table-${i}`} style={{ borderCollapse: 'collapse', margin: '12px 0' }}>
+                    <thead>
+                        <tr>
+                            {headers.map((h, j) => (
+                                <th key={`th-${j}`} style={{ border: '1px solid #ccc', padding: 6, background: '#f7f7f7' }}>
+                                    {parseInlineMarkdown(h)}
+                                </th>
+                            ))}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {rows.map((row, rowIndex) => (
+                            <tr key={`tr-${rowIndex}`}>
+                                {row.map((cell, colIndex) => (
+                                    <td key={`td-${rowIndex}-${colIndex}`} style={{ border: '1px solid #ccc', padding: 6 }}>
+                                        {parseInlineMarkdown(cell)}
+                                    </td>
+                                ))}
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            );
+            continue;
+        }
+
         if (line.trim().startsWith('```')) {
-            flushList(index);
+            flushList(i);
             if (inCodeBlock) {
                 elements.push(
                     <pre
-                        key={`code-${index}`}
-                        style={{
-                            background: '#1e1e1e',
-                            color: '#fff',
-                            padding: 12,
-                            overflowX: 'auto',
-                        }}
+                        key={`code-${i}`}
+                        style={{ background: '#1e1e1e', color: '#fff', padding: 12, overflowX: 'auto' }}
                     >
                         <code>{codeBuffer.join('\n')}</code>
                     </pre>
@@ -123,64 +167,60 @@ const parseMarkdown = (raw: string) => {
             } else {
                 inCodeBlock = true;
             }
-            return;
+            i++;
+            continue;
         }
 
         if (inCodeBlock) {
             codeBuffer.push(line);
-            return;
+            i++;
+            continue;
         }
 
-        // blockquote
         if (line.startsWith('>')) {
-            flushList(index);
+            flushList(i);
             elements.push(
-                <blockquote
-                    key={`quote-${index}`}
-                    style={{
-                        borderLeft: '4px solid #ccc',
-                        paddingLeft: 12,
-                        margin: '12px 0',
-                    }}
-                >
+                <blockquote key={`quote-${i}`} style={{ borderLeft: '4px solid #ccc', paddingLeft: 12, margin: '12px 0' }}>
                     {parseInlineMarkdown(line.slice(1).trim())}
                 </blockquote>
             );
-            return;
+            i++;
+            continue;
         }
 
-        // heading
         const headingMatch = line.match(/^(#{1,6})\s+(.*)/);
         if (headingMatch) {
-            flushList(index);
+            flushList(i);
             const level = headingMatch[1].length;
             const HeadingTag = `h${level}` as keyof JSX.IntrinsicElements;
             elements.push(
-                <HeadingTag key={`h-${index}`} style={{ margin: '12px 0' }}>
+                <HeadingTag key={`h-${i}`} style={{ margin: '12px 0' }}>
                     {parseInlineMarkdown(headingMatch[2])}
                 </HeadingTag>
             );
-            return;
+            i++;
+            continue;
         }
 
-        // list
         if (/^\s*[-*+]\s+/.test(line)) {
             const content = line.replace(/^[-*+]\s+/, '');
-            currentListItems.push(<li key={`li-${index}`}>{parseInlineMarkdown(content)}</li>);
-            return;
+            currentListItems.push(<li key={`li-${i}`}>{parseInlineMarkdown(content)}</li>);
+            i++;
+            continue;
         } else {
-            flushList(index);
+            flushList(i);
         }
 
         const trimmed = line.trim();
         if (trimmed.length > 0) {
             elements.push(
-                <p key={`p-${index}`}>{parseInlineMarkdown(trimmed)}</p>
+                <p key={`p-${i}`}>{parseInlineMarkdown(trimmed)}</p>
             );
         }
-    });
 
-    // Flush any remaining list at end
+        i++;
+    }
+
     flushList(lines.length);
 
     return elements;
