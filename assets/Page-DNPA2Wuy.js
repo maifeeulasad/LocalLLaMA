@@ -1,0 +1,40 @@
+import{j as e}from"./index-BgwOAK4-.js";import{R as t}from"./RedditPostRenderer-BOBjDTFu.js";import"./index-BL22wVg5.js";const n=[{kind:"Listing",data:{after:null,dist:1,modhash:"",geo_filter:"",children:[{kind:"t3",data:{approved_at_utc:null,subreddit:"LocalLLaMA",selftext:`I'm looking for a solution to translate story text from a game. The translation is very domain specific to the fantasy world of the game.
+
+JP-&gt;EN only.
+
+The text follows a visual novel format, so previous lines provide context to future lines. Generally there's a few hundred sentences per "chapter". This can be broken down into "scenes" which are generally 50-100 sentences each.
+
+Training data available:
+
+* Term/Name 1:1 mappings, single word (5000-10000)
+* Lore information EN:JP mapping (few MB of text)
+* Unmapped lore information in both languages - basically scrapes of wikis
+* Per-sentence EN:JP mapping. (100MBs of text)
+* Per-scene EN:JP mapping. (same text of the above)
+
+Assume resources for a local LLM won't be an issue, but nothing into extreme territory (100GB+ VRAM isn't happening for inference, but I can rent servers e.g. 8xH200 140GB for short periods to train).
+
+* Are there any other fine tuning methods I should look into for this domain?
+* What would be a good starting point? (this is an academic exercise for now, so any licence is fine)`,user_reports:[],saved:!1,mod_reason_title:null,gilded:0,clicked:!1,title:"Questions about AI for translation",link_flair_richtext:[{e:"text",t:"Question | Help"}],subreddit_name_prefixed:"r/LocalLLaMA",hidden:!1,pwls:6,link_flair_css_class:"",downs:0,thumbnail_height:null,top_awarded_type:null,hide_score:!1,name:"t3_1m4zyv1",quarantine:!1,link_flair_text_color:"dark",upvote_ratio:.8,author_flair_background_color:null,subreddit_type:"public",ups:3,total_awards_received:0,media_embed:{},thumbnail_width:null,author_flair_template_id:null,is_original_content:!1,author_fullname:"t2_6qhgs",secure_media:null,is_reddit_media_domain:!1,is_meta:!1,category:null,secure_media_embed:{},link_flair_text:"Question | Help",can_mod_post:!1,score:3,approved_by:null,is_created_from_ads_ui:!1,author_premium:!1,thumbnail:"self",edited:1753048224,author_flair_css_class:null,author_flair_richtext:[],gildings:{},content_categories:null,is_self:!0,mod_note:null,created:1753045214,link_flair_type:"richtext",wls:6,removed_by_category:null,banned_by:null,author_flair_type:"text",domain:"self.LocalLLaMA",allow_live_comments:!1,selftext_html:`&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;m looking for a solution to translate story text from a game. The translation is very domain specific to the fantasy world of the game.&lt;/p&gt;
+
+&lt;p&gt;JP-&amp;gt;EN only.&lt;/p&gt;
+
+&lt;p&gt;The text follows a visual novel format, so previous lines provide context to future lines. Generally there&amp;#39;s a few hundred sentences per &amp;quot;chapter&amp;quot;. This can be broken down into &amp;quot;scenes&amp;quot; which are generally 50-100 sentences each.&lt;/p&gt;
+
+&lt;p&gt;Training data available:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Term/Name 1:1 mappings, single word (5000-10000)&lt;/li&gt;
+&lt;li&gt;Lore information EN:JP mapping (few MB of text)&lt;/li&gt;
+&lt;li&gt;Unmapped lore information in both languages - basically scrapes of wikis&lt;/li&gt;
+&lt;li&gt;Per-sentence EN:JP mapping. (100MBs of text)&lt;/li&gt;
+&lt;li&gt;Per-scene EN:JP mapping. (same text of the above)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Assume resources for a local LLM won&amp;#39;t be an issue, but nothing into extreme territory (100GB+ VRAM isn&amp;#39;t happening for inference, but I can rent servers e.g. 8xH200 140GB for short periods to train).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Are there any other fine tuning methods I should look into for this domain?&lt;/li&gt;
+&lt;li&gt;What would be a good starting point? (this is an academic exercise for now, so any licence is fine)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;`,likes:null,suggested_sort:null,banned_at_utc:null,view_count:null,archived:!1,no_follow:!1,is_crosspostable:!1,pinned:!1,over_18:!1,all_awardings:[],awarders:[],media_only:!1,link_flair_template_id:"2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",can_gild:!1,spoiler:!1,locked:!1,author_flair_text:null,treatment_tags:[],visited:!1,removed_by:null,num_reports:null,distinguished:null,subreddit_id:"t5_81eyvm",author_is_blocked:!1,mod_reason_by:null,removal_reason:null,link_flair_background_color:"#5a74cc",id:"1m4zyv1",is_robot_indexable:!0,num_duplicates:0,report_reasons:null,author:"neobenedict",discussion_type:null,num_comments:1,send_replies:!0,media:null,contest_mode:!1,author_patreon_flair:!1,author_flair_text_color:null,permalink:"/r/LocalLLaMA/comments/1m4zyv1/questions_about_ai_for_translation/",stickied:!1,url:"https://www.reddit.com/r/LocalLLaMA/comments/1m4zyv1/questions_about_ai_for_translation/",subreddit_subscribers:502273,created_utc:1753045214,num_crossposts:0,mod_reports:[],is_video:!1}}],before:null}},{kind:"Listing",data:{after:null,dist:null,modhash:"",geo_filter:"",children:[],before:null}}],i=()=>e.jsx(t,{data:n});export{i as default};
