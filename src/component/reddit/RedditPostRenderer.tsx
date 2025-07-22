@@ -9,6 +9,7 @@ import {
   Tag,
   Space,
 } from 'antd';
+import MarkdownToHTMLRenderer from '../markdown/MarkdownToHTMLRenderer';
 
 const { Title, Paragraph, Link, Text } = Typography;
 const { Panel } = Collapse;
@@ -132,7 +133,9 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
             </Descriptions.Item>
           </Descriptions>
           {d.selftext && (
-            <Paragraph style={{ marginTop: 16 }}>{d.selftext}</Paragraph>
+            <Paragraph style={{ marginTop: 16 }}>
+              <MarkdownToHTMLRenderer markdown={d.selftext} />
+            </Paragraph>
           )}
         </Space>
       </Card>
