@@ -7152,6 +7152,122 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m60ahf',
         name: 'Used A100 40GB just dropped below $2000, for those who care with caveat',
       },
+      {
+        path: '/1m6172l',
+        name: 'New qwen tested on Fiction.liveBench',
+      },
+      {
+        path: '/1m61u94',
+        name: 'OmniSVG weights released',
+      },
+      {
+        path: '/1m62vbw',
+        name: 'Running LLMs against a sandbox airport to see if they can make the correct decisions in real time',
+      },
+      {
+        path: '/1m641zg',
+        name: 'MegaTTS 3 Voice Cloning is Here',
+      },
+      {
+        path: '/1m650ow',
+        name: 'If Qwen3-235B-A22B-2507 can\'t think, why does it think when the thinking button is on?',
+      },
+      {
+        path: '/1m65iga',
+        name: 'Frankenserver for sale at a steep discount. 2x96GB GH200 converted from liquid- to air-cooled.',
+      },
+      {
+        path: '/1m66qks',
+        name: 'Private Eval result of Qwen3-235B-A22B-Instruct-2507',
+      },
+      {
+        path: '/1m66v6q',
+        name: 'stop wasting credits just stack playground and domoai',
+      },
+      {
+        path: '/1m66zhs',
+        name: 'Is this project feasible for an LLM novice? (Tutor chatbot for primary school student)',
+      },
+      {
+        path: '/1m6741z',
+        name: 'What Speaker Diarization tools should I look into?',
+      },
+      {
+        path: '/1m67a12',
+        name: 'Is GPUStack the Cluster Version of Ollama? Comparison + Alternatives',
+      },
+      {
+        path: '/1m67e6a',
+        name: 'Breaking: Small Team Open-Sources AI Agent "Crux" That Achieves Gold-Level Performance on USAMO Benchmarks Using o4-mini – Rivaling OpenAI and Google!',
+      },
+      {
+        path: '/1m67zde',
+        name: 'AI should just be open-source',
+      },
+      {
+        path: '/1m68elw',
+        name: 'Fine-Tuning Multilingual Embedding Models for Industrial RAG System',
+      },
+      {
+        path: '/1m68tse',
+        name: 'Model to process image-of-text PDFs?',
+      },
+      {
+        path: '/1m68yvl',
+        name: 'What do you guys use for Spellcheck?',
+      },
+      {
+        path: '/1m69m60',
+        name: 'How to apply a custom dataset',
+      },
+      {
+        path: '/1m69oyb',
+        name: 'I spent a late night with an AI designing a way to give it a persistent, verifiable memory. I call it the "Genesis Protocol."',
+      },
+      {
+        path: '/1m69qs3',
+        name: '🧠 How are you managing MCP servers across different AI apps (Claude, GPTs, Gemini etc.)?',
+      },
+      {
+        path: '/1m69sb6',
+        name: 'In Qwen3-235B-A22B-Instruct-2507-UD-Q4 (unsloth) I\'m seeing some "but wait" and related ones (like kinda questioning and answering itself), were the model seems to "think" (even when is a non-thinking model and I haven\'t setup any system prompt), have you seen something similar?',
+      },
+      {
+        path: '/1m69th7',
+        name: 'Truly open LLMs',
+      },
+      {
+        path: '/1m6a5xb',
+        name: 'Cloudflare Pay Per Crawl is Going to Decimate Local LLMs . A lot of AI Abilities are going to end up behind this paywall . Am i Overthinking This ?',
+      },
+      {
+        path: '/1m6ahsu',
+        name: 'Thinking about updating Llama 3.3-70B',
+      },
+      {
+        path: '/1m6akeo',
+        name: 'Would using PCIE NVME in raid 0 for swap work to run larger models that don\'t fit into RAM?',
+      },
+      {
+        path: '/1m6b151',
+        name: 'Updated Strix Halo (Ryzen AI Max+ 395) LLM Benchmark Results',
+      },
+      {
+        path: '/1m6bddm',
+        name: 'AMD\'s Strix Halo "Ryzen AI MAX" APUs Come To DIY PC Builders With New MoDT "Mini-ITX" Motherboards, Equipped With Up To 128 GB of LPDDR5X Memory',
+      },
+      {
+        path: '/1m6ccmr',
+        name: 'VEO 3 is f**k expensive',
+      },
+      {
+        path: '/1m6cfou',
+        name: 'Chatterbox CUDA and PyTorch problem',
+      },
+      {
+        path: '/1m6cfzi',
+        name: 'The ik_llama.cpp repository is back! \o/',
+      },
     ],
   },
   {

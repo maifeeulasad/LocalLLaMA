@@ -36,7 +36,7 @@
             "name": "t3_1m5h2td",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.36,
+            "upvote_ratio": 0.29,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m5h2td/how_far_are_we_from_convenient_local_models/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m5h2td/how_far_are_we_from_convenient_local_models/",
-            "subreddit_subscribers": 502516,
+            "subreddit_subscribers": 502721,
             "created_utc": 1753099473,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1753105123,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": 5,
+            "score": 7,
             "author_fullname": "t2_sxud8ccv4",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 7
           }
         },
         {
@@ -263,7 +263,7 @@
                       "created_utc": 1753106290,
                       "send_replies": true,
                       "parent_id": "t1_n4bsfuq",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_5hobp6m4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -305,7 +305,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   }
                 ],
@@ -326,7 +326,7 @@
             "created_utc": 1753099588,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": 14,
+            "score": 13,
             "author_fullname": "t2_ku4i0",
             "approved_by": null,
             "mod_note": null,
@@ -368,7 +368,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 13
           }
         },
         {
@@ -481,13 +481,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "bralynn2222",
             "can_mod_post": false,
             "created_utc": 1753106278,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_769j0jzd",
             "approved_by": null,
             "mod_note": null,
@@ -529,7 +529,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -1464,7 +1464,7 @@
             "created_utc": 1753103867,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_cs4w88d2l",
             "approved_by": null,
             "mod_note": null,
@@ -1506,7 +1506,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -1780,7 +1780,7 @@
             "created_utc": 1753100915,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": 1,
+            "score": 0,
             "author_fullname": "t2_by77ogdhr",
             "approved_by": null,
             "mod_note": null,
@@ -1822,7 +1822,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {
@@ -2103,7 +2103,7 @@
                       "created_utc": 1753103612,
                       "send_replies": true,
                       "parent_id": "t1_n4bswoq",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_6ste18zta",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2145,7 +2145,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   },
                   {
@@ -2618,7 +2618,7 @@
                       "created_utc": 1753099984,
                       "send_replies": true,
                       "parent_id": "t1_n4bswoq",
-                      "score": 7,
+                      "score": 6,
                       "author_fullname": "t2_2n7wncb6",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2665,7 +2665,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 6
                     }
                   }
                 ],
@@ -2686,7 +2686,7 @@
             "created_utc": 1753099774,
             "send_replies": true,
             "parent_id": "t3_1m5h2td",
-            "score": -3,
+            "score": -2,
             "author_fullname": "t2_pjna1o39",
             "approved_by": null,
             "mod_note": null,
@@ -2728,7 +2728,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -2
           }
         },
         {

@@ -36,10 +36,10 @@
             "name": "t3_1m5ghs0",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 1,
+            "upvote_ratio": 0.84,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 5,
+            "ups": 4,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 5,
+            "score": 4,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m5ghs0/72_for_instinct_mi50_16gb/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m5ghs0/72_for_instinct_mi50_16gb/",
-            "subreddit_subscribers": 502516,
+            "subreddit_subscribers": 502721,
             "created_utc": 1753097677,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -188,7 +188,7 @@
                       "created_utc": 1753102840,
                       "send_replies": true,
                       "parent_id": "t1_n4c0slm",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_5plbh7ia",
                       "removal_reason": null,
                       "approved_by": null,
@@ -230,7 +230,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -251,7 +251,7 @@
             "created_utc": 1753102683,
             "send_replies": true,
             "parent_id": "t3_1m5ghs0",
-            "score": 9,
+            "score": 8,
             "author_fullname": "t2_ah13x",
             "approved_by": null,
             "mod_note": null,
@@ -298,7 +298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 8
           }
         },
         {
@@ -589,7 +589,7 @@
             "created_utc": 1753098487,
             "send_replies": true,
             "parent_id": "t3_1m5ghs0",
-            "score": 6,
+            "score": 5,
             "author_fullname": "t2_baavelp5",
             "approved_by": null,
             "mod_note": null,
@@ -631,7 +631,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -986,7 +986,7 @@
             "created_utc": 1753098358,
             "send_replies": true,
             "parent_id": "t3_1m5ghs0",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_1dhesoqqtu",
             "approved_by": null,
             "mod_note": null,
@@ -1028,7 +1028,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "created_utc": 1753122378,
             "send_replies": true,
             "parent_id": "t3_1m5ghs0",
-            "score": 1,
+            "score": -1,
             "author_fullname": "t2_1tpuoj72sa",
             "approved_by": null,
             "mod_note": null,
@@ -1103,7 +1103,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": -1
           }
         }
       ],
