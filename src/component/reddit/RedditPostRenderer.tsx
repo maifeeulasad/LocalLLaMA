@@ -156,7 +156,9 @@ const RedditListing: React.FC<RedditListingProps> = ({ data }) => {
           }
           key={d.id}
         >
-          <Paragraph>{d.body}</Paragraph>
+          <Paragraph>
+            <MarkdownToHTMLRenderer markdown={d.body} />
+          </Paragraph>
           {d.replies &&
             typeof d.replies !== 'string' &&
             d.replies.data &&
