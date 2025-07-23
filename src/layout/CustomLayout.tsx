@@ -7268,6 +7268,230 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m6cfzi',
         name: 'The ik_llama.cpp repository is back! \o/',
       },
+      {
+        path: '/1m6ct7u',
+        name: 'Qwen3 235B-A22B 2507 :: Q3_K_L :: One shot HTML game :: 4090 + 128GB DDR5 @6000',
+      },
+      {
+        path: '/1m6d6um',
+        name: 'What are the use cases for 1.5B model?',
+      },
+      {
+        path: '/1m6dco7',
+        name: 'Jamba 1.7 is now available on Kaggle',
+      },
+      {
+        path: '/1m6dvhi',
+        name: 'Best opensource SLM/ lightweight llm for code generation',
+      },
+      {
+        path: '/1m6eggp',
+        name: 'Considering 5xMI50 for Qwen 3 235b',
+      },
+      {
+        path: '/1m6fvd5',
+        name: 'Looking for LLMs Study Buddy',
+      },
+      {
+        path: '/1m6gq8e',
+        name: 'I wrote 2000 LLM test cases so you don\'t have to',
+      },
+      {
+        path: '/1m6gwgl',
+        name: 'Am I making a mistake building my RAG agent with Langchain or LlamaIndex?',
+      },
+      {
+        path: '/1m6h67y',
+        name: 'Epyc Qwen3 235B Q8 speed?',
+      },
+      {
+        path: '/1m6hck1',
+        name: 'Thinking about "owhisper"',
+      },
+      {
+        path: '/1m6hqi8',
+        name: '5090 batched inference performance?',
+      },
+      {
+        path: '/1m6ht1r',
+        name: 'Leaderboard for function calling models?',
+      },
+      {
+        path: '/1m6hxnt',
+        name: 'TOKENS BURNED! Am I the only one who would rather have a throttled down cursor rather than have it go on token vacation for 20 day!?',
+      },
+      {
+        path: '/1m6hzf0',
+        name: '+24GB VRAM with low electric consumption',
+      },
+      {
+        path: '/1m6izt7',
+        name: 'Project: Print AI Replies on a Ticket Printer',
+      },
+      {
+        path: '/1m6j69n',
+        name: '~75k budget. Best bang for the buck?',
+      },
+      {
+        path: '/1m6jdyz',
+        name: '[Help/Suggestion Wanted] Hindi to Hinglish and Spell correction',
+      },
+      {
+        path: '/1m6khbt',
+        name: 'llama.cpp on ROCm only running at 10 tokens/sec, GPU at 1% util. What am I missing?',
+      },
+      {
+        path: '/1m6knhw',
+        name: 'Entry GPU options - 5060 8GB enough to play with?',
+      },
+      {
+        path: '/1m6kre5',
+        name: 'Shared subscription/token with Team or family',
+      },
+      {
+        path: '/1m6ldkd',
+        name: '"Failed to Send Message" from qwen/qwen3-235b-a22b-2507 Q3_K_L',
+      },
+      {
+        path: '/1m6lf9s',
+        name: 'Could this be Deepseek?',
+      },
+      {
+        path: '/1m6m0f7',
+        name: 'A new LLM benchmark for markets, supply chains, and trading: BAZAAR. Agents must understand supply, demand, and risk, and learn to bid strategically.',
+      },
+      {
+        path: '/1m6medy',
+        name: 'Qwen3-Coder is imminent',
+      },
+      {
+        path: '/1m6mew9',
+        name: 'Qwen3- Coder 👀',
+      },
+      {
+        path: '/1m6mfic',
+        name: 'Qwen3-Coder Available on chat.qwen.ai',
+      },
+      {
+        path: '/1m6mlbk',
+        name: 'Qwen3-Coder-480B-A35B-Instruct',
+      },
+      {
+        path: '/1m6nbb7',
+        name: 'Best Models for Arabic tts and audio enhancement?',
+      },
+      {
+        path: '/1m6nvhs',
+        name: 'What is the cheapest option for hosting llama cpp with Qwen Coder at Q8?',
+      },
+      {
+        path: '/1m6nxh2',
+        name: 'Everyone brace up for qwen !!',
+      },
+      {
+        path: '/1m6ny2q',
+        name: 'Qwen3-Coder Web Development',
+      },
+      {
+        path: '/1m6ocfd',
+        name: 'The LLM for M4 Max 128GB: Unsloth Qwen3-235B-A22B-Instruct-2507 Q3 K XL for Ollama',
+      },
+      {
+        path: '/1m6oqxw',
+        name: 'embedding model giving same embeddings regardless of input text?',
+      },
+      {
+        path: '/1m6orbr',
+        name: 'Anyone here who has been able to reproduce their results yet?',
+      },
+      {
+        path: '/1m6pjpx',
+        name: 'DeepSeek not available at LLama API?',
+      },
+      {
+        path: '/1m6pw0o',
+        name: 'Digital twins that attend meetings for you. Dystopia or soon reality?',
+      },
+      {
+        path: '/1m6q0oh',
+        name: 'Best android local llm apk with gpu acceleration',
+      },
+      {
+        path: '/1m6qb6p',
+        name: 'Rag vs fine-tuning.',
+      },
+      {
+        path: '/1m6qc8c',
+        name: 'Qwen/Qwen3-Coder-480B-A35B-Instruct',
+      },
+      {
+        path: '/1m6qdet',
+        name: 'Qwen3-Coder is here!',
+      },
+      {
+        path: '/1m6qixu',
+        name: 'Qwen out here releasing models like it’s a Costco sample table',
+      },
+      {
+        path: '/1m6qkse',
+        name: 'It\'s here guys and qwen nailed it !!',
+      },
+      {
+        path: '/1m6qltu',
+        name: 'So I tried that "YourWaifus" AI app... and I need a sanity check.',
+      },
+      {
+        path: '/1m6qnpq',
+        name: 'Qwen3 coder will be in multiple sizes',
+      },
+      {
+        path: '/1m6rsym',
+        name: 'Qwen Code: A command-line AI workflow tool adapted from Gemini CLI, optimized for Qwen3-Coder models',
+      },
+      {
+        path: '/1m6skm6',
+        name: 'llama.cpp is unusable for real work',
+      },
+      {
+        path: '/1m6tbhm',
+        name: 'What does the _K _S _M _L mean behind the quantization of a model?',
+      },
+      {
+        path: '/1m6tf9v',
+        name: 'M4 Pro Owners: I Want Your Biased Hot-Takes – DeepSeek-Coder V3-Lite 33B vs Qwen3-32B-Instruct-MoE on a 48 GB MacBook Pro',
+      },
+      {
+        path: '/1m6u0gt',
+        name: 'Unsloth quants already starting to roll out for Qwen3-Coder',
+      },
+      {
+        path: '/1m6u3kd',
+        name: 'Qwen3-Coder is available on OpenRouter',
+      },
+      {
+        path: '/1m6ucc0',
+        name: 'Has anyone here worked with LLMs that can read images? Were you able to deploy it on a VPS?',
+      },
+      {
+        path: '/1m6ufm4',
+        name: 'Has anyone tried Hierarchical Reasoning Models yet?',
+      },
+      {
+        path: '/1m6uq8q',
+        name: 'I stopped typing. Now I just use a hotkey. I built Agent-CLI to make it possible.',
+      },
+      {
+        path: '/1m6v9yq',
+        name: 'I own a few Quadro’s, can I build an AI with these?',
+      },
+      {
+        path: '/1m6vbds',
+        name: 'Just tried higgsaudio v2: a new multilingual TTS model, pretty impressed',
+      },
+      {
+        path: '/1m6vj8o',
+        name: 'How are people staging AI training datasets from NVMe → DDR5 → GPU VRAM for fine-tuning on RTX 5090s?',
+      },
     ],
   },
   {
