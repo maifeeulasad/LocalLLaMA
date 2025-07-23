@@ -39,7 +39,7 @@
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 375,
+            "ups": 393,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 375,
+            "score": 393,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "Independent-Box-898",
             "discussion_type": null,
-            "num_comments": 50,
+            "num_comments": 51,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m5gwzs/i_extracted_the_system_prompts_from_closedsource/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m5gwzs/i_extracted_the_system_prompts_from_closedsource/",
-            "subreddit_subscribers": 502981,
+            "subreddit_subscribers": 503254,
             "created_utc": 1753099002,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -274,7 +274,7 @@
                       "created_utc": 1753104216,
                       "send_replies": true,
                       "parent_id": "t1_n4btsgr",
-                      "score": 57,
+                      "score": 54,
                       "author_fullname": "t2_x7vf0",
                       "removal_reason": null,
                       "approved_by": null,
@@ -316,7 +316,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 57
+                      "ups": 54
                     }
                   },
                   {
@@ -349,7 +349,7 @@
                       "created_utc": 1753101308,
                       "send_replies": true,
                       "parent_id": "t1_n4btsgr",
-                      "score": 19,
+                      "score": 15,
                       "author_fullname": "t2_60b9farf",
                       "removal_reason": null,
                       "approved_by": null,
@@ -391,7 +391,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 19
+                      "ups": 15
                     }
                   },
                   {
@@ -424,7 +424,7 @@
                       "created_utc": 1753102032,
                       "send_replies": true,
                       "parent_id": "t1_n4btsgr",
-                      "score": 19,
+                      "score": 21,
                       "author_fullname": "t2_88lwr6",
                       "removal_reason": null,
                       "approved_by": null,
@@ -466,7 +466,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 19
+                      "ups": 21
                     }
                   },
                   {
@@ -568,7 +568,7 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "popiazaza",
                       "can_mod_post": false,
                       "created_utc": 1753104151,
@@ -907,7 +907,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4c5rvg",
-                                "score": 13,
+                                "score": 12,
                                 "author_fullname": "t2_fbh7mxys2",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -950,7 +950,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 12
                               }
                             },
                             {
@@ -982,7 +982,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4c5rvg",
-                                "score": 8,
+                                "score": 9,
                                 "author_fullname": "t2_1oeu2j1o",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1025,7 +1025,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             },
                             {
@@ -1360,6 +1360,81 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n4n920w",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "osskid",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n4c5rvg",
+                                "score": 1,
+                                "author_fullname": "t2_4pwf3",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "This still seems dubious. It's easy and computationally cheap to write a sentinel function that prevents String A from appearing in String B, and that's not mentioning simple distance algorithms or more advanced guardrail LLMs models.\n\nIf system prompts are close-guarded secret sauce for many of these companies, I can't believe that anything other than human error would result in extracting the exact system prompt, or even one significantly similar. I would fully expect multi-shot attempts to extract the prompts to return similar messages, but I wouldn't make the leap to saying those are _the_ system prompts.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n4n920w",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This still seems dubious. It&amp;#39;s easy and computationally cheap to write a sentinel function that prevents String A from appearing in String B, and that&amp;#39;s not mentioning simple distance algorithms or more advanced guardrail LLMs models.&lt;/p&gt;\n\n&lt;p&gt;If system prompts are close-guarded secret sauce for many of these companies, I can&amp;#39;t believe that anything other than human error would result in extracting the exact system prompt, or even one significantly similar. I would fully expect multi-shot attempts to extract the prompts to return similar messages, but I wouldn&amp;#39;t make the leap to saying those are &lt;em&gt;the&lt;/em&gt; system prompts.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m5gwzs",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m5gwzs/i_extracted_the_system_prompts_from_closedsource/n4n920w/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753238909,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753238909,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "before": null
@@ -1379,7 +1454,7 @@
                       "created_utc": 1753104380,
                       "send_replies": true,
                       "parent_id": "t1_n4c3rji",
-                      "score": 40,
+                      "score": 41,
                       "author_fullname": "t2_94plzy4n",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1421,7 +1496,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 40
+                      "ups": 41
                     }
                   },
                   {
@@ -1821,7 +1896,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n4c9792",
-                                          "score": 12,
+                                          "score": 10,
                                           "author_fullname": "t2_49fdoure",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1864,7 +1939,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 12
+                                          "ups": 10
                                         }
                                       }
                                     ],
@@ -1884,7 +1959,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4c7y6e",
-                                "score": 14,
+                                "score": 12,
                                 "author_fullname": "t2_3o91c",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1927,7 +2002,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 14
+                                "ups": 12
                               }
                             }
                           ],
@@ -2011,7 +2086,7 @@
             "created_utc": 1753103707,
             "send_replies": true,
             "parent_id": "t3_1m5gwzs",
-            "score": 41,
+            "score": 37,
             "author_fullname": "t2_na9ev",
             "approved_by": null,
             "mod_note": null,
@@ -2053,7 +2128,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 41
+            "ups": 37
           }
         },
         {
@@ -2161,7 +2236,7 @@
             "created_utc": 1753125535,
             "send_replies": true,
             "parent_id": "t3_1m5gwzs",
-            "score": 8,
+            "score": 7,
             "author_fullname": "t2_vowy0dxi",
             "approved_by": null,
             "mod_note": null,
@@ -2203,7 +2278,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -2236,7 +2311,7 @@
             "created_utc": 1753099154,
             "send_replies": true,
             "parent_id": "t3_1m5gwzs",
-            "score": 11,
+            "score": 12,
             "author_fullname": "t2_j1i0o",
             "approved_by": null,
             "mod_note": null,
@@ -2278,7 +2353,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 12
           }
         },
         {
@@ -2334,7 +2409,7 @@
                       "created_utc": 1753128300,
                       "send_replies": true,
                       "parent_id": "t1_n4bvq97",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_42fwxrkh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2376,7 +2451,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   }
                 ],
@@ -2558,7 +2633,7 @@
             "created_utc": 1753103728,
             "send_replies": true,
             "parent_id": "t3_1m5gwzs",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_51ohu6e1",
             "approved_by": null,
             "mod_note": null,
@@ -2600,7 +2675,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {

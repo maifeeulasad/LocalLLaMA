@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 136,
+            "ups": 137,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 136,
+            "score": 137,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m5oxyp/qwen_released_qwen3235ba22b2507/",
             "stickied": false,
             "url": "https://i.redd.it/6csu4o4wg9ef1.jpeg",
-            "subreddit_subscribers": 502981,
+            "subreddit_subscribers": 503254,
             "created_utc": 1753118337,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -258,7 +258,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4efyr2",
-                                "score": 4,
+                                "score": 5,
                                 "author_fullname": "t2_p45er6oo",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -306,7 +306,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -327,7 +327,7 @@
                       "created_utc": 1753127987,
                       "send_replies": true,
                       "parent_id": "t1_n4dkijb",
-                      "score": 0,
+                      "score": 1,
                       "author_fullname": "t2_1tpuoj72sa",
                       "removal_reason": null,
                       "approved_by": null,
@@ -369,7 +369,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": 1
                     }
                   }
                 ],
@@ -976,7 +976,7 @@
                       "created_utc": 1753121165,
                       "send_replies": true,
                       "parent_id": "t1_n4dr973",
-                      "score": 25,
+                      "score": 24,
                       "author_fullname": "t2_bm2tzwck",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1018,7 +1018,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 25
+                      "ups": 24
                     }
                   }
                 ],
@@ -1087,7 +1087,6 @@
         {
           "kind": "t1",
           "data": {
-            "body": "[deleted]",
             "total_awards_received": 0,
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -1134,7 +1133,6 @@
                             {
                               "kind": "t1",
                               "data": {
-                                "body": "I get the separate models part, that seem logical, But from what I understood they are far more rigid and don't have a better understanding when all things are equal.  So are you saying that isn't correct?",
                                 "subreddit_id": "t5_81eyvm",
                                 "approved_at_utc": null,
                                 "author_is_blocked": false,
@@ -1167,7 +1165,7 @@
                                 "approved_by": null,
                                 "mod_note": null,
                                 "all_awardings": [],
-                                "author_cakeday": true,
+                                "body": "I get the separate models part, that seem logical, But from what I understood they are far more rigid and don't have a better understanding when all things are equal.  So are you saying that isn't correct?",
                                 "edited": false,
                                 "top_awarded_type": null,
                                 "downs": 0,
@@ -1225,7 +1223,7 @@
                       "created_utc": 1753119994,
                       "send_replies": true,
                       "parent_id": "t1_n4dm92m",
-                      "score": 8,
+                      "score": 7,
                       "author_fullname": "t2_j8fit2p",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1267,7 +1265,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 7
                     }
                   }
                 ],
@@ -1292,7 +1290,7 @@
             "report_reasons": null,
             "all_awardings": [],
             "subreddit_id": "t5_81eyvm",
-            "author_cakeday": true,
+            "body": "[deleted]",
             "edited": 1753120309,
             "downs": 0,
             "author_flair_css_class": null,
