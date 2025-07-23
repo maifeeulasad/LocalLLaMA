@@ -36,7 +36,7 @@
             "name": "t3_1m5th6s",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.44,
+            "upvote_ratio": 0.41,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "ThatIsNotIllegal",
             "discussion_type": null,
-            "num_comments": 20,
+            "num_comments": 21,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m5th6s/why_are_base_nonfinetuned_models_so_bad/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m5th6s/why_are_base_nonfinetuned_models_so_bad/",
-            "subreddit_subscribers": 502721,
+            "subreddit_subscribers": 502981,
             "created_utc": 1753128457,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -585,7 +585,7 @@
                       "created_utc": 1753129602,
                       "send_replies": true,
                       "parent_id": "t1_n4eju0n",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_dissgzyl",
                       "removal_reason": null,
                       "approved_by": null,
@@ -627,7 +627,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -1050,7 +1050,7 @@
             "created_utc": 1753129088,
             "send_replies": true,
             "parent_id": "t3_1m5th6s",
-            "score": 16,
+            "score": 17,
             "author_fullname": "t2_9sufu",
             "approved_by": null,
             "mod_note": null,
@@ -1092,7 +1092,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 17
           }
         },
         {
@@ -1211,7 +1211,7 @@
             "created_utc": 1753135689,
             "send_replies": true,
             "parent_id": "t3_1m5th6s",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_r0x1k85",
             "approved_by": null,
             "mod_note": null,
@@ -1253,7 +1253,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -1340,7 +1340,93 @@
                                           "subreddit": "LocalLLaMA",
                                           "author_flair_template_id": null,
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "after": null,
+                                              "dist": null,
+                                              "modhash": "",
+                                              "geo_filter": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "approved_at_utc": null,
+                                                    "author_is_blocked": false,
+                                                    "comment_type": null,
+                                                    "awarders": [],
+                                                    "mod_reason_by": null,
+                                                    "banned_by": null,
+                                                    "author_flair_type": "text",
+                                                    "total_awards_received": 0,
+                                                    "subreddit": "LocalLLaMA",
+                                                    "author_flair_template_id": null,
+                                                    "distinguished": null,
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "n4iul1y",
+                                                    "banned_at_utc": null,
+                                                    "mod_reason_title": null,
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "collapsed_reason_code": null,
+                                                    "no_follow": true,
+                                                    "author": "Affectionate-Cap-600",
+                                                    "can_mod_post": false,
+                                                    "send_replies": true,
+                                                    "parent_id": "t1_n4g614d",
+                                                    "score": 1,
+                                                    "author_fullname": "t2_5oltmr5b",
+                                                    "removal_reason": null,
+                                                    "approved_by": null,
+                                                    "mod_note": null,
+                                                    "all_awardings": [],
+                                                    "body": "it would *probably* work good enough, but in a totally unreliable way. \n\n&gt;better at conversations than instruct tuned models\n\nI don't think that would be the case in any situation \n\n&gt;not just picking up random patterns but only the ones I specify\n\nwell the instruction tuning work in this way, 'teaching' which pattern a conversation should have. modern instruct models are extremely good at instruction following... is there a particular reason you want to use a base model?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "name": "t1_n4iul1y",
+                                                    "is_submitter": false,
+                                                    "downs": 0,
+                                                    "author_flair_richtext": [],
+                                                    "author_patreon_flair": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it would &lt;em&gt;probably&lt;/em&gt; work good enough, but in a totally unreliable way. &lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;better at conversations than instruct tuned models&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;I don&amp;#39;t think that would be the case in any situation &lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;not just picking up random patterns but only the ones I specify&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;well the instruction tuning work in this way, &amp;#39;teaching&amp;#39; which pattern a conversation should have. modern instruct models are extremely good at instruction following... is there a particular reason you want to use a base model?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "gildings": {},
+                                                    "collapsed_reason": null,
+                                                    "link_id": "t3_1m5th6s",
+                                                    "associated_award": null,
+                                                    "stickied": false,
+                                                    "author_premium": false,
+                                                    "can_gild": false,
+                                                    "top_awarded_type": null,
+                                                    "unrepliable_reason": null,
+                                                    "author_flair_text_color": null,
+                                                    "treatment_tags": [],
+                                                    "score_hidden": false,
+                                                    "permalink": "/r/LocalLLaMA/comments/1m5th6s/why_are_base_nonfinetuned_models_so_bad/n4iul1y/",
+                                                    "subreddit_type": "public",
+                                                    "locked": false,
+                                                    "report_reasons": null,
+                                                    "created": 1753191431,
+                                                    "author_flair_text": null,
+                                                    "collapsed": false,
+                                                    "created_utc": 1753191431,
+                                                    "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                    "controversiality": 0,
+                                                    "depth": 4,
+                                                    "author_flair_background_color": null,
+                                                    "collapsed_because_crowd_control": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "n4g614d",
@@ -1544,7 +1630,7 @@
             "created_utc": 1753132558,
             "send_replies": true,
             "parent_id": "t3_1m5th6s",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_44nkp",
             "approved_by": null,
             "mod_note": null,
@@ -1586,7 +1672,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
