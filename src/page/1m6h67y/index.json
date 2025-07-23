@@ -39,7 +39,7 @@
             "upvote_ratio": 1,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 10,
+            "ups": 13,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 10,
+            "score": 13,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m6h67y/epyc_qwen3_235b_q8_speed/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m6h67y/epyc_qwen3_235b_q8_speed/",
-            "subreddit_subscribers": 502981,
+            "subreddit_subscribers": 503254,
             "created_utc": 1753198166,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -943,7 +943,7 @@
             "created_utc": 1753201224,
             "send_replies": true,
             "parent_id": "t3_1m6h67y",
-            "score": 12,
+            "score": 11,
             "author_fullname": "t2_lpdsy",
             "approved_by": null,
             "mod_note": null,
@@ -985,7 +985,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 11
           }
         },
         {
@@ -1426,7 +1426,7 @@
             "created_utc": 1753232547,
             "send_replies": true,
             "parent_id": "t3_1m6h67y",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_e8woqvcq",
             "approved_by": null,
             "mod_note": null,
@@ -1468,7 +1468,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

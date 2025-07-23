@@ -7492,6 +7492,142 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m6vj8o',
         name: 'How are people staging AI training datasets from NVMe → DDR5 → GPU VRAM for fine-tuning on RTX 5090s?',
       },
+      {
+        path: '/1m6wb5o',
+        name: 'Recent Qwen Benchmark Scores are Questionable',
+      },
+      {
+        path: '/1m6wgs7',
+        name: 'Qwen3-Coder Unsloth dynamic GGUFs',
+      },
+      {
+        path: '/1m6wq77',
+        name: 'Added Qwen3-Coder to my VsCode extension',
+      },
+      {
+        path: '/1m6xbru',
+        name: 'How does Gemini 2.5 Pro natively support 1M tokens of context? Is it using YaRN, or some kind of disguised chunking?',
+      },
+      {
+        path: '/1m6xbs7',
+        name: 'I\'m looking for an Uncensored LLM to produce extremely spicy prompts - What would you recommend?',
+      },
+      {
+        path: '/1m6xhgg',
+        name: 'How to play a character as user with Tavern, Kobold, llama 3.2b?',
+      },
+      {
+        path: '/1m6xrfj',
+        name: 'Injecting custom embeddings into LLaMA 3.2 GGUF model',
+      },
+      {
+        path: '/1m6xt2d',
+        name: 'How to prevent bad/illegal word queries',
+      },
+      {
+        path: '/1m6y6c7',
+        name: 'Is it just me or does building local multi-agent LLM systems kind of suck right now?',
+      },
+      {
+        path: '/1m6zce0',
+        name: '[Research] Thought Anchors: Understanding How Qwen3-0.6B vs DeepSeek-R1-Distill-1.5B Actually Reason - Different Cognitive Architectures Revealed',
+      },
+      {
+        path: '/1m6zdx4',
+        name: 'Consumer usecase for on-device AI - an Android app to detect scams',
+      },
+      {
+        path: '/1m6zkmm',
+        name: '[Github Repo] - Use Qwen3 coder or any other LLM provider with Claude Code',
+      },
+      {
+        path: '/1m6ztb2',
+        name: 'UI/UX benchmark update 7/22: Newest Qwen models added, Qwen3 takes the lead in terms of win rate (though still early)',
+      },
+      {
+        path: '/1m6zz1v',
+        name: 'Kimi K2 vs Qwen3 Coder 480B',
+      },
+      {
+        path: '/1m704yl',
+        name: 'Noob: In theory what set up would you need to run the best LLMs locally at the same speed as the public LLM?',
+      },
+      {
+        path: '/1m70n7q',
+        name: 'Alibaba’s upgraded Qwen3 235B-A22B 2507 is now the most intelligent non-reasoning model.',
+      },
+      {
+        path: '/1m70ra1',
+        name: 'MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models',
+      },
+      {
+        path: '/1m71f20',
+        name: 'unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF · Hugging Face',
+      },
+      {
+        path: '/1m71oqv',
+        name: 'How do you solve this dilemma?',
+      },
+      {
+        path: '/1m72d5y',
+        name: '🔓 I built Hearth-UI — A fully-featured desktop app for chatting with local LLMs (Ollama-ready, attachments, themes, markdown, and more)',
+      },
+      {
+        path: '/1m73n0t',
+        name: 'Anyone seen safety regressions after fine-tuning LLaMA or Mistral on clean data?',
+      },
+      {
+        path: '/1m73ohk',
+        name: 'Has anyone noticed that the gemma3n model doesn\'t look like a gemma, but more like a gemini mini?',
+      },
+      {
+        path: '/1m73q8n',
+        name: 'Need Help - Local LLM &amp; Lots of Files! (Privacy Concerns)',
+      },
+      {
+        path: '/1m73yrb',
+        name: 'Qwen 3 Coder is actually pretty decent in my testing',
+      },
+      {
+        path: '/1m741so',
+        name: 'What do you do to keep up to date on new research, trends and more?',
+      },
+      {
+        path: '/1m74b87',
+        name: 'Qwen3-Coder is VERY expensive maybe one day You can run it locally.',
+      },
+      {
+        path: '/1m7503r',
+        name: 'Why do many papers skip hyperparameter search?',
+      },
+      {
+        path: '/1m75afx',
+        name: 'Get your hands on Nvidia GB200 NVL72 for free!',
+      },
+      {
+        path: '/1m75bwe',
+        name: 'Llama?',
+      },
+      {
+        path: '/1m75i0b',
+        name: 'Getting a model run with vLLM and 7900 XTX',
+      },
+      {
+        path: '/1m760rq',
+        name: 'ADHD &amp; LLM development is a risky cocktail',
+      },
+      {
+        path: '/1m76df6',
+        name: 'What do new architectures offer and what are their limits?',
+      },
+      {
+        path: '/1m775h2',
+        name: 'Building a p2p inference engine in rust and hugging face',
+      },
+      {
+        path: '/1m77az5',
+        name: 'Which quantization approach is the way to go? (llama.cpp)',
+      },
     ],
   },
   {
