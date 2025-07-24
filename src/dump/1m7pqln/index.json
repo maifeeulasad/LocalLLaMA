@@ -1,0 +1,300 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I just tested the `unsloth/Qwen3-235B-A22B-Instruct-2507-UD-Q3_K_XL.gguf` model using `llama.cpp` on a Threadripper machine equiped with 128 GB RAM + 72 GB VRAM. \n\nBy selectively offloading MoE tensors to the CPU - aiming to maximize the VRAM usage - I managed to run the model at generation rate of 15 tokens/s and a context window of 32k tokens. This token generation speed is really great for a non-reasoning model. \n  \nHere is the full execution command I used:\n\n```\n./llama-server \\\n--model downloaded_models/Qwen3-235B-A22B-Instruct-2507-UD-Q3_K_XL-00001-of-00003.gguf \\\n--port 11433 \\\n--host \"0.0.0.0\" \\\n--verbose \\\n--flash-attn \\\n--cache-type-k q8_0 \\\n--cache-type-v q8_0 \\\n--n-gpu-layers 999 \\\n-ot \"blk\\.(?:[1-8]?[1379])\\.ffn_.*_exps\\.weight=CPU\" \\\n--prio 3 \\\n--threads 32 \\\n--ctx-size 32768 \\\n--temp 0.6 \\\n--min-p 0.0 \\\n--top-p 0.95 \\\n--top-k 20 \\\n--repeat-penalty 1\n```\n\nI'm still new to `llama.cpp` and quantization, so any advice is welcome. I think Q4_K_XL might be too heavy for this machine, so I wonder how much quality I would lose by using Q3_K_XL instead.\n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Running Qwen3 235B-A22B 2507 on a Threadripper 3970X + 3x RTX 3090 Machine at 15 tok/s",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 105,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1m7pqln",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.92,
+            "author_flair_background_color": null,
+            "ups": 11,
+            "total_awards_received": 0,
+            "media_embed": {
+              "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7HXCQ-4F_oQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine\"&gt;&lt;/iframe&gt;",
+              "width": 356,
+              "scrolling": false,
+              "height": 200
+            },
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_14u3g9s5kx",
+            "secure_media": {
+              "oembed": {
+                "provider_url": "https://www.youtube.com/",
+                "title": "Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine",
+                "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7HXCQ-4F_oQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine\"&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "height": 200,
+                "width": 356,
+                "version": "1.0",
+                "author_name": "Septerium",
+                "provider_name": "YouTube",
+                "thumbnail_url": "https://i.ytimg.com/vi/7HXCQ-4F_oQ/hqdefault.jpg",
+                "type": "video",
+                "thumbnail_height": 360,
+                "author_url": "https://www.youtube.com/@JohnnyGomezSn"
+              },
+              "type": "youtube.com"
+            },
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {
+              "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7HXCQ-4F_oQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine\"&gt;&lt;/iframe&gt;",
+              "width": 356,
+              "scrolling": false,
+              "media_domain_url": "https://www.redditmedia.com/mediaembed/1m7pqln",
+              "height": 200
+            },
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 11,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI.jpeg?width=140&amp;height=105&amp;crop=140:105,smart&amp;auto=webp&amp;s=1b8996779707c4a5f85298d6cf4e8395ec809c0d",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "rich:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753316083,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "youtube.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I just tested the &lt;code&gt;unsloth/Qwen3-235B-A22B-Instruct-2507-UD-Q3_K_XL.gguf&lt;/code&gt; model using &lt;code&gt;llama.cpp&lt;/code&gt; on a Threadripper machine equiped with 128 GB RAM + 72 GB VRAM. &lt;/p&gt;\n\n&lt;p&gt;By selectively offloading MoE tensors to the CPU - aiming to maximize the VRAM usage - I managed to run the model at generation rate of 15 tokens/s and a context window of 32k tokens. This token generation speed is really great for a non-reasoning model. &lt;/p&gt;\n\n&lt;p&gt;Here is the full execution command I used:&lt;/p&gt;\n\n&lt;p&gt;&lt;code&gt;\n./llama-server \\\n--model downloaded_models/Qwen3-235B-A22B-Instruct-2507-UD-Q3_K_XL-00001-of-00003.gguf \\\n--port 11433 \\\n--host &amp;quot;0.0.0.0&amp;quot; \\\n--verbose \\\n--flash-attn \\\n--cache-type-k q8_0 \\\n--cache-type-v q8_0 \\\n--n-gpu-layers 999 \\\n-ot &amp;quot;blk\\.(?:[1-8]?[1379])\\.ffn_.*_exps\\.weight=CPU&amp;quot; \\\n--prio 3 \\\n--threads 32 \\\n--ctx-size 32768 \\\n--temp 0.6 \\\n--min-p 0.0 \\\n--top-p 0.95 \\\n--top-k 20 \\\n--repeat-penalty 1\n&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m still new to &lt;code&gt;llama.cpp&lt;/code&gt; and quantization, so any advice is welcome. I think Q4_K_XL might be too heavy for this machine, so I wonder how much quality I would lose by using Q3_K_XL instead.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.youtube.com/watch?v=7HXCQ-4F_oQ",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI.jpeg?auto=webp&amp;s=fb78672ddcf654bd2c828f30bcdaede2ae00db46",
+                    "width": 480,
+                    "height": 360
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b68e4415698a411ba429105637449852662e35d9",
+                      "width": 108,
+                      "height": 81
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b7a94209a8c4dae66ae50d2f66698b6671ae7897",
+                      "width": 216,
+                      "height": 162
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b8cd0c77917208f92bbcf8528d34b5d0cb74b361",
+                      "width": 320,
+                      "height": 240
+                    }
+                  ],
+                  "variants": {},
+                  "id": "SJM7H0dEjQbZg7rpDS-XlIxBG6BcDeZN9RBYNbnkGWI"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1m7pqln",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "FalseMap1582",
+            "discussion_type": null,
+            "num_comments": 2,
+            "send_replies": true,
+            "media": {
+              "oembed": {
+                "provider_url": "https://www.youtube.com/",
+                "title": "Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine",
+                "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7HXCQ-4F_oQ?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Running Qwen 3 2507 UD-Q3_K_XL on a Threadripper 3970X + 3x RTX 3090 Machine\"&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "height": 200,
+                "width": 356,
+                "version": "1.0",
+                "author_name": "Septerium",
+                "provider_name": "YouTube",
+                "thumbnail_url": "https://i.ytimg.com/vi/7HXCQ-4F_oQ/hqdefault.jpg",
+                "type": "video",
+                "thumbnail_height": 360,
+                "author_url": "https://www.youtube.com/@JohnnyGomezSn"
+              },
+              "type": "youtube.com"
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m7pqln/running_qwen3_235ba22b_2507_on_a_threadripper/",
+            "stickied": false,
+            "url": "https://www.youtube.com/watch?v=7HXCQ-4F_oQ",
+            "subreddit_subscribers": 503516,
+            "created_utc": 1753316083,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n4te81t",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "segmond",
+            "can_mod_post": false,
+            "created_utc": 1753317681,
+            "send_replies": true,
+            "parent_id": "t3_1m7pqln",
+            "score": 1,
+            "author_fullname": "t2_ah13x",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "context window of 32k, but how much actual data did you load?   i'm running q4kxl at 60k tokens, but slows to a crawl when I have 20k tokens, but this is an ancient celeron cpu with some mi50s",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n4te81t",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;context window of 32k, but how much actual data did you load?   i&amp;#39;m running q4kxl at 60k tokens, but slows to a crawl when I have 20k tokens, but this is an ancient celeron cpu with some mi50s&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": "light",
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m7pqln/running_qwen3_235ba22b_2507_on_a_threadripper/n4te81t/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753317681,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "link_id": "t3_1m7pqln",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": "#bbbdbf",
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
