@@ -7884,6 +7884,166 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m7pqln',
         name: 'Running Qwen3 235B-A22B 2507 on a Threadripper 3970X + 3x RTX 3090 Machine at 15 tok/s',
       },
+      {
+        path: '/1m7ra6u',
+        name: 'So called "free thinkers" when you ask for a joke',
+      },
+      {
+        path: '/1m7rwgo',
+        name: 'Best TTS Model with New Language Support',
+      },
+      {
+        path: '/1m7sbb0',
+        name: 'Trying to finetune my first model for writing — need some beginner advice :)',
+      },
+      {
+        path: '/1m7sspe',
+        name: 'A TTS I\'m looking for.',
+      },
+      {
+        path: '/1m7tb9b',
+        name: 'Just started an AI‑insights podcast this week—thought I’d share and get your thoughts!',
+      },
+      {
+        path: '/1m7tglf',
+        name: 'LM server alternative?',
+      },
+      {
+        path: '/1m7tqeg',
+        name: 'How MCP Inspector Works Internally: Client-Proxy Architecture and Communication Flow',
+      },
+      {
+        path: '/1m7ts5g',
+        name: 'Tested Kimi K2 vs Qwen-3 Coder on 15 Coding tasks - here\'s what I found',
+      },
+      {
+        path: '/1m7u02i',
+        name: 'Vibe Coded with Qwen 3 Coder in &lt;1 hour',
+      },
+      {
+        path: '/1m7u3mb',
+        name: 'Best local model for code search',
+      },
+      {
+        path: '/1m7u9fz',
+        name: 'My new Chrome extension lets you easily query Ollama and copy any text with a click.',
+      },
+      {
+        path: '/1m7ufyb',
+        name: 'KAT-V1-40B: mitigates over-thinking by learning when to produce explicit chain-of-thought and when to answer directly.',
+      },
+      {
+        path: '/1m7vlpn',
+        name: 'Anthropic’s New Research: Giving AI More "Thinking Time" Can Actually Make It Worse',
+      },
+      {
+        path: '/1m7vrml',
+        name: 'I asked deepseek to make a song that it wanted to make',
+      },
+      {
+        path: '/1m7w3xm',
+        name: 'RAG on large Excel files',
+      },
+      {
+        path: '/1m7wpgo',
+        name: 'RAG project fails to retrieve info from large Excel files – data ingested but not found at query time. Need help debugging.',
+      },
+      {
+        path: '/1m7wqi3',
+        name: 'Tool Use Reasoning Dataset Release on Huggingface',
+      },
+      {
+        path: '/1m7wr2x',
+        name: 'What is the best agent framework for Qwen3?',
+      },
+      {
+        path: '/1m7wx5z',
+        name: 'Do you think open source models continue to keep pace with proprietary models or will the gap widen?',
+      },
+      {
+        path: '/1m7xclf',
+        name: '5090 vs 4090 vs smt else for inference?',
+      },
+      {
+        path: '/1m7xsjm',
+        name: 'Upcoming opensource will be super at coding and its very small!!',
+      },
+      {
+        path: '/1m7xsxq',
+        name: '[AutoBE] We made AI-friendly Compilers for Vibe Coding, achieving zero-fail Backend Application Generation (open-source)',
+      },
+      {
+        path: '/1m7y2jv',
+        name: 'Which is better for summarization and retrieval in RAG: new T5 Gemma or Gemma 3 12B?',
+      },
+      {
+        path: '/1m7y3kl',
+        name: 'DSPy Optimisation: What does "learning LM weights" mean?',
+      },
+      {
+        path: '/1m7ypyb',
+        name: 'Why is B200 performing similarly to H200? (ArtificialAnalysis)',
+      },
+      {
+        path: '/1m7yswh',
+        name: 'Vibe Coding Anonymous - Satirical take on Vibe Coding',
+      },
+      {
+        path: '/1m7z5zu',
+        name: 'Currently building cross-app overlay using local llms',
+      },
+      {
+        path: '/1m7z6p0',
+        name: 'Can Reasoning Skills Learned in One Domain Generalize Across other Domains?',
+      },
+      {
+        path: '/1m7zqkz',
+        name: 'Which model is good for debugging with resource constrains?',
+      },
+      {
+        path: '/1m7zwsd',
+        name: 'Technical Advise needed! - Market intelligence platform.',
+      },
+      {
+        path: '/1m80dz3',
+        name: 'How to run large model ?',
+      },
+      {
+        path: '/1m80gsn',
+        name: 'GLM-4.5 Is About to Be Released',
+      },
+      {
+        path: '/1m80kuh',
+        name: 'How to estimate prompt processing speed for given (multi-)GPU and model?',
+      },
+      {
+        path: '/1m80tkf',
+        name: 'i have Built live Conservational AI',
+      },
+      {
+        path: '/1m81whq',
+        name: 'Open source alternative to LM studio?',
+      },
+      {
+        path: '/1m820ry',
+        name: 'I used a local LLM and http proxy to create a "Digital Twin" from my web browsing for my AI agents',
+      },
+      {
+        path: '/1m82lwo',
+        name: 'Leaked List Shows Which Websites Contractors Can Use to Train Anthropic\'s LLMs',
+      },
+      {
+        path: '/1m82rai',
+        name: 'Should I really always set temperature to 0 with reasoning models?',
+      },
+      {
+        path: '/1m82w07',
+        name: 'Free uncensored LLM model that I can deploy to Gradio.',
+      },
+      {
+        path: '/1m82wh5',
+        name: 'How to Run Kimi K2 Locally: Complete Setup &amp; Troubleshooting',
+      },
     ],
   },
   {

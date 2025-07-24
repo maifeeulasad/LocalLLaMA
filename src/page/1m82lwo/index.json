@@ -1,0 +1,189 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "BI obtained an internal list of websites that could and couldn't be used for training Anthropic's latest AI models.  \n  \nAnthropic's contractor Surge AI left the list fully public on Google Docs.  \n  \n'Sites you can use' include Bloomberg, Harvard, &amp; the Mayo Clinic.\n\nMany of the whitelisted sources copyright or otherwise restrict their content.  \n  \nAt least 3 - the Mayo Clinic, Cornell University, &amp; Morningstar - told BI they didn't have any AI training agreements with Anthropic.\n\n  \nThe spreadsheet also includes a blacklist of websites that Surge AI's gig workers were \"now disallowed\" from using.  \n  \nThe blacklist includes companies like the NYT &amp; Reddit which have sued AI startups for scraping without permission.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Leaked List Shows Which Websites Contractors Can Use to Train Anthropic's LLMs",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "News"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1m82lwo",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 3,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_3el21u3z",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "News",
+            "can_mod_post": false,
+            "score": 3,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=21060694fcc62a00fc028087d1d26177aadb8fd8",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753358823,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "businessinsider.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;BI obtained an internal list of websites that could and couldn&amp;#39;t be used for training Anthropic&amp;#39;s latest AI models.  &lt;/p&gt;\n\n&lt;p&gt;Anthropic&amp;#39;s contractor Surge AI left the list fully public on Google Docs.  &lt;/p&gt;\n\n&lt;p&gt;&amp;#39;Sites you can use&amp;#39; include Bloomberg, Harvard, &amp;amp; the Mayo Clinic.&lt;/p&gt;\n\n&lt;p&gt;Many of the whitelisted sources copyright or otherwise restrict their content.  &lt;/p&gt;\n\n&lt;p&gt;At least 3 - the Mayo Clinic, Cornell University, &amp;amp; Morningstar - told BI they didn&amp;#39;t have any AI training agreements with Anthropic.&lt;/p&gt;\n\n&lt;p&gt;The spreadsheet also includes a blacklist of websites that Surge AI&amp;#39;s gig workers were &amp;quot;now disallowed&amp;quot; from using.  &lt;/p&gt;\n\n&lt;p&gt;The blacklist includes companies like the NYT &amp;amp; Reddit which have sued AI startups for scraping without permission.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.businessinsider.com/anthropic-surge-ai-leaked-list-sites-2025-7",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?auto=webp&amp;s=bd65cf5480704dc7805fd076e1f24144449bb9a7",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a02d30d66c7029a05158abac8fb3e271b366dbfc",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=86f57b1721691c337431e2352889367aa34f90cd",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6fb6b0c962db6ec04ea54163f60f3315806f90bd",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42380fe0539f546fdb60963fca95595cf9e80e4c",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b7defec9caecbfe1869fcef441c42dddbd5d88f2",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b889902e6adb9632b83e1787082dba4971c91ec9",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "4EDmTvD3Q75TbsFu3bs2bpESx7dmxOeoPUkJraEGC8I"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#cc3600",
+            "id": "1m82lwo",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Amgadoz",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m82lwo/leaked_list_shows_which_websites_contractors_can/",
+            "stickied": false,
+            "url": "https://www.businessinsider.com/anthropic-surge-ai-leaked-list-sites-2025-7",
+            "subreddit_subscribers": 503759,
+            "created_utc": 1753358823,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

@@ -127,7 +127,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.94,
             "author_flair_background_color": null,
-            "ups": 260,
+            "ups": 274,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -155,7 +155,7 @@
             },
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 260,
+            "score": 274,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -211,7 +211,7 @@
             "report_reasons": null,
             "author": "Fantastic-Emu-3819",
             "discussion_type": null,
-            "num_comments": 38,
+            "num_comments": 41,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -220,7 +220,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m70n7q/alibabas_upgraded_qwen3_235ba22b_2507_is_now_the/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1m70n7q",
-            "subreddit_subscribers": 503518,
+            "subreddit_subscribers": 503757,
             "created_utc": 1753247536,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -378,7 +378,7 @@
                       "created_utc": 1753274248,
                       "send_replies": true,
                       "parent_id": "t1_n4obohv",
-                      "score": 21,
+                      "score": 25,
                       "author_fullname": "t2_rea1qh6m",
                       "removal_reason": null,
                       "approved_by": null,
@@ -425,7 +425,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 21
+                      "ups": 25
                     }
                   },
                   {
@@ -480,7 +480,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4p19k9",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_c2f558x",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -523,7 +523,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -544,7 +544,7 @@
                       "created_utc": 1753270661,
                       "send_replies": true,
                       "parent_id": "t1_n4obohv",
-                      "score": 7,
+                      "score": 10,
                       "author_fullname": "t2_syq52",
                       "removal_reason": null,
                       "approved_by": null,
@@ -586,7 +586,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 10
                     }
                   }
                 ],
@@ -607,7 +607,7 @@
             "created_utc": 1753257227,
             "send_replies": true,
             "parent_id": "t3_1m70n7q",
-            "score": 59,
+            "score": 69,
             "author_fullname": "t2_12aeph",
             "approved_by": null,
             "mod_note": null,
@@ -649,7 +649,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 59
+            "ups": 69
           }
         },
         {
@@ -854,7 +854,7 @@
             "created_utc": 1753247859,
             "send_replies": true,
             "parent_id": "t3_1m70n7q",
-            "score": 42,
+            "score": 47,
             "author_fullname": "t2_1mkh7x2yxn",
             "approved_by": null,
             "mod_note": null,
@@ -896,7 +896,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 42
+            "ups": 47
           }
         },
         {
@@ -1038,7 +1038,7 @@
                       "created_utc": 1753277525,
                       "send_replies": true,
                       "parent_id": "t1_n4nuzaa",
-                      "score": 7,
+                      "score": 10,
                       "author_fullname": "t2_1lufy6yx6z",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1080,7 +1080,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 10
                     }
                   },
                   {
@@ -1113,7 +1113,7 @@
                       "created_utc": 1753249319,
                       "send_replies": true,
                       "parent_id": "t1_n4nuzaa",
-                      "score": 11,
+                      "score": 12,
                       "author_fullname": "t2_maq0iwk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1155,7 +1155,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 12
                     }
                   },
                   {
@@ -1219,7 +1219,93 @@
                                           "subreddit": "LocalLLaMA",
                                           "author_flair_template_id": null,
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "after": null,
+                                              "dist": null,
+                                              "modhash": "",
+                                              "geo_filter": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "approved_at_utc": null,
+                                                    "author_is_blocked": false,
+                                                    "comment_type": null,
+                                                    "awarders": [],
+                                                    "mod_reason_by": null,
+                                                    "banned_by": null,
+                                                    "author_flair_type": "text",
+                                                    "total_awards_received": 0,
+                                                    "subreddit": "LocalLLaMA",
+                                                    "author_flair_template_id": null,
+                                                    "distinguished": null,
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "n4tkm7m",
+                                                    "banned_at_utc": null,
+                                                    "mod_reason_title": null,
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "collapsed_reason_code": null,
+                                                    "no_follow": true,
+                                                    "author": "nomorebuttsplz",
+                                                    "can_mod_post": false,
+                                                    "send_replies": true,
+                                                    "parent_id": "t1_n4rrrdj",
+                                                    "score": 2,
+                                                    "author_fullname": "t2_syq52",
+                                                    "removal_reason": null,
+                                                    "approved_by": null,
+                                                    "mod_note": null,
+                                                    "all_awardings": [],
+                                                    "body": "it definitely has it for creative writing. I don't know about for philosophy, theoretical science, that sort of thing.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "name": "t1_n4tkm7m",
+                                                    "is_submitter": false,
+                                                    "downs": 0,
+                                                    "author_flair_richtext": [],
+                                                    "author_patreon_flair": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it definitely has it for creative writing. I don&amp;#39;t know about for philosophy, theoretical science, that sort of thing.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "gildings": {},
+                                                    "collapsed_reason": null,
+                                                    "link_id": "t3_1m70n7q",
+                                                    "associated_award": null,
+                                                    "stickied": false,
+                                                    "author_premium": false,
+                                                    "can_gild": false,
+                                                    "top_awarded_type": null,
+                                                    "unrepliable_reason": null,
+                                                    "author_flair_text_color": null,
+                                                    "treatment_tags": [],
+                                                    "score_hidden": false,
+                                                    "permalink": "/r/LocalLLaMA/comments/1m70n7q/alibabas_upgraded_qwen3_235ba22b_2507_is_now_the/n4tkm7m/",
+                                                    "subreddit_type": "public",
+                                                    "locked": false,
+                                                    "report_reasons": null,
+                                                    "created": 1753319913,
+                                                    "author_flair_text": null,
+                                                    "collapsed": false,
+                                                    "created_utc": 1753319913,
+                                                    "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                    "controversiality": 0,
+                                                    "depth": 4,
+                                                    "author_flair_background_color": null,
+                                                    "collapsed_because_crowd_control": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "n4rrrdj",
@@ -1671,7 +1757,7 @@
                       "created_utc": 1753261409,
                       "send_replies": true,
                       "parent_id": "t1_n4nuzaa",
-                      "score": -5,
+                      "score": -6,
                       "author_fullname": "t2_8lvrytgw",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1713,7 +1799,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -5
+                      "ups": -6
                     }
                   }
                 ],
@@ -1734,7 +1820,7 @@
             "created_utc": 1753248232,
             "send_replies": true,
             "parent_id": "t3_1m70n7q",
-            "score": 36,
+            "score": 38,
             "author_fullname": "t2_1tae7zwow9",
             "approved_by": null,
             "mod_note": null,
@@ -1776,7 +1862,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 38
           }
         },
         {
@@ -1854,7 +1940,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4pgc1r",
-                                "score": 4,
+                                "score": 6,
                                 "author_fullname": "t2_5ao30",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1897,7 +1983,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 6
                               }
                             }
                           ],
@@ -1918,7 +2004,7 @@
                       "created_utc": 1753276121,
                       "send_replies": true,
                       "parent_id": "t1_n4oag79",
-                      "score": 8,
+                      "score": 7,
                       "author_fullname": "t2_8j5t7yjq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1960,7 +2046,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 7
                     }
                   }
                 ],
@@ -2719,6 +2805,156 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n4tx9p6",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "OriginalTerran",
+            "can_mod_post": false,
+            "created_utc": 1753324382,
+            "send_replies": true,
+            "parent_id": "t3_1m70n7q",
+            "score": 1,
+            "author_fullname": "t2_1kqhi8ngtm",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Based on my use experience, this model is doing really bad on following the system prompt. For example, if you want to separate its reasoning and response:  \n\\----------  \nYou are Qwen, a powerful reasoning AI that specializes in using reasoning to answer the user's prompt.\n\nYou must put your step-by-step reasoning within &lt;think&gt; &lt;/think&gt; tags and responses within &lt;answer&gt; &lt;/answer&gt; tags.  \n\\----------\n\nIt would never use &lt;think&gt; tags and always use the &lt;reasoning&gt; tags.\n\nA more interesting finding is if you add any \"JSON like structure\" as an output example like this:  \n\\----------  \nExample Output Format:\n\n&lt;think&gt;\n\n\n{your reasoning}\n\n&lt;/think&gt;\n\n\n&lt;answer&gt;\n\n\n{your responses}\n\n&lt;/answer&gt;\n\n\n\\----------\n\nIt would try to make tool calls even if no tools are passed to the model.  \nI think this model is just doing really bad on generalization.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n4tx9p6",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Based on my use experience, this model is doing really bad on following the system prompt. For example, if you want to separate its reasoning and response:&lt;br/&gt;\n----------&lt;br/&gt;\nYou are Qwen, a powerful reasoning AI that specializes in using reasoning to answer the user&amp;#39;s prompt.&lt;/p&gt;\n\n&lt;p&gt;You must put your step-by-step reasoning within &amp;lt;think&amp;gt; &amp;lt;/think&amp;gt; tags and responses within &amp;lt;answer&amp;gt; &amp;lt;/answer&amp;gt; tags.&lt;br/&gt;\n----------&lt;/p&gt;\n\n&lt;p&gt;It would never use &amp;lt;think&amp;gt; tags and always use the &amp;lt;reasoning&amp;gt; tags.&lt;/p&gt;\n\n&lt;p&gt;A more interesting finding is if you add any &amp;quot;JSON like structure&amp;quot; as an output example like this:&lt;br/&gt;\n----------&lt;br/&gt;\nExample Output Format:&lt;/p&gt;\n\n&lt;p&gt;&amp;lt;think&amp;gt;&lt;/p&gt;\n\n&lt;p&gt;{your reasoning}&lt;/p&gt;\n\n&lt;p&gt;&amp;lt;/think&amp;gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;lt;answer&amp;gt;&lt;/p&gt;\n\n&lt;p&gt;{your responses}&lt;/p&gt;\n\n&lt;p&gt;&amp;lt;/answer&amp;gt;&lt;/p&gt;\n\n&lt;p&gt;----------&lt;/p&gt;\n\n&lt;p&gt;It would try to make tool calls even if no tools are passed to the model.&lt;br/&gt;\nI think this model is just doing really bad on generalization.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m70n7q/alibabas_upgraded_qwen3_235ba22b_2507_is_now_the/n4tx9p6/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753324382,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m70n7q",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n4vuu8a",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "freedomachiever",
+            "can_mod_post": false,
+            "created_utc": 1753358232,
+            "send_replies": true,
+            "parent_id": "t3_1m70n7q",
+            "score": 1,
+            "author_fullname": "t2_1swl8bn1",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Someone explain how Gemini 2.5 flash thinking is ahead of Opus 4 thinking",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n4vuu8a",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Someone explain how Gemini 2.5 flash thinking is ahead of Opus 4 thinking&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m70n7q/alibabas_upgraded_qwen3_235ba22b_2507_is_now_the/n4vuu8a/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753358232,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m70n7q",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
             "replies": {
               "kind": "Listing",
               "data": {
@@ -3221,7 +3457,7 @@
                       "created_utc": 1753271317,
                       "send_replies": true,
                       "parent_id": "t1_n4o58bz",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_syq52",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3263,7 +3499,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   },
                   {
@@ -3296,7 +3532,7 @@
                       "created_utc": 1753253774,
                       "send_replies": true,
                       "parent_id": "t1_n4o58bz",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_1n5r32wumb",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3338,7 +3574,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
