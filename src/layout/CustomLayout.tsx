@@ -7628,6 +7628,262 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m77az5',
         name: 'Which quantization approach is the way to go? (llama.cpp)',
       },
+      {
+        path: '/1m78kyc',
+        name: 'Local cross-platform speech-to-speech and real-time captioning with OpenAI Whisper, Vulkan GPU acceleration and more',
+      },
+      {
+        path: '/1m79sp9',
+        name: 'Is there a way to use qwen 3 coder inside vs code or cursor',
+      },
+      {
+        path: '/1m7admn',
+        name: 'I guess we know what it was trained with.',
+      },
+      {
+        path: '/1m7aefj',
+        name: 'Struggling with NLP classification pipeline for web content – seeking advice',
+      },
+      {
+        path: '/1m7av4q',
+        name: 'How are people extracting system prompts?',
+      },
+      {
+        path: '/1m7bd41',
+        name: 'How to acutally use gpt-sovits?',
+      },
+      {
+        path: '/1m7brg9',
+        name: 'Throughput: Input vs Output. Looking for help...',
+      },
+      {
+        path: '/1m7c0xu',
+        name: 'GitHub - Website-Crawler: Extract data from websites in LLM ready JSON or CSV format. Crawl or Scrape entire website with Website Crawler',
+      },
+      {
+        path: '/1m7c2gr',
+        name: 'Kimi K2 vs Sonnet 4 for Agentic Coding (Tested on Claude Code)',
+      },
+      {
+        path: '/1m7c3ir',
+        name: 'Anyone wanna give Kimi-K2-Instruct a try?',
+      },
+      {
+        path: '/1m7c7yz',
+        name: 'Can someone point me towards LLM diagram generation research?',
+      },
+      {
+        path: '/1m7cagw',
+        name: 'What is the best hardware for running the biggest models?',
+      },
+      {
+        path: '/1m7ci35',
+        name: '[Research] We just released the first paper and dataset documenting symbolic emergence in LLMs',
+      },
+      {
+        path: '/1m7ci3s',
+        name: 'HOWTO: Use Qwen3-Coder (or any other LLM) with Claude Code (via LiteLLM)',
+      },
+      {
+        path: '/1m7cklb',
+        name: 'beginner with llama3, I cannot get results I want',
+      },
+      {
+        path: '/1m7d55o',
+        name: 'Anyone using maestrale-chat-v0.4-beta?',
+      },
+      {
+        path: '/1m7d6d3',
+        name: 'OpenAI upcoming opensource will be beast at coding and its small',
+      },
+      {
+        path: '/1m7d9d9',
+        name: 'Where is Japan?',
+      },
+      {
+        path: '/1m7dmy2',
+        name: 'Encouragement of "Open-Source and Open-Weight AI" is now the official policy of the U.S. government.',
+      },
+      {
+        path: '/1m7dtpm',
+        name: 'Local llm build, 144gb vram monster',
+      },
+      {
+        path: '/1m7e5pi',
+        name: 'Qwen 3 Coder just handled a full ACL system like a champ — OSS finally catching up',
+      },
+      {
+        path: '/1m7e5uc',
+        name: '[AutoBE] We\'re making AI-friendly Compilers for Vibe Coding (open source)',
+      },
+      {
+        path: '/1m7e8d0',
+        name: 'Should I do finetuning on Gemini or on open source models?',
+      },
+      {
+        path: '/1m7f43h',
+        name: 'Polished UI for prompt setup &amp; details',
+      },
+      {
+        path: '/1m7fb78',
+        name: 'nvidia/audio-flamingo-3',
+      },
+      {
+        path: '/1m7fwhl',
+        name: 'Google DeepMind release Mixture-of-Recursions',
+      },
+      {
+        path: '/1m7gv2d',
+        name: 'struggling with image extraction for pdf parsing',
+      },
+      {
+        path: '/1m7gwuo',
+        name: 'Continued pretraining of Llama 3-8b on a new language',
+      },
+      {
+        path: '/1m7hq4w',
+        name: 'Best small to medium size Local LLM Orchestrator for calling Tools, managing STT, TTS, screen OCR, and with passing heavy lift calls to Claude Code SDK, running on Macbook Pro.',
+      },
+      {
+        path: '/1m7hvxz',
+        name: 'Finetuning for code generation',
+      },
+      {
+        path: '/1m7i537',
+        name: 'Spice things up by switching roles?',
+      },
+      {
+        path: '/1m7i9pl',
+        name: 'Why is my external RX 7600M XT (GPD G1) slow by comparison?',
+      },
+      {
+        path: '/1m7ifsg',
+        name: 'RTX 6000 Ada or A100, which is better for inference?',
+      },
+      {
+        path: '/1m7ijtf',
+        name: 'Actually good Agentic coding tools',
+      },
+      {
+        path: '/1m7iui2',
+        name: 'It’s time to lead guys',
+      },
+      {
+        path: '/1m7jvba',
+        name: 'Open-source and/or Local AI Meeting Transcription that works for you?',
+      },
+      {
+        path: '/1m7jybm',
+        name: 'AI background for products',
+      },
+      {
+        path: '/1m7jzjg',
+        name: 'This is what I call crazy.',
+      },
+      {
+        path: '/1m7k4ix',
+        name: 'Google has shared the system prompt that got Gemini 2.5 Pro IMO 2025 Gold Medal 🏅',
+      },
+      {
+        path: '/1m7k50u',
+        name: 'Recommended Settings ( Temperature, TopK, TopP, MinP, etc., ) for All models',
+      },
+      {
+        path: '/1m7kbeq',
+        name: 'Demis Hassabis @ Lex Fridman Podcast: Round 2',
+      },
+      {
+        path: '/1m7kfet',
+        name: 'Gemma3/other, Langchain, ChromaDb, RAG - a few questions',
+      },
+      {
+        path: '/1m7kkyn',
+        name: 'Less than two weeks Kimi K2\'s release, Alibaba Qwen\'s new Qwen3-Coder surpasses it with half the size and double the context window. Despite a significant initial lead, open source models are catching up to closed source and seem to be reaching escape velocity.',
+      },
+      {
+        path: '/1m7kz8s',
+        name: 'Built a Universal RAG + Memory System for Claude with MCP - Production Ready',
+      },
+      {
+        path: '/1m7ld4z',
+        name: 'Puget Systems Threadripper PRO 9000WX Llama Prompt Processing &amp; Token Generation benchmarks',
+      },
+      {
+        path: '/1m7lj3x',
+        name: 'Higgs Audio V2 - Open Multi-Speaker TTS Model - Impressive Testing Results',
+      },
+      {
+        path: '/1m7lp0z',
+        name: 'MacBook model rank',
+      },
+      {
+        path: '/1m7m534',
+        name: 'AI.Gov | President Trump\'s AI Strategy and Action Plan',
+      },
+      {
+        path: '/1m7m5br',
+        name: 'text-only support for GLM-4.1V-9B-Thinking has been merged into llama.cpp',
+      },
+      {
+        path: '/1m7m9t8',
+        name: 'I\'ll help build your local LLM for free',
+      },
+      {
+        path: '/1m7mlcr',
+        name: 'Best edge model for mobile - Qwen, LFM2, Gemma3N?',
+      },
+      {
+        path: '/1m7mu6e',
+        name: 'Analyzing CSV and structured data - RAG, MCP, tools, or plain old scripting?',
+      },
+      {
+        path: '/1m7mwog',
+        name: 'would this make an ai dev\'s life easier?',
+      },
+      {
+        path: '/1m7n5pq',
+        name: 'Kimi K2 vs Qwen 3 Coder - Coding Tests',
+      },
+      {
+        path: '/1m7ne51',
+        name: 'Has anyone tested or know of tests for Qwen3 Coder long context length?',
+      },
+      {
+        path: '/1m7nqvz',
+        name: 'How big is Kimi K2 exactly? How big is Qwen 3 Coder 480B exactly?',
+      },
+      {
+        path: '/1m7o21h',
+        name: 'How can you tell if a model is uncensored and can write NSFW material?',
+      },
+      {
+        path: '/1m7o3u8',
+        name: 'Is there a future for local models?',
+      },
+      {
+        path: '/1m7obdf',
+        name: 'Alienware Area-51 Gaming Desktop. Thoughts for local inference and fine tuning small models?',
+      },
+      {
+        path: '/1m7oolz',
+        name: 'Optimizing inference on GPU + CPU',
+      },
+      {
+        path: '/1m7p7ek',
+        name: 'I optimized a Flappy Bird diffusion world model to run locally on my phone',
+      },
+      {
+        path: '/1m7pi3t',
+        name: 'Ollama + Open WebUI -- is there a way for the same query to run through the same model multiple times (could be 3 times, could be 100 times), then gather all the answers together to summarise/count?',
+      },
+      {
+        path: '/1m7pn05',
+        name: 'ML on Macbook',
+      },
+      {
+        path: '/1m7pqln',
+        name: 'Running Qwen3 235B-A22B 2507 on a Threadripper 3970X + 3x RTX 3090 Machine at 15 tok/s',
+      },
     ],
   },
   {

@@ -36,10 +36,10 @@
             "name": "t3_1m6tbhm",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.88,
+            "upvote_ratio": 0.89,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 20,
+            "ups": 27,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 20,
+            "score": 27,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "Hurtcraft01",
             "discussion_type": null,
-            "num_comments": 14,
+            "num_comments": 15,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m6tbhm/what_does_the_k_s_m_l_mean_behind_the/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m6tbhm/what_does_the_k_s_m_l_mean_behind_the/",
-            "subreddit_subscribers": 503254,
+            "subreddit_subscribers": 503519,
             "created_utc": 1753226118,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -210,7 +210,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4oblyi",
-                                "score": 1,
+                                "score": 3,
                                 "author_fullname": "t2_1j7fhlcqkp",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -253,7 +253,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 3
                               }
                             }
                           ],
@@ -274,7 +274,7 @@
                       "created_utc": 1753257187,
                       "send_replies": true,
                       "parent_id": "t1_n4mjyc0",
-                      "score": 9,
+                      "score": 18,
                       "author_fullname": "t2_2roqrw5l",
                       "removal_reason": null,
                       "approved_by": null,
@@ -351,7 +351,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 18
                     }
                   },
                   {
@@ -470,7 +470,7 @@
                       "created_utc": 1753256624,
                       "send_replies": true,
                       "parent_id": "t1_n4mjyc0",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_jgegifux8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -512,6 +512,81 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
+                      "ups": 2
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n4q77he",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "Agreeable-Prompt-666",
+                      "can_mod_post": false,
+                      "created_utc": 1753284069,
+                      "send_replies": true,
+                      "parent_id": "t1_n4mjyc0",
+                      "score": 1,
+                      "author_fullname": "t2_1l3z4stvkq",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Did you end up building the engine, interfacing with gguf models?\n\n I'm doing this now, a tiny toy engine connection with gguf, but having hell of a time.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n4q77he",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Did you end up building the engine, interfacing with gguf models?&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m doing this now, a tiny toy engine connection with gguf, but having hell of a time.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m6tbhm",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m6tbhm/what_does_the_k_s_m_l_mean_behind_the/n4q77he/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753284069,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
                       "ups": 1
                     }
                   }
@@ -533,7 +608,7 @@
             "created_utc": 1753230156,
             "send_replies": true,
             "parent_id": "t3_1m6tbhm",
-            "score": 31,
+            "score": 42,
             "author_fullname": "t2_1j7fhlcqkp",
             "approved_by": null,
             "mod_note": null,
@@ -575,7 +650,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 31
+            "ups": 42
           }
         },
         {
@@ -653,7 +728,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4m9edn",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_8rrihts9",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -696,7 +771,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             },
                             {
@@ -728,7 +803,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4m9edn",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_c9l5cm1",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -776,7 +851,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -860,7 +935,7 @@
             "created_utc": 1753226456,
             "send_replies": true,
             "parent_id": "t3_1m6tbhm",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_8rrihts9",
             "approved_by": null,
             "mod_note": null,
@@ -902,7 +977,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -929,13 +1004,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "LambdaHominem",
             "can_mod_post": false,
             "created_utc": 1753257361,
             "send_replies": true,
             "parent_id": "t3_1m6tbhm",
-            "score": 2,
+            "score": 4,
             "author_fullname": "t2_3f0adwhq",
             "approved_by": null,
             "mod_note": null,
@@ -982,7 +1057,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 4
           }
         },
         {
@@ -1038,7 +1113,7 @@
                       "created_utc": 1753272680,
                       "send_replies": true,
                       "parent_id": "t1_n4opl1c",
-                      "score": 1,
+                      "score": 3,
                       "author_fullname": "t2_jgegifux8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1080,7 +1155,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 3
                     }
                   }
                 ],
@@ -1101,7 +1176,7 @@
             "created_utc": 1753265149,
             "send_replies": true,
             "parent_id": "t3_1m6tbhm",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_ri7l9czm2",
             "approved_by": null,
             "mod_note": null,
@@ -1143,7 +1218,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
