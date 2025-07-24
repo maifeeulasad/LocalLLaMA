@@ -76,10 +76,10 @@
             "name": "t3_1m7jzjg",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.57,
+            "upvote_ratio": 0.44,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 1,
+            "ups": 0,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -93,7 +93,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -119,7 +119,7 @@
             "banned_at_utc": null,
             "view_count": null,
             "archived": false,
-            "no_follow": false,
+            "no_follow": true,
             "is_crosspostable": false,
             "pinned": false,
             "over_18": false,
@@ -156,7 +156,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m7jzjg/this_is_what_i_call_crazy/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m7jzjg/this_is_what_i_call_crazy/",
-            "subreddit_subscribers": 503517,
+            "subreddit_subscribers": 503758,
             "created_utc": 1753301876,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -250,7 +250,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4s2q0l",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_gm9w5nsf",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -293,7 +293,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -308,13 +308,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Final_Wheel_7486",
                       "can_mod_post": false,
                       "created_utc": 1753302736,
                       "send_replies": true,
                       "parent_id": "t1_n4s1t7e",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_cyrs5dhp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -356,7 +356,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   }
                 ],
@@ -377,7 +377,7 @@
             "created_utc": 1753302472,
             "send_replies": true,
             "parent_id": "t3_1m7jzjg",
-            "score": 8,
+            "score": 11,
             "author_fullname": "t2_gm9w5nsf",
             "approved_by": null,
             "mod_note": null,
@@ -419,7 +419,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 11
           }
         },
         {

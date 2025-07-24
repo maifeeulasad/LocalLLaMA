@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 121,
+            "ups": 125,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 121,
+            "score": 125,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -145,7 +145,7 @@
             "report_reasons": null,
             "author": "Original_Log_9899",
             "discussion_type": null,
-            "num_comments": 17,
+            "num_comments": 18,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -154,7 +154,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m6orbr/anyone_here_who_has_been_able_to_reproduce_their/",
             "stickied": false,
             "url": "https://i.redd.it/cfffg12fghef1.jpeg",
-            "subreddit_subscribers": 503519,
+            "subreddit_subscribers": 503757,
             "created_utc": 1753215098,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -248,7 +248,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4mrywr",
-                                "score": 4,
+                                "score": 5,
                                 "author_fullname": "t2_1lyjk8is25",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -291,7 +291,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -312,7 +312,7 @@
                       "created_utc": 1753232901,
                       "send_replies": true,
                       "parent_id": "t1_n4ljij0",
-                      "score": 13,
+                      "score": 14,
                       "author_fullname": "t2_8kbjrt7z",
                       "removal_reason": null,
                       "approved_by": null,
@@ -354,7 +354,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 14
                     }
                   }
                 ],
@@ -495,7 +495,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4lj1sr",
-                                "score": 7,
+                                "score": 6,
                                 "author_fullname": "t2_ihsdiwk6k",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -543,7 +543,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 6
                               }
                             }
                           ],
@@ -564,7 +564,7 @@
                       "created_utc": 1753218478,
                       "send_replies": true,
                       "parent_id": "t1_n4lcpuv",
-                      "score": 23,
+                      "score": 22,
                       "author_fullname": "t2_ji4n4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -606,7 +606,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 23
+                      "ups": 22
                     }
                   },
                   {
@@ -639,7 +639,7 @@
                       "created_utc": 1753223969,
                       "send_replies": true,
                       "parent_id": "t1_n4lcpuv",
-                      "score": 6,
+                      "score": 5,
                       "author_fullname": "t2_kcu2kx4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -686,7 +686,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 5
                     }
                   },
                   {
@@ -857,7 +857,7 @@
             "created_utc": 1753216718,
             "send_replies": true,
             "parent_id": "t3_1m6orbr",
-            "score": 23,
+            "score": 24,
             "author_fullname": "t2_bc7wl",
             "approved_by": null,
             "mod_note": null,
@@ -899,7 +899,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 23
+            "ups": 24
           }
         },
         {
@@ -1015,7 +1015,93 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n4vxrke",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "aaronsb",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n4sq1rg",
+                                "score": 1,
+                                "author_fullname": "t2_4uxfy",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "as far as I can tell HRM is not using few shot or even seeing the demonstrations during the tests.  It's only getting input\\_grid and +puzzle\\_identifier and directly produces the solution from the learned patterns in training.\n\nbatch = { 'inputs': input tensor, 'puzzle\\_identifiers': torch.ones(1)} \n\nI think the thing that is going to make this not as helpful is the need for dedicated training data for each type of problem to solve.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n4vxrke",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;as far as I can tell HRM is not using few shot or even seeing the demonstrations during the tests.  It&amp;#39;s only getting input_grid and +puzzle_identifier and directly produces the solution from the learned patterns in training.&lt;/p&gt;\n\n&lt;p&gt;batch = { &amp;#39;inputs&amp;#39;: input tensor, &amp;#39;puzzle_identifiers&amp;#39;: torch.ones(1)} &lt;/p&gt;\n\n&lt;p&gt;I think the thing that is going to make this not as helpful is the need for dedicated training data for each type of problem to solve.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m6orbr",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m6orbr/anyone_here_who_has_been_able_to_reproduce_their/n4vxrke/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753359349,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753359349,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "n4sq1rg",
@@ -1258,7 +1344,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4nx6cl",
-                                "score": 6,
+                                "score": 5,
                                 "author_fullname": "t2_b6gw9q",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1301,7 +1387,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 5
                               }
                             }
                           ],
@@ -1505,7 +1591,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4lhelh",
-                                "score": 15,
+                                "score": 17,
                                 "author_fullname": "t2_3mi7t75d",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1548,7 +1634,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 17
                               }
                             }
                           ],
@@ -1569,7 +1655,7 @@
                       "created_utc": 1753218005,
                       "send_replies": true,
                       "parent_id": "t1_n4l9y2u",
-                      "score": 29,
+                      "score": 28,
                       "author_fullname": "t2_10vzjm",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1611,7 +1697,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 29
+                      "ups": 28
                     }
                   }
                 ],
