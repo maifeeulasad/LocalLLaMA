@@ -36,9 +36,9 @@
             "name": "t3_1m82lwo",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.89,
+            "upvote_ratio": 0.86,
             "author_flair_background_color": null,
-            "ups": 57,
+            "ups": 61,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 57,
+            "score": 61,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m82lwo/leaked_list_shows_which_websites_contractors_can/",
             "stickied": false,
             "url": "https://www.businessinsider.com/anthropic-surge-ai-leaked-list-sites-2025-7",
-            "subreddit_subscribers": 504023,
+            "subreddit_subscribers": 504254,
             "created_utc": 1753358823,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -253,12 +253,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "PandaGoggles",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4w39b8",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_5gdcg",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -301,7 +301,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -322,7 +322,7 @@
                       "created_utc": 1753361298,
                       "send_replies": true,
                       "parent_id": "t1_n4w2a2i",
-                      "score": 21,
+                      "score": 25,
                       "author_fullname": "t2_5bvvq3cw",
                       "removal_reason": null,
                       "approved_by": null,
@@ -364,7 +364,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 21
+                      "ups": 25
                     }
                   },
                   {
@@ -397,7 +397,7 @@
                       "created_utc": 1753397463,
                       "send_replies": true,
                       "parent_id": "t1_n4w2a2i",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_dosemoy16",
                       "removal_reason": null,
                       "approved_by": null,
@@ -439,7 +439,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   }
                 ],
@@ -460,7 +460,7 @@
             "created_utc": 1753360968,
             "send_replies": true,
             "parent_id": "t3_1m82lwo",
-            "score": 69,
+            "score": 75,
             "author_fullname": "t2_1eex9ug5",
             "approved_by": null,
             "mod_note": null,
@@ -502,7 +502,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 69
+            "ups": 75
           }
         },
         {
@@ -535,7 +535,7 @@
             "created_utc": 1753366796,
             "send_replies": true,
             "parent_id": "t3_1m82lwo",
-            "score": 14,
+            "score": 17,
             "author_fullname": "t2_27amtukh",
             "approved_by": null,
             "mod_note": null,
@@ -577,7 +577,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 17
           }
         }
       ],
