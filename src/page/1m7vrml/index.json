@@ -36,7 +36,7 @@
             "name": "t3_1m7vrml",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.24,
+            "upvote_ratio": 0.25,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m7vrml/i_asked_deepseek_to_make_a_song_that_it_wanted_to/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m7vrml/i_asked_deepseek_to_make_a_song_that_it_wanted_to/",
-            "subreddit_subscribers": 503759,
+            "subreddit_subscribers": 504025,
             "created_utc": 1753334326,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -285,7 +285,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4umjyy",
-                                "score": 8,
+                                "score": 10,
                                 "author_fullname": "t2_zr0g49ixt",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -328,7 +328,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 10
                               }
                             },
                             {
@@ -407,7 +407,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n4uo85t",
-                                                    "score": 3,
+                                                    "score": 5,
                                                     "author_fullname": "t2_tewf9bdwg",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -449,7 +449,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 5
                                                   }
                                                 }
                                               ],
@@ -463,19 +463,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "Dull_Orange4177",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n4unpi2",
-                                          "score": -3,
+                                          "score": -5,
                                           "author_fullname": "t2_pbhraaja",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "Then scroll bruh",
                                           "edited": false,
                                           "top_awarded_type": null,
@@ -487,7 +487,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Then scroll bruh&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -512,7 +512,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -3
+                                          "ups": -5
                                         }
                                       }
                                     ],
@@ -532,7 +532,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4umjyy",
-                                "score": 2,
+                                "score": 4,
                                 "author_fullname": "t2_tewf9bdwg",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -575,7 +575,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 4
                               }
                             }
                           ],
@@ -589,14 +589,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": "LOW_SCORE",
+                      "collapsed_reason_code": null,
                       "no_follow": true,
                       "author": "Dull_Orange4177",
                       "can_mod_post": false,
                       "created_utc": 1753335285,
                       "send_replies": true,
                       "parent_id": "t1_n4ulsmg",
-                      "score": -5,
+                      "score": -3,
                       "author_fullname": "t2_pbhraaja",
                       "removal_reason": null,
                       "approved_by": null,
@@ -613,7 +613,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Correct as it says, I asked deepseek and ai to make it did you read the title&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": "comment score below threshold",
+                      "collapsed_reason": null,
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -630,7 +630,7 @@
                       "created": 1753335285,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": true,
+                      "collapsed": false,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -638,7 +638,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -5
+                      "ups": -3
                     }
                   }
                 ],
@@ -659,7 +659,7 @@
             "created_utc": 1753334901,
             "send_replies": true,
             "parent_id": "t3_1m7vrml",
-            "score": 11,
+            "score": 13,
             "author_fullname": "t2_tewf9bdwg",
             "approved_by": null,
             "mod_note": null,
@@ -701,7 +701,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 13
           }
         },
         {

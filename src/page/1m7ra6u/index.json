@@ -36,7 +36,7 @@
             "name": "t3_1m7ra6u",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.33,
+            "upvote_ratio": 0.36,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m7ra6u/so_called_free_thinkers_when_you_ask_for_a_joke/",
             "stickied": false,
             "url": "https://i.redd.it/bneg393u5qef1.png",
-            "subreddit_subscribers": 503759,
+            "subreddit_subscribers": 504025,
             "created_utc": 1753320461,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -299,7 +299,7 @@
             "created_utc": 1753320863,
             "send_replies": true,
             "parent_id": "t3_1m7ra6u",
-            "score": 3,
+            "score": 6,
             "author_fullname": "t2_lpdsy",
             "approved_by": null,
             "mod_note": null,
@@ -341,7 +341,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 6
           }
         },
         {
@@ -572,6 +572,7 @@
         {
           "kind": "t1",
           "data": {
+            "body": "Both gave you what you asked for and fulfilled your prompt. You did not ask for a joke that's original or unique.",
             "subreddit_id": "t5_81eyvm",
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -605,7 +606,7 @@
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "Both gave you what you asked for and fulfilled your prompt. You did not ask for a joke that's original or unique.",
+            "author_cakeday": true,
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,

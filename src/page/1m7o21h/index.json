@@ -36,7 +36,7 @@
             "name": "t3_1m7o21h",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.23,
+            "upvote_ratio": 0.29,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m7o21h/how_can_you_tell_if_a_model_is_uncensored_and_can/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m7o21h/how_can_you_tell_if_a_model_is_uncensored_and_can/",
-            "subreddit_subscribers": 503759,
+            "subreddit_subscribers": 504025,
             "created_utc": 1753311584,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -285,7 +285,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4tl1v7",
-                                "score": 2,
+                                "score": 1,
                                 "author_fullname": "t2_kkovi1fh",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -328,7 +328,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -349,7 +349,7 @@
                       "created_utc": 1753320065,
                       "send_replies": true,
                       "parent_id": "t1_n4t1uiv",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_18qewv5ovg",
                       "removal_reason": null,
                       "approved_by": null,
@@ -391,7 +391,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -406,13 +406,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": false,
+            "no_follow": true,
             "author": "Ok-Lobster-919",
             "can_mod_post": false,
             "created_utc": 1753313460,
             "send_replies": true,
             "parent_id": "t3_1m7o21h",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_kkovi1fh",
             "approved_by": null,
             "mod_note": null,
@@ -454,7 +454,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {

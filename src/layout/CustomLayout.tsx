@@ -8044,6 +8044,218 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m82wh5',
         name: 'How to Run Kimi K2 Locally: Complete Setup &amp; Troubleshooting',
       },
+      {
+        path: '/1m83644',
+        name: 'China’s First High-End Gaming GPU, the Lisuan G100, Reportedly Outperforms NVIDIA’s GeForce RTX 4060 &amp; Slightly Behind the RTX 5060 in New Benchmarks',
+      },
+      {
+        path: '/1m83mu1',
+        name: 'qwen3-coder:480b - usability for non-coding tasks?',
+      },
+      {
+        path: '/1m83q8x',
+        name: 'Document processing',
+      },
+      {
+        path: '/1m841b1',
+        name: 'Theoretical difference between quantized Qwen3-Coder and unreleased, official smaller version of Qwen3-Coder?',
+      },
+      {
+        path: '/1m84j9w',
+        name: 'How to think about the value of max_token when using different models for inference?',
+      },
+      {
+        path: '/1m84ked',
+        name: 'Sooooo… When Qwen3-Coder 🇺🇸 Freedom 🇺🇸 edition GGUF?',
+      },
+      {
+        path: '/1m84s47',
+        name: 'How do you keep AI outputs from sounding AI?',
+      },
+      {
+        path: '/1m8540u',
+        name: 'Kokoro TTS in Vulkan?',
+      },
+      {
+        path: '/1m85nxe',
+        name: 'The Reflective Threshold',
+      },
+      {
+        path: '/1m85v3a',
+        name: 'Running an LLM on the Wii',
+      },
+      {
+        path: '/1m85vhw',
+        name: 'new mistralai/Magistral-Small-2507 !?',
+      },
+      {
+        path: '/1m868na',
+        name: 'The agent-based RP UI \'Astrisk\' is now fully open-source under a GPL license.',
+      },
+      {
+        path: '/1m86e9e',
+        name: '16GB M4 Air or 24GB Macbook Air',
+      },
+      {
+        path: '/1m86v60',
+        name: 'Looking for fairseq-0.12.0, omegaconf-2.0.5, hydra-core-1.0.6 .whl files for Python 3.9/Ubuntu—RVC project stuck!',
+      },
+      {
+        path: '/1m86wxa',
+        name: 'had to fine-tune qwen since llama sucks at summarizing',
+      },
+      {
+        path: '/1m87a7j',
+        name: 'What token rate can I expect running Qwen3-Coder-480B-A35B-Instruct on dual Xeon Platinum 8176 CPUs?',
+      },
+      {
+        path: '/1m87mfd',
+        name: 'Structured Output Broken After Upgrade from Gemma2 to Gemma3',
+      },
+      {
+        path: '/1m87q21',
+        name: 'Voxtral WebGPU: State-of-the-art audio transcription directly in your browser!',
+      },
+      {
+        path: '/1m88jdh',
+        name: 'Ok next big open source model also from China only ! Which is about to release',
+      },
+      {
+        path: '/1m88s09',
+        name: 'Qwen\'s third bomb: Qwen3-MT',
+      },
+      {
+        path: '/1m894mz',
+        name: 'Help with Bert fine-tuning',
+      },
+      {
+        path: '/1m89pk9',
+        name: 'Al and You Against the Machine: Guide so you can own Big Al and Run Local',
+      },
+      {
+        path: '/1m89s3y',
+        name: 'How to Use MCP Inspector’s UI Tabs for Effective Local Testing',
+      },
+      {
+        path: '/1m89s6y',
+        name: 'Seriously, how do you get CLI Coding Agents etc to work?',
+      },
+      {
+        path: '/1m89upm',
+        name: 'CPU &amp; GPU Ram usage?',
+      },
+      {
+        path: '/1m8aeh3',
+        name: 'Higgs Audio V2: A New Open-Source TTS Model with Voice Cloning and SOTA Expressiveness',
+      },
+      {
+        path: '/1m8aw4w',
+        name: 'Velocity Micro Published (Faulty?) LLM Benchmarks for the Radeon AI PRO R9700 and Lists it for $1500 in Their Build Configuration Page',
+      },
+      {
+        path: '/1m8b72y',
+        name: 'Best open source vision model fine tuneable for animal abuse detection?',
+      },
+      {
+        path: '/1m8bps2',
+        name: 'We just open sourced NeuralAgent: The AI Agent That Lives On Your Desktop and Uses It Like You Do!',
+      },
+      {
+        path: '/1m8byzv',
+        name: 'If You Had Unlimited Access to An Agent, What Would You Create?',
+      },
+      {
+        path: '/1m8c77v',
+        name: 'Looking for a GraphRAG type of backend that supports multiple users',
+      },
+      {
+        path: '/1m8c7ku',
+        name: 'How to get DRY and XTC in LMStudio?',
+      },
+      {
+        path: '/1m8cha8',
+        name: 'What\'s the best gguf file for roleplay?',
+      },
+      {
+        path: '/1m8cn00',
+        name: 'Do you have a batch/background LLM task processing setup working locally?',
+      },
+      {
+        path: '/1m8dal7',
+        name: 'Qwen3 Coder 480B-A35B Instruct',
+      },
+      {
+        path: '/1m8dgfu',
+        name: 'Qwen3-235B-A22B-Thinking-2507 is about to be released',
+      },
+      {
+        path: '/1m8dln1',
+        name: 'Qwen 3 Thinking is coming very soon',
+      },
+      {
+        path: '/1m8dufz',
+        name: 'lowish/midrange budget general purpose GPU',
+      },
+      {
+        path: '/1m8ewlx',
+        name: 'Level1tech runs deepseek on am5 and it\'s not that bad!',
+      },
+      {
+        path: '/1m8h89j',
+        name: 'What are the hardware recommendations for reinforcement learning with an 8B model (for research purposes)?',
+      },
+      {
+        path: '/1m8hbnn',
+        name: 'Considering RTX 4000 Blackwell for Local Agentic AI',
+      },
+      {
+        path: '/1m8i53g',
+        name: 'Curious if anyone’s used fine-tuned LLaMA models for emotional or character-based responses?',
+      },
+      {
+        path: '/1m8i781',
+        name: 'Is there one single, accurate leader board for all these models?',
+      },
+      {
+        path: '/1m8j842',
+        name: '$10000 budget, what\'s the right route?',
+      },
+      {
+        path: '/1m8ja65',
+        name: 'about vLLM and rocm.',
+      },
+      {
+        path: '/1m8jgrl',
+        name: 'Guiding thinking',
+      },
+      {
+        path: '/1m8jrzg',
+        name: 'Check out our game in development for Local LLM mechanics!',
+      },
+      {
+        path: '/1m8jy5y',
+        name: 'Had the Qwen3:1.7B model run on my Mac Mini!',
+      },
+      {
+        path: '/1m8k5x0',
+        name: 'Vibe coding RouteGPT - a chrome extension aligns model routing to my preferences, powered by a small but powerful LLM.',
+      },
+      {
+        path: '/1m8l55o',
+        name: '[Newbie] Seeking Guidance: Building a Free, Bilingual (Bengali/English) RAG Chatbot from a PDF',
+      },
+      {
+        path: '/1m8l648',
+        name: 'Executive Order: "Preventing Woke AI in the Federal Government"',
+      },
+      {
+        path: '/1m8lmby',
+        name: 'New] added a feature for generating study plans and timetables from your content',
+      },
+      {
+        path: '/1m8ltgv',
+        name: '[Newb] Need help with gguf files',
+      },
     ],
   },
   {
