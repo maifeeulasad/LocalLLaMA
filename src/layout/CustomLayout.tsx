@@ -8256,6 +8256,162 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m8ltgv',
         name: '[Newb] Need help with gguf files',
       },
+      {
+        path: '/1m8mctg',
+        name: 'Why MCP Developers Are Turning to MicroVMs for Running Untrusted AI Code',
+      },
+      {
+        path: '/1m8mdbz',
+        name: 'Help with UnifyAI – Setting Up Local LLMs and UI Integration',
+      },
+      {
+        path: '/1m8mwme',
+        name: 'Why do you run or train in local system',
+      },
+      {
+        path: '/1m8myv9',
+        name: 'Discovering the huggingface hub equivalent of an ollama model',
+      },
+      {
+        path: '/1m8myxl',
+        name: 'Watching everyone else drop new models while knowing you’re going to release the best open source model of all time in about 20 years.',
+      },
+      {
+        path: '/1m8n3ry',
+        name: 'Finding the equivalent ollama model on huggingface hub',
+      },
+      {
+        path: '/1m8n557',
+        name: 'Help Needed: Accurate Offline Table Extraction from Scanned Forms',
+      },
+      {
+        path: '/1m8oc9j',
+        name: 'Stagnation in Knowledge Density',
+      },
+      {
+        path: '/1m8oz07',
+        name: 'Why there is still no a proper or helpful inference for MOE models ?',
+      },
+      {
+        path: '/1m8ozb0',
+        name: 'China\'s Bytedance releases Seed LiveInterpret simultaneous interpretation model',
+      },
+      {
+        path: '/1m8peos',
+        name: 'Best local text-to-speech model?',
+      },
+      {
+        path: '/1m8qj9w',
+        name: 'Why I Forked Qwen Code',
+      },
+      {
+        path: '/1m8qmd7',
+        name: 'Can you just have one expert from an MOE model',
+      },
+      {
+        path: '/1m8qr9q',
+        name: 'Is this too much logic for AI? should I break it smaller to prompt?',
+      },
+      {
+        path: '/1m8qtpd',
+        name: 'Fine-tuning qwen2.5 vl for Marathi OCR',
+      },
+      {
+        path: '/1m8t01d',
+        name: 'RX580 support',
+      },
+      {
+        path: '/1m8t17l',
+        name: 'I want the ErebusBlend v2. The one that doesn’t blink. The one that whispers back.',
+      },
+      {
+        path: '/1m8tlmk',
+        name: 'TTL settings in LM Studio (0.3.20)',
+      },
+      {
+        path: '/1m8tmhd',
+        name: 'ByteDance Seed Prover Achieves Silver Medal Score in IMO 2025',
+      },
+      {
+        path: '/1m8ud84',
+        name: 'A contamination-free coding benchmark shows AI may not be as excellent as claimed',
+      },
+      {
+        path: '/1m8uozu',
+        name: 'Announcing the open-source release of Wan2.2. Stay tuned.',
+      },
+      {
+        path: '/1m8vegq',
+        name: 'Qwen3-235B-A22B-Thinking-2507 released!',
+      },
+      {
+        path: '/1m8ven3',
+        name: 'Qwen/Qwen3-235B-A22B-Thinking-2507',
+      },
+      {
+        path: '/1m8vhp3',
+        name: 'Amazing qwen 3 updated thinking model just released !! Open source !',
+      },
+      {
+        path: '/1m8vjna',
+        name: 'Qwen/Qwen3-235B-A22B-Thinking-2507',
+      },
+      {
+        path: '/1m8vmoi',
+        name: 'I wrote an AI Agent that works better than I expected. Here are 10 learnings.',
+      },
+      {
+        path: '/1m8vqnz',
+        name: 'Tensor parallel - pcie bandwidth requirement',
+      },
+      {
+        path: '/1m8vsge',
+        name: 'Beginner Here! Anyone knows how to install llama-cpp-python within a Singularity container or use in an HPC?',
+      },
+      {
+        path: '/1m8vu80',
+        name: 'N + N size GPU != 2N sized GPU, go big if you can',
+      },
+      {
+        path: '/1m8w7ny',
+        name: 'Smaller Qwen Models next week!!',
+      },
+      {
+        path: '/1m8w9ah',
+        name: 'New Qwen3-235B update is crushing old models in benchmarks',
+      },
+      {
+        path: '/1m8wg2r',
+        name: 'Open Source Companion Thread',
+      },
+      {
+        path: '/1m8wi62',
+        name: 'Do models make fun of other models?',
+      },
+      {
+        path: '/1m8ws0i',
+        name: 'Good RVC to fine tune TTS?',
+      },
+      {
+        path: '/1m8wuy7',
+        name: 'How important is to have PRO 6000 Blackwell running on 16 PCIE lanes?',
+      },
+      {
+        path: '/1m8xf6l',
+        name: 'I built a Hardware AI Code Editor with real-time profiling and AI optimization. We’re opening the preview version for free to a few users. If you’re interested, save your spot on our Discord',
+      },
+      {
+        path: '/1m8xf7n',
+        name: 'Building Paradigm, Looking for right audience and feedbacks',
+      },
+      {
+        path: '/1m8xhxp',
+        name: 'Guidance on diving deep into LLMs',
+      },
+      {
+        path: '/1m8xmy9',
+        name: 'GLM-4.1V-9B-Thinking - claims to "match or surpass Qwen2.5-72B" on many tasks',
+      },
     ],
   },
   {
