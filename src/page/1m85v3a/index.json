@@ -36,9 +36,9 @@
             "name": "t3_1m85v3a",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.89,
+            "upvote_ratio": 0.9,
             "author_flair_background_color": null,
-            "ups": 68,
+            "ups": 72,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -53,9 +53,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/8hvd0nnw0uef1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/8hvd0nnw0uef1/DASHPlaylist.mpd?a=1756038714%2CMzk3OGNjOTA3MmVmNThlYjQwNDVmZTg4MGE3NTQzYWE0YTk5OWZmOWVhOGVkMjgxZGQyMjZiZmZkZDVlYTNkNQ%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/8hvd0nnw0uef1/DASHPlaylist.mpd?a=1756084446%2CNTUxYzJiY2Q2NTU0MjNjNmVkNTY0ODdmYWQzMGI5NTcyOWEwNGMyMTQ0NTc0ZTAyODQxYTY5N2QyMGMyMDRlNA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 47,
-                "hls_url": "https://v.redd.it/8hvd0nnw0uef1/HLSPlaylist.m3u8?a=1756038714%2CNTZlN2IzMDI5YmEwMTA5NWU3MDk0MDgxNDU5MzY2ZWZkZThhZTFiZmFjMzdlNjFlNTEwZDUwNjNiOWM3MDI4MA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/8hvd0nnw0uef1/HLSPlaylist.m3u8?a=1756084446%2CMjRhYzEzZjk4MzQ0N2E5MmJmZjgwYzU5MTQ1YTc5MDU2NzUxMGQ3YjAwM2U3ZDVlZWY2MjA2ZmJlM2ZmN2Q2MA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -66,7 +66,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Other",
             "can_mod_post": false,
-            "score": 68,
+            "score": 72,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -179,9 +179,9 @@
                 "height": 1080,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/8hvd0nnw0uef1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/8hvd0nnw0uef1/DASHPlaylist.mpd?a=1756038714%2CMzk3OGNjOTA3MmVmNThlYjQwNDVmZTg4MGE3NTQzYWE0YTk5OWZmOWVhOGVkMjgxZGQyMjZiZmZkZDVlYTNkNQ%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/8hvd0nnw0uef1/DASHPlaylist.mpd?a=1756084446%2CNTUxYzJiY2Q2NTU0MjNjNmVkNTY0ODdmYWQzMGI5NTcyOWEwNGMyMTQ0NTc0ZTAyODQxYTY5N2QyMGMyMDRlNA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 47,
-                "hls_url": "https://v.redd.it/8hvd0nnw0uef1/HLSPlaylist.m3u8?a=1756038714%2CNTZlN2IzMDI5YmEwMTA5NWU3MDk0MDgxNDU5MzY2ZWZkZThhZTFiZmFjMzdlNjFlNTEwZDUwNjNiOWM3MDI4MA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/8hvd0nnw0uef1/HLSPlaylist.m3u8?a=1756084446%2CMjRhYzEzZjk4MzQ0N2E5MmJmZjgwYzU5MTQ1YTc5MDU2NzUxMGQ3YjAwM2U3ZDVlZWY2MjA2ZmJlM2ZmN2Q2MA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m85v3a/running_an_llm_on_the_wii/",
             "stickied": false,
             "url": "https://v.redd.it/8hvd0nnw0uef1",
-            "subreddit_subscribers": 504254,
+            "subreddit_subscribers": 504486,
             "created_utc": 1753367220,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -241,7 +241,7 @@
             "created_utc": 1753367511,
             "send_replies": true,
             "parent_id": "t3_1m85v3a",
-            "score": 16,
+            "score": 19,
             "author_fullname": "t2_1eerwvvhpc",
             "approved_by": null,
             "mod_note": null,
@@ -283,7 +283,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 19
           }
         },
         {
@@ -391,7 +391,7 @@
             "created_utc": 1753382237,
             "send_replies": true,
             "parent_id": "t3_1m85v3a",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_b18ryhz1",
             "approved_by": null,
             "mod_note": null,
@@ -433,7 +433,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -650,7 +650,7 @@
                       "created_utc": 1753368547,
                       "send_replies": true,
                       "parent_id": "t1_n4woj88",
-                      "score": 19,
+                      "score": 20,
                       "author_fullname": "t2_ixeagk4w",
                       "removal_reason": null,
                       "approved_by": null,
@@ -692,7 +692,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 19
+                      "ups": 20
                     }
                   }
                 ],
@@ -713,7 +713,7 @@
             "created_utc": 1753367866,
             "send_replies": true,
             "parent_id": "t3_1m85v3a",
-            "score": 6,
+            "score": 5,
             "author_fullname": "t2_cw6v7ot8",
             "approved_by": null,
             "mod_note": null,
@@ -755,7 +755,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -863,7 +863,7 @@
             "created_utc": 1753413035,
             "send_replies": true,
             "parent_id": "t3_1m85v3a",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_9yo3ah1u",
             "approved_by": null,
             "mod_note": null,
@@ -905,7 +905,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

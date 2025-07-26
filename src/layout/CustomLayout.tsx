@@ -8412,6 +8412,234 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m8xmy9',
         name: 'GLM-4.1V-9B-Thinking - claims to "match or surpass Qwen2.5-72B" on many tasks',
       },
+      {
+        path: '/1m8yvxd',
+        name: 'AMD Radeon AI PRO R9700 - when can I buy it?',
+      },
+      {
+        path: '/1m8z2ut',
+        name: 'mini-swe-agent achieves 65% on SWE-bench in just 100 lines of python code',
+      },
+      {
+        path: '/1m8zeg8',
+        name: 'Data Quality and Size for LoRa',
+      },
+      {
+        path: '/1m9019j',
+        name: '[Release] Arkhon Memory SDK – Local, lightweight long-term memory for LLM agents (pip install arkhon-memory)',
+      },
+      {
+        path: '/1m903il',
+        name: 'I created an open-source macOS AI browser that uses MLX and Gemma 3n, feel free to fork it!',
+      },
+      {
+        path: '/1m91b98',
+        name: 'Qwen’s TRIPLE release this week + Vid Gen model coming',
+      },
+      {
+        path: '/1m91dmh',
+        name: 'New to local AI',
+      },
+      {
+        path: '/1m91mt6',
+        name: '🚀 Built a Multi-Agent System in 6 Hours That Solves 5/6 IMO 2025 Math Problems - Inspired by Recent Research Breakthroughs',
+      },
+      {
+        path: '/1m91u38',
+        name: '[Updated] AI assistant Chrome extension has tools and RAG',
+      },
+      {
+        path: '/1m91zzn',
+        name: 'Email API for AI Agents',
+      },
+      {
+        path: '/1m9281b',
+        name: 'Docker Compose vLLM Config',
+      },
+      {
+        path: '/1m92di7',
+        name: 'Gpu just for prompt processing?',
+      },
+      {
+        path: '/1m92vqp',
+        name: 'GPU Suggestions',
+      },
+      {
+        path: '/1m93d0r',
+        name: 'New Qwen3 on Fiction.liveBench',
+      },
+      {
+        path: '/1m93lcs',
+        name: 'Do you need Agno/Langchain/LangGraph with models with agentic capabilities?',
+      },
+      {
+        path: '/1m93u0b',
+        name: 'Would you use this? Desktop app for auto-benchmarking GGUF/ONNX models locally',
+      },
+      {
+        path: '/1m94kqu',
+        name: 'InternLM S1 Coming Soon!',
+      },
+      {
+        path: '/1m94ls2',
+        name: 'Hunyuan (Ex-WizardLM) Dense Model Coming Soon!',
+      },
+      {
+        path: '/1m94r8i',
+        name: 'Data shows public AI repos may be quietly becoming a supply chain risk',
+      },
+      {
+        path: '/1m94uea',
+        name: 'New UI for uploading and managing custom models (Figma mockups)',
+      },
+      {
+        path: '/1m9535b',
+        name: 'Is AI dialogue the future of gaming?',
+      },
+      {
+        path: '/1m95bfq',
+        name: 'Anyone had any luck with Google\'s Gemma 3n model?',
+      },
+      {
+        path: '/1m95lud',
+        name: 'MassGen – an open-source multi-agent scaling and orchestration framework',
+      },
+      {
+        path: '/1m95sdj',
+        name: 'What a Real MCP Inspector Exploit Taught Us About Trust Boundaries',
+      },
+      {
+        path: '/1m95wcg',
+        name: 'AMD equivalent for NVIDIA RTX 6000 PRO Blackwell',
+      },
+      {
+        path: '/1m968q4',
+        name: 'Conversational LLM',
+      },
+      {
+        path: '/1m96b4h',
+        name: 'Does it ever make sense to train for 10 epochs? Or did i do it all wrong?',
+      },
+      {
+        path: '/1m96m6w',
+        name: 'How does LibreChat handle translations and how can I update all language files after changing base messages?',
+      },
+      {
+        path: '/1m96wrc',
+        name: 'Mi50 array for training LLMs',
+      },
+      {
+        path: '/1m97qko',
+        name: 'How to convert Kimi K2 FP8 to BF16?',
+      },
+      {
+        path: '/1m98jl8',
+        name: 'Meta AI on WhatsApp hides a system prompt',
+      },
+      {
+        path: '/1m99ac7',
+        name: 'Is there any way to run Phi-4-mini-flash-reasoning on Ollama?',
+      },
+      {
+        path: '/1m99hwb',
+        name: 'What is the best AI to run locally and use in agent mode of the Continue extension in VS Code?',
+      },
+      {
+        path: '/1m99xty',
+        name: 'Any AI tool for application creation (not website builders)?',
+      },
+      {
+        path: '/1m9a554',
+        name: 'Je cherche un modèle text-to-text',
+      },
+      {
+        path: '/1m9ajf9',
+        name: 'Any Rpers test the new qwen 2507 yet?',
+      },
+      {
+        path: '/1m9antc',
+        name: 'How to get started',
+      },
+      {
+        path: '/1m9avmv',
+        name: 'The new Kimi vs. new qwen3 for coding',
+      },
+      {
+        path: '/1m9bmqm',
+        name: 'Is /load &lt;model&gt; all you need in order to run the specific model you installed?',
+      },
+      {
+        path: '/1m9boeu',
+        name: 'Who should we ask for funding?',
+      },
+      {
+        path: '/1m9bwoy',
+        name: 'Compact 2x RTX Pro 6000 Rig',
+      },
+      {
+        path: '/1m9c9fh',
+        name: 'Has anyone found a seamless, low-latency solution for real-time audio conversations with a local LLM?',
+      },
+      {
+        path: '/1m9cg16',
+        name: 'Multi GPU multi server inference',
+      },
+      {
+        path: '/1m9cp2n',
+        name: 'IQ4_KSS 114 GiB and more ik_llama.cpp exclusive quants!',
+      },
+      {
+        path: '/1m9dur7',
+        name: 'Dissatisfied with how the RTX PRO 6000 Blackwell is performing during AI inference',
+      },
+      {
+        path: '/1m9duv2',
+        name: 'Ai training Tool I want to share!',
+      },
+      {
+        path: '/1m9dysd',
+        name: 'Best models to fine-tune?',
+      },
+      {
+        path: '/1m9e2s9',
+        name: 'Laptop advise for lightweight AI work',
+      },
+      {
+        path: '/1m9e5hw',
+        name: 'Are LLMs, particularly the local open-source models, capable of having their own opinions and preferences without them being programmed ones',
+      },
+      {
+        path: '/1m9e71s',
+        name: 'App for voice interaction with LocalLLaMA. Looking for help/app/model etc.',
+      },
+      {
+        path: '/1m9egm9',
+        name: 'Anyone stitched together real-time local AI for webcam + voice feedback?',
+      },
+      {
+        path: '/1m9enpd',
+        name: 'China\'s ByteDance\'s coze studio is now open source',
+      },
+      {
+        path: '/1m9etng',
+        name: 'Local LLMs I have been using, through different two backends, seem to hardly use GPU',
+      },
+      {
+        path: '/1m9f7lq',
+        name: 'Reka AI models support in uzu engine',
+      },
+      {
+        path: '/1m9fb5t',
+        name: 'Llama 3.3 Nemotron Super 49B v1.5',
+      },
+      {
+        path: '/1m9fuf9',
+        name: 'GLM-4.5-9B?',
+      },
+      {
+        path: '/1m9gg6j',
+        name: 'If you’re experimenting with Qwen3-Coder, we just launched a Turbo version on DeepInfra',
+      },
     ],
   },
   {
