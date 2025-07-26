@@ -1,0 +1,191 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "&gt;[Cognito: Your AI Sidekick for Chrome. A MIT licensed very lightweight Web UI with multitools.](https://www.reddit.com/r/LocalLLaMA/comments/1kwhw20/cognito_your_ai_sidekick_for_chrome_a_mit/)  \nby[u/Asleep-Ratio7535](https://www.reddit.com/user/Asleep-Ratio7535/) in[LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)\n\nThis extension comes to a closure with so many published MCP servers. Chrome webstore is a little bit slower.\n\nNew update:\n\n* A good enough hybrid RAG for latin languages (BM25 tokenizer, I added a simple Japanese tokenizer as well), Only Chinese doesn't support BM25 full text search, but you can still use a good embedding model.\n* A note system for saving webpages and notes for RAG or use as direct context\n* Several basic useful tools: web search, prompt optimizer, wiki, retriever, save note, update your preference, and some \"agents\" that can plan and execute those tools itself\n\nIn the picture is an example of how a 4B model planned and used the tools it has. In this example, I tested too many concurrent web searches, so I didn't notice I needed to click the captcha on the page. So it failed in the first 2 steps, but you can get rid of it easily by clicking the captcha, or use a custom API, or DuckDuckGo, brave.\n\nhttps://preview.redd.it/esicru1dc1ff1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=060dd197ae2c49892375e8d17b60320d5f6658e6\n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "[Updated] AI assistant Chrome extension has tools and RAG",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 87,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "esicru1dc1ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 67,
+                    "x": 108,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7fffe5029ab5f76ebb40401b7cad76bae9b4e7b6"
+                  },
+                  {
+                    "y": 135,
+                    "x": 216,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9ac919ba5c18221a7f4a6e00afa0116c7c6b6855"
+                  },
+                  {
+                    "y": 200,
+                    "x": 320,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=31bb77985d25b08c50ec5b7967a10aff85d228c8"
+                  },
+                  {
+                    "y": 400,
+                    "x": 640,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f5f53147db855c6cbd5ee094fc2bad175f052c1"
+                  },
+                  {
+                    "y": 600,
+                    "x": 960,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=77b612691433c9c230a0f75a8400feac6f9d1a85"
+                  },
+                  {
+                    "y": 675,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/esicru1dc1ff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8cb5c976360279c8d2f12db71b0e1bf9208b128c"
+                  }
+                ],
+                "s": {
+                  "y": 1600,
+                  "x": 2560,
+                  "u": "https://preview.redd.it/esicru1dc1ff1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=060dd197ae2c49892375e8d17b60320d5f6658e6"
+                },
+                "id": "esicru1dc1ff1"
+              }
+            },
+            "name": "t3_1m91u38",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#b0ae9b",
+            "subreddit_type": "public",
+            "ups": 3,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "fe89e94a-13f2-11f0-a9de-6262c74956cf",
+            "is_original_content": false,
+            "author_fullname": "t2_1lfyddwf0c",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 3,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ttt_ex-17pTgfqoaCCzePES-O2aLbpYiA_IdGhQQxfg.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Llama 4"
+              }
+            ],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753456445,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1kwhw20/cognito_your_ai_sidekick_for_chrome_a_mit/\"&gt;Cognito: Your AI Sidekick for Chrome. A MIT licensed very lightweight Web UI with multitools.&lt;/a&gt;&lt;br/&gt;\nby&lt;a href=\"https://www.reddit.com/user/Asleep-Ratio7535/\"&gt;u/Asleep-Ratio7535&lt;/a&gt; in&lt;a href=\"https://www.reddit.com/r/LocalLLaMA/\"&gt;LocalLLaMA&lt;/a&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;This extension comes to a closure with so many published MCP servers. Chrome webstore is a little bit slower.&lt;/p&gt;\n\n&lt;p&gt;New update:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;A good enough hybrid RAG for latin languages (BM25 tokenizer, I added a simple Japanese tokenizer as well), Only Chinese doesn&amp;#39;t support BM25 full text search, but you can still use a good embedding model.&lt;/li&gt;\n&lt;li&gt;A note system for saving webpages and notes for RAG or use as direct context&lt;/li&gt;\n&lt;li&gt;Several basic useful tools: web search, prompt optimizer, wiki, retriever, save note, update your preference, and some &amp;quot;agents&amp;quot; that can plan and execute those tools itself&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;In the picture is an example of how a 4B model planned and used the tools it has. In this example, I tested too many concurrent web searches, so I didn&amp;#39;t notice I needed to click the captcha on the page. So it failed in the first 2 steps, but you can get rid of it easily by clicking the captcha, or use a custom API, or DuckDuckGo, brave.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/esicru1dc1ff1.png?width=2560&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=060dd197ae2c49892375e8d17b60320d5f6658e6\"&gt;https://preview.redd.it/esicru1dc1ff1.png?width=2560&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=060dd197ae2c49892375e8d17b60320d5f6658e6&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "Llama 4",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1m91u38",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Asleep-Ratio7535",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1m91u38/updated_ai_assistant_chrome_extension_has_tools/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m91u38/updated_ai_assistant_chrome_extension_has_tools/",
+            "subreddit_subscribers": 504488,
+            "created_utc": 1753456445,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

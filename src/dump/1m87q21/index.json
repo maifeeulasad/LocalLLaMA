@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 99,
+            "ups": 105,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -53,9 +53,9 @@
                 "height": 1008,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/9p0p7mqnbuef1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/9p0p7mqnbuef1/DASHPlaylist.mpd?a=1756038696%2CZTYwOTgzZWVjNjY3MGJmYjkxNmU4NmNmZWE5NTBhODMxM2E4MTViMjNmYWViYzM5MDczYmU4ZmE1OTRkODE3Mg%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/9p0p7mqnbuef1/DASHPlaylist.mpd?a=1756084439%2CZDU2OGFmZDc3MDc2YzAyODUxMjQwM2U2NTgyYmJiZTlkMWM2ZTM1NjJiZGMzY2I1NjUyNTgwYzIxNzk2ZDU3NA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 45,
-                "hls_url": "https://v.redd.it/9p0p7mqnbuef1/HLSPlaylist.m3u8?a=1756038696%2CNWQ1MmVjZTI5NDAzNjk1YWM3NmZmMzFlYzVkYzcyZWM1YzY5NmU5NWUyYmM1YmM2ZDIwMjc1YWZiNGVjZjZiZA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/9p0p7mqnbuef1/HLSPlaylist.m3u8?a=1756084439%2CNjlmNjk5ZDU0MmYzNzk5OWQ2NzMzOWY2YzFmNDljZmI0NzcwYTIzOTI0YTJmNmI0YjMwZDQ0MzhjYWY3OGZhMQ%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -66,7 +66,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Other",
             "can_mod_post": false,
-            "score": 99,
+            "score": 105,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -179,9 +179,9 @@
                 "height": 1008,
                 "width": 1920,
                 "scrubber_media_url": "https://v.redd.it/9p0p7mqnbuef1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/9p0p7mqnbuef1/DASHPlaylist.mpd?a=1756038696%2CZTYwOTgzZWVjNjY3MGJmYjkxNmU4NmNmZWE5NTBhODMxM2E4MTViMjNmYWViYzM5MDczYmU4ZmE1OTRkODE3Mg%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/9p0p7mqnbuef1/DASHPlaylist.mpd?a=1756084439%2CZDU2OGFmZDc3MDc2YzAyODUxMjQwM2U2NTgyYmJiZTlkMWM2ZTM1NjJiZGMzY2I1NjUyNTgwYzIxNzk2ZDU3NA%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 45,
-                "hls_url": "https://v.redd.it/9p0p7mqnbuef1/HLSPlaylist.m3u8?a=1756038696%2CNWQ1MmVjZTI5NDAzNjk1YWM3NmZmMzFlYzVkYzcyZWM1YzY5NmU5NWUyYmM1YmM2ZDIwMjc1YWZiNGVjZjZiZA%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/9p0p7mqnbuef1/HLSPlaylist.m3u8?a=1756084439%2CNjlmNjk5ZDU0MmYzNzk5OWQ2NzMzOWY2YzFmNDljZmI0NzcwYTIzOTI0YTJmNmI0YjMwZDQ0MzhjYWY3OGZhMQ%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m87q21/voxtral_webgpu_stateoftheart_audio_transcription/",
             "stickied": false,
             "url": "https://v.redd.it/9p0p7mqnbuef1",
-            "subreddit_subscribers": 504254,
+            "subreddit_subscribers": 504486,
             "created_utc": 1753371510,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -286,7 +286,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n4y9tgp",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_50euckkz",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -329,7 +329,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -413,7 +413,7 @@
             "created_utc": 1753376465,
             "send_replies": true,
             "parent_id": "t3_1m87q21",
-            "score": 10,
+            "score": 11,
             "author_fullname": "t2_35jjv",
             "approved_by": null,
             "mod_note": null,
@@ -455,7 +455,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 11
           }
         },
         {
@@ -511,7 +511,7 @@
                       "created_utc": 1753381088,
                       "send_replies": true,
                       "parent_id": "t1_n4xcw9r",
-                      "score": 10,
+                      "score": 9,
                       "author_fullname": "t2_mizchr3",
                       "removal_reason": null,
                       "approved_by": null,
@@ -553,7 +553,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 9
                     }
                   }
                 ],
@@ -574,7 +574,7 @@
             "created_utc": 1753374579,
             "send_replies": true,
             "parent_id": "t3_1m87q21",
-            "score": 7,
+            "score": 5,
             "author_fullname": "t2_35jjv",
             "approved_by": null,
             "mod_note": null,
@@ -616,7 +616,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 5
           }
         },
         {

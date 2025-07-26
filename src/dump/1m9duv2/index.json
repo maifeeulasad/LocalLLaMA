@@ -1,0 +1,280 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I’ve been working on a small tool to make it easier to extract high-quality transcripts from YouTube videos.  I think it will be useful for AI trainers and dataset builders who want to build language datasets from online content.\n\nSo I will be giving away a beta tester account that will have infinite credits until launch it has a bulk extract feature which can extract all transcripts of a YouTube channel and videos and put it in one file .\n\ndm me if you want to be a beta tester\n\nhttps://preview.redd.it/wf8kkco9t3ff1.png?width=618&amp;format=png&amp;auto=webp&amp;s=0545d5ab53852b80cf553498d53d1982075d05b6\n\nhttps://preview.redd.it/1mg8157ss3ff1.png?width=1336&amp;format=png&amp;auto=webp&amp;s=33ff520a9e831b2fee0f99118143efa0cb8b59df\n\nhttps://preview.redd.it/kx9xm6hgt3ff1.png?width=863&amp;format=png&amp;auto=webp&amp;s=2aafa58c52afea745518a37c41ccf49c09972519\n\nhttps://preview.redd.it/985pjh9tt3ff1.png?width=691&amp;format=png&amp;auto=webp&amp;s=13be1dd344b3a1ea463070e2bf92a43b5ba4dd49\n\n  \n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Ai training Tool I want to share!",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 119,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "985pjh9tt3ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 85,
+                    "x": 108,
+                    "u": "https://preview.redd.it/985pjh9tt3ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=00a42e32168a547f07923efa28a793940f08a360"
+                  },
+                  {
+                    "y": 170,
+                    "x": 216,
+                    "u": "https://preview.redd.it/985pjh9tt3ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=7165f86006d7ef09f4ff48384ac9aad30f3318c2"
+                  },
+                  {
+                    "y": 252,
+                    "x": 320,
+                    "u": "https://preview.redd.it/985pjh9tt3ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eec191101d9dd0c302e6fedf0af1bacbfb2f4938"
+                  },
+                  {
+                    "y": 504,
+                    "x": 640,
+                    "u": "https://preview.redd.it/985pjh9tt3ff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9156dcafa2959b6f898f789a62ff73615f1d75e8"
+                  }
+                ],
+                "s": {
+                  "y": 545,
+                  "x": 691,
+                  "u": "https://preview.redd.it/985pjh9tt3ff1.png?width=691&amp;format=png&amp;auto=webp&amp;s=13be1dd344b3a1ea463070e2bf92a43b5ba4dd49"
+                },
+                "id": "985pjh9tt3ff1"
+              },
+              "wf8kkco9t3ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 92,
+                    "x": 108,
+                    "u": "https://preview.redd.it/wf8kkco9t3ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=0dea551e664e42f9448f784a42f51b399f5397a8"
+                  },
+                  {
+                    "y": 184,
+                    "x": 216,
+                    "u": "https://preview.redd.it/wf8kkco9t3ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5a436507d1e263f947381a877681653df20c90e0"
+                  },
+                  {
+                    "y": 273,
+                    "x": 320,
+                    "u": "https://preview.redd.it/wf8kkco9t3ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8cd9274b47476014dc317bb84086035fcfa0cc79"
+                  }
+                ],
+                "s": {
+                  "y": 528,
+                  "x": 618,
+                  "u": "https://preview.redd.it/wf8kkco9t3ff1.png?width=618&amp;format=png&amp;auto=webp&amp;s=0545d5ab53852b80cf553498d53d1982075d05b6"
+                },
+                "id": "wf8kkco9t3ff1"
+              },
+              "kx9xm6hgt3ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 67,
+                    "x": 108,
+                    "u": "https://preview.redd.it/kx9xm6hgt3ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f26a5ec431efd8ca5d97fd4b448315b8c68af19a"
+                  },
+                  {
+                    "y": 134,
+                    "x": 216,
+                    "u": "https://preview.redd.it/kx9xm6hgt3ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f7e4c58a87f4a231f57aefc45240c188e2d2610a"
+                  },
+                  {
+                    "y": 198,
+                    "x": 320,
+                    "u": "https://preview.redd.it/kx9xm6hgt3ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7cbf8fd45db7c92a0a7a54e73dae5aa0aacd6cbd"
+                  },
+                  {
+                    "y": 397,
+                    "x": 640,
+                    "u": "https://preview.redd.it/kx9xm6hgt3ff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9fe19ea5db262ac80ac773e5628fc2165b993a88"
+                  }
+                ],
+                "s": {
+                  "y": 536,
+                  "x": 863,
+                  "u": "https://preview.redd.it/kx9xm6hgt3ff1.png?width=863&amp;format=png&amp;auto=webp&amp;s=2aafa58c52afea745518a37c41ccf49c09972519"
+                },
+                "id": "kx9xm6hgt3ff1"
+              },
+              "1mg8157ss3ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 47,
+                    "x": 108,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f9afd44a3f9f70d75751fd25af84329e258957b7"
+                  },
+                  {
+                    "y": 94,
+                    "x": 216,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=0eb9ca900f5ac925b7767d12e1f432264fa0f535"
+                  },
+                  {
+                    "y": 140,
+                    "x": 320,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9e87773e5dd644629e80477fbb6bc64682951581"
+                  },
+                  {
+                    "y": 280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f993fb75fe8121f018ff4fe789c5660be9333f6a"
+                  },
+                  {
+                    "y": 421,
+                    "x": 960,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=a960f16f86a744a27c55f093ec4420e6756d0736"
+                  },
+                  {
+                    "y": 473,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f3bb82df7e16a39e069dfd0a2f8e52e51a92f7e2"
+                  }
+                ],
+                "s": {
+                  "y": 586,
+                  "x": 1336,
+                  "u": "https://preview.redd.it/1mg8157ss3ff1.png?width=1336&amp;format=png&amp;auto=webp&amp;s=33ff520a9e831b2fee0f99118143efa0cb8b59df"
+                },
+                "id": "1mg8157ss3ff1"
+              }
+            },
+            "name": "t3_1m9duv2",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1rk8qow8x2",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/1-i3V0tVUx4LiF6k37Pc1dzCVbo6GAP2UM5PyjET5Jc.jpg",
+            "edited": 1753485915,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753484988,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I’ve been working on a small tool to make it easier to extract high-quality transcripts from YouTube videos.  I think it will be useful for AI trainers and dataset builders who want to build language datasets from online content.&lt;/p&gt;\n\n&lt;p&gt;So I will be giving away a beta tester account that will have infinite credits until launch it has a bulk extract feature which can extract all transcripts of a YouTube channel and videos and put it in one file .&lt;/p&gt;\n\n&lt;p&gt;dm me if you want to be a beta tester&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/wf8kkco9t3ff1.png?width=618&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0545d5ab53852b80cf553498d53d1982075d05b6\"&gt;https://preview.redd.it/wf8kkco9t3ff1.png?width=618&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0545d5ab53852b80cf553498d53d1982075d05b6&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/1mg8157ss3ff1.png?width=1336&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=33ff520a9e831b2fee0f99118143efa0cb8b59df\"&gt;https://preview.redd.it/1mg8157ss3ff1.png?width=1336&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=33ff520a9e831b2fee0f99118143efa0cb8b59df&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/kx9xm6hgt3ff1.png?width=863&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2aafa58c52afea745518a37c41ccf49c09972519\"&gt;https://preview.redd.it/kx9xm6hgt3ff1.png?width=863&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2aafa58c52afea745518a37c41ccf49c09972519&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/985pjh9tt3ff1.png?width=691&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13be1dd344b3a1ea463070e2bf92a43b5ba4dd49\"&gt;https://preview.redd.it/985pjh9tt3ff1.png?width=691&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=13be1dd344b3a1ea463070e2bf92a43b5ba4dd49&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1m9duv2",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Enough_Patient1904",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m9duv2/ai_training_tool_i_want_to_share/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m9duv2/ai_training_tool_i_want_to_share/",
+            "subreddit_subscribers": 504486,
+            "created_utc": 1753484988,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
