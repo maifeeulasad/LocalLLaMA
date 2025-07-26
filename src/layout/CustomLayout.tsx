@@ -8640,6 +8640,126 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m9gg6j',
         name: 'If you’re experimenting with Qwen3-Coder, we just launched a Turbo version on DeepInfra',
       },
+      {
+        path: '/1m9gs61',
+        name: 'AMD ROCm 7 Installation &amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux',
+      },
+      {
+        path: '/1m9gzl7',
+        name: 'Nvidia released Llama Nemotron Super v1.5',
+      },
+      {
+        path: '/1m9holp',
+        name: 'There\'s a new Kimi model on lmarena called Zenith and it\'s really really good. It might be Kimi K2 with reasoning',
+      },
+      {
+        path: '/1m9hycx',
+        name: 'There has been a lot of efforts in the past to improve  quantization due to the size of dense models… are we likely to see improvements like pruning and/or distillation with the uprise of huge MoEs?',
+      },
+      {
+        path: '/1m9ia1t',
+        name: 'A demo of long running LLM agent solution with state persistent.',
+      },
+      {
+        path: '/1m9itnz',
+        name: 'My 7985WX, dual 5090\'s, and 256GB\'s of DDR5-6000 has landed.',
+      },
+      {
+        path: '/1m9j02q',
+        name: 'Langfuse- Clarification Needed: RBAC Features in Open Source vs Enterprise Edition',
+      },
+      {
+        path: '/1m9j1mh',
+        name: 'Question on MOE expert swapping',
+      },
+      {
+        path: '/1m9jjh3',
+        name: 'qwen3-30b-a3b has fallen into infinite consent for function calling',
+      },
+      {
+        path: '/1m9jkm4',
+        name: '16Gb vram python coder',
+      },
+      {
+        path: '/1m9kc7c',
+        name: 'Newbie Thought: Why Isn’t There a “CivitAI for Local LLM Assistants”?',
+      },
+      {
+        path: '/1m9m670',
+        name: 'We discovered an approach to train any AI agent with RL, with (almost) zero code changes.',
+      },
+      {
+        path: '/1m9m8gw',
+        name: 'Intern S1 released',
+      },
+      {
+        path: '/1m9mdtj',
+        name: 'Why isn\'t/Is there a natural language search interface for Everything from void tools?',
+      },
+      {
+        path: '/1m9ml0y',
+        name: 'webbigdata/VoiceCore: Japanese voice version of canopylabs/orpheus-tts',
+      },
+      {
+        path: '/1m9nu0j',
+        name: 'Thoughts on Qwen3 235B A22B Instruct 2507?',
+      },
+      {
+        path: '/1m9nwk7',
+        name: 'Best way to manage context/notes locally for API usage while optimizing token costs?',
+      },
+      {
+        path: '/1m9nyk4',
+        name: 'LLM (esp. MoE) inference profiling : is it a thing and if not, why not ?',
+      },
+      {
+        path: '/1m9p7bb',
+        name: 'Merged Lora adaptor Model Giving Gibberish as response.  Using Llama 3.2 3B instruct. Dataset trained on Nebius Ai studio. What to do?',
+      },
+      {
+        path: '/1m9p9kg',
+        name: 'Has anyone created a table of collated benchmark results of many LLMs',
+      },
+      {
+        path: '/1m9q92z',
+        name: 'Cluster idea for MoE',
+      },
+      {
+        path: '/1m9qt65',
+        name: 'Think tags missing in Qwen3-235B-A22B-Thinking-2507',
+      },
+      {
+        path: '/1m9qtco',
+        name: 'Has Anyone been able to generate multimodal embedddings using Visualized_BGE?',
+      },
+      {
+        path: '/1m9r5gb',
+        name: 'inclusionAI/Ming-Lite-Omni-1.5 (20B-A3B)',
+      },
+      {
+        path: '/1m9rcg2',
+        name: 'Qwen 3 235B A22B Instruct 2507 shows that non-thinking models can be great at reasoning as well',
+      },
+      {
+        path: '/1m9rhgf',
+        name: 'Tips for improving my ollama setup? - Ryzen 5 3600/ RTX 3060 12GB VRAM / 64 GB RAM - Qwen3-30B-A3B',
+      },
+      {
+        path: '/1m9rmry',
+        name: 'Need help understanding GPU VRAM pooling – can I combine VRAM across GPUs?',
+      },
+      {
+        path: '/1m9rpgf',
+        name: 'When picking the model for production use, what criteria do you use?',
+      },
+      {
+        path: '/1m9rqxa',
+        name: 'Me after getting excited by a new model release and checking on Hugging Face if I can run it locally.',
+      },
+      {
+        path: '/1m9s0zk',
+        name: 'Yann Lecun being sidelined at Meta. RIP for open weight models',
+      },
     ],
   },
   {

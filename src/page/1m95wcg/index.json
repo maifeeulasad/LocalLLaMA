@@ -36,7 +36,7 @@
             "name": "t3_1m95wcg",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 1,
+            "upvote_ratio": 0.86,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 5,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "s-s-a",
             "discussion_type": null,
-            "num_comments": 7,
+            "num_comments": 8,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m95wcg/amd_equivalent_for_nvidia_rtx_6000_pro_blackwell/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m95wcg/amd_equivalent_for_nvidia_rtx_6000_pro_blackwell/",
-            "subreddit_subscribers": 504487,
+            "subreddit_subscribers": 504692,
             "created_utc": 1753465671,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1753466091,
             "send_replies": true,
             "parent_id": "t3_1m95wcg",
-            "score": 9,
+            "score": 10,
             "author_fullname": "t2_on5es7pe3",
             "approved_by": null,
             "mod_note": null,
@@ -212,7 +212,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
@@ -308,12 +308,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "eloquentemu",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n54r26e",
-                                          "score": 2,
+                                          "score": 3,
                                           "author_fullname": "t2_lpdsy",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -356,7 +356,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 3
                                         }
                                       },
                                       {
@@ -374,7 +374,93 @@
                                           "subreddit": "LocalLLaMA",
                                           "author_flair_template_id": null,
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "after": null,
+                                              "dist": null,
+                                              "modhash": "",
+                                              "geo_filter": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "approved_at_utc": null,
+                                                    "author_is_blocked": false,
+                                                    "comment_type": null,
+                                                    "awarders": [],
+                                                    "mod_reason_by": null,
+                                                    "banned_by": null,
+                                                    "author_flair_type": "text",
+                                                    "total_awards_received": 0,
+                                                    "subreddit": "LocalLLaMA",
+                                                    "author_flair_template_id": null,
+                                                    "distinguished": null,
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "n58paql",
+                                                    "banned_at_utc": null,
+                                                    "mod_reason_title": null,
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "collapsed_reason_code": null,
+                                                    "no_follow": true,
+                                                    "author": "GPTrack_ai",
+                                                    "can_mod_post": false,
+                                                    "send_replies": true,
+                                                    "parent_id": "t1_n560jqa",
+                                                    "score": 1,
+                                                    "author_fullname": "t2_1tpuoj72sa",
+                                                    "removal_reason": null,
+                                                    "approved_by": null,
+                                                    "mod_note": null,
+                                                    "all_awardings": [],
+                                                    "body": "they have Mi3xx...",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "name": "t1_n58paql",
+                                                    "is_submitter": false,
+                                                    "downs": 0,
+                                                    "author_flair_richtext": [],
+                                                    "author_patreon_flair": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;they have Mi3xx...&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "gildings": {},
+                                                    "collapsed_reason": null,
+                                                    "link_id": "t3_1m95wcg",
+                                                    "associated_award": null,
+                                                    "stickied": false,
+                                                    "author_premium": false,
+                                                    "can_gild": false,
+                                                    "top_awarded_type": null,
+                                                    "unrepliable_reason": null,
+                                                    "author_flair_text_color": null,
+                                                    "treatment_tags": [],
+                                                    "score_hidden": false,
+                                                    "permalink": "/r/LocalLLaMA/comments/1m95wcg/amd_equivalent_for_nvidia_rtx_6000_pro_blackwell/n58paql/",
+                                                    "subreddit_type": "public",
+                                                    "locked": false,
+                                                    "report_reasons": null,
+                                                    "created": 1753524526,
+                                                    "author_flair_text": null,
+                                                    "collapsed": false,
+                                                    "created_utc": 1753524526,
+                                                    "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                    "controversiality": 0,
+                                                    "depth": 4,
+                                                    "author_flair_background_color": null,
+                                                    "collapsed_because_crowd_control": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "n560jqa",
@@ -388,7 +474,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n54r26e",
-                                          "score": 0,
+                                          "score": 4,
                                           "author_fullname": "t2_8rrihts9",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -431,7 +517,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 0
+                                          "ups": 4
                                         }
                                       }
                                     ],
@@ -446,12 +532,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": false,
+                                "no_follow": true,
                                 "author": "mustafar0111",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n54ob2z",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_iulq4li0",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -494,7 +580,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -515,7 +601,7 @@
                       "created_utc": 1753467174,
                       "send_replies": true,
                       "parent_id": "t1_n54kmfn",
-                      "score": 6,
+                      "score": 10,
                       "author_fullname": "t2_eztox",
                       "removal_reason": null,
                       "approved_by": null,
@@ -557,7 +643,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 10
                     }
                   },
                   {
@@ -590,7 +676,7 @@
                       "created_utc": 1753467646,
                       "send_replies": true,
                       "parent_id": "t1_n54kmfn",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_iol3buybk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -632,7 +718,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -653,7 +739,7 @@
             "created_utc": 1753466126,
             "send_replies": true,
             "parent_id": "t3_1m95wcg",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_iulq4li0",
             "approved_by": null,
             "mod_note": null,
@@ -695,7 +781,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         }
       ],

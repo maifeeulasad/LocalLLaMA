@@ -36,7 +36,7 @@
             "name": "t3_1m8vu80",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.87,
+            "upvote_ratio": 0.83,
             "author_flair_background_color": "#bbbdbf",
             "subreddit_type": "public",
             "ups": 34,
@@ -112,7 +112,7 @@
             "report_reasons": null,
             "author": "segmond",
             "discussion_type": null,
-            "num_comments": 21,
+            "num_comments": 22,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -121,7 +121,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m8vu80/n_n_size_gpu_2n_sized_gpu_go_big_if_you_can/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m8vu80/n_n_size_gpu_2n_sized_gpu_go_big_if_you_can/",
-            "subreddit_subscribers": 504487,
+            "subreddit_subscribers": 504692,
             "created_utc": 1753440200,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -215,7 +215,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n55f2ra",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_t6glzswk",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -258,7 +258,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -279,7 +279,7 @@
                       "created_utc": 1753475029,
                       "send_replies": true,
                       "parent_id": "t1_n557a8i",
-                      "score": 1,
+                      "score": 0,
                       "author_fullname": "t2_ah13x",
                       "removal_reason": null,
                       "approved_by": null,
@@ -326,7 +326,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 0
                     }
                   }
                 ],
@@ -347,7 +347,7 @@
             "created_utc": 1753472746,
             "send_replies": true,
             "parent_id": "t3_1m8vu80",
-            "score": 4,
+            "score": 8,
             "author_fullname": "t2_t6glzswk",
             "approved_by": null,
             "mod_note": null,
@@ -389,7 +389,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 8
           }
         },
         {
@@ -536,7 +536,7 @@
                       "created_utc": 1753447119,
                       "send_replies": true,
                       "parent_id": "t1_n52codd",
-                      "score": 0,
+                      "score": -1,
                       "author_fullname": "t2_ah13x",
                       "removal_reason": null,
                       "approved_by": null,
@@ -583,7 +583,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 0
+                      "ups": -1
                     }
                   }
                 ],
@@ -604,7 +604,7 @@
             "created_utc": 1753441246,
             "send_replies": true,
             "parent_id": "t3_1m8vu80",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_1d96a8k10t",
             "approved_by": null,
             "mod_note": null,
@@ -646,7 +646,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -1436,13 +1436,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "loki-midgard",
                       "can_mod_post": false,
                       "created_utc": 1753460079,
                       "send_replies": true,
                       "parent_id": "t1_n53neme",
-                      "score": 2,
+                      "score": 5,
                       "author_fullname": "t2_cpg2nk6ct",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1484,7 +1484,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 5
                     }
                   },
                   {
@@ -1548,7 +1548,93 @@
                                           "subreddit": "LocalLLaMA",
                                           "author_flair_template_id": null,
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "after": null,
+                                              "dist": null,
+                                              "modhash": "",
+                                              "geo_filter": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "approved_at_utc": null,
+                                                    "author_is_blocked": false,
+                                                    "comment_type": null,
+                                                    "awarders": [],
+                                                    "mod_reason_by": null,
+                                                    "banned_by": null,
+                                                    "author_flair_type": "text",
+                                                    "total_awards_received": 0,
+                                                    "subreddit": "LocalLLaMA",
+                                                    "author_flair_template_id": null,
+                                                    "distinguished": null,
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "n58ffau",
+                                                    "banned_at_utc": null,
+                                                    "mod_reason_title": null,
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "collapsed_reason_code": null,
+                                                    "no_follow": true,
+                                                    "author": "GPTrack_ai",
+                                                    "can_mod_post": false,
+                                                    "send_replies": true,
+                                                    "parent_id": "t1_n55nknp",
+                                                    "score": 1,
+                                                    "author_fullname": "t2_1tpuoj72sa",
+                                                    "removal_reason": null,
+                                                    "approved_by": null,
+                                                    "mod_note": null,
+                                                    "all_awardings": [],
+                                                    "body": "rtx pro goes for 7.5k. but arguring about price is pointless. for big/good models you need bleeding edge hardware. qwen3-235B fits in GH200 624GB. but thats more expensiv than 2 rtx pros. these are your choices.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "name": "t1_n58ffau",
+                                                    "is_submitter": false,
+                                                    "downs": 0,
+                                                    "author_flair_richtext": [],
+                                                    "author_patreon_flair": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;rtx pro goes for 7.5k. but arguring about price is pointless. for big/good models you need bleeding edge hardware. qwen3-235B fits in GH200 624GB. but thats more expensiv than 2 rtx pros. these are your choices.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "gildings": {},
+                                                    "collapsed_reason": null,
+                                                    "link_id": "t3_1m8vu80",
+                                                    "associated_award": null,
+                                                    "stickied": false,
+                                                    "author_premium": false,
+                                                    "can_gild": false,
+                                                    "top_awarded_type": null,
+                                                    "unrepliable_reason": null,
+                                                    "author_flair_text_color": null,
+                                                    "treatment_tags": [],
+                                                    "score_hidden": false,
+                                                    "permalink": "/r/LocalLLaMA/comments/1m8vu80/n_n_size_gpu_2n_sized_gpu_go_big_if_you_can/n58ffau/",
+                                                    "subreddit_type": "public",
+                                                    "locked": false,
+                                                    "report_reasons": null,
+                                                    "created": 1753518656,
+                                                    "author_flair_text": null,
+                                                    "collapsed": false,
+                                                    "created_utc": 1753518656,
+                                                    "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                    "controversiality": 0,
+                                                    "depth": 4,
+                                                    "author_flair_background_color": null,
+                                                    "collapsed_because_crowd_control": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "n55nknp",
@@ -1562,7 +1648,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n55c2d2",
-                                          "score": 1,
+                                          "score": 0,
                                           "author_fullname": "t2_lpdsy",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1605,7 +1691,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 0
                                         }
                                       }
                                     ],
@@ -1752,7 +1838,7 @@
             "created_utc": 1753456910,
             "send_replies": true,
             "parent_id": "t3_1m8vu80",
-            "score": -6,
+            "score": -5,
             "author_fullname": "t2_1tpuoj72sa",
             "approved_by": null,
             "mod_note": null,
@@ -1794,7 +1880,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -5
           }
         }
       ],
