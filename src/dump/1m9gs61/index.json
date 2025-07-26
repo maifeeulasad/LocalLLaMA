@@ -1,0 +1,219 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "AMD ROCm 7 Installation &amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Tutorial | Guide"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 105,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1m9gs61",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.7,
+            "author_flair_background_color": null,
+            "ups": 4,
+            "total_awards_received": 0,
+            "media_embed": {
+              "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7qDlHpeTmC0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMD ROCm 7 Installation &amp;amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux\"&gt;&lt;/iframe&gt;",
+              "width": 356,
+              "scrolling": false,
+              "height": 200
+            },
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_3vgq8ww9",
+            "secure_media": {
+              "oembed": {
+                "provider_url": "https://www.youtube.com/",
+                "title": "AMD ROCm 7 Installation &amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux",
+                "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7qDlHpeTmC0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMD ROCm 7 Installation &amp;amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux\"&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "height": 200,
+                "width": 356,
+                "version": "1.0",
+                "author_name": "Open Game and Development",
+                "provider_name": "YouTube",
+                "thumbnail_url": "https://i.ytimg.com/vi/7qDlHpeTmC0/hqdefault.jpg",
+                "type": "video",
+                "thumbnail_height": 360,
+                "author_url": "https://www.youtube.com/@OpenGameDev"
+              },
+              "type": "youtube.com"
+            },
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {
+              "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7qDlHpeTmC0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMD ROCm 7 Installation &amp;amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux\"&gt;&lt;/iframe&gt;",
+              "width": 356,
+              "scrolling": false,
+              "media_domain_url": "https://www.redditmedia.com/mediaembed/1m9gs61",
+              "height": 200
+            },
+            "link_flair_text": "Tutorial | Guide",
+            "can_mod_post": false,
+            "score": 4,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg.jpeg?width=140&amp;height=105&amp;crop=140:105,smart&amp;auto=webp&amp;s=54b8a4666377e0b1a0b2acbcd5d89152969f6a79",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "rich:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753493166,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "youtube.com",
+            "allow_live_comments": false,
+            "selftext_html": null,
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://youtube.com/watch?v=7qDlHpeTmC0&amp;si=abStnvRLk3lAT1FW",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg.jpeg?auto=webp&amp;s=c1dfae92251d09c0c245fae7c61add3ead685200",
+                    "width": 480,
+                    "height": 360
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4a1c36e02a84367d85741b43e8eacc884b42ec24",
+                      "width": 108,
+                      "height": 81
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f8868da18d50f82cfd8d101cba3659a689b623d0",
+                      "width": 216,
+                      "height": 162
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ddc2b3dfe5fb294fa364dede45420fcbf14e4054",
+                      "width": 320,
+                      "height": 240
+                    }
+                  ],
+                  "variants": {},
+                  "id": "H1S_ghyDQg-VMEV8JXw6B9oG5nmC_pqvozEXErkEtwg"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "449b05a6-bf8e-11ed-b4bd-66961e47bd50",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#0079d3",
+            "id": "1m9gs61",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "B4rr3l",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": {
+              "oembed": {
+                "provider_url": "https://www.youtube.com/",
+                "title": "AMD ROCm 7 Installation &amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux",
+                "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/7qDlHpeTmC0?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"AMD ROCm 7 Installation &amp;amp; Test Guide / Fedora Linux RX 9070 - ComfyUI Blender LMStudio SDNext Flux\"&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "height": 200,
+                "width": 356,
+                "version": "1.0",
+                "author_name": "Open Game and Development",
+                "provider_name": "YouTube",
+                "thumbnail_url": "https://i.ytimg.com/vi/7qDlHpeTmC0/hqdefault.jpg",
+                "type": "video",
+                "thumbnail_height": 360,
+                "author_url": "https://www.youtube.com/@OpenGameDev"
+              },
+              "type": "youtube.com"
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m9gs61/amd_rocm_7_installation_test_guide_fedora_linux/",
+            "stickied": false,
+            "url": "https://youtube.com/watch?v=7qDlHpeTmC0&amp;si=abStnvRLk3lAT1FW",
+            "subreddit_subscribers": 504692,
+            "created_utc": 1753493166,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "There have been many models released this year already and have lost track of which models are better and for what.\n\n**Does anyone have some resource or spreadsheet that collates the results of many models on many benchmarks?**\n\nI'm slightly more interested in open-weights model results, but I think it's important to have data for closed source as well for comparison.\n\nI've tried to look myself, but the following resources aren't what I'm looking for:\n\n* [vellum.ai/llm-leaderboard](http://vellum.ai/llm-leaderboard) \\- not enough models or benchmarks covered\n* [artificialanalysis.ai](http://artificialanalysis.ai) \\- does cover lots of models, but only uses single number for intelligence\n* [https://dubesor.de/benchtable](https://dubesor.de/benchtable) \\- no official benchmarks used\n* [https://llm-stats.com/](https://llm-stats.com/) \\- not many benchmarks covered",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Has anyone created a table of collated benchmark results of many LLMs",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1m9p9kg",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.75,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 4,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_2ys57apx",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 4,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753522802,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;There have been many models released this year already and have lost track of which models are better and for what.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Does anyone have some resource or spreadsheet that collates the results of many models on many benchmarks?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m slightly more interested in open-weights model results, but I think it&amp;#39;s important to have data for closed source as well for comparison.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve tried to look myself, but the following resources aren&amp;#39;t what I&amp;#39;m looking for:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"http://vellum.ai/llm-leaderboard\"&gt;vellum.ai/llm-leaderboard&lt;/a&gt; - not enough models or benchmarks covered&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"http://artificialanalysis.ai\"&gt;artificialanalysis.ai&lt;/a&gt; - does cover lots of models, but only uses single number for intelligence&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://dubesor.de/benchtable\"&gt;https://dubesor.de/benchtable&lt;/a&gt; - no official benchmarks used&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://llm-stats.com/\"&gt;https://llm-stats.com/&lt;/a&gt; - not many benchmarks covered&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?auto=webp&amp;s=694be80e81c347654e4a0cc9eab6ad4723b65311",
+                    "width": 1165,
+                    "height": 627
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=01b76279937283a6f65fb2f22bacafcfd57327f0",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c32f4a5cf158408de0486e01f1bb633dac191c9e",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0e6c25d22c39ee81cd1fed7e9caf0295ccb0a828",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5ff7437f75185162c16b9fa223ebb95d12680c5",
+                      "width": 640,
+                      "height": 344
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b8fe4d3636c03fffa93f2686ad89c21e63cd305e",
+                      "width": 960,
+                      "height": 516
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=286fe8030eb3bac68c389e001bb59d162a1b2e9f",
+                      "width": 1080,
+                      "height": 581
+                    }
+                  ],
+                  "variants": {},
+                  "id": "4mltMPuoIx8FMW1Y60sN3h17rSzmD3D6Q8bt5cARpzY"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1m9p9kg",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "JawGBoi",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1m9p9kg/has_anyone_created_a_table_of_collated_benchmark/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1m9p9kg/has_anyone_created_a_table_of_collated_benchmark/",
+            "subreddit_subscribers": 504692,
+            "created_utc": 1753522802,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n58supg",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "vasileer",
+            "can_mod_post": false,
+            "created_utc": 1753526503,
+            "send_replies": true,
+            "parent_id": "t3_1m9p9kg",
+            "score": 1,
+            "author_fullname": "t2_730bgdulm",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "[artificialanalysis.ai](http://artificialanalysis.ai/) number is the aggregated one of many benchmarks, just expand the intelligence column\n\nhttps://preview.redd.it/s9t2rqlk67ff1.png?width=1552&amp;format=png&amp;auto=webp&amp;s=96042b25a6db1b90ee5925adcaac9caab4c93553",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n58supg",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://artificialanalysis.ai/\"&gt;artificialanalysis.ai&lt;/a&gt; number is the aggregated one of many benchmarks, just expand the intelligence column&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/s9t2rqlk67ff1.png?width=1552&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=96042b25a6db1b90ee5925adcaac9caab4c93553\"&gt;https://preview.redd.it/s9t2rqlk67ff1.png?width=1552&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=96042b25a6db1b90ee5925adcaac9caab4c93553&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m9p9kg/has_anyone_created_a_table_of_collated_benchmark/n58supg/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753526503,
+            "media_metadata": {
+              "s9t2rqlk67ff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 29,
+                    "x": 108,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=842ad37d544eb71e572eabbfb03422014a959b68"
+                  },
+                  {
+                    "y": 58,
+                    "x": 216,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=457c15426f2d39856fdf4e6ace6081157e87e1eb"
+                  },
+                  {
+                    "y": 86,
+                    "x": 320,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=51adf5496ac50ba872eea9bc4cdf07d876f69851"
+                  },
+                  {
+                    "y": 173,
+                    "x": 640,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=541ca4280bf6697b154bcd7aa915be9d296ee0cf"
+                  },
+                  {
+                    "y": 259,
+                    "x": 960,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=f78ad0bf2da2940ae16de43ef3e65d4f271bd8b5"
+                  },
+                  {
+                    "y": 292,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6b12665f4602ea53935190bc5d140a455acf3363"
+                  }
+                ],
+                "s": {
+                  "y": 420,
+                  "x": 1552,
+                  "u": "https://preview.redd.it/s9t2rqlk67ff1.png?width=1552&amp;format=png&amp;auto=webp&amp;s=96042b25a6db1b90ee5925adcaac9caab4c93553"
+                },
+                "id": "s9t2rqlk67ff1"
+              }
+            },
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m9p9kg",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
