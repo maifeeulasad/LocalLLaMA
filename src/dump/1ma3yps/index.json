@@ -39,7 +39,7 @@
             "upvote_ratio": 1,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 6,
+            "ups": 9,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 6,
+            "score": 9,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1ma3yps/strategy_for_patching_llamacpp_webui_and_keeping/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ma3yps/strategy_for_patching_llamacpp_webui_and_keeping/",
-            "subreddit_subscribers": 504973,
+            "subreddit_subscribers": 505251,
             "created_utc": 1753563038,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1753563907,
             "send_replies": true,
             "parent_id": "t3_1ma3yps",
-            "score": 6,
+            "score": 7,
             "author_fullname": "t2_1j53p3yv3e",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -309,13 +309,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "DeProgrammer99",
             "can_mod_post": false,
             "created_utc": 1753578047,
             "send_replies": true,
             "parent_id": "t3_1ma3yps",
-            "score": 2,
+            "score": 5,
             "author_fullname": "t2_w4j8t",
             "approved_by": null,
             "mod_note": null,
@@ -357,7 +357,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 5
           }
         }
       ],
