@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "(Latest update: 27/07/2025)\n\nI've just extracted the FULL Lovable Agent system prompt and internal tools (Latest update). Over 600 lines (Around 10k tokens).\n\nYou can check it out here: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "FULL Lovable Agent System Prompt and Tools [UPDATED]",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1ma88wd",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 3,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_fbh7mxys2",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 3,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753574674,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;(Latest update: 27/07/2025)&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve just extracted the FULL Lovable Agent system prompt and internal tools (Latest update). Over 600 lines (Around 10k tokens).&lt;/p&gt;\n\n&lt;p&gt;You can check it out here: &lt;a href=\"https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/\"&gt;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?auto=webp&amp;s=f37cfa9c3f2cbb711fdf663a623eb27c21625f4e",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=220e317b01052edf2315c45470afafcb69ba4f39",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c8ec4fb280fa6d7324dd972e866d466854c3e5f2",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fbbbfe2eef74228a825fd61d339ea19db999f97e",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=91ff0602b78f9f3befd49aaf356818b967b31fff",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=451064fc811402906debea71530001b8787707b4",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cf2191857f81dbd49759e980e987a5dd15b7b7f9",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "NODN066BA8UYUXFthrn_kVBJ2bZkZU8gTZ9RETJrKts"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1ma88wd",
+            "is_robot_indexable": true,
+            "num_duplicates": 1,
+            "report_reasons": null,
+            "author": "Independent-Box-898",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1ma88wd/full_lovable_agent_system_prompt_and_tools_updated/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ma88wd/full_lovable_agent_system_prompt_and_tools_updated/",
+            "subreddit_subscribers": 504973,
+            "created_utc": 1753574674,
+            "num_crossposts": 1,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

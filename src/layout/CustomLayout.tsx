@@ -8760,6 +8760,258 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1m9s0zk',
         name: 'Yann Lecun being sidelined at Meta. RIP for open weight models',
       },
+      {
+        path: '/1m9s2nt',
+        name: 'Qwen\'s Wan 2.2 is coming soon',
+      },
+      {
+        path: '/1m9saif',
+        name: 'New model on lmarena called summit?',
+      },
+      {
+        path: '/1m9sejp',
+        name: 'China Launches Its First 6nm GPUs For Gaming &amp; AI, the Lisuan 7G106 12 GB &amp; 7G105 24 GB, Up To 24 TFLOPs, Faster Than RTX 4060 In Synthetic Benchmarks &amp; Even Runs Black Myth Wukong at 4K High With Playable FPS',
+      },
+      {
+        path: '/1m9t4ek',
+        name: 'Multimodal RAG',
+      },
+      {
+        path: '/1m9tdts',
+        name: 'I get "No LLMS yet" error even tho I have an LLM in LM Studio',
+      },
+      {
+        path: '/1m9thq6',
+        name: 'Local Machine setup',
+      },
+      {
+        path: '/1m9tnj5',
+        name: 'Scaling Inference To Billions of Users And Agents',
+      },
+      {
+        path: '/1m9tt3o',
+        name: 'Phi-4-mini-reasoning: An example of "overfitting to think"',
+      },
+      {
+        path: '/1m9tv80',
+        name: 'Honest release notes from non-proprietary model developer',
+      },
+      {
+        path: '/1m9tyg9',
+        name: 'Is China the only hope for factual models?',
+      },
+      {
+        path: '/1m9tzxx',
+        name: 'Study reports AI Coding Tools Underperform',
+      },
+      {
+        path: '/1m9ujwe',
+        name: 'Anything as fast as Qwen A3B?',
+      },
+      {
+        path: '/1m9ukpw',
+        name: 'Best non-thinking model which can be a long context personal assistant?',
+      },
+      {
+        path: '/1m9uoa7',
+        name: 'What\'s the fastest backend for local long context (100k+)?',
+      },
+      {
+        path: '/1m9uwxg',
+        name: 'Quad 4090 48GB + 768GB DDR5 in Jonsbo N5 case',
+      },
+      {
+        path: '/1m9vbzf',
+        name: 'LLM Agents - A different example',
+      },
+      {
+        path: '/1m9vmdh',
+        name: 'The few guessers still believe DeepSeek will trump Qwen',
+      },
+      {
+        path: '/1m9w0k8',
+        name: 'Open source AI presentation generator with custom layouts support for custom presentation design',
+      },
+      {
+        path: '/1m9wcdc',
+        name: 'HP Zbook Ultra G1A pp512/tg128 scores for unsloth/Qwen3-235B-A22B-Thinking-2507-GGUF  128gb unified RAM',
+      },
+      {
+        path: '/1m9wcmx',
+        name: 'Best way (if there is one) to run GLM-4.1V-9B-Thinking with vision on Windows?',
+      },
+      {
+        path: '/1m9wdxb',
+        name: 'Does anyone know how to decrease the speaking rate in ChatterboxTTs-Extented?',
+      },
+      {
+        path: '/1m9wlhw',
+        name: 'Access Llama in CLI with sexy UI ?',
+      },
+      {
+        path: '/1m9woxb',
+        name: 'My Attempt to Understand local LLM Landscape (Survey Results)',
+      },
+      {
+        path: '/1m9wxow',
+        name: 'Tencent launched AI Coder IDE CodeBuddy',
+      },
+      {
+        path: '/1m9xi84',
+        name: 'Implemented Test-Time Diffusion Deep Researcher (TTD-DR) - Turn any local LLM into a powerful research agent with real web sources',
+      },
+      {
+        path: '/1m9xw4c',
+        name: 'Crediting Chinese makers by name',
+      },
+      {
+        path: '/1m9xwo5',
+        name: 'For MCP is LMstudio or Ollama better?',
+      },
+      {
+        path: '/1m9xx6w',
+        name: 'Chatterbox multi hour generator',
+      },
+      {
+        path: '/1m9y506',
+        name: 'inclusionAI/Ling-lite-1.5-2506 (16.8B total, 2.75B active, MIT license)',
+      },
+      {
+        path: '/1m9y5cd',
+        name: 'I built a local-first transcribing + summarizing tool that\'s FREE FOREVER',
+      },
+      {
+        path: '/1m9yaku',
+        name: 'Databricks',
+      },
+      {
+        path: '/1m9yhcd',
+        name: 'Free Qwen Code to speedup local work',
+      },
+      {
+        path: '/1m9ywng',
+        name: 'Qwen/Alibaba Paper - Group Sequence Policy Optimization',
+      },
+      {
+        path: '/1m9zrmo',
+        name: 'Would this B760M motherboard support dual 2-slot GPUs?',
+      },
+      {
+        path: '/1ma08e0',
+        name: 'Appreciation Post - Thank you unsloth team, and thank you bartowski',
+      },
+      {
+        path: '/1ma12o2',
+        name: 'Would you kindly help',
+      },
+      {
+        path: '/1ma1amq',
+        name: 'Any new OpenSource LLM apps or websites? Such as Qwen or Deepseek?',
+      },
+      {
+        path: '/1ma2ayu',
+        name: 'Claude Code Full System prompt',
+      },
+      {
+        path: '/1ma2j62',
+        name: 'Anyone else starting to feel this way when a new model \'breaks the charts\' but need like 15k thinking tokens to do it?',
+      },
+      {
+        path: '/1ma2r4d',
+        name: 'Now you can pull LLM models directly from the browser using XandAI extension',
+      },
+      {
+        path: '/1ma2vjq',
+        name: 'Task for python dev',
+      },
+      {
+        path: '/1ma3dpd',
+        name: 'Local dual 5060 ti, qwen 3 30b full context of 40k, &gt;60t/s',
+      },
+      {
+        path: '/1ma3hmd',
+        name: 'Tool calling support in Llama 3 8b',
+      },
+      {
+        path: '/1ma3vpa',
+        name: 'In Tribute to the Prince of Darkness: I Benchmarked 19 LLMs on Retrieving "Bark at the Moon" Lyrics',
+      },
+      {
+        path: '/1ma3yps',
+        name: 'Strategy for patching llama.cpp webui - and keeping it patched?',
+      },
+      {
+        path: '/1ma41wu',
+        name: 'ik_llama.cpp help!',
+      },
+      {
+        path: '/1ma426d',
+        name: 'Beginner suggestions',
+      },
+      {
+        path: '/1ma4oqz',
+        name: 'How to handle different input types',
+      },
+      {
+        path: '/1ma4ugf',
+        name: 'Found this Context Engineering repository - looking for feedback on the approach',
+      },
+      {
+        path: '/1ma5359',
+        name: 'new to all this, best local llm for multilingual (dutch)',
+      },
+      {
+        path: '/1ma5dmr',
+        name: 'Qwen3 235b 0725 uses a whole lot of tokens',
+      },
+      {
+        path: '/1ma5duc',
+        name: 'It is cool to see an youtuber using huggingface to be funny. Another win for the open-source community',
+      },
+      {
+        path: '/1ma5wq2',
+        name: 'AMD MI50 @ 100€',
+      },
+      {
+        path: '/1ma5yw4',
+        name: 'VRAM sweet spot',
+      },
+      {
+        path: '/1ma6b57',
+        name: 'New AI architecture delivers 100x faster reasoning than LLMs with just 1,000 training examples',
+      },
+      {
+        path: '/1ma6b7j',
+        name: 'Chatterbox Tts python version',
+      },
+      {
+        path: '/1ma6igb',
+        name: 'HIP: Enable Matrix cores for MMQ Kernels, Enable stream-K for CDNA 3 by deepsek · Pull Request #14624 · ggml-org/llama.cpp',
+      },
+      {
+        path: '/1ma7oyv',
+        name: 'WHAT SHOULD I USE?',
+      },
+      {
+        path: '/1ma88wd',
+        name: 'FULL Lovable Agent System Prompt and Tools [UPDATED]',
+      },
+      {
+        path: '/1ma89au',
+        name: 'Best vLLM for pill imprint/textOCR?',
+      },
+      {
+        path: '/1ma8iez',
+        name: 'hay everyone I\'m new here help please',
+      },
+      {
+        path: '/1ma8jks',
+        name: 'South Park Trump Deepfake - How do you think they made it?',
+      },
+      {
+        path: '/1ma8yua',
+        name: 'Local LLM is more important than ever',
+      },
     ],
   },
   {

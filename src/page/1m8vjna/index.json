@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.94,
             "author_flair_background_color": null,
-            "ups": 106,
+            "ups": 111,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 106,
+            "score": 111,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m8vjna/qwenqwen3235ba22bthinking2507/",
             "stickied": false,
             "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
-            "subreddit_subscribers": 504692,
+            "subreddit_subscribers": 504974,
             "created_utc": 1753439107,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -213,7 +213,7 @@
             "created_utc": 1753439593,
             "send_replies": true,
             "parent_id": "t3_1m8vjna",
-            "score": 38,
+            "score": 37,
             "author_fullname": "t2_1c2mqjxrgv",
             "approved_by": null,
             "mod_note": null,
@@ -255,7 +255,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 38
+            "ups": 37
           }
         },
         {
@@ -374,7 +374,7 @@
             "created_utc": 1753448753,
             "send_replies": true,
             "parent_id": "t3_1m8vjna",
-            "score": 34,
+            "score": 35,
             "author_fullname": "t2_4gc7hf3m",
             "approved_by": null,
             "mod_note": null,
@@ -421,7 +421,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 34
+            "ups": 35
           }
         },
         {
@@ -540,7 +540,7 @@
             "created_utc": 1753440808,
             "send_replies": true,
             "parent_id": "t3_1m8vjna",
-            "score": 17,
+            "score": 19,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -587,7 +587,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 19
           }
         },
         {
@@ -605,7 +605,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n573oyt",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "Caffeine_Monster",
+                      "can_mod_post": false,
+                      "created_utc": 1753495377,
+                      "send_replies": true,
+                      "parent_id": "t1_n52cuhz",
+                      "score": 1,
+                      "author_fullname": "t2_hg9yb",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Yeah, it's disgustingly good.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n573oyt",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, it&amp;#39;s disgustingly good.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m8vjna",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m8vjna/qwenqwen3235ba22bthinking2507/n573oyt/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753495377,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n52cuhz",
@@ -620,7 +706,7 @@
             "created_utc": 1753441323,
             "send_replies": true,
             "parent_id": "t3_1m8vjna",
-            "score": 9,
+            "score": 8,
             "author_fullname": "t2_38ilynpn",
             "approved_by": null,
             "mod_note": null,
@@ -662,7 +748,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 8
           }
         },
         {

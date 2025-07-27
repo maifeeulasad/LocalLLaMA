@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Came across this repository that's trying to unify different AI context management systems: [https://github.com/pranav-tandon/ContextEngineering](https://github.com/pranav-tandon/ContextEngineering)\n\nFrom what I understand, it's attempting to bring together:\n\n* RAG (with both vector stores and knowledge graphs)\n* Anthropic's MCP (Model Context Protocol)\n* Memory systems\n* Prompt engineering techniques\n\nThe idea seems to be creating a single framework where these components work together instead of having to integrate them separately.\n\nThe repository mentions their goal is to eventually build a \"Context Engineering Agent\" that can automatically design context architectures, though that seems to be a future vision.\n\nHas anyone looked at this? I'm curious about:\n\n* Whether unifying these systems actually makes sense vs keeping them separate\n* If anyone has tried similar approaches\n* What challenges you see with this kind of integration\n\nThe repo has documentation and examples, but I'd be interested in hearing what more experienced folks think about the overall approach.\n\nWhat tools/frameworks are you currently using for context management in your AI projects?",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Found this Context Engineering repository - looking for feedback on the approach",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1ma4ugf",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.38,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 0,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1udlwdbtvf",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753565319,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Came across this repository that&amp;#39;s trying to unify different AI context management systems: &lt;a href=\"https://github.com/pranav-tandon/ContextEngineering\"&gt;https://github.com/pranav-tandon/ContextEngineering&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;From what I understand, it&amp;#39;s attempting to bring together:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;RAG (with both vector stores and knowledge graphs)&lt;/li&gt;\n&lt;li&gt;Anthropic&amp;#39;s MCP (Model Context Protocol)&lt;/li&gt;\n&lt;li&gt;Memory systems&lt;/li&gt;\n&lt;li&gt;Prompt engineering techniques&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;The idea seems to be creating a single framework where these components work together instead of having to integrate them separately.&lt;/p&gt;\n\n&lt;p&gt;The repository mentions their goal is to eventually build a &amp;quot;Context Engineering Agent&amp;quot; that can automatically design context architectures, though that seems to be a future vision.&lt;/p&gt;\n\n&lt;p&gt;Has anyone looked at this? I&amp;#39;m curious about:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Whether unifying these systems actually makes sense vs keeping them separate&lt;/li&gt;\n&lt;li&gt;If anyone has tried similar approaches&lt;/li&gt;\n&lt;li&gt;What challenges you see with this kind of integration&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;The repo has documentation and examples, but I&amp;#39;d be interested in hearing what more experienced folks think about the overall approach.&lt;/p&gt;\n\n&lt;p&gt;What tools/frameworks are you currently using for context management in your AI projects?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?auto=webp&amp;s=03a879ce685198dc2937ed7b7b6b0bc3e748e7f4",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=81ea6df31a3370955768c01ec9ef2c126dcb7250",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=cb758c1e88bed2bf7a5393fdd9210090ee433e88",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=4aaf57b481ea67d7a411a0689a43ef98b9030020",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b61a69e748385a2c11114378da1a6a02e851b452",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9ec7f3b26a5d84c158356bbd973bd74e85ddc3f2",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fc7a3d7f5a9b616fda3b3634f913011612e43a65",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "_qrC1a29yuOA7fG2zQyswOiKauAxVgYm6fvC2WYxHMA"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1ma4ugf",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "TadpoleNorth1773",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1ma4ugf/found_this_context_engineering_repository_looking/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ma4ugf/found_this_context_engineering_repository_looking/",
+            "subreddit_subscribers": 504973,
+            "created_utc": 1753565319,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

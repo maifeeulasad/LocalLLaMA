@@ -36,9 +36,9 @@
             "name": "t3_1m94ls2",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.95,
+            "upvote_ratio": 0.96,
             "author_flair_background_color": null,
-            "ups": 84,
+            "ups": 87,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 84,
+            "score": 87,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "TKGaming_11",
             "discussion_type": null,
-            "num_comments": 7,
+            "num_comments": 8,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m94ls2/hunyuan_exwizardlm_dense_model_coming_soon/",
             "stickied": false,
             "url": "https://github.com/ggml-org/llama.cpp/pull/14878",
-            "subreddit_subscribers": 504692,
+            "subreddit_subscribers": 504974,
             "created_utc": 1753462750,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -389,6 +389,81 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n5are9z",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "Sorry_Ad191",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n54fu3m",
+                                "score": 1,
+                                "author_fullname": "t2_1rig07ocmc",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "completely failed aider polyglot with less than 10 score",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n5are9z",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;completely failed aider polyglot with less than 10 score&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m94ls2",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m94ls2/hunyuan_exwizardlm_dense_model_coming_soon/n5are9z/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753551673,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753551673,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "before": null
@@ -408,7 +483,7 @@
                       "created_utc": 1753464820,
                       "send_replies": true,
                       "parent_id": "t1_n54fdv3",
-                      "score": 15,
+                      "score": 16,
                       "author_fullname": "t2_14mlbg",
                       "removal_reason": null,
                       "approved_by": null,
@@ -450,7 +525,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 15
+                      "ups": 16
                     }
                   }
                 ],
@@ -471,7 +546,7 @@
             "created_utc": 1753464696,
             "send_replies": true,
             "parent_id": "t3_1m94ls2",
-            "score": 21,
+            "score": 23,
             "author_fullname": "t2_cctud",
             "approved_by": null,
             "mod_note": null,
@@ -513,7 +588,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 21
+            "ups": 23
           }
         },
         {
@@ -546,7 +621,7 @@
             "created_utc": 1753465221,
             "send_replies": true,
             "parent_id": "t3_1m94ls2",
-            "score": 24,
+            "score": 23,
             "author_fullname": "t2_kwl47",
             "approved_by": null,
             "mod_note": null,
@@ -633,7 +708,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 23
           }
         },
         {
@@ -689,7 +764,7 @@
                       "created_utc": 1753471405,
                       "send_replies": true,
                       "parent_id": "t1_n551ll6",
-                      "score": 10,
+                      "score": 12,
                       "author_fullname": "t2_qz1qjc86",
                       "removal_reason": null,
                       "approved_by": null,
@@ -731,7 +806,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 12
                     }
                   }
                 ],
@@ -752,7 +827,7 @@
             "created_utc": 1753471039,
             "send_replies": true,
             "parent_id": "t3_1m94ls2",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_ljov5l52",
             "approved_by": null,
             "mod_note": null,
@@ -794,7 +869,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         }
       ],

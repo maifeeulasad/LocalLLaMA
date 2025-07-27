@@ -1,0 +1,270 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Improved performance on AMD GPUs in llama.cpp",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "HIP: Enable Matrix cores for MMQ Kernels, Enable stream-K for CDNA 3 by deepsek · Pull Request #14624 · ggml-org/llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1ma6igb",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#bbbdbf",
+            "ups": 6,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_vqgbql9w",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 6,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=ff757c6d769f0e0fe1fdf85f0f4e487b0377fb2b",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753569731,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "github.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Improved performance on AMD GPUs in llama.cpp&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://github.com/ggml-org/llama.cpp/pull/14624",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?auto=webp&amp;s=8e2783f5bda35aba84f3242b3043d8bf61a06065",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a137f9385d081fc502fa321cd23f2304da161a9b",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5e73b5fb97c979116f90b7f62fed8f337f6ded60",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=4271abe65efbe9152268b3736b06d9301b4c4903",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f83e8ae86bf4abec6cd1f36f6bc545bf9dc2cf55",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b91ff633132b5bbceaceedbe0530a12ec7ef5a90",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f9e440c5f8357f8d84b67772b9015d292af56c10",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "7Doe4o1YnyO5Jmt3Zj55VClABNt6WhpoynjaS-g_S8M"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1ma6igb",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "jacek2023",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1ma6igb/hip_enable_matrix_cores_for_mmq_kernels_enable/",
+            "stickied": false,
+            "url": "https://github.com/ggml-org/llama.cpp/pull/14624",
+            "subreddit_subscribers": 504973,
+            "created_utc": 1753569731,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5cetak",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "steezy13312",
+            "can_mod_post": false,
+            "created_utc": 1753571437,
+            "send_replies": true,
+            "parent_id": "t3_1ma6igb",
+            "score": 3,
+            "author_fullname": "t2_rfjj2",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Excited to try this after the checks complete.\n\nI'm running a RDNA2 card... I don't know enough of the technical details here to see if there'll be any impact, but I'm actually running a benchmark on Qwen3-235B rn so hopefully I can do a new build of llama.cpp and then run the next benchmark again this evening.\n\nEdit: here's the discussion from when this PR first originated: https://www.reddit.com/r/LocalLLaMA/comments/1lwta86/amds_pull_request_for_llamacpp_enhancing_gpu/ Per the comments on the last thread, and browsing through the commits, does like everything is CDNA3 related, so don't get yer hopes up too much.",
+            "edited": 1753572037,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5cetak",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Excited to try this after the checks complete.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m running a RDNA2 card... I don&amp;#39;t know enough of the technical details here to see if there&amp;#39;ll be any impact, but I&amp;#39;m actually running a benchmark on Qwen3-235B rn so hopefully I can do a new build of llama.cpp and then run the next benchmark again this evening.&lt;/p&gt;\n\n&lt;p&gt;Edit: here&amp;#39;s the discussion from when this PR first originated: &lt;a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1lwta86/amds_pull_request_for_llamacpp_enhancing_gpu/\"&gt;https://www.reddit.com/r/LocalLLaMA/comments/1lwta86/amds_pull_request_for_llamacpp_enhancing_gpu/&lt;/a&gt; Per the comments on the last thread, and browsing through the commits, does like everything is CDNA3 related, so don&amp;#39;t get yer hopes up too much.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1ma6igb/hip_enable_matrix_cores_for_mmq_kernels_enable/n5cetak/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753571437,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1ma6igb",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

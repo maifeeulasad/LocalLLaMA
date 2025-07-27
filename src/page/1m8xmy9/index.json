@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.96,
             "author_flair_background_color": null,
-            "ups": 175,
+            "ups": 182,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 175,
+            "score": 182,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "Pristine-Woodpecker",
             "discussion_type": null,
-            "num_comments": 25,
+            "num_comments": 26,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m8xmy9/glm41v9bthinking_claims_to_match_or_surpass/",
             "stickied": false,
             "url": "https://github.com/THUDM/GLM-4.1V-Thinking",
-            "subreddit_subscribers": 504692,
+            "subreddit_subscribers": 504974,
             "created_utc": 1753445934,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -221,7 +221,98 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "richtext",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n59cuk6",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "Iory1998",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n52y36d",
+                                "score": 2,
+                                "author_fullname": "t2_byt5wa14",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "Florence2 is still relevant to this day. It such an amazing model. I wonder what Microsoft hasn't released another version of it!",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n59cuk6",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [
+                                  {
+                                    "e": "text",
+                                    "t": "llama.cpp"
+                                  }
+                                ],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Florence2 is still relevant to this day. It such an amazing model. I wonder what Microsoft hasn&amp;#39;t released another version of it!&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m8xmy9",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": "light",
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m8xmy9/glm41v9bthinking_claims_to_match_or_surpass/n59cuk6/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753535322,
+                                "author_flair_text": "llama.cpp",
+                                "treatment_tags": [],
+                                "created_utc": 1753535322,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": "#bbbdbf",
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "n52y36d",
@@ -236,7 +327,7 @@
                       "created_utc": 1753449419,
                       "send_replies": true,
                       "parent_id": "t1_n52x4v9",
-                      "score": 12,
+                      "score": 13,
                       "author_fullname": "t2_h5utwre7",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +369,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 13
                     }
                   },
                   {
@@ -311,7 +402,7 @@
                       "created_utc": 1753468535,
                       "send_replies": true,
                       "parent_id": "t1_n52x4v9",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_45o2l0mg",
                       "removal_reason": null,
                       "approved_by": null,
@@ -353,7 +444,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   },
                   {
@@ -524,7 +615,7 @@
             "created_utc": 1753449105,
             "send_replies": true,
             "parent_id": "t3_1m8xmy9",
-            "score": 77,
+            "score": 81,
             "author_fullname": "t2_10eo07xw69",
             "approved_by": null,
             "mod_note": null,
@@ -566,7 +657,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 77
+            "ups": 81
           }
         },
         {
@@ -599,7 +690,7 @@
             "created_utc": 1753455549,
             "send_replies": true,
             "parent_id": "t3_1m8xmy9",
-            "score": 12,
+            "score": 11,
             "author_fullname": "t2_17i8f5bprh",
             "approved_by": null,
             "mod_note": null,
@@ -641,7 +732,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 11
           }
         },
         {
@@ -891,7 +982,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n52sscr",
-                                "score": 8,
+                                "score": 7,
                                 "author_fullname": "t2_4kpsn",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -934,7 +1025,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 7
                               }
                             }
                           ],
@@ -955,7 +1046,7 @@
                       "created_utc": 1753447645,
                       "send_replies": true,
                       "parent_id": "t1_n52spbh",
-                      "score": 12,
+                      "score": 11,
                       "author_fullname": "t2_5b972ieo",
                       "removal_reason": null,
                       "approved_by": null,
@@ -997,7 +1088,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 11
                     }
                   }
                 ],
@@ -1185,7 +1276,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n557azf",
-                                                    "score": 2,
+                                                    "score": 3,
                                                     "author_fullname": "t2_aq4j0",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -1227,7 +1318,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -1247,7 +1338,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n54y70b",
-                                          "score": 5,
+                                          "score": 6,
                                           "author_fullname": "t2_ddyduwi7",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1290,7 +1381,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 5
+                                          "ups": 6
                                         }
                                       },
                                       {
@@ -1322,7 +1413,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n54y70b",
-                                          "score": 1,
+                                          "score": 0,
                                           "author_fullname": "t2_qz1qjc86",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1365,7 +1456,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 0
                                         }
                                       }
                                     ],
@@ -1385,7 +1476,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n54xqdt",
-                                "score": 3,
+                                "score": 1,
                                 "author_fullname": "t2_on5es7pe3",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1427,13 +1518,13 @@
                                 "treatment_tags": [],
                                 "created_utc": 1753470037,
                                 "subreddit_name_prefixed": "r/LocalLLaMA",
-                                "controversiality": 0,
+                                "controversiality": 1,
                                 "depth": 2,
                                 "author_flair_background_color": "#bbbdbf",
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 1
                               }
                             }
                           ],
@@ -1454,7 +1545,7 @@
                       "created_utc": 1753469904,
                       "send_replies": true,
                       "parent_id": "t1_n53hvy1",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_qz1qjc86",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1496,7 +1587,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -1592,7 +1683,7 @@
             "created_utc": 1753455369,
             "send_replies": true,
             "parent_id": "t3_1m8xmy9",
-            "score": 11,
+            "score": 12,
             "author_fullname": "t2_on5es7pe3",
             "approved_by": null,
             "mod_note": null,
@@ -1639,7 +1730,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 12
           }
         },
         {
@@ -1717,7 +1808,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n54bajl",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_tfi3do4i",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1760,7 +1851,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -1781,7 +1872,7 @@
                       "created_utc": 1753463576,
                       "send_replies": true,
                       "parent_id": "t1_n54aere",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_17i8f5bprh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1823,7 +1914,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   }
                 ],
@@ -1919,7 +2010,7 @@
             "created_utc": 1753469191,
             "send_replies": true,
             "parent_id": "t3_1m8xmy9",
-            "score": 1,
+            "score": 0,
             "author_fullname": "t2_dievh",
             "approved_by": null,
             "mod_note": null,
@@ -1951,81 +2042,6 @@
             "locked": false,
             "report_reasons": null,
             "created": 1753469191,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1m8xmy9",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 1
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "n54w78m",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": true,
-            "author": "Cool-Chemical-5629",
-            "can_mod_post": false,
-            "created_utc": 1753469462,
-            "send_replies": true,
-            "parent_id": "t3_1m8xmy9",
-            "score": 0,
-            "author_fullname": "t2_qz1qjc86",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "As much as I love GLM models, I'm not very fond of seeing when people compare thinking models to non-thinking ones. I am pretty sure, if Qwen 2.5 72B was a thinking model, this much newer little GLM thinking model would stand no chance.",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n54w78m",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;As much as I love GLM models, I&amp;#39;m not very fond of seeing when people compare thinking models to non-thinking ones. I am pretty sure, if Qwen 2.5 72B was a thinking model, this much newer little GLM thinking model would stand no chance.&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1m8xmy9/glm41v9bthinking_claims_to_match_or_surpass/n54w78m/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1753469462,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1m8xmy9",
@@ -2187,6 +2203,81 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 0
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n54w78m",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Cool-Chemical-5629",
+            "can_mod_post": false,
+            "created_utc": 1753469462,
+            "send_replies": true,
+            "parent_id": "t3_1m8xmy9",
+            "score": -1,
+            "author_fullname": "t2_qz1qjc86",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "As much as I love GLM models, I'm not very fond of seeing when people compare thinking models to non-thinking ones. I am pretty sure, if Qwen 2.5 72B was a thinking model, this much newer little GLM thinking model would stand no chance.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n54w78m",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;As much as I love GLM models, I&amp;#39;m not very fond of seeing when people compare thinking models to non-thinking ones. I am pretty sure, if Qwen 2.5 72B was a thinking model, this much newer little GLM thinking model would stand no chance.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m8xmy9/glm41v9bthinking_claims_to_match_or_surpass/n54w78m/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753469462,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m8xmy9",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
           }
         }
       ],
