@@ -9012,6 +9012,106 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1ma8yua',
         name: 'Local LLM is more important than ever',
       },
+      {
+        path: '/1ma9t22',
+        name: 'How do I plug second psu into something so it will run my other gpu’s- Corsair hx1500i power supply',
+      },
+      {
+        path: '/1maao56',
+        name: 'How do LLMs understand massive csv data, sometimes even databases?',
+      },
+      {
+        path: '/1mab16n',
+        name: 'Strategies for handling transient Server-Sent Events (SSE) from LLM responses',
+      },
+      {
+        path: '/1mab2i2',
+        name: 'Tencent releases Hunyuan3D World Model 1.0 - first open-source 3D world generation model',
+      },
+      {
+        path: '/1macmej',
+        name: 'Claude Code Alternative Recommendations?',
+      },
+      {
+        path: '/1mad6sy',
+        name: 'How Are You Running Multimodal (Text-Image) Models Locally?',
+      },
+      {
+        path: '/1madjq6',
+        name: 'Anyone else been using the new nvidia/Llama-3_3-Nemotron-Super-49B-v1_5 model?',
+      },
+      {
+        path: '/1madt6e',
+        name: 'What inference engine should I use to fully use my budget rug?',
+      },
+      {
+        path: '/1madv3y',
+        name: 'Summarize medium length text on local model with 8gb vram',
+      },
+      {
+        path: '/1mae4yz',
+        name: 'Wan 2.2 coming out Monday July 28th',
+      },
+      {
+        path: '/1maeg4y',
+        name: 'this actually made me feel so relieved haha',
+      },
+      {
+        path: '/1maeuuo',
+        name: 'What will happen to an llm when you double the RoPE scaling factor?',
+      },
+      {
+        path: '/1maflh5',
+        name: 'I built an Overlay AI.',
+      },
+      {
+        path: '/1mafyyp',
+        name: 'AlphaGo Moment for Model Architecture Discovery',
+      },
+      {
+        path: '/1mah4oj',
+        name: 'I do not build a new ai agent without first setting up monitoring and eval dataset anymore. Do you? What FOSS do you use for that?',
+      },
+      {
+        path: '/1mahjoo',
+        name: 'RTX 4090 vs RTX 5060 ....Is the 5060 even worth considering for local LLMs?',
+      },
+      {
+        path: '/1maipjy',
+        name: 'PowerInfer/SmallThinker-21BA3B-Instruct · Hugging Face',
+      },
+      {
+        path: '/1maipzo',
+        name: 'A new 21B-A3B model that can run 30 token/s on i9 CPU',
+      },
+      {
+        path: '/1maixye',
+        name: 'I tried implementing the CRISP paper from Google Deepmind in Python',
+      },
+      {
+        path: '/1maj65f',
+        name: 'Sell my 5070ti to get a 3090',
+      },
+      {
+        path: '/1majemr',
+        name: 'Suprise suprise!!',
+      },
+      {
+        path: '/1majfwi',
+        name: 'Are ~70B Models Going Out of Fashion?',
+      },
+      {
+        path: '/1majha1',
+        name: 'NVIDIA RTX PRO 4000 Blackwell - 24GB GDDR7',
+      },
+      {
+        path: '/1makqv4',
+        name: '4090 48GB for UK - Where?',
+      },
+      {
+        path: '/1mal0bo',
+        name: 'Motherboard for AM5 CPU and 3 GPUS (2 3090 and 1 5070 ti)',
+      },
     ],
   },
   {

@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 165,
+            "ups": 169,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 165,
+            "score": 169,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "shadowninjaz3",
             "discussion_type": null,
-            "num_comments": 73,
+            "num_comments": 74,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m9bwoy/compact_2x_rtx_pro_6000_rig/",
             "stickied": false,
             "url": "https://i.redd.it/tbteu4v5b3ff1.jpeg",
-            "subreddit_subscribers": 504974,
+            "subreddit_subscribers": 505252,
             "created_utc": 1753479993,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -236,7 +236,7 @@
                       "created_utc": 1753480899,
                       "send_replies": true,
                       "parent_id": "t1_n55wmmv",
-                      "score": 25,
+                      "score": 28,
                       "author_fullname": "t2_wjjtz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +278,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 25
+                      "ups": 28
                     }
                   }
                 ],
@@ -299,7 +299,7 @@
             "created_utc": 1753480307,
             "send_replies": true,
             "parent_id": "t3_1m9bwoy",
-            "score": 17,
+            "score": 16,
             "author_fullname": "t2_2t2xbyfm",
             "approved_by": null,
             "mod_note": null,
@@ -341,7 +341,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 16
           }
         },
         {
@@ -632,126 +632,6 @@
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
                                                                         "ups": 1
-                                                                      }
-                                                                    },
-                                                                    {
-                                                                      "kind": "t1",
-                                                                      "data": {
-                                                                        "subreddit_id": "t5_81eyvm",
-                                                                        "approved_at_utc": null,
-                                                                        "author_is_blocked": false,
-                                                                        "comment_type": null,
-                                                                        "awarders": [],
-                                                                        "mod_reason_by": null,
-                                                                        "banned_by": null,
-                                                                        "author_flair_type": "text",
-                                                                        "total_awards_received": 0,
-                                                                        "subreddit": "LocalLLaMA",
-                                                                        "author_flair_template_id": null,
-                                                                        "distinguished": null,
-                                                                        "likes": null,
-                                                                        "replies": "",
-                                                                        "user_reports": [],
-                                                                        "saved": false,
-                                                                        "id": "n5c5s9f",
-                                                                        "banned_at_utc": null,
-                                                                        "mod_reason_title": null,
-                                                                        "gilded": 0,
-                                                                        "archived": false,
-                                                                        "collapsed_reason_code": null,
-                                                                        "no_follow": true,
-                                                                        "author": "MachinaVerum",
-                                                                        "can_mod_post": false,
-                                                                        "send_replies": true,
-                                                                        "parent_id": "t1_n58hxzm",
-                                                                        "score": 2,
-                                                                        "author_fullname": "t2_6ybfgv5i",
-                                                                        "approved_by": null,
-                                                                        "mod_note": null,
-                                                                        "all_awardings": [],
-                                                                        "collapsed": false,
-                                                                        "body": "https://preview.redd.it/88dyuu4hmaff1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=79d0b3477bc9ea61b02575ce35c9aedb976b513a\n\nNah you made the right call. I threw 2 600w cards in one system and while it is quieter, the top card is getting cooked even when limiting tdp. Also, you have the possibility of adding more cards in the future if you want. My system is at its limit, no more usable pcie slots. They were the only cards available to me, if the maxqs were available I would have definitely went for them. Edit: Also, i had a the arctic 4u-m in there - like you - but i had to switch out for the aio because my cards were also cooking it... so ya, the right call is maxq if you are putting in more than 1 card.",
-                                                                        "edited": 1753570268,
-                                                                        "gildings": {},
-                                                                        "author_flair_css_class": null,
-                                                                        "name": "t1_n5c5s9f",
-                                                                        "is_submitter": false,
-                                                                        "downs": 0,
-                                                                        "author_flair_richtext": [],
-                                                                        "author_patreon_flair": false,
-                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/88dyuu4hmaff1.png?width=1080&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79d0b3477bc9ea61b02575ce35c9aedb976b513a\"&gt;https://preview.redd.it/88dyuu4hmaff1.png?width=1080&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79d0b3477bc9ea61b02575ce35c9aedb976b513a&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Nah you made the right call. I threw 2 600w cards in one system and while it is quieter, the top card is getting cooked even when limiting tdp. Also, you have the possibility of adding more cards in the future if you want. My system is at its limit, no more usable pcie slots. They were the only cards available to me, if the maxqs were available I would have definitely went for them. Edit: Also, i had a the arctic 4u-m in there - like you - but i had to switch out for the aio because my cards were also cooking it... so ya, the right call is maxq if you are putting in more than 1 card.&lt;/p&gt;\n&lt;/div&gt;",
-                                                                        "removal_reason": null,
-                                                                        "collapsed_reason": null,
-                                                                        "link_id": "t3_1m9bwoy",
-                                                                        "associated_award": null,
-                                                                        "stickied": false,
-                                                                        "author_premium": false,
-                                                                        "can_gild": false,
-                                                                        "top_awarded_type": null,
-                                                                        "unrepliable_reason": null,
-                                                                        "author_flair_text_color": null,
-                                                                        "score_hidden": false,
-                                                                        "permalink": "/r/LocalLLaMA/comments/1m9bwoy/compact_2x_rtx_pro_6000_rig/n5c5s9f/",
-                                                                        "subreddit_type": "public",
-                                                                        "locked": false,
-                                                                        "report_reasons": null,
-                                                                        "created": 1753568171,
-                                                                        "media_metadata": {
-                                                                          "88dyuu4hmaff1": {
-                                                                            "status": "valid",
-                                                                            "e": "Image",
-                                                                            "m": "image/png",
-                                                                            "p": [
-                                                                              {
-                                                                                "y": 166,
-                                                                                "x": 108,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2111b8ea8434c5089da39f098acefd99e806bc7f"
-                                                                              },
-                                                                              {
-                                                                                "y": 332,
-                                                                                "x": 216,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ba219928b16a078dd522d9a21d1fd1b494cace27"
-                                                                              },
-                                                                              {
-                                                                                "y": 491,
-                                                                                "x": 320,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=415484d8594cb4c21bbce94fa5e2292543ab4aaa"
-                                                                              },
-                                                                              {
-                                                                                "y": 983,
-                                                                                "x": 640,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=019a9eef4ae8c478b715496876cbf9fcc6939a58"
-                                                                              },
-                                                                              {
-                                                                                "y": 1475,
-                                                                                "x": 960,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=4907b9acd5df0f8c9259537f98d448f029a400d3"
-                                                                              },
-                                                                              {
-                                                                                "y": 1660,
-                                                                                "x": 1080,
-                                                                                "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=47bf40e658261f82445ff33903787bcc787b2cfa"
-                                                                              }
-                                                                            ],
-                                                                            "s": {
-                                                                              "y": 1660,
-                                                                              "x": 1080,
-                                                                              "u": "https://preview.redd.it/88dyuu4hmaff1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=79d0b3477bc9ea61b02575ce35c9aedb976b513a"
-                                                                            },
-                                                                            "id": "88dyuu4hmaff1"
-                                                                          }
-                                                                        },
-                                                                        "author_flair_text": null,
-                                                                        "treatment_tags": [],
-                                                                        "created_utc": 1753568171,
-                                                                        "subreddit_name_prefixed": "r/LocalLLaMA",
-                                                                        "controversiality": 0,
-                                                                        "depth": 6,
-                                                                        "author_flair_background_color": null,
-                                                                        "collapsed_because_crowd_control": null,
-                                                                        "mod_reports": [],
-                                                                        "num_reports": null,
-                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -1280,7 +1160,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n56459j",
-                                "score": 8,
+                                "score": 6,
                                 "author_fullname": "t2_ess5kaos",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1323,7 +1203,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 6
                               }
                             }
                           ],
@@ -1808,7 +1688,7 @@
                       "created_utc": 1753483679,
                       "send_replies": true,
                       "parent_id": "t1_n560jte",
-                      "score": 7,
+                      "score": 6,
                       "author_fullname": "t2_x6e5t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1850,7 +1730,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 6
                     }
                   },
                   {
@@ -1969,7 +1849,7 @@
                       "created_utc": 1753488118,
                       "send_replies": true,
                       "parent_id": "t1_n560jte",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_u6i8a0ay",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2011,7 +1891,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -2397,7 +2277,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n56lt4x",
-                                                                        "score": 5,
+                                                                        "score": 6,
                                                                         "author_fullname": "t2_j1kqr",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -2444,7 +2324,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 5
+                                                                        "ups": 6
                                                                       }
                                                                     }
                                                                   ],
@@ -2720,7 +2600,7 @@
                       "created_utc": 1753482133,
                       "send_replies": true,
                       "parent_id": "t1_n560jte",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_16xbdr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2762,7 +2642,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   },
                   {
@@ -2817,7 +2697,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n562ehg",
-                                "score": 3,
+                                "score": 2,
                                 "author_fullname": "t2_j1kqr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2865,7 +2745,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             },
                             {
@@ -2897,7 +2777,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n562ehg",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_lpdsy",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2940,7 +2820,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -3260,7 +3140,7 @@
             "created_utc": 1753481567,
             "send_replies": true,
             "parent_id": "t3_1m9bwoy",
-            "score": 5,
+            "score": 4,
             "author_fullname": "t2_diuq8s51",
             "approved_by": null,
             "mod_note": null,
@@ -3302,7 +3182,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -4797,7 +4677,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n584uhf",
-                                          "score": 2,
+                                          "score": 3,
                                           "author_fullname": "t2_16xbdr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -4840,7 +4720,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 3
                                         }
                                       }
                                     ],
@@ -5395,7 +5275,7 @@
             "created_utc": 1753523613,
             "send_replies": true,
             "parent_id": "t3_1m9bwoy",
-            "score": 1,
+            "score": -1,
             "author_fullname": "t2_1tpuoj72sa",
             "approved_by": null,
             "mod_note": null,
@@ -5427,6 +5307,156 @@
             "locked": false,
             "report_reasons": null,
             "created": 1753523613,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m9bwoy",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5dlp0z",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "node-0",
+            "can_mod_post": false,
+            "created_utc": 1753588378,
+            "send_replies": true,
+            "parent_id": "t3_1m9bwoy",
+            "score": 1,
+            "author_fullname": "t2_8mo44d5be",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Two RTX 6000 Pro? Just the GPUs alone are $17,000.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5dlp0z",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Two RTX 6000 Pro? Just the GPUs alone are $17,000.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m9bwoy/compact_2x_rtx_pro_6000_rig/n5dlp0z/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753588378,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m9bwoy",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5dpf90",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "cesmeS1",
+            "can_mod_post": false,
+            "created_utc": 1753590079,
+            "send_replies": true,
+            "parent_id": "t3_1m9bwoy",
+            "score": 1,
+            "author_fullname": "t2_z5k4n",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "How did you get a Max Q ?",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5dpf90",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How did you get a Max Q ?&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m9bwoy/compact_2x_rtx_pro_6000_rig/n5dpf90/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753590079,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1m9bwoy",
@@ -6073,7 +6103,7 @@
                       "created_utc": 1753484254,
                       "send_replies": true,
                       "parent_id": "t1_n567745",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_zr0g49ixt",
                       "removal_reason": null,
                       "approved_by": null,
@@ -6115,7 +6145,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   }
                 ],
@@ -6136,7 +6166,7 @@
             "created_utc": 1753483791,
             "send_replies": true,
             "parent_id": "t3_1m9bwoy",
-            "score": 0,
+            "score": -1,
             "author_fullname": "t2_lw9me25",
             "approved_by": null,
             "mod_note": null,
@@ -6178,7 +6208,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": -1
           }
         }
       ],
