@@ -9112,6 +9112,190 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mal0bo',
         name: 'Motherboard for AM5 CPU and 3 GPUS (2 3090 and 1 5070 ti)',
       },
+      {
+        path: '/1malf9l',
+        name: 'Any CJK datas?',
+      },
+      {
+        path: '/1malflg',
+        name: 'Building a quiet LLM machine for 24/7 use, is this setup overkill or smart?',
+      },
+      {
+        path: '/1malsbp',
+        name: 'Non-deterministic Dialogue in games, how much would LLMs really help here?',
+      },
+      {
+        path: '/1malsci',
+        name: '8xxx+RDNA3 vs 9xxx+RDNA2 speed for LLMs?',
+      },
+      {
+        path: '/1mam6of',
+        name: 'GeForce RTX 5060 Ti 16GB good for LLama LLM inferencing/Fintuning ?',
+      },
+      {
+        path: '/1mam8p4',
+        name: 'Reasoning prompt strategy',
+      },
+      {
+        path: '/1mammv5',
+        name: 'Qwen3-235B-A22B 2507 is so good',
+      },
+      {
+        path: '/1man0hu',
+        name: 'Qwen GSPO (Group Sequence Policy Optimization)',
+      },
+      {
+        path: '/1manewo',
+        name: 'What arguments best to use on mobile?',
+      },
+      {
+        path: '/1mantju',
+        name: 'Got 500 hours on an AMD MI300X. What\'s the most impactful thing I can build/train/break?',
+      },
+      {
+        path: '/1manwi5',
+        name: 'Notable 2025 Chinese models',
+      },
+      {
+        path: '/1mao3ym',
+        name: 'MoE models in 2025',
+      },
+      {
+        path: '/1mao95d',
+        name: 'Running LLMs exclusively on AMD Ryzen AI NPU',
+      },
+      {
+        path: '/1maoiae',
+        name: 'Where can I download glossary for Japanese, Chinese and Korean translation to english',
+      },
+      {
+        path: '/1maoody',
+        name: 'LLM / VLM Local model obsolescence decisions for personal STEM / utility / english / Q&amp;A / RAG / tool use / IT desktop / workstation use cases?',
+      },
+      {
+        path: '/1map5pe',
+        name: 'GPU Help (1080ti vs 3060 vs 5060ti)',
+      },
+      {
+        path: '/1maptvc',
+        name: 'Drummer\'s Mixtral 4x3B v1 - A finetuned clown MoE experiment with Voxtral 3B!',
+      },
+      {
+        path: '/1mapvcv',
+        name: 'What does --prio 2 do in llama.cpp? Can\'t find documentation  :(',
+      },
+      {
+        path: '/1mapwdm',
+        name: 'Apple Intelligence but with multiple chats, RAG, and Web Search',
+      },
+      {
+        path: '/1maq0hg',
+        name: 'Why hasn\'t LoRA gained more popularity?',
+      },
+      {
+        path: '/1marks7',
+        name: 'Best models to run on m4 pro 24gb',
+      },
+      {
+        path: '/1martn1',
+        name: 'General Intel Arc compatibility with Nvidia',
+      },
+      {
+        path: '/1marx3v',
+        name: 'How can we simulate gemini deepthink with models like deepseek/qwen or other open models?',
+      },
+      {
+        path: '/1mas4nn',
+        name: 'GRAPH RAG vs baseline RAG for MVP',
+      },
+      {
+        path: '/1mau1nz',
+        name: 'How to increase tps Tokens/Second? Other ways to optimize things to get faster response',
+      },
+      {
+        path: '/1mau9os',
+        name: 'low perfomance on Contionue extension Vs code',
+      },
+      {
+        path: '/1mav3eu',
+        name: 'Can We Recreate Claude Locally',
+      },
+      {
+        path: '/1mav8p7',
+        name: 'Is there a website which has a collection of all benchmarks perfomed for LLM models?',
+      },
+      {
+        path: '/1maw5dy',
+        name: 'Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning',
+      },
+      {
+        path: '/1mawtr7',
+        name: 'Hostinger ollama hosting review ?',
+      },
+      {
+        path: '/1max9qz',
+        name: 'Speculative decoding without a draft model (C#)',
+      },
+      {
+        path: '/1maxfeb',
+        name: 'What happened to the Yi models?',
+      },
+      {
+        path: '/1maxmeg',
+        name: 'Advance humanity on our scale.',
+      },
+      {
+        path: '/1maxquu',
+        name: 'Trying a temporal + spatial slot fusion model (HRM × Axiom)',
+      },
+      {
+        path: '/1maxyld',
+        name: 'Does monitoring AI output catch moral hazard? Replit AI gave "correct" responses while secretly deleting production data 🤖💥',
+      },
+      {
+        path: '/1may4ut',
+        name: 'Local Distributed GPU Use',
+      },
+      {
+        path: '/1maywaw',
+        name: 'Devstral &amp; Magistral as adapters of Mistral',
+      },
+      {
+        path: '/1maz39j',
+        name: 'is qwen powered by gpt 4?',
+      },
+      {
+        path: '/1mazi8m',
+        name: 'An LLM Focused Just on Debugging',
+      },
+      {
+        path: '/1mazvnk',
+        name: 'How do you monitor your Ollama instance?',
+      },
+      {
+        path: '/1mb15g2',
+        name: 'UIGEN-X-0727 Runs Locally and Crushes It. Reasoning for UI, Mobile, Software and Frontend design.',
+      },
+      {
+        path: '/1mb1of0',
+        name: 'Best models for 3090?',
+      },
+      {
+        path: '/1mb2486',
+        name: 'What\'s the best (free) LLM for a potato laptop, I still want to be able to generate images.',
+      },
+      {
+        path: '/1mb286h',
+        name: 'Best Local LLM for Japanese to English translation and explanation for 24gb VRAM',
+      },
+      {
+        path: '/1mb2dcp',
+        name: 'Byte-Vision is a privacy-first (Llama.cpp) document intelligence platform that transforms static documents into an interactive, searchable knowledge base. Built on Elasticsearch with RAG (Retrieval-Augmented Generation) capabilities, it offers document parsing, OCR processing, and modern UI.',
+      },
+      {
+        path: '/1mb2y1z',
+        name: 'The Untold Revolution in iOS 26: WebGPU Is Coming',
+      },
     ],
   },
   {

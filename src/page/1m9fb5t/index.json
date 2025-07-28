@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.97,
             "author_flair_background_color": null,
-            "ups": 248,
+            "ups": 249,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 248,
+            "score": 249,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "TheLocalDrummer",
             "discussion_type": null,
-            "num_comments": 49,
+            "num_comments": 53,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m9fb5t/llama_33_nemotron_super_49b_v15/",
             "stickied": false,
             "url": "https://huggingface.co/nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
-            "subreddit_subscribers": 505252,
+            "subreddit_subscribers": 505615,
             "created_utc": 1753488919,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -236,7 +236,7 @@
                       "created_utc": 1753489301,
                       "send_replies": true,
                       "parent_id": "t1_n56mjhy",
-                      "score": 17,
+                      "score": 19,
                       "author_fullname": "t2_9oid4hi0",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +278,82 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 17
+                      "ups": 19
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5gydxs",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "GreenGreasyGreasels",
+                      "can_mod_post": false,
+                      "created_utc": 1753639097,
+                      "send_replies": true,
+                      "parent_id": "t1_n56mjhy",
+                      "score": 1,
+                      "author_fullname": "t2_14purh",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "&gt; Llama-Nemotron-Super-V1.5! Super-V1.5 is now better than Ultra-V1\n\nWhat!? We need an ISO Standard for telling us which is better than which between - super, ultra, Max, Ti, Plus etc.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5gydxs",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Llama-Nemotron-Super-V1.5! Super-V1.5 is now better than Ultra-V1&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;What!? We need an ISO Standard for telling us which is better than which between - super, ultra, Max, Ti, Plus etc.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m9fb5t",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m9fb5t/llama_33_nemotron_super_49b_v15/n5gydxs/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753639097,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
                     }
                   }
                 ],
@@ -299,7 +374,7 @@
             "created_utc": 1753489045,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 68,
+            "score": 67,
             "author_fullname": "t2_w6l58p741",
             "approved_by": null,
             "mod_note": null,
@@ -386,7 +461,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 68
+            "ups": 67
           }
         },
         {
@@ -1296,7 +1371,7 @@
                       "created_utc": 1753528186,
                       "send_replies": true,
                       "parent_id": "t1_n56xivt",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_60tybsw1",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1338,7 +1413,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -1359,7 +1434,7 @@
             "created_utc": 1753493061,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 30,
+            "score": 32,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -1406,7 +1481,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 30
+            "ups": 32
           }
         },
         {
@@ -1479,12 +1554,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "kaisurniwurer",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n57qfhv",
-                                "score": 3,
+                                "score": 4,
                                 "author_fullname": "t2_qafso",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1527,7 +1602,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             }
                           ],
@@ -1548,7 +1623,7 @@
                       "created_utc": 1753504988,
                       "send_replies": true,
                       "parent_id": "t1_n570jln",
-                      "score": 15,
+                      "score": 16,
                       "author_fullname": "t2_vqgbql9w",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1595,7 +1670,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 15
+                      "ups": 16
                     }
                   },
                   {
@@ -1683,7 +1758,93 @@
                                                     "author_flair_template_id": null,
                                                     "distinguished": null,
                                                     "likes": null,
-                                                    "replies": "",
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "after": null,
+                                                        "dist": null,
+                                                        "modhash": "",
+                                                        "geo_filter": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_81eyvm",
+                                                              "approved_at_utc": null,
+                                                              "author_is_blocked": false,
+                                                              "comment_type": null,
+                                                              "awarders": [],
+                                                              "mod_reason_by": null,
+                                                              "banned_by": null,
+                                                              "author_flair_type": "text",
+                                                              "total_awards_received": 0,
+                                                              "subreddit": "LocalLLaMA",
+                                                              "author_flair_template_id": null,
+                                                              "distinguished": null,
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "n5g9sv6",
+                                                              "banned_at_utc": null,
+                                                              "mod_reason_title": null,
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "collapsed_reason_code": null,
+                                                              "no_follow": true,
+                                                              "author": "Affectionate-Cap-600",
+                                                              "can_mod_post": false,
+                                                              "send_replies": true,
+                                                              "parent_id": "t1_n58aq12",
+                                                              "score": 1,
+                                                              "author_fullname": "t2_5oltmr5b",
+                                                              "approved_by": null,
+                                                              "mod_note": null,
+                                                              "all_awardings": [],
+                                                              "body": "and a lot of compute for the Neural Architecture Search, local (layer level and block level) distillation and continued pretraining!",
+                                                              "edited": false,
+                                                              "gildings": {},
+                                                              "downs": 0,
+                                                              "author_flair_css_class": null,
+                                                              "name": "t1_n5g9sv6",
+                                                              "is_submitter": false,
+                                                              "collapsed": false,
+                                                              "author_flair_richtext": [],
+                                                              "author_patreon_flair": false,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;and a lot of compute for the Neural Architecture Search, local (layer level and block level) distillation and continued pretraining!&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "removal_reason": null,
+                                                              "collapsed_reason": null,
+                                                              "link_id": "t3_1m9fb5t",
+                                                              "associated_award": null,
+                                                              "stickied": false,
+                                                              "author_premium": false,
+                                                              "can_gild": false,
+                                                              "top_awarded_type": null,
+                                                              "unrepliable_reason": null,
+                                                              "author_flair_text_color": null,
+                                                              "score_hidden": false,
+                                                              "permalink": "/r/LocalLLaMA/comments/1m9fb5t/llama_33_nemotron_super_49b_v15/n5g9sv6/",
+                                                              "subreddit_type": "public",
+                                                              "locked": false,
+                                                              "report_reasons": null,
+                                                              "created": 1753631964,
+                                                              "author_flair_text": null,
+                                                              "treatment_tags": [],
+                                                              "created_utc": 1753631964,
+                                                              "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                              "controversiality": 0,
+                                                              "depth": 5,
+                                                              "author_flair_background_color": null,
+                                                              "collapsed_because_crowd_control": null,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "ups": 1
+                                                            }
+                                                          }
+                                                        ],
+                                                        "before": null
+                                                      }
+                                                    },
                                                     "user_reports": [],
                                                     "saved": false,
                                                     "id": "n58aq12",
@@ -1697,7 +1858,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n57ql5e",
-                                                    "score": 10,
+                                                    "score": 11,
                                                     "author_fullname": "t2_t6glzswk",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -1739,7 +1900,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 10
+                                                    "ups": 11
                                                   }
                                                 }
                                               ],
@@ -1759,7 +1920,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n57f6id",
-                                          "score": 4,
+                                          "score": 5,
                                           "author_fullname": "t2_vqgbql9w",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1807,7 +1968,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 4
+                                          "ups": 5
                                         }
                                       }
                                     ],
@@ -1827,7 +1988,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n57ex8e",
-                                "score": 4,
+                                "score": 5,
                                 "author_fullname": "t2_1fu4ornofy",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1870,7 +2031,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -1891,7 +2052,7 @@
                       "created_utc": 1753499879,
                       "send_replies": true,
                       "parent_id": "t1_n570jln",
-                      "score": 12,
+                      "score": 10,
                       "author_fullname": "t2_8k4ah",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1933,7 +2094,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 10
                     }
                   }
                 ],
@@ -1954,7 +2115,7 @@
             "created_utc": 1753494204,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 16,
+            "score": 17,
             "author_fullname": "t2_1fu4ornofy",
             "approved_by": null,
             "mod_note": null,
@@ -1996,7 +2157,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 17
           }
         },
         {
@@ -2029,7 +2190,7 @@
             "created_utc": 1753493119,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 18,
+            "score": 19,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -2076,7 +2237,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 19
           }
         },
         {
@@ -2132,7 +2293,7 @@
                       "created_utc": 1753489889,
                       "send_replies": true,
                       "parent_id": "t1_n56o7q0",
-                      "score": 34,
+                      "score": 33,
                       "author_fullname": "t2_35jjv",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2174,7 +2335,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 34
+                      "ups": 33
                     }
                   },
                   {
@@ -2356,7 +2517,7 @@
             "created_utc": 1753489650,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 35,
+            "score": 37,
             "author_fullname": "t2_88fma001",
             "approved_by": null,
             "mod_note": null,
@@ -2398,7 +2559,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 35
+            "ups": 37
           }
         },
         {
@@ -2499,7 +2660,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n57vxi6",
-                                          "score": 7,
+                                          "score": 6,
                                           "author_fullname": "t2_3uqzi4yz",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2542,7 +2703,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 7
+                                          "ups": 6
                                         }
                                       }
                                     ],
@@ -2689,7 +2850,7 @@
             "created_utc": 1753500693,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 10,
+            "score": 11,
             "author_fullname": "t2_w2gxqd6i2",
             "approved_by": null,
             "mod_note": null,
@@ -2731,7 +2892,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 11
           }
         },
         {
@@ -3719,7 +3880,7 @@
             "created_utc": 1753493961,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 3,
+            "score": 2,
             "author_fullname": "t2_dissgzyl",
             "approved_by": null,
             "mod_note": null,
@@ -3761,7 +3922,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -3794,7 +3955,7 @@
             "created_utc": 1753489689,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_1nkj9l14b0",
             "approved_by": null,
             "mod_note": null,
@@ -3836,7 +3997,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -3855,6 +4016,167 @@
             "author_flair_template_id": null,
             "likes": null,
             "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5g9fzn",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Affectionate-Cap-600",
+            "can_mod_post": false,
+            "created_utc": 1753631858,
+            "send_replies": true,
+            "parent_id": "t3_1m9fb5t",
+            "score": 1,
+            "author_fullname": "t2_5oltmr5b",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "amazing!! let's hope to get nemotron ultra v1.5...",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5g9fzn",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;amazing!! let&amp;#39;s hope to get nemotron ultra v1.5...&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1m9fb5t/llama_33_nemotron_super_49b_v15/n5g9fzn/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753631858,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1m9fb5t",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5gev4e",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "Affectionate-Cap-600",
+                      "can_mod_post": false,
+                      "created_utc": 1753633457,
+                      "send_replies": true,
+                      "parent_id": "t1_n57kq6i",
+                      "score": 1,
+                      "author_fullname": "t2_5oltmr5b",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "well it is a dense 49B model, I would be surprised to see worst performance having more than 10x the active parameters and 1.6x total parameters. still the base model (llama 3.3 70b) is a generation behind (but it received continued pretraining after pruning with Neural Architecture Search, so honestly idk)",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5gev4e",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;well it is a dense 49B model, I would be surprised to see worst performance having more than 10x the active parameters and 1.6x total parameters. still the base model (llama 3.3 70b) is a generation behind (but it received continued pretraining after pruning with Neural Architecture Search, so honestly idk)&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m9fb5t",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m9fb5t/llama_33_nemotron_super_49b_v15/n5gev4e/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753633457,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n57kq6i",
@@ -4019,7 +4341,7 @@
             "created_utc": 1753537373,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": 0,
+            "score": 1,
             "author_fullname": "t2_pf0tbbh7",
             "approved_by": null,
             "mod_note": null,
@@ -4061,7 +4383,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -4087,19 +4409,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": null,
+            "collapsed_reason_code": "LOW_SCORE",
             "no_follow": true,
             "author": "node-0",
             "can_mod_post": false,
             "created_utc": 1753579637,
             "send_replies": true,
             "parent_id": "t3_1m9fb5t",
-            "score": -2,
+            "score": -6,
             "author_fullname": "t2_8mo44d5be",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": false,
+            "collapsed": true,
             "body": "That’s great and all, but kind of pointless to my mind.\n\nWhy? Well I hooked up Open Web UI to together.ai via api and got access to Qwen 235b A22B, the full size Deepseek R1 (running way faster than the native provider of DS R1) and over 200 other models.\n\nLLAMA 3.3 70B was among them (these are all at Q8 btw). \n\nGuess what?\n\nNot only did Qwen 3 235B A22B absolutely wreck llama3.3 70b in quality but what I discovered next will shock you.\n\nThe little brother of big Qwen3 235B A22B which is: Qwen3 30B A3B (q8, but q6 and q4 are just as effective) absolutely thrash llama 3.3 70b at all of the same technical (coding is no contest) and creative writing (llama 3.3 70b is still outgunned by the 30b A3b model).\n\nI’m not talking about speed although that’s true as well. I’m talking about quality. It’s not even comparable.\n\nLike qwen3 analyses are multipoint with bullets and some bullets going into abstract detail, drawing conclusions, making analogical connections.\n\nIt’s like llama3.3 70b ends up, looking like a sort of deadpan brick wall of text and it points are surface level compared to the deep vibrant analysis of Qwen3.\n\nAt this point Qwen 235B A22B is giving ChatGPT 4o a run for its money.\n\nSo when I see this, I’m like “why would I care about a less accurate likely less useful model that might be able to run at Q4 on a consumer GPU when I already have something that demolishes it’s bigger brother and runs on a 3090 at 75 tokens per second?”\n\nSeriously, 75 to 80 tokens per second it’s a beast it’s done before I’ve even started registering that it’s working on the problem.\n\nThis means if you have like a bunch of them like I do i.e.  RTX 3090s you could run this model on each one and you could do insane levels of analysis really quickly you could have judge models you could have summarizer you could have all kinds of analysis going on.\n\nI mean it’s nice to hear us news, but to be honest Meta needs to step up their game. This is why Zuckerberg started spending billions of dollars acquiring other companies because he knows their LLM game is so weak.\n\nHe’s (Zuck) doing a Hail Mary by poaching/trying to poach all of these other researchers.",
             "edited": false,
             "top_awarded_type": null,
@@ -4111,7 +4433,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That’s great and all, but kind of pointless to my mind.&lt;/p&gt;\n\n&lt;p&gt;Why? Well I hooked up Open Web UI to together.ai via api and got access to Qwen 235b A22B, the full size Deepseek R1 (running way faster than the native provider of DS R1) and over 200 other models.&lt;/p&gt;\n\n&lt;p&gt;LLAMA 3.3 70B was among them (these are all at Q8 btw). &lt;/p&gt;\n\n&lt;p&gt;Guess what?&lt;/p&gt;\n\n&lt;p&gt;Not only did Qwen 3 235B A22B absolutely wreck llama3.3 70b in quality but what I discovered next will shock you.&lt;/p&gt;\n\n&lt;p&gt;The little brother of big Qwen3 235B A22B which is: Qwen3 30B A3B (q8, but q6 and q4 are just as effective) absolutely thrash llama 3.3 70b at all of the same technical (coding is no contest) and creative writing (llama 3.3 70b is still outgunned by the 30b A3b model).&lt;/p&gt;\n\n&lt;p&gt;I’m not talking about speed although that’s true as well. I’m talking about quality. It’s not even comparable.&lt;/p&gt;\n\n&lt;p&gt;Like qwen3 analyses are multipoint with bullets and some bullets going into abstract detail, drawing conclusions, making analogical connections.&lt;/p&gt;\n\n&lt;p&gt;It’s like llama3.3 70b ends up, looking like a sort of deadpan brick wall of text and it points are surface level compared to the deep vibrant analysis of Qwen3.&lt;/p&gt;\n\n&lt;p&gt;At this point Qwen 235B A22B is giving ChatGPT 4o a run for its money.&lt;/p&gt;\n\n&lt;p&gt;So when I see this, I’m like “why would I care about a less accurate likely less useful model that might be able to run at Q4 on a consumer GPU when I already have something that demolishes it’s bigger brother and runs on a 3090 at 75 tokens per second?”&lt;/p&gt;\n\n&lt;p&gt;Seriously, 75 to 80 tokens per second it’s a beast it’s done before I’ve even started registering that it’s working on the problem.&lt;/p&gt;\n\n&lt;p&gt;This means if you have like a bunch of them like I do i.e.  RTX 3090s you could run this model on each one and you could do insane levels of analysis really quickly you could have judge models you could have summarizer you could have all kinds of analysis going on.&lt;/p&gt;\n\n&lt;p&gt;I mean it’s nice to hear us news, but to be honest Meta needs to step up their game. This is why Zuckerberg started spending billions of dollars acquiring other companies because he knows their LLM game is so weak.&lt;/p&gt;\n\n&lt;p&gt;He’s (Zuck) doing a Hail Mary by poaching/trying to poach all of these other researchers.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": null,
+            "collapsed_reason": "comment score below threshold",
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -4136,7 +4458,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -6
           }
         }
       ],

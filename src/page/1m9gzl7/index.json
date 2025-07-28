@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 149,
+            "ups": 157,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 149,
+            "score": 157,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m9gzl7/nvidia_released_llama_nemotron_super_v15/",
             "stickied": false,
             "url": "https://i.redd.it/yl29obvah4ff1.jpeg",
-            "subreddit_subscribers": 505252,
+            "subreddit_subscribers": 505615,
             "created_utc": 1753493788,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -488,7 +488,7 @@
                       "created_utc": 1753498653,
                       "send_replies": true,
                       "parent_id": "t1_n576917",
-                      "score": 24,
+                      "score": 22,
                       "author_fullname": "t2_on5es7pe3",
                       "removal_reason": null,
                       "approved_by": null,
@@ -535,7 +535,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 24
+                      "ups": 22
                     }
                   },
                   {
@@ -706,7 +706,7 @@
             "created_utc": 1753494017,
             "send_replies": true,
             "parent_id": "t3_1m9gzl7",
-            "score": 19,
+            "score": 16,
             "author_fullname": "t2_88fma001",
             "approved_by": null,
             "mod_note": null,
@@ -748,7 +748,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 19
+            "ups": 16
           }
         },
         {
@@ -884,7 +884,7 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "ttkciar",
                       "can_mod_post": false,
                       "created_utc": 1753495105,
@@ -958,7 +958,7 @@
             "created_utc": 1753494115,
             "send_replies": true,
             "parent_id": "t3_1m9gzl7",
-            "score": 28,
+            "score": 33,
             "author_fullname": "t2_9oyar0i8",
             "approved_by": null,
             "mod_note": null,
@@ -1000,7 +1000,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 28
+            "ups": 33
           }
         },
         {
@@ -1217,7 +1217,7 @@
                       "created_utc": 1753503129,
                       "send_replies": true,
                       "parent_id": "t1_n57e4zh",
-                      "score": 8,
+                      "score": 9,
                       "author_fullname": "t2_bbgvu",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1259,7 +1259,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 9
                     }
                   },
                   {
@@ -1505,7 +1505,7 @@
             "created_utc": 1753499553,
             "send_replies": true,
             "parent_id": "t3_1m9gzl7",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_ozxxf",
             "approved_by": null,
             "mod_note": null,
@@ -1547,7 +1547,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
