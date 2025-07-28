@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "TL;DR A local language model is like a mini-brain for your computer. It’s trained to understand and generate text, like answering questions or writing essays. Unlike online AI (like ChatGPT), local LLMs don’t need a cloud server—you run them directly on your machine. But to do this, you need to know about **model size**, **context**, and **hardware**.\n\n# 1. Model Size: How Big Is the Brain?\n\nThe “size” of an LLM is measured in **parameters**, which are like the brain cells of the model. More parameters mean a smarter model, but it also needs a more powerful computer. Let’s look at the three main size categories:\n\n* **Small Models (1–3 billion parameters):**These are like tiny, efficient brains. They don’t need much power and can run on most laptops.**Example:** Imagine a small model as a basic calculator—it’s great for simple tasks like answering short questions or summarizing a paragraph. A model like LLaMA 3B (3 billion parameters) needs only about **4 GB of GPU memory** (VRAM) and **8 GB of regular computer memory** (RAM). If your laptop has 8–16 GB of RAM, you can run this model. This is how llama 3.2 running on my MacBook Air M1 8GB RAM:\\[video\\]**Real-world use:** Writing short emails, summarizing or answering basic questions like, “What’s the capital of France?”\n* **Medium Models (7–13 billion parameters):**These are like a high-school student’s brain—smarter, but they need a better computer.**Example:** A medium model like LLaMA 8B (8 billion parameters) needs about **12 GB of VRAM** and **16 GB of RAM**. This is like needing a gaming PC with a good graphics card (like an NVIDIA RTX 3090). It can handle more complex tasks, like writing a short story or analyzing a document.**Real-world use:** Creating a blog post or helping with homework.\n* **Large Models (30+ billion parameters):**These are like genius-level brains, but they need super-powerful computers.**Example:** A huge model like LLaMA 70B (70 billion parameters) might need **48 GB of VRAM** (like two high-end GPUs) and **64 GB of RAM**. This is like needing a fancy workstation, not a regular PC. These models are great for advanced tasks, but most people can’t run them at home.**Real-world use:** Writing a detailed research paper or analyzing massive datasets.\n\n**Simple Rule:** The bigger the model, the more “thinking power” it has, but it needs a stronger computer. A small model is fine for basic tasks, while larger models are for heavy-duty work.\n\n# 2. Context Window: How Much Can the Model “Remember”?\n\nThe **context window** is how much text the model can “think about” at once. Think of it like the model’s short-term memory. It’s measured in **tokens** (a token is roughly a word or part of a word). A bigger context window lets the model remember more, but it uses a lot more memory.\n\n* **Example:** If you’re chatting with an AI and it can only “remember” 2,048 tokens (about 1,500 words), it might forget the start of a long conversation. But if it has a 16,384-token context (about 12,000 words), it can keep track of a much longer discussion.\n   * A 2,048-token context might use **0.7 GB of GPU memory**.\n   * A 16,384-token context could jump to **46 GB of GPU memory**—way more!\n\n**Why It Matters:** If you only need short answers (like a quick fact), use a small context to save memory. But if you’re summarizing a long article, you’ll need a bigger context, which requires a stronger computer.\n\n**Simple Rule:** Keep the context window small unless you need the model to remember a lot of text. Bigger context = more memory needed.\n\n# 3. Hardware: What Kind of Computer Do You Need?\n\nTo run a local LLM, your computer needs two key things:\n\n* **GPU VRAM** (video memory on your graphics card, if you have one).\n* **System RAM** (regular computer memory).\n\nHere’s a simple guide to match your hardware to the right model:\n\n* **Basic Laptop (8 GB VRAM, 16 GB RAM):**You can run **small models** (1–3 billion parameters).**Example:** A typical laptop with a mid-range GPU (4–6 GB VRAM) can handle a 3B model for simple tasks like answering questions or writing short texts.\n* **Gaming PC (12–16 GB VRAM, 32 GB RAM):**You can run **medium models** (7–13 billion parameters).**Example:** A PC with a high-performance GPU (12 GB VRAM) can run an 8B model to write stories or assist with coding.\n* **High-End Setup (24–48 GB VRAM, 64 GB RAM):**You can run **large models** (30+ billion parameters), but optimization techniques may be required (I will explain further in the next part).**Example:** A workstation with two high-end GPUs (24 GB VRAM each) can handle a 70B model for advanced tasks like research or complex analysis.\n\n**Simple Rule:** Check your computer’s VRAM and RAM to pick the right model. If you don’t have a powerful GPU, stick to smaller models.\n\n# 4. Tricks to Run Bigger Models on Smaller Computers\n\nEven if your computer isn’t super powerful, you can use some clever tricks to run bigger models:\n\n* **Quantization:** This is like compressing a big file to make it smaller. It reduces the model’s memory needs by using less precise math.**Example:** A 70B model normally needs **140 GB of VRAM**, but with 4-bit quantization, it might only need **35 GB**. That’s still a lot, but it’s much more doable on a good gaming PC.\n* **Free Up Memory:** Close other programs (like games or browsers) to give your GPU more room to work.**Example:** If your GPU has 12 GB of VRAM, make sure at least 10–11 GB is free for the model to run smoothly.\n* **Smaller Context and Batch Size:** Use a smaller context window or fewer tasks at once to save memory.**Example:** If you’re just asking for a quick answer, set the context to 2,048 tokens instead of 16,384 to save VRAM.\n\n**Simple Rule:** Quantization is like magic—it lets you run bigger models on smaller computers! For a step-by-step guide on how to do this, I found this tutorial super helpful from Hugging Face: [https://huggingface.co/docs/transformers/v4.53.3/quantization/overview](https://huggingface.co/docs/transformers/v4.53.3/quantization/overview)\n\n# 5. How to Choose the Right Model for You\n\nHere’s a quick guide to pick the best model for your computer:\n\n* **Basic Laptop (8 GB VRAM, 16 GB RAM):** Choose a **1–3B model**. It’s perfect for simple tasks like answering questions or writing short texts.**Example Task:** Ask the model, “Write a 100-word story about a cat.”\n* **Gaming PC (12–16 GB VRAM, 32 GB RAM):** Go for a **7–13B model**. These are great for more complex tasks like writing essays or coding.**Example Task:** Ask the model, “Write a Python program to calculate my monthly budget.”\n* **High-End PC (24–48 GB VRAM, 64 GB RAM):** Try a **30B+ model** with quantization. These are for heavy tasks like research or big projects.**Example Task:** Ask the model, “Analyze this 10-page report and summarize it in 500 words.”\n\nIf your computer isn’t strong enough for a big model, you can also use **cloud services** (ChatGPT, Claude, Grok, Google Gemini, etc.) for large models.\n\n# Final Thoughts\n\nRunning a local language model is like having your own personal AI assistant on your computer. By understanding model size, context window, and your computer’s hardware, you can pick the right model for your needs. Start small if you’re new, and use tricks like quantization to get more out of your setup.\n\n**Pro Tip:** Always leave a bit of extra VRAM and RAM free, as models can slow down if your computer is stretched to its limit. Happy AI experimenting!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Understanding Local Language Models: A Beginner’s Guide",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mbc9d3",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.6,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1hxjrpz5s8",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753697376,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;TL;DR A local language model is like a mini-brain for your computer. It’s trained to understand and generate text, like answering questions or writing essays. Unlike online AI (like ChatGPT), local LLMs don’t need a cloud server—you run them directly on your machine. But to do this, you need to know about &lt;strong&gt;model size&lt;/strong&gt;, &lt;strong&gt;context&lt;/strong&gt;, and &lt;strong&gt;hardware&lt;/strong&gt;.&lt;/p&gt;\n\n&lt;h1&gt;1. Model Size: How Big Is the Brain?&lt;/h1&gt;\n\n&lt;p&gt;The “size” of an LLM is measured in &lt;strong&gt;parameters&lt;/strong&gt;, which are like the brain cells of the model. More parameters mean a smarter model, but it also needs a more powerful computer. Let’s look at the three main size categories:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Small Models (1–3 billion parameters):&lt;/strong&gt;These are like tiny, efficient brains. They don’t need much power and can run on most laptops.&lt;strong&gt;Example:&lt;/strong&gt; Imagine a small model as a basic calculator—it’s great for simple tasks like answering short questions or summarizing a paragraph. A model like LLaMA 3B (3 billion parameters) needs only about &lt;strong&gt;4 GB of GPU memory&lt;/strong&gt; (VRAM) and &lt;strong&gt;8 GB of regular computer memory&lt;/strong&gt; (RAM). If your laptop has 8–16 GB of RAM, you can run this model. This is how llama 3.2 running on my MacBook Air M1 8GB RAM:[video]&lt;strong&gt;Real-world use:&lt;/strong&gt; Writing short emails, summarizing or answering basic questions like, “What’s the capital of France?”&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Medium Models (7–13 billion parameters):&lt;/strong&gt;These are like a high-school student’s brain—smarter, but they need a better computer.&lt;strong&gt;Example:&lt;/strong&gt; A medium model like LLaMA 8B (8 billion parameters) needs about &lt;strong&gt;12 GB of VRAM&lt;/strong&gt; and &lt;strong&gt;16 GB of RAM&lt;/strong&gt;. This is like needing a gaming PC with a good graphics card (like an NVIDIA RTX 3090). It can handle more complex tasks, like writing a short story or analyzing a document.&lt;strong&gt;Real-world use:&lt;/strong&gt; Creating a blog post or helping with homework.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Large Models (30+ billion parameters):&lt;/strong&gt;These are like genius-level brains, but they need super-powerful computers.&lt;strong&gt;Example:&lt;/strong&gt; A huge model like LLaMA 70B (70 billion parameters) might need &lt;strong&gt;48 GB of VRAM&lt;/strong&gt; (like two high-end GPUs) and &lt;strong&gt;64 GB of RAM&lt;/strong&gt;. This is like needing a fancy workstation, not a regular PC. These models are great for advanced tasks, but most people can’t run them at home.&lt;strong&gt;Real-world use:&lt;/strong&gt; Writing a detailed research paper or analyzing massive datasets.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Simple Rule:&lt;/strong&gt; The bigger the model, the more “thinking power” it has, but it needs a stronger computer. A small model is fine for basic tasks, while larger models are for heavy-duty work.&lt;/p&gt;\n\n&lt;h1&gt;2. Context Window: How Much Can the Model “Remember”?&lt;/h1&gt;\n\n&lt;p&gt;The &lt;strong&gt;context window&lt;/strong&gt; is how much text the model can “think about” at once. Think of it like the model’s short-term memory. It’s measured in &lt;strong&gt;tokens&lt;/strong&gt; (a token is roughly a word or part of a word). A bigger context window lets the model remember more, but it uses a lot more memory.&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; If you’re chatting with an AI and it can only “remember” 2,048 tokens (about 1,500 words), it might forget the start of a long conversation. But if it has a 16,384-token context (about 12,000 words), it can keep track of a much longer discussion.\n\n&lt;ul&gt;\n&lt;li&gt;A 2,048-token context might use &lt;strong&gt;0.7 GB of GPU memory&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;A 16,384-token context could jump to &lt;strong&gt;46 GB of GPU memory&lt;/strong&gt;—way more!&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Why It Matters:&lt;/strong&gt; If you only need short answers (like a quick fact), use a small context to save memory. But if you’re summarizing a long article, you’ll need a bigger context, which requires a stronger computer.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Simple Rule:&lt;/strong&gt; Keep the context window small unless you need the model to remember a lot of text. Bigger context = more memory needed.&lt;/p&gt;\n\n&lt;h1&gt;3. Hardware: What Kind of Computer Do You Need?&lt;/h1&gt;\n\n&lt;p&gt;To run a local LLM, your computer needs two key things:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;GPU VRAM&lt;/strong&gt; (video memory on your graphics card, if you have one).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;System RAM&lt;/strong&gt; (regular computer memory).&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Here’s a simple guide to match your hardware to the right model:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Basic Laptop (8 GB VRAM, 16 GB RAM):&lt;/strong&gt;You can run &lt;strong&gt;small models&lt;/strong&gt; (1–3 billion parameters).&lt;strong&gt;Example:&lt;/strong&gt; A typical laptop with a mid-range GPU (4–6 GB VRAM) can handle a 3B model for simple tasks like answering questions or writing short texts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Gaming PC (12–16 GB VRAM, 32 GB RAM):&lt;/strong&gt;You can run &lt;strong&gt;medium models&lt;/strong&gt; (7–13 billion parameters).&lt;strong&gt;Example:&lt;/strong&gt; A PC with a high-performance GPU (12 GB VRAM) can run an 8B model to write stories or assist with coding.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;High-End Setup (24–48 GB VRAM, 64 GB RAM):&lt;/strong&gt;You can run &lt;strong&gt;large models&lt;/strong&gt; (30+ billion parameters), but optimization techniques may be required (I will explain further in the next part).&lt;strong&gt;Example:&lt;/strong&gt; A workstation with two high-end GPUs (24 GB VRAM each) can handle a 70B model for advanced tasks like research or complex analysis.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Simple Rule:&lt;/strong&gt; Check your computer’s VRAM and RAM to pick the right model. If you don’t have a powerful GPU, stick to smaller models.&lt;/p&gt;\n\n&lt;h1&gt;4. Tricks to Run Bigger Models on Smaller Computers&lt;/h1&gt;\n\n&lt;p&gt;Even if your computer isn’t super powerful, you can use some clever tricks to run bigger models:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Quantization:&lt;/strong&gt; This is like compressing a big file to make it smaller. It reduces the model’s memory needs by using less precise math.&lt;strong&gt;Example:&lt;/strong&gt; A 70B model normally needs &lt;strong&gt;140 GB of VRAM&lt;/strong&gt;, but with 4-bit quantization, it might only need &lt;strong&gt;35 GB&lt;/strong&gt;. That’s still a lot, but it’s much more doable on a good gaming PC.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Free Up Memory:&lt;/strong&gt; Close other programs (like games or browsers) to give your GPU more room to work.&lt;strong&gt;Example:&lt;/strong&gt; If your GPU has 12 GB of VRAM, make sure at least 10–11 GB is free for the model to run smoothly.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Smaller Context and Batch Size:&lt;/strong&gt; Use a smaller context window or fewer tasks at once to save memory.&lt;strong&gt;Example:&lt;/strong&gt; If you’re just asking for a quick answer, set the context to 2,048 tokens instead of 16,384 to save VRAM.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Simple Rule:&lt;/strong&gt; Quantization is like magic—it lets you run bigger models on smaller computers! For a step-by-step guide on how to do this, I found this tutorial super helpful from Hugging Face: &lt;a href=\"https://huggingface.co/docs/transformers/v4.53.3/quantization/overview\"&gt;https://huggingface.co/docs/transformers/v4.53.3/quantization/overview&lt;/a&gt;&lt;/p&gt;\n\n&lt;h1&gt;5. How to Choose the Right Model for You&lt;/h1&gt;\n\n&lt;p&gt;Here’s a quick guide to pick the best model for your computer:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Basic Laptop (8 GB VRAM, 16 GB RAM):&lt;/strong&gt; Choose a &lt;strong&gt;1–3B model&lt;/strong&gt;. It’s perfect for simple tasks like answering questions or writing short texts.&lt;strong&gt;Example Task:&lt;/strong&gt; Ask the model, “Write a 100-word story about a cat.”&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Gaming PC (12–16 GB VRAM, 32 GB RAM):&lt;/strong&gt; Go for a &lt;strong&gt;7–13B model&lt;/strong&gt;. These are great for more complex tasks like writing essays or coding.&lt;strong&gt;Example Task:&lt;/strong&gt; Ask the model, “Write a Python program to calculate my monthly budget.”&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;High-End PC (24–48 GB VRAM, 64 GB RAM):&lt;/strong&gt; Try a &lt;strong&gt;30B+ model&lt;/strong&gt; with quantization. These are for heavy tasks like research or big projects.&lt;strong&gt;Example Task:&lt;/strong&gt; Ask the model, “Analyze this 10-page report and summarize it in 500 words.”&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;If your computer isn’t strong enough for a big model, you can also use &lt;strong&gt;cloud services&lt;/strong&gt; (ChatGPT, Claude, Grok, Google Gemini, etc.) for large models.&lt;/p&gt;\n\n&lt;h1&gt;Final Thoughts&lt;/h1&gt;\n\n&lt;p&gt;Running a local language model is like having your own personal AI assistant on your computer. By understanding model size, context window, and your computer’s hardware, you can pick the right model for your needs. Start small if you’re new, and use tricks like quantization to get more out of your setup.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Pro Tip:&lt;/strong&gt; Always leave a bit of extra VRAM and RAM free, as models can slow down if your computer is stretched to its limit. Happy AI experimenting!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?auto=webp&amp;s=c01e883ee537960058800f2638c9fc359f14ba1e",
+                    "width": 1200,
+                    "height": 648
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=4c76a863977e105532ff0253418287f7ceba9902",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5852b5463bc5666831cd45b7163303a5681c5486",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=38fd2e738957aa266cc68c58c41d5c083143549d",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7832903a05bd4e7088e86c4cad258a027216112",
+                      "width": 640,
+                      "height": 345
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bf88787050d888147ef934602b7d03444cccc2bc",
+                      "width": 960,
+                      "height": 518
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4c75b1f1c8ca3884566bdefe2a49aa5b0e0d73cb",
+                      "width": 1080,
+                      "height": 583
+                    }
+                  ],
+                  "variants": {},
+                  "id": "jfeVG47nZdEkz9kXfW1CcS-Sy8l4DXGb9JErx6bLKfU"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mbc9d3",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "120-dev",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mbc9d3/understanding_local_language_models_a_beginners/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mbc9d3/understanding_local_language_models_a_beginners/",
+            "subreddit_subscribers": 505879,
+            "created_utc": 1753697376,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

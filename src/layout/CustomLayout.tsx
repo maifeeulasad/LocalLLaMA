@@ -9296,6 +9296,178 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mb2y1z',
         name: 'The Untold Revolution in iOS 26: WebGPU Is Coming',
       },
+      {
+        path: '/1mb3xi3',
+        name: 'UI/UX Benchmark Update 7/27: 50 Models, Humanity, Voice, and new models from an AI lab on the horizon?',
+      },
+      {
+        path: '/1mb43ux',
+        name: 'Pre-built Desktop Tower Optimized for 70b Local LLMs',
+      },
+      {
+        path: '/1mb4d9y',
+        name: 'Bending VS Code into a document-processing AI tool worked - but there must be a better way',
+      },
+      {
+        path: '/1mb4h6d',
+        name: 'Can anyone suggest the best local model for multi turn chat with RAG usage?',
+      },
+      {
+        path: '/1mb4mex',
+        name: 'Technical Report of TeleChat2, TeleChat2.5 and T1',
+      },
+      {
+        path: '/1mb5jut',
+        name: 'Rtx 3090 + Rtx 2060 for Context Increase and Performance',
+      },
+      {
+        path: '/1mb6i7x',
+        name: 'Has vLLM made Ollama and llama.cpp redundant?',
+      },
+      {
+        path: '/1mb6jzz',
+        name: 'Why I\'m Betting Against AI Agents in 2025 (Despite Building Them)',
+      },
+      {
+        path: '/1mb6rre',
+        name: 'Is anyone using MemOS? What are the pros and cons?',
+      },
+      {
+        path: '/1mb6uhm',
+        name: 'Pi AI studio',
+      },
+      {
+        path: '/1mb77c7',
+        name: '2x RTX 3090 24GB or 8x 3060 12GB',
+      },
+      {
+        path: '/1mb7gxu',
+        name: 'System Ram Speed Importance when using GPU',
+      },
+      {
+        path: '/1mb7jrh',
+        name: 'Help me, please',
+      },
+      {
+        path: '/1mb7tb7',
+        name: 'Watch Alibaba Cloud Founder on China’s AI Future',
+      },
+      {
+        path: '/1mb8sa8',
+        name: 'Dual Turin build anyone?',
+      },
+      {
+        path: '/1mb98cm',
+        name: 'Granite 4 small and medium might be 30B6A/120B30A?',
+      },
+      {
+        path: '/1mb9b1t',
+        name: 'OS Cursor for documents?',
+      },
+      {
+        path: '/1mb9uy8',
+        name: 'Qwen/Qwen3-30B-A3B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1mba8j8',
+        name: 'best small LLM for pandasai via ollama',
+      },
+      {
+        path: '/1mbaho0',
+        name: 'UI persistently refusing to work',
+      },
+      {
+        path: '/1mbako7',
+        name: 'Fine Tuning; Attribution at Inference Time',
+      },
+      {
+        path: '/1mbap20',
+        name: 'Please suggest me android apps to run onnx models for testing like pocketpal',
+      },
+      {
+        path: '/1mbavi1',
+        name: 'My first finetune: Gemma 3 4B unslop via GRPO',
+      },
+      {
+        path: '/1mbaxqj',
+        name: 'Vibe-coded Webpage-summarizer Chrome extension to leverage OSS models',
+      },
+      {
+        path: '/1mbbphk',
+        name: 'Qwen 3 thinks deeper, acts faster, and it outperforms models like DeepSeek-R1, Grok 3 and Gemini-2.5-Pro.',
+      },
+      {
+        path: '/1mbc8tb',
+        name: 'Are there any examples of 14B+ reputable models that outperform models twice their size or more?',
+      },
+      {
+        path: '/1mbc9d3',
+        name: 'Understanding Local Language Models: A Beginner’s Guide',
+      },
+      {
+        path: '/1mbce7b',
+        name: 'Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights',
+      },
+      {
+        path: '/1mbcwek',
+        name: 'Opensource: The AI Model Router - Automating AI Model Selection',
+      },
+      {
+        path: '/1mbdg53',
+        name: 'Building a personal project for portfolio management.',
+      },
+      {
+        path: '/1mbdl2y',
+        name: '🚀 Built and launched a live AI app in 15 minutes — no code, no backend, just upload &amp; go 😎',
+      },
+      {
+        path: '/1mbdm6t',
+        name: 'GLM 4.5 possibly releasing today according to Bloomberg',
+      },
+      {
+        path: '/1mbdn26',
+        name: 'Hybrid Reasoning Models',
+      },
+      {
+        path: '/1mbdqby',
+        name: '[Framework] Recursive Identity Memory Patch for GPT Agents',
+      },
+      {
+        path: '/1mbdtw8',
+        name: 'Ai voice clone local unlimited that can generate long characters or words over 1k',
+      },
+      {
+        path: '/1mbe14n',
+        name: 'Somebody running kimi locally?',
+      },
+      {
+        path: '/1mbe7ua',
+        name: 'Proven strategies for making LLM outputs sound human',
+      },
+      {
+        path: '/1mbe9p9',
+        name: '[R] Parallel-FFN: Parameter-Efficient FFN Architecture with 35% Parameter Reduction',
+      },
+      {
+        path: '/1mbeecr',
+        name: 'Wan-AI/Wan2.2-TI2V-5B · Hugging Face',
+      },
+      {
+        path: '/1mbeeru',
+        name: 'Function Calling: Claude Sonnet 4 Vs o3 Vs Gemin 2.5 Pro',
+      },
+      {
+        path: '/1mbefh4',
+        name: 'Wan 2.2 T2V,I2V 14B MoE Models',
+      },
+      {
+        path: '/1mbei14',
+        name: 'support for SmallThinker model series has been merged into llama.cpp',
+      },
+      {
+        path: '/1mbejz8',
+        name: 'My chess AI project keeps hitting Google\'s rate limits. Any better free API alternatives out there?',
+      },
     ],
   },
   {

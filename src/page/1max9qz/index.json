@@ -36,10 +36,10 @@
             "name": "t3_1max9qz",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 1,
+            "upvote_ratio": 0.91,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 5,
+            "ups": 9,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 5,
+            "score": 9,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1max9qz/speculative_decoding_without_a_draft_model_c/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1max9qz/speculative_decoding_without_a_draft_model_c/",
-            "subreddit_subscribers": 505617,
+            "subreddit_subscribers": 505879,
             "created_utc": 1753649582,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -235,7 +235,7 @@
                       "created_utc": 1753651487,
                       "send_replies": true,
                       "parent_id": "t1_n5i03r3",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_w4j8t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -277,7 +277,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -292,13 +292,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "Chromix_",
             "can_mod_post": false,
             "created_utc": 1753650545,
             "send_replies": true,
             "parent_id": "t3_1max9qz",
-            "score": 3,
+            "score": 7,
             "author_fullname": "t2_k7w2h",
             "approved_by": null,
             "mod_note": null,
@@ -340,7 +340,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 7
           }
         }
       ],
