@@ -36,10 +36,10 @@
             "name": "t3_1maeuuo",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.91,
+            "upvote_ratio": 0.86,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 9,
+            "ups": 10,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 9,
+            "score": 10,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1maeuuo/what_will_happen_to_an_llm_when_you_double_the/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1maeuuo/what_will_happen_to_an_llm_when_you_double_the/",
-            "subreddit_subscribers": 505252,
+            "subreddit_subscribers": 505616,
             "created_utc": 1753596107,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -257,7 +257,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5ei0qn",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "author_fullname": "t2_cd5ak2mt",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -299,7 +299,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -314,12 +314,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "Ok_Warning2146",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5edpam",
-                                          "score": 3,
+                                          "score": 4,
                                           "author_fullname": "t2_s6sfw4yy",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -362,7 +362,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 3
+                                          "ups": 4
                                         }
                                       }
                                     ],
@@ -382,7 +382,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5ed0ud",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_cd5ak2mt",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -425,7 +425,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -509,14 +509,14 @@
             "created_utc": 1753602260,
             "send_replies": true,
             "parent_id": "t3_1maeuuo",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_cd5ak2mt",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "It’s a cheap tweak that boosts long-context quality while leaving everyday usage untouched. It slows the positional rotation, so angles stay “in-range” for roughly twice as many tokens. To work it needs to be fin tuned or else the model will go insane. You’re sure it’s the only change ?",
-            "edited": false,
+            "body": "It’s a cheap tweak that boosts long-context quality while leaving everyday usage untouched. It slows the positional rotation, so angles stay \"in-range\" for roughly twice as many tokens. To work it needs to be fin tuned or else the model will go insane. You’re sure it’s the only change ?",
+            "edited": 1753622143,
             "top_awarded_type": null,
             "author_flair_css_class": null,
             "name": "t1_n5ecc30",
@@ -524,7 +524,7 @@
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It’s a cheap tweak that boosts long-context quality while leaving everyday usage untouched. It slows the positional rotation, so angles stay “in-range” for roughly twice as many tokens. To work it needs to be fin tuned or else the model will go insane. You’re sure it’s the only change ?&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It’s a cheap tweak that boosts long-context quality while leaving everyday usage untouched. It slows the positional rotation, so angles stay &amp;quot;in-range&amp;quot; for roughly twice as many tokens. To work it needs to be fin tuned or else the model will go insane. You’re sure it’s the only change ?&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -551,7 +551,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {

@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.98,
             "author_flair_background_color": null,
-            "ups": 207,
+            "ups": 211,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 207,
+            "score": 211,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "kristaller486",
             "discussion_type": null,
-            "num_comments": 31,
+            "num_comments": 33,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m9m8gw/intern_s1_released/",
             "stickied": false,
             "url": "https://huggingface.co/internlm/Intern-S1",
-            "subreddit_subscribers": 505252,
+            "subreddit_subscribers": 505615,
             "created_utc": 1753510964,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -430,7 +430,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5apz9x",
-                                "score": 3,
+                                "score": 4,
                                 "author_fullname": "t2_1jfkhq5x3p",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -473,7 +473,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             }
                           ],
@@ -494,7 +494,7 @@
                       "created_utc": 1753551241,
                       "send_replies": true,
                       "parent_id": "t1_n58288d",
-                      "score": 5,
+                      "score": 3,
                       "author_fullname": "t2_dfjyie0l",
                       "removal_reason": null,
                       "approved_by": null,
@@ -536,7 +536,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 3
                     }
                   }
                 ],
@@ -557,7 +557,7 @@
             "created_utc": 1753511087,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 68,
+            "score": 71,
             "author_fullname": "t2_g8fwjts3",
             "approved_by": null,
             "mod_note": null,
@@ -599,7 +599,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 68
+            "ups": 71
           }
         },
         {
@@ -888,6 +888,81 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n5gumfl",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "Awwtifishal",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n5bfyul",
+                                "score": 1,
+                                "author_fullname": "t2_1d96a8k10t",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "Do you have more info about the 0-1000 normalization thing? I can't find anything.",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n5gumfl",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Do you have more info about the 0-1000 normalization thing? I can&amp;#39;t find anything.&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1m9m8gw",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1m9m8gw/intern_s1_released/n5gumfl/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753638018,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753638018,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "before": null
@@ -970,7 +1045,7 @@
             "created_utc": 1753511816,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 37,
+            "score": 40,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -1017,7 +1092,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 37
+            "ups": 40
           }
         },
         {
@@ -1095,7 +1170,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n586aiy",
-                                "score": 8,
+                                "score": 9,
                                 "author_fullname": "t2_3qw34",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1138,7 +1213,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             },
                             {
@@ -1309,7 +1384,7 @@
                       "created_utc": 1753513049,
                       "send_replies": true,
                       "parent_id": "t1_n5838gr",
-                      "score": 9,
+                      "score": 10,
                       "author_fullname": "t2_6p2gux0e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1351,7 +1426,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 10
                     }
                   }
                 ],
@@ -1470,7 +1545,7 @@
                       "created_utc": 1753574405,
                       "send_replies": true,
                       "parent_id": "t1_n58bfo4",
-                      "score": 3,
+                      "score": 6,
                       "author_fullname": "t2_1iuzpxw7eg",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1512,7 +1587,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 6
                     }
                   }
                 ],
@@ -1533,7 +1608,7 @@
             "created_utc": 1753516298,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 52,
+            "score": 53,
             "author_fullname": "t2_fmd6oq5v6",
             "approved_by": null,
             "mod_note": null,
@@ -1580,7 +1655,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 52
+            "ups": 53
           }
         },
         {
@@ -1613,7 +1688,7 @@
             "created_utc": 1753528496,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 13,
+            "score": 14,
             "author_fullname": "t2_c705ri9b",
             "approved_by": null,
             "mod_note": null,
@@ -1700,7 +1775,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 14
           }
         },
         {
@@ -1733,7 +1808,7 @@
             "created_utc": 1753512477,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 15,
+            "score": 16,
             "author_fullname": "t2_1nkj9l14b0",
             "approved_by": null,
             "mod_note": null,
@@ -1775,7 +1850,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 16
           }
         },
         {
@@ -1831,7 +1906,7 @@
                       "created_utc": 1753571262,
                       "send_replies": true,
                       "parent_id": "t1_n59rb9g",
-                      "score": 6,
+                      "score": 4,
                       "author_fullname": "t2_soegz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1873,7 +1948,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 4
                     }
                   }
                 ],
@@ -1894,7 +1969,7 @@
             "created_utc": 1753540390,
             "send_replies": true,
             "parent_id": "t3_1m9m8gw",
-            "score": 20,
+            "score": 21,
             "author_fullname": "t2_eztox",
             "approved_by": null,
             "mod_note": null,
@@ -1936,7 +2011,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 20
+            "ups": 21
           }
         },
         {
@@ -2029,7 +2104,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5gri2q",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "GreenGreasyGreasels",
+                      "can_mod_post": false,
+                      "created_utc": 1753637122,
+                      "send_replies": true,
+                      "parent_id": "t1_n59913t",
+                      "score": 1,
+                      "author_fullname": "t2_14purh",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Does it need a phone number to register? If so I will skip. It's not clear from the signup page.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5gri2q",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Does it need a phone number to register? If so I will skip. It&amp;#39;s not clear from the signup page.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1m9m8gw",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1m9m8gw/intern_s1_released/n5gri2q/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753637122,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n59913t",
