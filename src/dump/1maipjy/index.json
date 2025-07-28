@@ -36,9 +36,9 @@
             "name": "t3_1maipjy",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.94,
+            "upvote_ratio": 0.93,
             "author_flair_background_color": null,
-            "ups": 59,
+            "ups": 58,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 59,
+            "score": 58,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1maipjy/powerinfersmallthinker21ba3binstruct_hugging_face/",
             "stickied": false,
             "url": "https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct",
-            "subreddit_subscribers": 505616,
+            "subreddit_subscribers": 505881,
             "created_utc": 1753611065,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -236,7 +236,7 @@
                       "created_utc": 1753623716,
                       "send_replies": true,
                       "parent_id": "t1_n5erko4",
-                      "score": 8,
+                      "score": 11,
                       "author_fullname": "t2_tupznx19",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +278,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 11
                     }
                   }
                 ],
@@ -299,7 +299,7 @@
             "created_utc": 1753611347,
             "send_replies": true,
             "parent_id": "t3_1maipjy",
-            "score": 20,
+            "score": 24,
             "author_fullname": "t2_pmniwf57y",
             "approved_by": null,
             "mod_note": null,
@@ -341,7 +341,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 20
+            "ups": 24
           }
         },
         {
@@ -374,7 +374,7 @@
             "created_utc": 1753611108,
             "send_replies": true,
             "parent_id": "t3_1maipjy",
-            "score": 15,
+            "score": 18,
             "author_fullname": "t2_kwl47",
             "approved_by": null,
             "mod_note": null,
@@ -451,7 +451,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 18
           }
         },
         {
@@ -650,13 +650,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "JLeonsarmiento",
             "can_mod_post": false,
             "created_utc": 1753634835,
             "send_replies": true,
             "parent_id": "t3_1maipjy",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_9b9s4a7g",
             "approved_by": null,
             "mod_note": null,
@@ -698,7 +698,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {

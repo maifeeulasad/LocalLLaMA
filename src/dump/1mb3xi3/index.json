@@ -1,0 +1,390 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Here's my last post as [context](https://www.reddit.com/r/LocalLLaMA/comments/1m6ztb2/uiux_benchmark_update_722_newest_qwen_models/). Otherwise let's get to the exciting updates about [the benchmark](https://www.designarena.ai/). \n\n1. **50 Models:** I've lost track of the count, but since the benchmark began a little over a month ago, we've added over [50 models](https://www.designarena.ai/changelog) so far. In the past few days, we've added Imagen 4 Ultra from Google, Qwen3-235B-A22B-Thinking-2507, Ideogram 3.0, and UIGen X 32B. We're trying to add new models everyday, so let us know what you would like to see here or on our [Discord](https://discord.com/channels/1390777934218006580/1396581263305084998). I think we've gotten most of people's requests (expect some of the GLM models which I WILL add, sorry I just keep forgetting).   \n  \n2. **UIGEN:** Our friends developing the [UIGen](https://huggingface.co/Tesslate) are developing some killer open-source models for frontend dev, and we've added a couple of their models to the benchmark, though inference is quite slow. It would be great if anyone knows of any good inference providers or could request provider support on HuggingFace. \n\n3. **Humanity:** This feature is still experimental and in beta, but we want to add a [human baseline](https://www.designarena.ai/humanity) to the benchmark (similar to ARC-AGI) where models are compared to designs and work from people. Users submit an image of a design or code (keep it to HTML/CSS/JS to be consistent with models), and then those designs (after a short review process to ensure there's not spam) and code are compared (anonymously) to model generations. \n\n4. **Voice**. Well UI/UX is our primary focus, our goal is to generally evaluate how models perform on all kinds of qualitative aspects that are hard to measure deterministically (e.g. such as how well models might hold or resemble a human conversation, debate, etc.). As a beta feature, we've added a [voice category](https://www.reddit.com/r/LocalLLaMA/submit/?type=IMAGE) where 2 voice models will have a conversation about a prompt you provide, and then you can choose which model you liked better. There are still some bugs to sort out with this feature, but would appreciate any feedback on this. \n\n5. **New Models on the Horizon?** After the Qwen releases last week, there's some buzz that we might see some model drops over the next week. We'll be keeping a watchful eye and attempting to get those models (whenever they come out) on Design Arena as fast as possible. \n\nLet us know if you have any feedback or questions! ",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "UI/UX Benchmark Update 7/27: 50 Models, Humanity, Voice, and new models from an AI lab on the horizon?",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 88,
+            "top_awarded_type": null,
+            "name": "t3_1mb3xi3",
+            "media_metadata": {
+              "3ntkg11btiff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 68,
+                    "x": 108,
+                    "u": "https://preview.redd.it/3ntkg11btiff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=cdc049d0e3e83cb0b37a10e46727defc44194713"
+                  },
+                  {
+                    "y": 136,
+                    "x": 216,
+                    "u": "https://preview.redd.it/3ntkg11btiff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fbecd568f42a719069aef7d0c6d6103eebbc8f90"
+                  },
+                  {
+                    "y": 201,
+                    "x": 320,
+                    "u": "https://preview.redd.it/3ntkg11btiff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d85d65444804683a7f87e2275c6b4fa5f1710d49"
+                  },
+                  {
+                    "y": 403,
+                    "x": 640,
+                    "u": "https://preview.redd.it/3ntkg11btiff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1153cbcfbbeda10972d06fed0cf50ab98d80ba83"
+                  },
+                  {
+                    "y": 605,
+                    "x": 960,
+                    "u": "https://preview.redd.it/3ntkg11btiff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=3c9afe29da6e6fa46d3d0a3e28cfc09f4a09d616"
+                  }
+                ],
+                "s": {
+                  "y": 658,
+                  "x": 1043,
+                  "u": "https://preview.redd.it/3ntkg11btiff1.png?width=1043&amp;format=png&amp;auto=webp&amp;s=61e66384be02386e74efe6f5e35d2c4dfe1832fd"
+                },
+                "id": "3ntkg11btiff1"
+              },
+              "2wn47bxwuiff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 114,
+                    "x": 108,
+                    "u": "https://preview.redd.it/2wn47bxwuiff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=223cc86d6dc341041278baf0fb03e074fc186133"
+                  },
+                  {
+                    "y": 229,
+                    "x": 216,
+                    "u": "https://preview.redd.it/2wn47bxwuiff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c29d4c2bcc163422f6868297376e7fa55f9a11d4"
+                  },
+                  {
+                    "y": 339,
+                    "x": 320,
+                    "u": "https://preview.redd.it/2wn47bxwuiff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c0608e133418e0d5033586067b8ba53d5e564f49"
+                  },
+                  {
+                    "y": 679,
+                    "x": 640,
+                    "u": "https://preview.redd.it/2wn47bxwuiff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=173193caf3a6e27eeccf85d96f0d55b0035f533d"
+                  }
+                ],
+                "s": {
+                  "y": 687,
+                  "x": 647,
+                  "u": "https://preview.redd.it/2wn47bxwuiff1.png?width=647&amp;format=png&amp;auto=webp&amp;s=bb3fe5aaf3d5a841155cf6fa30e68e4f80abdd17"
+                },
+                "id": "2wn47bxwuiff1"
+              }
+            },
+            "hide_score": false,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.93,
+            "author_flair_background_color": null,
+            "ups": 23,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_98ouo03z",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "3ntkg11btiff1",
+                  "id": 715558162
+                },
+                {
+                  "media_id": "2wn47bxwuiff1",
+                  "id": 715558163
+                }
+              ]
+            },
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 23,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ZEny5wZEwSnVbrdPI5YELoeX21mbA0nHIa9_2IoeNNo.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753667880,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Here&amp;#39;s my last post as &lt;a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1m6ztb2/uiux_benchmark_update_722_newest_qwen_models/\"&gt;context&lt;/a&gt;. Otherwise let&amp;#39;s get to the exciting updates about &lt;a href=\"https://www.designarena.ai/\"&gt;the benchmark&lt;/a&gt;. &lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;50 Models:&lt;/strong&gt; I&amp;#39;ve lost track of the count, but since the benchmark began a little over a month ago, we&amp;#39;ve added over &lt;a href=\"https://www.designarena.ai/changelog\"&gt;50 models&lt;/a&gt; so far. In the past few days, we&amp;#39;ve added Imagen 4 Ultra from Google, Qwen3-235B-A22B-Thinking-2507, Ideogram 3.0, and UIGen X 32B. We&amp;#39;re trying to add new models everyday, so let us know what you would like to see here or on our &lt;a href=\"https://discord.com/channels/1390777934218006580/1396581263305084998\"&gt;Discord&lt;/a&gt;. I think we&amp;#39;ve gotten most of people&amp;#39;s requests (expect some of the GLM models which I WILL add, sorry I just keep forgetting).   &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;UIGEN:&lt;/strong&gt; Our friends developing the &lt;a href=\"https://huggingface.co/Tesslate\"&gt;UIGen&lt;/a&gt; are developing some killer open-source models for frontend dev, and we&amp;#39;ve added a couple of their models to the benchmark, though inference is quite slow. It would be great if anyone knows of any good inference providers or could request provider support on HuggingFace. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;Humanity:&lt;/strong&gt; This feature is still experimental and in beta, but we want to add a &lt;a href=\"https://www.designarena.ai/humanity\"&gt;human baseline&lt;/a&gt; to the benchmark (similar to ARC-AGI) where models are compared to designs and work from people. Users submit an image of a design or code (keep it to HTML/CSS/JS to be consistent with models), and then those designs (after a short review process to ensure there&amp;#39;s not spam) and code are compared (anonymously) to model generations. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;Voice&lt;/strong&gt;. Well UI/UX is our primary focus, our goal is to generally evaluate how models perform on all kinds of qualitative aspects that are hard to measure deterministically (e.g. such as how well models might hold or resemble a human conversation, debate, etc.). As a beta feature, we&amp;#39;ve added a &lt;a href=\"https://www.reddit.com/r/LocalLLaMA/submit/?type=IMAGE\"&gt;voice category&lt;/a&gt; where 2 voice models will have a conversation about a prompt you provide, and then you can choose which model you liked better. There are still some bugs to sort out with this feature, but would appreciate any feedback on this. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;New Models on the Horizon?&lt;/strong&gt; After the Qwen releases last week, there&amp;#39;s some buzz that we might see some model drops over the next week. We&amp;#39;ll be keeping a watchful eye and attempting to get those models (whenever they come out) on Design Arena as fast as possible. &lt;/p&gt;&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Let us know if you have any feedback or questions! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mb3xi3",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mb3xi3",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Accomplished-Copy332",
+            "discussion_type": null,
+            "num_comments": 3,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mb3xi3/uiux_benchmark_update_727_50_models_humanity/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mb3xi3",
+            "subreddit_subscribers": 505879,
+            "created_utc": 1753667880,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5ke7ok",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": false,
+                      "author": "temech5",
+                      "can_mod_post": false,
+                      "created_utc": 1753684694,
+                      "send_replies": true,
+                      "parent_id": "t1_n5jzix4",
+                      "score": 1,
+                      "author_fullname": "t2_quw6zofb",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "It has 2 battles as of now, better wait a little bit for more statistics.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5ke7ok",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It has 2 battles as of now, better wait a little bit for more statistics.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mb3xi3",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mb3xi3/uiux_benchmark_update_727_50_models_humanity/n5ke7ok/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753684694,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5jzix4",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "BagelRedditAccountII",
+            "can_mod_post": false,
+            "created_utc": 1753677042,
+            "send_replies": true,
+            "parent_id": "t3_1mb3xi3",
+            "score": 13,
+            "author_fullname": "t2_ubf5phxb",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "This \"Humanity\" model seems absolutely crazy! Does anyone know where I can find it on Huggingface?\n\n&gt;!/s!&lt;",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5jzix4",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This &amp;quot;Humanity&amp;quot; model seems absolutely crazy! Does anyone know where I can find it on Huggingface?&lt;/p&gt;\n\n&lt;p&gt;&lt;span class=\"md-spoiler-text\"&gt;/s&lt;/span&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mb3xi3/uiux_benchmark_update_727_50_models_humanity/n5jzix4/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753677042,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mb3xi3",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 13
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Repo: [https://github.com/JC1DA/Neutral\\_Summarizer](https://github.com/JC1DA/Neutral_Summarizer)  \nIt was built using Cline + Qwen3-coder\n\nHope it will be useful to some people :)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "Vibe-coded Webpage-summarizer Chrome extension to leverage OSS models",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 97,
+            "top_awarded_type": null,
+            "name": "t3_1mbaxqj",
+            "media_metadata": {
+              "gvflbu67vkff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 75,
+                    "x": 108,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d741dfb7598a08aefa2ab0fefae9b0dd33a7a9dc"
+                  },
+                  {
+                    "y": 151,
+                    "x": 216,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=74244cb1ba445493a54d0b6ec233c61e68edf28b"
+                  },
+                  {
+                    "y": 223,
+                    "x": 320,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bbac34d9620df04727676c9047db922103cd74c2"
+                  },
+                  {
+                    "y": 447,
+                    "x": 640,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2025449e623e8e2bc4f371049864604c1b6bc50"
+                  },
+                  {
+                    "y": 671,
+                    "x": 960,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=6db9be0b98331b2c0e8d45804d67d8b07e724d19"
+                  },
+                  {
+                    "y": 755,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/gvflbu67vkff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9c840f2c542c03f47cc1e4b2d256d3ccb9381794"
+                  }
+                ],
+                "s": {
+                  "y": 2160,
+                  "x": 3089,
+                  "u": "https://preview.redd.it/gvflbu67vkff1.png?width=3089&amp;format=png&amp;auto=webp&amp;s=84e31be97e337c3e22f79bf74204fd75e17dbc3c"
+                },
+                "id": "gvflbu67vkff1"
+              },
+              "xtke1u98vkff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 75,
+                    "x": 108,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=82e70012bee654800d2d1437ce7316fa407d5db2"
+                  },
+                  {
+                    "y": 151,
+                    "x": 216,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=4cf9ac3f29ae60a33171180c4978035b81c0e23b"
+                  },
+                  {
+                    "y": 223,
+                    "x": 320,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=135ea9d9846dc805f89f32a1eaed46b3fd39bf10"
+                  },
+                  {
+                    "y": 447,
+                    "x": 640,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=55fdc005a229864d4396862760b9f44c9e9de4d2"
+                  },
+                  {
+                    "y": 671,
+                    "x": 960,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=89873a2a5ded1c3b78a8b9cd50dcc07a594faa5c"
+                  },
+                  {
+                    "y": 755,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/xtke1u98vkff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e7e5e72c587d3bea05635486207ea35dd35b1db6"
+                  }
+                ],
+                "s": {
+                  "y": 2160,
+                  "x": 3089,
+                  "u": "https://preview.redd.it/xtke1u98vkff1.png?width=3089&amp;format=png&amp;auto=webp&amp;s=cd7e7734a117d3b4e401f21389ce071d6e8468b9"
+                },
+                "id": "xtke1u98vkff1"
+              },
+              "fsy80mn7vkff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 75,
+                    "x": 108,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a38bda6b1947ebc3dfa518068b70a07bfa05dde2"
+                  },
+                  {
+                    "y": 151,
+                    "x": 216,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=484259efeebdeb78aecb98eac9526106abbebd1b"
+                  },
+                  {
+                    "y": 223,
+                    "x": 320,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=295fa90947073e7c1aeda08ee3be8f02825d50ab"
+                  },
+                  {
+                    "y": 447,
+                    "x": 640,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a488b4d9a5275460db6f155a2dfce3a5effdba1e"
+                  },
+                  {
+                    "y": 671,
+                    "x": 960,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=425c27f313d2c4115b699f666fd66f26c0600b52"
+                  },
+                  {
+                    "y": 755,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=57ecd3d27771afc68c42c464f9de84d77e08c366"
+                  }
+                ],
+                "s": {
+                  "y": 2160,
+                  "x": 3089,
+                  "u": "https://preview.redd.it/fsy80mn7vkff1.png?width=3089&amp;format=png&amp;auto=webp&amp;s=dc338d0be9c7d4174a2d9ef0bb067da80b8fe65d"
+                },
+                "id": "fsy80mn7vkff1"
+              }
+            },
+            "hide_score": false,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.53,
+            "author_flair_background_color": null,
+            "ups": 1,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_gp3kfk8",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "gvflbu67vkff1",
+                  "id": 715724432
+                },
+                {
+                  "media_id": "fsy80mn7vkff1",
+                  "id": 715724433
+                },
+                {
+                  "media_id": "xtke1u98vkff1",
+                  "id": 715724434
+                }
+              ]
+            },
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/annDDrAE_Le8qeMwAGDZYj60CDaz9fKZrTa7ovJ2TVw.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753692331,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Repo: &lt;a href=\"https://github.com/JC1DA/Neutral_Summarizer\"&gt;https://github.com/JC1DA/Neutral_Summarizer&lt;/a&gt;&lt;br/&gt;\nIt was built using Cline + Qwen3-coder&lt;/p&gt;\n\n&lt;p&gt;Hope it will be useful to some people :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mbaxqj",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mbaxqj",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "JC1DA",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mbaxqj/vibecoded_webpagesummarizer_chrome_extension_to/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mbaxqj",
+            "subreddit_subscribers": 505879,
+            "created_utc": 1753692331,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

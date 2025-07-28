@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.98,
             "author_flair_background_color": null,
-            "ups": 107,
+            "ups": 106,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 107,
+            "score": 106,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1m9y506/inclusionailinglite152506_168b_total_275b_active/",
             "stickied": false,
             "url": "https://huggingface.co/inclusionAI/Ling-lite-1.5-2506",
-            "subreddit_subscribers": 505615,
+            "subreddit_subscribers": 505881,
             "created_utc": 1753548535,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -374,7 +374,7 @@
             "created_utc": 1753569166,
             "send_replies": true,
             "parent_id": "t3_1m9y506",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_wy3w8",
             "approved_by": null,
             "mod_note": null,
@@ -416,7 +416,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -449,7 +449,7 @@
             "created_utc": 1753571177,
             "send_replies": true,
             "parent_id": "t3_1m9y506",
-            "score": 10,
+            "score": 8,
             "author_fullname": "t2_dissgzyl",
             "approved_by": null,
             "mod_note": null,
@@ -491,7 +491,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 8
           }
         },
         {
@@ -524,7 +524,7 @@
             "created_utc": 1753586462,
             "send_replies": true,
             "parent_id": "t3_1m9y506",
-            "score": 7,
+            "score": 8,
             "author_fullname": "t2_1akx4946qy",
             "approved_by": null,
             "mod_note": null,
@@ -566,7 +566,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -595,7 +595,6 @@
                   {
                     "kind": "t1",
                     "data": {
-                      "body": "`sqrt(16.8*2.75)=6.79`\n\nThis MoE should be equivalent to a 6.79B dense model, so perhaps a comparison with both Qwen3-4B and 8B would be appropriate.\n\nThe README does feature comparisons with Qwen3-8B in non-thinking mode, so I thinks it's a decent comparison.",
                       "subreddit_id": "t5_81eyvm",
                       "approved_at_utc": null,
                       "author_is_blocked": false,
@@ -881,13 +880,13 @@
                       "created_utc": 1753556801,
                       "send_replies": true,
                       "parent_id": "t1_n5anccc",
-                      "score": 13,
+                      "score": 14,
                       "author_fullname": "t2_gbx2bcdvl",
                       "removal_reason": null,
                       "approved_by": null,
                       "mod_note": null,
                       "all_awardings": [],
-                      "author_cakeday": true,
+                      "body": "`sqrt(16.8*2.75)=6.79`\n\nThis MoE should be equivalent to a 6.79B dense model, so perhaps a comparison with both Qwen3-4B and 8B would be appropriate.\n\nThe README does feature comparisons with Qwen3-8B in non-thinking mode, so I thinks it's a decent comparison.",
                       "edited": false,
                       "top_awarded_type": null,
                       "author_flair_css_class": null,
@@ -923,7 +922,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 14
                     }
                   }
                 ],
@@ -944,7 +943,7 @@
             "created_utc": 1753550435,
             "send_replies": true,
             "parent_id": "t3_1m9y506",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_1p50pl73j2",
             "approved_by": null,
             "mod_note": null,
@@ -986,7 +985,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {

@@ -1,0 +1,194 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "[https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF](https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF)\n\n[https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct-GGUF](https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct-GGUF)\n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "support for SmallThinker model series has been merged into llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mbei14",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#bbbdbf",
+            "ups": 9,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_vqgbql9w",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 9,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=33a0f4cdec276414ee0ac47c804adeea4aac683b",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753704745,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "github.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF\"&gt;https://huggingface.co/PowerInfer/SmallThinker-21BA3B-Instruct-GGUF&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct-GGUF\"&gt;https://huggingface.co/PowerInfer/SmallThinker-4BA0.6B-Instruct-GGUF&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://github.com/ggml-org/llama.cpp/pull/14898",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?auto=webp&amp;s=5ab36cd413e189d4dfebf3c031c110b200b9ea05",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=372d94ee95700a7c7cc6df9ff561202be75a9c00",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a085ecbc1b3a50a55ad24b23ffd4475ca02b7112",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e7b650aa8b0ae844281ca46e1b8404c2de59159",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=76a396512223ddde08b85788022a284e7843ac6a",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=88270d3964bc63c3c3be91ea3a8115614a99f4cb",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=03a9385cb31f27b96b8fc67ee11fe41832e04cf1",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "e783aIBiZkFiVdg4SyQa6EJg5vPNIGwQuEikoNu5jPM"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mbei14",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "jacek2023",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1mbei14/support_for_smallthinker_model_series_has_been/",
+            "stickied": false,
+            "url": "https://github.com/ggml-org/llama.cpp/pull/14898",
+            "subreddit_subscribers": 505879,
+            "created_utc": 1753704745,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
