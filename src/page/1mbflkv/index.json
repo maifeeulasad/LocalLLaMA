@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 90,
+            "ups": 102,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 90,
+            "score": 102,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mbflkv/glm45_a_zaiorg_collection/",
             "stickied": false,
             "url": "https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b",
-            "subreddit_subscribers": 506191,
+            "subreddit_subscribers": 506440,
             "created_utc": 1753707823,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -370,7 +370,6 @@
                   {
                     "kind": "t1",
                     "data": {
-                      "body": "It's amazing how (relatively) small Chinese teams keep matching pace with models developed by trillion dollar US corps, while under GPU sanctions too. One can only dread imagining what the pricing and availability of US models would be without them as competition.",
                       "subreddit_id": "t5_81eyvm",
                       "approved_at_utc": null,
                       "author_is_blocked": false,
@@ -514,13 +513,13 @@
                       "created_utc": 1753711963,
                       "send_replies": true,
                       "parent_id": "t1_n5loik0",
-                      "score": 13,
+                      "score": 16,
                       "author_fullname": "t2_8mpo576",
                       "removal_reason": null,
                       "approved_by": null,
                       "mod_note": null,
                       "all_awardings": [],
-                      "author_cakeday": true,
+                      "body": "It's amazing how (relatively) small Chinese teams keep matching pace with models developed by trillion dollar US corps, while under GPU sanctions too. One can only dread imagining what the pricing and availability of US models would be without them as competition.",
                       "edited": false,
                       "top_awarded_type": null,
                       "author_flair_css_class": null,
@@ -556,7 +555,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 16
                     }
                   }
                 ],
@@ -577,7 +576,7 @@
             "created_utc": 1753707845,
             "send_replies": true,
             "parent_id": "t3_1mbflkv",
-            "score": 15,
+            "score": 17,
             "author_fullname": "t2_kwl47",
             "approved_by": null,
             "mod_note": null,
@@ -664,7 +663,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 17
           }
         },
         {
@@ -795,7 +794,7 @@
                       "created_utc": 1753708911,
                       "send_replies": true,
                       "parent_id": "t1_n5lppw9",
-                      "score": 12,
+                      "score": 15,
                       "author_fullname": "t2_qhlcbiy3k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -837,7 +836,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 15
                     }
                   },
                   {
@@ -1319,7 +1318,7 @@
             "created_utc": 1753712273,
             "send_replies": true,
             "parent_id": "t3_1mbflkv",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -1361,7 +1360,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {

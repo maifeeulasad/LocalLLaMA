@@ -1,0 +1,756 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "👋 After my calculator agent RL post, I really wanted to go bigger! So I built RL infrastructure for training long-horizon terminal/coding agents that scales from 2x A100s to 32x H100s (\\~$1M worth of compute!) Without any training, my 32B agent hit #19 on Terminal-Bench leaderboard, beating Stanford's Terminus-Qwen3-235B-A22! With training... well, too expensive, but I bet the results would be good! 😅\n\n  \n**What I did:**\n\n* Created a Claude Code-inspired agent (system msg + tools)\n* Built Docker-isolated GRPO training where each rollout gets its own container\n* Developed a multi-agent synthetic data pipeline to generate &amp; validate training data with Opus-4\n* Implemented a hybrid reward signal of unit test verifiers &amp; a behavioural LLM judge.\n\n  \n**Key results:**\n\n* My untrained Qwen3-32B agent achieved **13.75%** on Terminal-Bench (#19, beats Stanford's Qwen3-235B MoE)\n* I tested training to work stably on 32x H100s distributed across 4 bare metal nodes\n* I created a mini-eval framework for LLM-judge performance. Sonnet-4 won.\n* \\~£30-50k needed for full training run of 1000 epochs (I could only afford testing 😅)\n\n\n\n**Technical details:**\n\n* The synthetic dataset ranges from easy to extremely hard tasks. An example hard task's prompt:\n   * \"I found this mystery program at \\`/app/program\\` and I'm completely stumped. It's a stripped binary, so I have no idea what it does or how to run it properly. The program seems to expect some specific input and then produces an output, but I can't figure out what kind of input it needs. Could you help me figure out what this program requires?\"\n* Simple config presets allow training to run on multiple hardware setups with minimal effort.\n* GRPO used with 16 rollouts per task, up to 32k tokens per rollout.\n* Agent uses XML/YAML format to structure tool calls\n\n  \n**More details:**\n\nMy Github repos open source it all (agent, data, code) and has way more technical details if you are interested!:\n\n* ⭐️ [Terminal Agent RL repo](https://github.com/Danau5tin/terminal-bench-rl)\n* [⭐️ Multi-agent synthetic data pipeline repo](https://github.com/Danau5tin/tbench-agentic-data-pipeline)\n\n  \nI thought I would share this because I believe long-horizon RL is going to change everybody's lives, and so I feel it is important (and super fun!) for us all to share knowledge around this area, and also have enjoy exploring what is possible.\n\n  \nThanks for reading!\n\nDan\n\n\n\n**(**Built using [rLLM](https://github.com/rllm-org/rllm) RL framework which was brilliant to work with, and evaluated and inspired by the great [Terminal Bench](https://www.tbench.ai/) benchmark)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "Built RL training for long-horizon terminal agents - tested on 32x H100s but too GPU poor to train 😅",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 56,
+            "top_awarded_type": null,
+            "name": "t3_1mc8evq",
+            "media_metadata": {
+              "az9m6jfyosff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 56,
+                    "x": 108,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=bf0464c4532f3f729201557b3cdb5d5fd0da9b2b"
+                  },
+                  {
+                    "y": 113,
+                    "x": 216,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9307853ef8723561cef54082c7f8f77319ea5b34"
+                  },
+                  {
+                    "y": 168,
+                    "x": 320,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ae1a5539212b036e7c28c8c61e3e68b98424c45c"
+                  },
+                  {
+                    "y": 336,
+                    "x": 640,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34665d186c28ea84e68baf844e036d594b99444c"
+                  },
+                  {
+                    "y": 504,
+                    "x": 960,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b63f6b7aca9c207a4fde0aef520b6009219fffa8"
+                  },
+                  {
+                    "y": 567,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/az9m6jfyosff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cdac6743c832453412d2fa7f1ee6772f07122775"
+                  }
+                ],
+                "s": {
+                  "y": 2656,
+                  "x": 5056,
+                  "u": "https://preview.redd.it/az9m6jfyosff1.png?width=5056&amp;format=png&amp;auto=webp&amp;s=d99222a2be85de2b89a1a6493a08cde4699fe249"
+                },
+                "id": "az9m6jfyosff1"
+              },
+              "1b89mdgyosff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 62,
+                    "x": 108,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8aa052d7230a7e93bea882456a0172d444f2b56a"
+                  },
+                  {
+                    "y": 125,
+                    "x": 216,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=cc0c3485addd4720027df6316c53a1f7a92d2d1d"
+                  },
+                  {
+                    "y": 186,
+                    "x": 320,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d3bd5cac04c80326df47cb1d08a272ca37fbdc82"
+                  },
+                  {
+                    "y": 373,
+                    "x": 640,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bb2846eb41e704e36041ddc908044490ffd58ce"
+                  },
+                  {
+                    "y": 559,
+                    "x": 960,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=6767893bb8601129a6a8da2adb366e6b2cd73c4e"
+                  },
+                  {
+                    "y": 629,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/1b89mdgyosff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7964070ac0fa53d489a1e248289630ad1ff7a2e0"
+                  }
+                ],
+                "s": {
+                  "y": 1522,
+                  "x": 2610,
+                  "u": "https://preview.redd.it/1b89mdgyosff1.png?width=2610&amp;format=png&amp;auto=webp&amp;s=25d03cf8b2bcc3e4d1633a1fb9f3c570fbda742b"
+                },
+                "id": "1b89mdgyosff1"
+              },
+              "su4gklfyosff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 18,
+                    "x": 108,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d43db954028d7fa2643968427c1d234dc846c5bc"
+                  },
+                  {
+                    "y": 36,
+                    "x": 216,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=6d90b7348035f5a53dc5107a1589bd53b00f6164"
+                  },
+                  {
+                    "y": 53,
+                    "x": 320,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a4903028118e0d07279f10f1ff077e9b7602a3f4"
+                  },
+                  {
+                    "y": 107,
+                    "x": 640,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a51dc0a7298828763adf8f5227e658fd9a7aea78"
+                  },
+                  {
+                    "y": 160,
+                    "x": 960,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=494ddcfcfa66b477b5fe9ef394122c9090897959"
+                  },
+                  {
+                    "y": 181,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/su4gklfyosff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8e37acb88ac4bfb55e64017940222b653620d355"
+                  }
+                ],
+                "s": {
+                  "y": 392,
+                  "x": 2338,
+                  "u": "https://preview.redd.it/su4gklfyosff1.png?width=2338&amp;format=png&amp;auto=webp&amp;s=bd8ffa2f90ce65997dc8fb28bc340c740cb836cf"
+                },
+                "id": "su4gklfyosff1"
+              },
+              "05xy1rkwosff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 43,
+                    "x": 108,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f0dcfc346c8c2da5b7e199e3362c832fda72f2a0"
+                  },
+                  {
+                    "y": 86,
+                    "x": 216,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fd0183b1ad65fa3536530fed15ebb59228114de8"
+                  },
+                  {
+                    "y": 128,
+                    "x": 320,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6378361bd9573c4483dbb212b8b19d0f423d586e"
+                  },
+                  {
+                    "y": 257,
+                    "x": 640,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfa60d1b056f1a6aaa767613c6b399bba1f08e3f"
+                  },
+                  {
+                    "y": 386,
+                    "x": 960,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=89aeebad83be297d8a6cfcd4d0542c93ccd188a8"
+                  },
+                  {
+                    "y": 434,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/05xy1rkwosff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=cc80c66e6cf4008641ba2f21dd30003eef50ce89"
+                  }
+                ],
+                "s": {
+                  "y": 1216,
+                  "x": 3020,
+                  "u": "https://preview.redd.it/05xy1rkwosff1.png?width=3020&amp;format=png&amp;auto=webp&amp;s=e1dc47c0c33e71f8b5e335d68819be4db4d22ee5"
+                },
+                "id": "05xy1rkwosff1"
+              }
+            },
+            "hide_score": true,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.96,
+            "author_flair_background_color": null,
+            "ups": 24,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1d3whvko4o",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "05xy1rkwosff1",
+                  "id": 716537836
+                },
+                {
+                  "media_id": "az9m6jfyosff1",
+                  "id": 716537837
+                },
+                {
+                  "media_id": "su4gklfyosff1",
+                  "id": 716537838
+                },
+                {
+                  "media_id": "1b89mdgyosff1",
+                  "id": 716537839
+                }
+              ]
+            },
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 24,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/GTUl_GxBM3AgORm0fFuwPhwKeJqsGTeIOOsHWvhrYYI.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753786945,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;👋 After my calculator agent RL post, I really wanted to go bigger! So I built RL infrastructure for training long-horizon terminal/coding agents that scales from 2x A100s to 32x H100s (~$1M worth of compute!) Without any training, my 32B agent hit #19 on Terminal-Bench leaderboard, beating Stanford&amp;#39;s Terminus-Qwen3-235B-A22! With training... well, too expensive, but I bet the results would be good! 😅&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What I did:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Created a Claude Code-inspired agent (system msg + tools)&lt;/li&gt;\n&lt;li&gt;Built Docker-isolated GRPO training where each rollout gets its own container&lt;/li&gt;\n&lt;li&gt;Developed a multi-agent synthetic data pipeline to generate &amp;amp; validate training data with Opus-4&lt;/li&gt;\n&lt;li&gt;Implemented a hybrid reward signal of unit test verifiers &amp;amp; a behavioural LLM judge.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Key results:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;My untrained Qwen3-32B agent achieved &lt;strong&gt;13.75%&lt;/strong&gt; on Terminal-Bench (#19, beats Stanford&amp;#39;s Qwen3-235B MoE)&lt;/li&gt;\n&lt;li&gt;I tested training to work stably on 32x H100s distributed across 4 bare metal nodes&lt;/li&gt;\n&lt;li&gt;I created a mini-eval framework for LLM-judge performance. Sonnet-4 won.&lt;/li&gt;\n&lt;li&gt;~£30-50k needed for full training run of 1000 epochs (I could only afford testing 😅)&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Technical details:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;The synthetic dataset ranges from easy to extremely hard tasks. An example hard task&amp;#39;s prompt:\n\n&lt;ul&gt;\n&lt;li&gt;&amp;quot;I found this mystery program at `/app/program` and I&amp;#39;m completely stumped. It&amp;#39;s a stripped binary, so I have no idea what it does or how to run it properly. The program seems to expect some specific input and then produces an output, but I can&amp;#39;t figure out what kind of input it needs. Could you help me figure out what this program requires?&amp;quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;li&gt;Simple config presets allow training to run on multiple hardware setups with minimal effort.&lt;/li&gt;\n&lt;li&gt;GRPO used with 16 rollouts per task, up to 32k tokens per rollout.&lt;/li&gt;\n&lt;li&gt;Agent uses XML/YAML format to structure tool calls&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;More details:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;My Github repos open source it all (agent, data, code) and has way more technical details if you are interested!:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;⭐️ &lt;a href=\"https://github.com/Danau5tin/terminal-bench-rl\"&gt;Terminal Agent RL repo&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/Danau5tin/tbench-agentic-data-pipeline\"&gt;⭐️ Multi-agent synthetic data pipeline repo&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;I thought I would share this because I believe long-horizon RL is going to change everybody&amp;#39;s lives, and so I feel it is important (and super fun!) for us all to share knowledge around this area, and also have enjoy exploring what is possible.&lt;/p&gt;\n\n&lt;p&gt;Thanks for reading!&lt;/p&gt;\n\n&lt;p&gt;Dan&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;(&lt;/strong&gt;Built using &lt;a href=\"https://github.com/rllm-org/rllm\"&gt;rLLM&lt;/a&gt; RL framework which was brilliant to work with, and evaluated and inspired by the great &lt;a href=\"https://www.tbench.ai/\"&gt;Terminal Bench&lt;/a&gt; benchmark)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mc8evq",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1mc8evq",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "DanAiTuning",
+            "discussion_type": null,
+            "num_comments": 6,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mc8evq",
+            "subreddit_subscribers": 506439,
+            "created_utc": 1753786945,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5s23do",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "DanAiTuning",
+                      "can_mod_post": false,
+                      "created_utc": 1753790849,
+                      "send_replies": true,
+                      "parent_id": "t1_n5ryxj3",
+                      "score": 1,
+                      "author_fullname": "t2_1d3whvko4o",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Will do! Hope the work into web browsing is going well for you!",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5s23do",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Will do! Hope the work into web browsing is going well for you!&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mc8evq",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/n5s23do/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753790849,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5ryxj3",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "secopsml",
+            "can_mod_post": false,
+            "created_utc": 1753789591,
+            "send_replies": true,
+            "parent_id": "t3_1mc8evq",
+            "score": 2,
+            "author_fullname": "t2_pmniwf57y",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Keep publishing your progress!",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5ryxj3",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Keep publishing your progress!&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/n5ryxj3/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753789591,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mc8evq",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": "ef488598-491f-11ef-a847-9a3dd315819c",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "richtext",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n5s3l72",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "No_Afternoon_4260",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n5s29vw",
+                                "score": 1,
+                                "author_fullname": "t2_cj9kap4bx",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "How come 8 b200 gives you less vram than 32 h100",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n5s3l72",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [
+                                  {
+                                    "e": "text",
+                                    "t": "llama.cpp"
+                                  }
+                                ],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How come 8 b200 gives you less vram than 32 h100&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1mc8evq",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": "light",
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/n5s3l72/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753791421,
+                                "author_flair_text": "llama.cpp",
+                                "treatment_tags": [],
+                                "created_utc": 1753791421,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": "#bbbdbf",
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5s29vw",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "DanAiTuning",
+                      "can_mod_post": false,
+                      "created_utc": 1753790919,
+                      "send_replies": true,
+                      "parent_id": "t1_n5s1r2c",
+                      "score": 1,
+                      "author_fullname": "t2_1d3whvko4o",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "I would suggest yes it can. It would just need a new \\`launch\\_training.py\\` config dict and then it is good to try!",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5s29vw",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I would suggest yes it can. It would just need a new `launch_training.py` config dict and then it is good to try!&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mc8evq",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/n5s29vw/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753790919,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5s1r2c",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Shivacious",
+            "can_mod_post": false,
+            "created_utc": 1753790715,
+            "send_replies": true,
+            "parent_id": "t3_1mc8evq",
+            "score": 2,
+            "author_fullname": "t2_chxnc83m9",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "interesting but could it ben done on equivalent 8 x b200 ?",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5s1r2c",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Llama 405B"
+              }
+            ],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;interesting but could it ben done on equivalent 8 x b200 ?&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": "light",
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mc8evq/built_rl_training_for_longhorizon_terminal_agents/n5s1r2c/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753790715,
+            "author_flair_text": "Llama 405B",
+            "treatment_tags": [],
+            "link_id": "t3_1mc8evq",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": "#bbbdbf",
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

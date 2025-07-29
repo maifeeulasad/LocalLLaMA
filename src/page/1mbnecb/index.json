@@ -36,7 +36,7 @@
             "name": "t3_1mbnecb",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.33,
+            "upvote_ratio": 0.3,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "AfkBee",
             "discussion_type": null,
-            "num_comments": 22,
+            "num_comments": 23,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mbnecb/what_gpu_is_the_minimal_to_run_local_llms_well/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mbnecb/what_gpu_is_the_minimal_to_run_local_llms_well/",
-            "subreddit_subscribers": 506191,
+            "subreddit_subscribers": 506440,
             "created_utc": 1753725588,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -532,7 +532,7 @@
                       "created_utc": 1753726229,
                       "send_replies": true,
                       "parent_id": "t1_n5nfgv4",
-                      "score": -6,
+                      "score": -7,
                       "author_fullname": "t2_lbkieojy",
                       "removal_reason": null,
                       "approved_by": null,
@@ -574,7 +574,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -6
+                      "ups": -7
                     }
                   }
                 ],
@@ -595,7 +595,7 @@
             "created_utc": 1753726101,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 10,
+            "score": 11,
             "author_fullname": "t2_1651c3kskq",
             "approved_by": null,
             "mod_note": null,
@@ -637,7 +637,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 11
           }
         },
         {
@@ -762,7 +762,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5o3kpx",
-                                                    "score": 2,
+                                                    "score": 3,
                                                     "author_fullname": "t2_8rrihts9",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -804,7 +804,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -818,19 +818,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "AfkBee",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5nlgfk",
-                                          "score": -2,
+                                          "score": -6,
                                           "author_fullname": "t2_lbkieojy",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "you look like the most ragebaitable person ever smh 😂",
                                           "edited": false,
                                           "top_awarded_type": null,
@@ -842,7 +842,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;you look like the most ragebaitable person ever smh 😂&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -867,7 +867,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -2
+                                          "ups": -6
                                         }
                                       }
                                     ],
@@ -1024,14 +1024,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": null,
+                      "collapsed_reason_code": "LOW_SCORE",
                       "no_follow": true,
                       "author": "AfkBee",
                       "can_mod_post": false,
                       "created_utc": 1753726198,
                       "send_replies": true,
                       "parent_id": "t1_n5ne8g8",
-                      "score": -4,
+                      "score": -6,
                       "author_fullname": "t2_lbkieojy",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1048,7 +1048,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;its a small question bro..&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": null,
+                      "collapsed_reason": "comment score below threshold",
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -1065,7 +1065,7 @@
                       "created": 1753726198,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": false,
+                      "collapsed": true,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -1073,7 +1073,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -4
+                      "ups": -6
                     }
                   }
                 ],
@@ -1094,7 +1094,7 @@
             "created_utc": 1753725756,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 13,
+            "score": 14,
             "author_fullname": "t2_11qjf3",
             "approved_by": null,
             "mod_note": null,
@@ -1141,7 +1141,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 14
           }
         },
         {
@@ -1174,7 +1174,7 @@
             "created_utc": 1753727738,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 4,
+            "score": 6,
             "author_fullname": "t2_1o80gvje",
             "approved_by": null,
             "mod_note": null,
@@ -1216,7 +1216,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "created_utc": 1753729010,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 4,
+            "score": 6,
             "author_fullname": "t2_1d96a8k10t",
             "approved_by": null,
             "mod_note": null,
@@ -1291,7 +1291,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -1369,7 +1369,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5nfz2y",
-                                "score": 10,
+                                "score": 11,
                                 "author_fullname": "t2_1fv89v6an9",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1412,7 +1412,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 10
+                                "ups": 11
                               }
                             }
                           ],
@@ -1433,7 +1433,7 @@
                       "created_utc": 1753726243,
                       "send_replies": true,
                       "parent_id": "t1_n5nerf3",
-                      "score": -7,
+                      "score": -6,
                       "author_fullname": "t2_lbkieojy",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1475,7 +1475,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -7
+                      "ups": -6
                     }
                   }
                 ],
@@ -1496,7 +1496,7 @@
             "created_utc": 1753725904,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 7,
+            "score": 8,
             "author_fullname": "t2_1fv89v6an9",
             "approved_by": null,
             "mod_note": null,
@@ -1538,7 +1538,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -1571,7 +1571,7 @@
             "created_utc": 1753729443,
             "send_replies": true,
             "parent_id": "t3_1mbnecb",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_1sk13r3kec",
             "approved_by": null,
             "mod_note": null,
@@ -1613,7 +1613,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -1903,6 +1903,81 @@
             "locked": false,
             "report_reasons": null,
             "created": 1753750111,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mbnecb",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5r30mp",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "CantaloupeDismal1195",
+            "can_mod_post": false,
+            "created_utc": 1753772477,
+            "send_replies": true,
+            "parent_id": "t3_1mbnecb",
+            "score": 1,
+            "author_fullname": "t2_1ld1b995hk",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "A100",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5r30mp",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A100&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mbnecb/what_gpu_is_the_minimal_to_run_local_llms_well/n5r30mp/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753772477,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1mbnecb",

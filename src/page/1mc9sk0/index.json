@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Ming-lite-omni v1.5 demonstrates highly competitive results compared to industry-leading models of similar scale.\n\n🤖Github: [https://github.com/inclusionAI/Ming](https://github.com/inclusionAI/Ming)\n\n🫂Hugging Face: [https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5](https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5)\n\n🍭ModelScope: [https://www.modelscope.cn/models/inclusionAI/Ming-Lite-Omni-1.5](https://www.modelscope.cn/models/inclusionAI/Ming-Lite-Omni-1.5)\n\n\n\nMing-lite-omni v1.5 features three key improvements compared to Ming-lite-omni: \n\n🧠 Enhanced Multimodal Comprehension: Ming-lite-omni v1.5 now understands all data types—images, text, video, and speech—significantly better, thanks to extensive data upgrades.\n\n🎨 Precise Visual Editing Control: Achieve superior image generation and editing with Ming-lite-omni v1.5, featuring advanced controls for consistent IDs and scenes, and enhanced support for visual tasks like detection and segmentation.\n\n✨ Optimized User Experience: Expect a smoother, more accurate, and aesthetically pleasing interaction with Ming-lite-omni v1.5.\n\n \n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "🌟 Ming-lite-omni v1.5 is here! Our recent upgrade for omni-modal AI! 🚀",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mc9sk0",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 6,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_151ygwhz4x",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 6,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": 1753791557,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753791278,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Ming-lite-omni v1.5 demonstrates highly competitive results compared to industry-leading models of similar scale.&lt;/p&gt;\n\n&lt;p&gt;🤖Github: &lt;a href=\"https://github.com/inclusionAI/Ming\"&gt;https://github.com/inclusionAI/Ming&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;🫂Hugging Face: &lt;a href=\"https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5\"&gt;https://huggingface.co/inclusionAI/Ming-Lite-Omni-1.5&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;🍭ModelScope: &lt;a href=\"https://www.modelscope.cn/models/inclusionAI/Ming-Lite-Omni-1.5\"&gt;https://www.modelscope.cn/models/inclusionAI/Ming-Lite-Omni-1.5&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Ming-lite-omni v1.5 features three key improvements compared to Ming-lite-omni: &lt;/p&gt;\n\n&lt;p&gt;🧠 Enhanced Multimodal Comprehension: Ming-lite-omni v1.5 now understands all data types—images, text, video, and speech—significantly better, thanks to extensive data upgrades.&lt;/p&gt;\n\n&lt;p&gt;🎨 Precise Visual Editing Control: Achieve superior image generation and editing with Ming-lite-omni v1.5, featuring advanced controls for consistent IDs and scenes, and enhanced support for visual tasks like detection and segmentation.&lt;/p&gt;\n\n&lt;p&gt;✨ Optimized User Experience: Expect a smoother, more accurate, and aesthetically pleasing interaction with Ming-lite-omni v1.5.&lt;/p&gt;\n\n&lt;p&gt; &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?auto=webp&amp;s=c6f1fb40398fc89dc628ab2dafbd108908044fc3",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=31297b282b6331a189dda7dd12bb8d1bd4c26cdd",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=1ebb22845e50d756630f8985008b64400e0c4731",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c828c059a6dff1662a2f780d6569480e9759bff8",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e02ca89e5fdc6223b728c180fcb763f89d3218b5",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=85bdb586eb7ca7f28a4c2c99bdf0c34035135135",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=43ad38d7a1fcef4a89fdcc53406a34bcfdee3064",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "hvSd7ucphM9xJ6wIsV91sPJfivSgujp52HHMZgdZQ8U"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mc9sk0",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Dependent-Roll-8934",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mc9sk0/mingliteomni_v15_is_here_our_recent_upgrade_for/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mc9sk0/mingliteomni_v15_is_here_our_recent_upgrade_for/",
+            "subreddit_subscribers": 506439,
+            "created_utc": 1753791278,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

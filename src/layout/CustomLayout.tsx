@@ -9692,6 +9692,126 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mby6nd',
         name: 'Has anyone used PEZ or similar learned hard prompt methods for local LLMs?',
       },
+      {
+        path: '/1mbzdx8',
+        name: 'Best Coding LLM for',
+      },
+      {
+        path: '/1mc0m3e',
+        name: 'SmallThinker Technical Report Release!',
+      },
+      {
+        path: '/1mc0vyb',
+        name: 'First time setting up a local LLM, looking for model suggestions to create Anki formatted flashcards',
+      },
+      {
+        path: '/1mc22jg',
+        name: 'Best Image/Stable Diffusion model that can work with MLX?',
+      },
+      {
+        path: '/1mc239f',
+        name: 'Vision agent for AFK gains?',
+      },
+      {
+        path: '/1mc253f',
+        name: '~2–3 x Mac Studios M3 Ultra (512GB) Cluster for Large Model Inference?',
+      },
+      {
+        path: '/1mc2ibo',
+        name: 'Any interesting local LLM options for a home server that\'s about to have 2x mi210 GPUs?',
+      },
+      {
+        path: '/1mc4y83',
+        name: 'How do you keep yourself updated?',
+      },
+      {
+        path: '/1mc5e54',
+        name: 'Single-File Qwen3 Inference in Pure CUDA C',
+      },
+      {
+        path: '/1mc5gv1',
+        name: 'Finetuning Script for Voxtral',
+      },
+      {
+        path: '/1mc5jsx',
+        name: 'Best open source voice cloning today, with hours of reference?',
+      },
+      {
+        path: '/1mc5oh2',
+        name: 'This year’s best open-source models and most cost-effective models',
+      },
+      {
+        path: '/1mc5s4r',
+        name: 'Can you suggest a better WebUI program for textgen that has better memory management than Oobabooga?',
+      },
+      {
+        path: '/1mc644b',
+        name: 'Told Qwen3 1.7b (thinking) to make a black hole simulation',
+      },
+      {
+        path: '/1mc687c',
+        name: 'New Benchmark - FamilyBench - Test models ability to understand complex tree type relationship and reason on massive context. Immune to contamination. GML 4.5 64.02%, Gemini 2.5 pro 81,48%.',
+      },
+      {
+        path: '/1mc6dfx',
+        name: 'Something lightweight: a LLM simulation of Bernie Sanders',
+      },
+      {
+        path: '/1mc6fbp',
+        name: 'GLM 4.5 support is landing in llama.cpp',
+      },
+      {
+        path: '/1mc6kad',
+        name: 'Help! Open Interpreter not printing the response in console',
+      },
+      {
+        path: '/1mc7ft1',
+        name: 'Converting a conformer model',
+      },
+      {
+        path: '/1mc7q0n',
+        name: 'Glm 4.5 air and 5090',
+      },
+      {
+        path: '/1mc7ri9',
+        name: 'Success with open source models?',
+      },
+      {
+        path: '/1mc7xjb',
+        name: 'CWC now supports kimi.com (K2) and chat.z.ai (GLM-4.5) to enable coding with top tier models at no cost',
+      },
+      {
+        path: '/1mc83jm',
+        name: 'Mac Studio 512GB vs MBP 128GB similar performance?',
+      },
+      {
+        path: '/1mc8evq',
+        name: 'Built RL training for long-horizon terminal agents - tested on 32x H100s but too GPU poor to train 😅',
+      },
+      {
+        path: '/1mc8fhc',
+        name: 'Let\'s Build a "Garage AI Supercomputer": A P2P Compute Grid for Inference',
+      },
+      {
+        path: '/1mc8hn6',
+        name: 'Does anyone have experience use qwen3 8b with PPO to fine tune a model?',
+      },
+      {
+        path: '/1mc8i36',
+        name: 'Building a custom LLM trained on luciform prompts + ShadeOS daemon dialogues – seeking help',
+      },
+      {
+        path: '/1mc8tks',
+        name: 'I just tried GLM 4.5',
+      },
+      {
+        path: '/1mc9o4m',
+        name: 'Stuck on a problem? We\'re excited to share a glimpse of what\'s possible! 👋',
+      },
+      {
+        path: '/1mc9sk0',
+        name: '🌟 Ming-lite-omni v1.5 is here! Our recent upgrade for omni-modal AI! 🚀',
+      },
     ],
   },
   {
