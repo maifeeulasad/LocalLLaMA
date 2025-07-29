@@ -552,7 +552,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.97,
             "author_flair_background_color": null,
-            "ups": 421,
+            "ups": 434,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -618,7 +618,7 @@
             },
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 421,
+            "score": 434,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -674,7 +674,7 @@
             "report_reasons": null,
             "author": "smirkishere",
             "discussion_type": null,
-            "num_comments": 68,
+            "num_comments": 72,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -683,7 +683,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mb15g2",
-            "subreddit_subscribers": 506191,
+            "subreddit_subscribers": 506440,
             "created_utc": 1753659757,
             "num_crossposts": 2,
             "mod_reports": [],
@@ -755,7 +755,7 @@
                       "created_utc": 1753662166,
                       "send_replies": true,
                       "parent_id": "t1_n5ixyah",
-                      "score": 20,
+                      "score": 22,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -797,7 +797,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 20
+                      "ups": 22
                     }
                   },
                   {
@@ -968,7 +968,7 @@
             "created_utc": 1753662056,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": 45,
+            "score": 46,
             "author_fullname": "t2_kdmu4",
             "approved_by": null,
             "mod_note": null,
@@ -1010,7 +1010,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 45
+            "ups": 46
           }
         },
         {
@@ -1066,7 +1066,7 @@
                       "created_utc": 1753675590,
                       "send_replies": true,
                       "parent_id": "t1_n5j8ct6",
-                      "score": 13,
+                      "score": 15,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1108,7 +1108,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 15
                     }
                   },
                   {
@@ -1204,7 +1204,7 @@
             "created_utc": 1753665965,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": 20,
+            "score": 23,
             "author_fullname": "t2_5vi1y294",
             "approved_by": null,
             "mod_note": null,
@@ -1246,7 +1246,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 20
+            "ups": 23
           }
         },
         {
@@ -1382,13 +1382,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "smirkishere",
                       "can_mod_post": false,
                       "created_utc": 1753677770,
                       "send_replies": true,
                       "parent_id": "t1_n5k06fl",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1430,7 +1430,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   }
                 ],
@@ -1451,7 +1451,7 @@
             "created_utc": 1753677351,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": 9,
+            "score": 11,
             "author_fullname": "t2_9u3afpb8q",
             "approved_by": null,
             "mod_note": null,
@@ -1493,7 +1493,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 11
           }
         },
         {
@@ -1991,7 +1991,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5isthy",
-                                          "score": 1,
+                                          "score": 2,
                                           "author_fullname": "t2_cj9kap4bx",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2039,7 +2039,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 2
                                         }
                                       }
                                     ],
@@ -2059,7 +2059,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5isfo7",
-                                "score": 7,
+                                "score": 9,
                                 "author_fullname": "t2_15kd4d",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2102,7 +2102,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 9
                               }
                             }
                           ],
@@ -2123,7 +2123,7 @@
                       "created_utc": 1753660043,
                       "send_replies": true,
                       "parent_id": "t1_n5is0km",
-                      "score": 4,
+                      "score": 6,
                       "author_fullname": "t2_uptissiz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2165,7 +2165,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 6
                     }
                   },
                   {
@@ -2478,6 +2478,81 @@
                       "num_reports": null,
                       "ups": 1
                     }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5q8s8s",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "1993s-Batman",
+                      "can_mod_post": false,
+                      "created_utc": 1753758140,
+                      "send_replies": true,
+                      "parent_id": "t1_n5is0km",
+                      "score": 1,
+                      "author_fullname": "t2_kt93gu1m",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Dm'ed",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5q8s8s",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Dm&amp;#39;ed&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mb15g2",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5q8s8s/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753758140,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
                   }
                 ],
                 "before": null
@@ -2658,7 +2733,7 @@
             "created_utc": 1753672846,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_bki8njpu",
             "approved_by": null,
             "mod_note": null,
@@ -2700,7 +2775,213 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5q8t3d",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "kkiran",
+                      "can_mod_post": false,
+                      "created_utc": 1753758149,
+                      "send_replies": true,
+                      "parent_id": "t1_n5oe8rw",
+                      "score": 2,
+                      "author_fullname": "t2_369m6",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Same here, MBP M1 Max 64GB RAM. It kept generating multiple versions of the same website. I got Flask websites as well!",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5q8t3d",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Same here, MBP M1 Max 64GB RAM. It kept generating multiple versions of the same website. I got Flask websites as well!&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mb15g2",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5q8t3d/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753758149,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 2
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5oe8rw",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "TheyCallMeDozer",
+            "can_mod_post": false,
+            "created_utc": 1753736009,
+            "send_replies": true,
+            "parent_id": "t3_1mb15g2",
+            "score": 4,
+            "author_fullname": "t2_1gbhcvn4d3",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I don't say this lightly...... HOLY FUCK.... So I ran this on 5090 with 192gb of ram on was getting 63 tok/sec\n\nI used simple prompt\n\n\"I need a web site designed for my automated scraping app, it should be dark and sleek.  It should be sexy yet professional, make it as a single HTML page please\" \n\nJust as a tester for it.... image is the first run of it using LMstudio \n\nHad only one negative, I let it run it was at 11k lines of code before I stopped it and noticed, it had generated 6 completely different versions of the exsact same website. So where it should have stopped with the first iteration of th website it just kept generating code of different variations of the same webpage, not on different HTML sheets, on one single one.\n\n  \nI will 10000000% be seeing how the 32b model does with python scripts next. I also tried the 8b model... it was terrible, but the 32 is black magic for web dev lol \n\n\n\nhttps://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;format=png&amp;auto=webp&amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5oe8rw",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t say this lightly...... HOLY FUCK.... So I ran this on 5090 with 192gb of ram on was getting 63 tok/sec&lt;/p&gt;\n\n&lt;p&gt;I used simple prompt&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;I need a web site designed for my automated scraping app, it should be dark and sleek.  It should be sexy yet professional, make it as a single HTML page please&amp;quot; &lt;/p&gt;\n\n&lt;p&gt;Just as a tester for it.... image is the first run of it using LMstudio &lt;/p&gt;\n\n&lt;p&gt;Had only one negative, I let it run it was at 11k lines of code before I stopped it and noticed, it had generated 6 completely different versions of the exsact same website. So where it should have stopped with the first iteration of th website it just kept generating code of different variations of the same webpage, not on different HTML sheets, on one single one.&lt;/p&gt;\n\n&lt;p&gt;I will 10000000% be seeing how the 32b model does with python scripts next. I also tried the 8b model... it was terrible, but the 32 is black magic for web dev lol &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f\"&gt;https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5oe8rw/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753736009,
+            "media_metadata": {
+              "4u8wiux3hoff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=88f88f9a36b69de5c62b21c4e778da79b76b1d4b"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=81ba829508aedf7998d59392aae9bcf519a18a2c"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=271e026cc0caeb466547191d01e661ef2d907a9c"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=260e69fe0c8680eba2691a525620b25206bc9918"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bc67ed3df89a770b35b1ff32c68f0a183ef84a2b"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=64b5fb2cc8e6629f93f8831576e3f660b495cbae"
+                  }
+                ],
+                "s": {
+                  "y": 4076,
+                  "x": 1680,
+                  "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;format=png&amp;auto=webp&amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f"
+                },
+                "id": "4u8wiux3hoff1"
+              }
+            },
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mb15g2",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
           }
         },
         {
@@ -2756,7 +3037,7 @@
                       "created_utc": 1753676888,
                       "send_replies": true,
                       "parent_id": "t1_n5jz2pb",
-                      "score": 10,
+                      "score": 9,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2798,7 +3079,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 9
                     }
                   }
                 ],
@@ -3003,7 +3284,7 @@
                       "created_utc": 1753667988,
                       "send_replies": true,
                       "parent_id": "t1_n5isuzl",
-                      "score": 22,
+                      "score": 23,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3090,7 +3371,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 22
+                      "ups": 23
                     }
                   },
                   {
@@ -3123,7 +3404,7 @@
                       "created_utc": 1753660258,
                       "send_replies": true,
                       "parent_id": "t1_n5isuzl",
-                      "score": 10,
+                      "score": 11,
                       "author_fullname": "t2_15kd4d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3165,7 +3446,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 11
                     }
                   },
                   {
@@ -3650,7 +3931,7 @@
             "created_utc": 1753660194,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_3aooiye4",
             "approved_by": null,
             "mod_note": null,
@@ -3692,7 +3973,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -3757,126 +4038,6 @@
             "locked": false,
             "report_reasons": null,
             "created": 1753677751,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1mb15g2",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "n5oe8rw",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": true,
-            "author": "TheyCallMeDozer",
-            "can_mod_post": false,
-            "created_utc": 1753736009,
-            "send_replies": true,
-            "parent_id": "t3_1mb15g2",
-            "score": 2,
-            "author_fullname": "t2_1gbhcvn4d3",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "I don't say this lightly...... HOLY FUCK.... So I ran this on 5090 with 192gb of ram on was getting 63 tok/sec\n\nI used simple prompt\n\n\"I need a web site designed for my automated scraping app, it should be dark and sleek.  It should be sexy yet professional, make it as a single HTML page please\" \n\nJust as a tester for it.... image is the first run of it using LMstudio \n\nHad only one negative, I let it run it was at 11k lines of code before I stopped it and noticed, it had generated 6 completely different versions of the exsact same website. So where it should have stopped with the first iteration of th website it just kept generating code of different variations of the same webpage, not on different HTML sheets, on one single one.\n\n  \nI will 10000000% be seeing how the 32b model does with python scripts next. I also tried the 8b model... it was terrible, but the 32 is black magic for web dev lol \n\n\n\nhttps://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;format=png&amp;auto=webp&amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n5oe8rw",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t say this lightly...... HOLY FUCK.... So I ran this on 5090 with 192gb of ram on was getting 63 tok/sec&lt;/p&gt;\n\n&lt;p&gt;I used simple prompt&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;I need a web site designed for my automated scraping app, it should be dark and sleek.  It should be sexy yet professional, make it as a single HTML page please&amp;quot; &lt;/p&gt;\n\n&lt;p&gt;Just as a tester for it.... image is the first run of it using LMstudio &lt;/p&gt;\n\n&lt;p&gt;Had only one negative, I let it run it was at 11k lines of code before I stopped it and noticed, it had generated 6 completely different versions of the exsact same website. So where it should have stopped with the first iteration of th website it just kept generating code of different variations of the same webpage, not on different HTML sheets, on one single one.&lt;/p&gt;\n\n&lt;p&gt;I will 10000000% be seeing how the 32b model does with python scripts next. I also tried the 8b model... it was terrible, but the 32 is black magic for web dev lol &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f\"&gt;https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5oe8rw/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1753736009,
-            "media_metadata": {
-              "4u8wiux3hoff1": {
-                "status": "valid",
-                "e": "Image",
-                "m": "image/png",
-                "p": [
-                  {
-                    "y": 216,
-                    "x": 108,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=88f88f9a36b69de5c62b21c4e778da79b76b1d4b"
-                  },
-                  {
-                    "y": 432,
-                    "x": 216,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=81ba829508aedf7998d59392aae9bcf519a18a2c"
-                  },
-                  {
-                    "y": 640,
-                    "x": 320,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=271e026cc0caeb466547191d01e661ef2d907a9c"
-                  },
-                  {
-                    "y": 1280,
-                    "x": 640,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=260e69fe0c8680eba2691a525620b25206bc9918"
-                  },
-                  {
-                    "y": 1920,
-                    "x": 960,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bc67ed3df89a770b35b1ff32c68f0a183ef84a2b"
-                  },
-                  {
-                    "y": 2160,
-                    "x": 1080,
-                    "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=64b5fb2cc8e6629f93f8831576e3f660b495cbae"
-                  }
-                ],
-                "s": {
-                  "y": 4076,
-                  "x": 1680,
-                  "u": "https://preview.redd.it/4u8wiux3hoff1.png?width=1680&amp;format=png&amp;auto=webp&amp;s=69a3ab59ee59d380ce222d19c7cafc7f2e4dcc5f"
-                },
-                "id": "4u8wiux3hoff1"
-              }
-            },
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1mb15g2",
@@ -4093,7 +4254,7 @@
                       "created_utc": 1753683489,
                       "send_replies": true,
                       "parent_id": "t1_n5k8188",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_r6grz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4135,7 +4296,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -5363,6 +5524,156 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5qsq6g",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "cc88291008",
+            "can_mod_post": false,
+            "created_utc": 1753766915,
+            "send_replies": true,
+            "parent_id": "t3_1mb15g2",
+            "score": 1,
+            "author_fullname": "t2_8vfw5",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Hello, thank you for sharing this. This looks really cool and I'm trying out UIGEN-X-32B-0727-IQ4_NL.gguf  \n\nHowever I consistently running into prompts being cut off and not able to keep generating anymore. I've tried to increase the max tokens and max context, but they don't seem to help. \n\nI'm running a 3090 + 32G RAM, and I'm wondering if its just me or anyone running into similar problems.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5qsq6g",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hello, thank you for sharing this. This looks really cool and I&amp;#39;m trying out UIGEN-X-32B-0727-IQ4_NL.gguf  &lt;/p&gt;\n\n&lt;p&gt;However I consistently running into prompts being cut off and not able to keep generating anymore. I&amp;#39;ve tried to increase the max tokens and max context, but they don&amp;#39;t seem to help. &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m running a 3090 + 32G RAM, and I&amp;#39;m wondering if its just me or anyone running into similar problems.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5qsq6g/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753766915,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mb15g2",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5qu1o7",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Rollingrollingrock",
+            "can_mod_post": false,
+            "created_utc": 1753767599,
+            "send_replies": true,
+            "parent_id": "t3_1mb15g2",
+            "score": 1,
+            "author_fullname": "t2_8iw0p1n41",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "How to run this model on ollama, can anyone tell me and is it not the same model?: [https://ollama.com/mychen76/uigen-t3-32b](https://ollama.com/mychen76/uigen-t3-32b)",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5qu1o7",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How to run this model on ollama, can anyone tell me and is it not the same model?: &lt;a href=\"https://ollama.com/mychen76/uigen-t3-32b\"&gt;https://ollama.com/mychen76/uigen-t3-32b&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mb15g2/uigenx0727_runs_locally_and_crushes_it_reasoning/n5qu1o7/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753767599,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mb15g2",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
             "replies": {
               "kind": "Listing",
               "data": {
@@ -5734,7 +6045,7 @@
                       "created_utc": 1753675235,
                       "send_replies": true,
                       "parent_id": "t1_n5jnpmv",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_br03d",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5776,7 +6087,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -5992,7 +6303,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5k0r42",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_eyy0er50h",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -6035,7 +6346,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -6050,13 +6361,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "Paradigmind",
                       "can_mod_post": false,
                       "created_utc": 1753677630,
                       "send_replies": true,
                       "parent_id": "t1_n5iu36v",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_6ste18zta",
                       "removal_reason": null,
                       "approved_by": null,
@@ -6098,7 +6409,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   },
                   {
@@ -6194,7 +6505,7 @@
             "created_utc": 1753660634,
             "send_replies": true,
             "parent_id": "t3_1mb15g2",
-            "score": -11,
+            "score": -10,
             "author_fullname": "t2_jn5ft2le",
             "approved_by": null,
             "mod_note": null,
@@ -6236,7 +6547,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -11
+            "ups": -10
           }
         }
       ],
