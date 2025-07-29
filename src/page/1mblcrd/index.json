@@ -1,0 +1,461 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I was trying to play around with a local to do list maker and gemma3 showed some very strange behavior  \nit mentioned me giving it command that I never gave it, like sending an email to john\n\nWhy do you think it did this????\n\n  \nfor details,  \nI primed it with this  \n\"I will give you tasks and I want you to collect what I give you and organize all the tasks into a markdown format to-do-list\"\n\nfollowing are the screenshots of my code and conversation\n\nhttps://preview.redd.it/aif5o5x09nff1.png?width=1027&amp;format=png&amp;auto=webp&amp;s=f54aa4016fcbd589a4a8d2b327101d1d8d7c7f12\n\nhttps://preview.redd.it/1onvhlu49nff1.png?width=1678&amp;format=png&amp;auto=webp&amp;s=2b7c8997a97af8f630f8862a5088e68e2c55811d\n\nhttps://preview.redd.it/corga8x79nff1.png?width=1267&amp;format=png&amp;auto=webp&amp;s=286f5d4228b4a2ac62efc8eb9ee305912173d265\n\nhttps://preview.redd.it/9bplz5o99nff1.png?width=1267&amp;format=png&amp;auto=webp&amp;s=e82ef1ec09f8cf9a2a8d75599bf333e2dfaade28\n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Very odd behavior by gemma3 in Ollama",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 79,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "corga8x79nff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 34,
+                    "x": 108,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=5edf29c04d4df384d74435186edbd01c70421bae"
+                  },
+                  {
+                    "y": 68,
+                    "x": 216,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a63b8e3226e0352687fa2101bd43869aa1447c82"
+                  },
+                  {
+                    "y": 101,
+                    "x": 320,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cff0381701cddb6a3c774d6036332331f95c5d36"
+                  },
+                  {
+                    "y": 202,
+                    "x": 640,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f025a469d621dc0bc7672da2d84045567c33e61"
+                  },
+                  {
+                    "y": 303,
+                    "x": 960,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=34e6497840ebc4bc3f368ba28985569401788c1a"
+                  },
+                  {
+                    "y": 340,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/corga8x79nff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3d9fa66d034a2a8e6f99e03ca60ae9861fe4fa5d"
+                  }
+                ],
+                "s": {
+                  "y": 400,
+                  "x": 1267,
+                  "u": "https://preview.redd.it/corga8x79nff1.png?width=1267&amp;format=png&amp;auto=webp&amp;s=286f5d4228b4a2ac62efc8eb9ee305912173d265"
+                },
+                "id": "corga8x79nff1"
+              },
+              "aif5o5x09nff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 61,
+                    "x": 108,
+                    "u": "https://preview.redd.it/aif5o5x09nff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=592730861dcf67b212cae9cad275c470cd719d2e"
+                  },
+                  {
+                    "y": 122,
+                    "x": 216,
+                    "u": "https://preview.redd.it/aif5o5x09nff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=1815a5aa7cbd61b7eb91ed5e8840705f66339b25"
+                  },
+                  {
+                    "y": 181,
+                    "x": 320,
+                    "u": "https://preview.redd.it/aif5o5x09nff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d5a7f12252bdc9e49e3c5a186afbdf0aa60e5735"
+                  },
+                  {
+                    "y": 363,
+                    "x": 640,
+                    "u": "https://preview.redd.it/aif5o5x09nff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6858df3cf2ac6a24bb55e88eb7cbbdf77296786"
+                  },
+                  {
+                    "y": 545,
+                    "x": 960,
+                    "u": "https://preview.redd.it/aif5o5x09nff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bf3586f0b3e741a59ba3fe3e5bf62a7397b516c3"
+                  }
+                ],
+                "s": {
+                  "y": 584,
+                  "x": 1027,
+                  "u": "https://preview.redd.it/aif5o5x09nff1.png?width=1027&amp;format=png&amp;auto=webp&amp;s=f54aa4016fcbd589a4a8d2b327101d1d8d7c7f12"
+                },
+                "id": "aif5o5x09nff1"
+              },
+              "9bplz5o99nff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 34,
+                    "x": 108,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=887d3f8e9be65833a4b47b9042ce740c72a9523d"
+                  },
+                  {
+                    "y": 68,
+                    "x": 216,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5264bc730db579812313c2dadc72cd6af89430bf"
+                  },
+                  {
+                    "y": 101,
+                    "x": 320,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2ac37b468bc1ad3b46a9523e654ee3fff4592a7f"
+                  },
+                  {
+                    "y": 202,
+                    "x": 640,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=091a7b83d1f83bc269de1fb3e0c4e45c2e6744b5"
+                  },
+                  {
+                    "y": 303,
+                    "x": 960,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bee4248c5db1c1351b8ddbd7b0a3c969f2695f60"
+                  },
+                  {
+                    "y": 340,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/9bplz5o99nff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ee32c6f4425004a3702979106341a2c07f81f218"
+                  }
+                ],
+                "s": {
+                  "y": 400,
+                  "x": 1267,
+                  "u": "https://preview.redd.it/9bplz5o99nff1.png?width=1267&amp;format=png&amp;auto=webp&amp;s=e82ef1ec09f8cf9a2a8d75599bf333e2dfaade28"
+                },
+                "id": "9bplz5o99nff1"
+              },
+              "1onvhlu49nff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 57,
+                    "x": 108,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2f0933361f64613f655acf29dcc2997b501c755d"
+                  },
+                  {
+                    "y": 115,
+                    "x": 216,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=032a14e97beba96a4d5525b072e5295ba49e2135"
+                  },
+                  {
+                    "y": 171,
+                    "x": 320,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eada462af9864e36267f1293717a09577cb38441"
+                  },
+                  {
+                    "y": 342,
+                    "x": 640,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aac67cb7ea4eaab60fc4374807bdd84d7ee94cad"
+                  },
+                  {
+                    "y": 514,
+                    "x": 960,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b24a64fd43824efc6952029298220fb9852f5f65"
+                  },
+                  {
+                    "y": 578,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/1onvhlu49nff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=210a4f022299d7ea8b9a38254869d8f7871f1ec2"
+                  }
+                ],
+                "s": {
+                  "y": 899,
+                  "x": 1678,
+                  "u": "https://preview.redd.it/1onvhlu49nff1.png?width=1678&amp;format=png&amp;auto=webp&amp;s=2b7c8997a97af8f630f8862a5088e68e2c55811d"
+                },
+                "id": "1onvhlu49nff1"
+              }
+            },
+            "name": "t3_1mblcrd",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.67,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_sueuyekl",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/enW0eP6pZi5mFIDzCVrmM2VVCg6zm-rvnes1sSj1epI.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753721125,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I was trying to play around with a local to do list maker and gemma3 showed some very strange behavior&lt;br/&gt;\nit mentioned me giving it command that I never gave it, like sending an email to john&lt;/p&gt;\n\n&lt;p&gt;Why do you think it did this????&lt;/p&gt;\n\n&lt;p&gt;for details,&lt;br/&gt;\nI primed it with this&lt;br/&gt;\n&amp;quot;I will give you tasks and I want you to collect what I give you and organize all the tasks into a markdown format to-do-list&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;following are the screenshots of my code and conversation&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/aif5o5x09nff1.png?width=1027&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f54aa4016fcbd589a4a8d2b327101d1d8d7c7f12\"&gt;https://preview.redd.it/aif5o5x09nff1.png?width=1027&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f54aa4016fcbd589a4a8d2b327101d1d8d7c7f12&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/1onvhlu49nff1.png?width=1678&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2b7c8997a97af8f630f8862a5088e68e2c55811d\"&gt;https://preview.redd.it/1onvhlu49nff1.png?width=1678&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2b7c8997a97af8f630f8862a5088e68e2c55811d&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/corga8x79nff1.png?width=1267&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=286f5d4228b4a2ac62efc8eb9ee305912173d265\"&gt;https://preview.redd.it/corga8x79nff1.png?width=1267&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=286f5d4228b4a2ac62efc8eb9ee305912173d265&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/9bplz5o99nff1.png?width=1267&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e82ef1ec09f8cf9a2a8d75599bf333e2dfaade28\"&gt;https://preview.redd.it/9bplz5o99nff1.png?width=1267&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e82ef1ec09f8cf9a2a8d75599bf333e2dfaade28&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mblcrd",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Individual_Try9645",
+            "discussion_type": null,
+            "num_comments": 2,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mblcrd/very_odd_behavior_by_gemma3_in_ollama/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mblcrd/very_odd_behavior_by_gemma3_in_ollama/",
+            "subreddit_subscribers": 506191,
+            "created_utc": 1753721125,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5n0995",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "triynizzles1",
+            "can_mod_post": false,
+            "created_utc": 1753721960,
+            "send_replies": true,
+            "parent_id": "t3_1mblcrd",
+            "score": 2,
+            "author_fullname": "t2_zr0g49ixt",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I have never had good luck with Gemma 3 on ollama. It has always hallucinated terribly. Try phi 4 or granite 3.3 and see if the issue persists.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5n0995",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have never had good luck with Gemma 3 on ollama. It has always hallucinated terribly. Try phi 4 or granite 3.3 and see if the issue persists.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mblcrd/very_odd_behavior_by_gemma3_in_ollama/n5n0995/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753721960,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mblcrd",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5ob0wr",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "llmentry",
+            "can_mod_post": false,
+            "created_utc": 1753735104,
+            "send_replies": true,
+            "parent_id": "t3_1mblcrd",
+            "score": 1,
+            "author_fullname": "t2_1lufy6yx6z",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "That second list is similar to what Gemma would generate cold without context, with only your user prompt.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5ob0wr",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That second list is similar to what Gemma would generate cold without context, with only your user prompt.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mblcrd/very_odd_behavior_by_gemma3_in_ollama/n5ob0wr/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753735104,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mblcrd",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

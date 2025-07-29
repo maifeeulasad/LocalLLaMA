@@ -9468,6 +9468,230 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mbejz8',
         name: 'My chess AI project keeps hitting Google\'s rate limits. Any better free API alternatives out there?',
       },
+      {
+        path: '/1mbf3dz',
+        name: 'GLM-4.5-Demo',
+      },
+      {
+        path: '/1mbf4wo',
+        name: 'Model vibe checking with a simple math question.',
+      },
+      {
+        path: '/1mbf9a9',
+        name: 'Hosting LLM using vLLM for production',
+      },
+      {
+        path: '/1mbfa3y',
+        name: 'Wan 2.2 is Live! Needs only 8GB of VRAM!',
+      },
+      {
+        path: '/1mbfhgp',
+        name: 'Early GLM 4.5 Benchmarks, Claiming to surpass Qwen 3 Coder',
+      },
+      {
+        path: '/1mbflkv',
+        name: 'GLM-4.5 - a zai-org Collection',
+      },
+      {
+        path: '/1mbflsw',
+        name: 'GLM 4.5 Collection Now Live!',
+      },
+      {
+        path: '/1mbg1ck',
+        name: 'GLM4.5 released!',
+      },
+      {
+        path: '/1mbghx5',
+        name: 'Performance Expectations for Local LLM with 24GB GPU - Code Analysis &amp; Modification',
+      },
+      {
+        path: '/1mbhnrv',
+        name: 'Qwen3-14B-FP8 vs Qwen3-32B - Hallucination and Tool Calling',
+      },
+      {
+        path: '/1mbhqmw',
+        name: 'Kimi K2 Temp Setting',
+      },
+      {
+        path: '/1mbhqs0',
+        name: 'mlx-community/GLM-4.5-Air-4bit · Hugging Face',
+      },
+      {
+        path: '/1mbi65j',
+        name: 'Time for my regular check-in to see if the open-source world has any multimodal models capable of image generation approaching GPT 4o\'s quality and adherence',
+      },
+      {
+        path: '/1mbihcz',
+        name: 'GLM shattered the record for "worst benchmark JPEG ever published" - wow.',
+      },
+      {
+        path: '/1mbirq1',
+        name: 'Describe a person using exported WhatsApp chat',
+      },
+      {
+        path: '/1mbk68n',
+        name: '[Seeking serious feedback] Documented signs of emergent behavior in a closed-loop LLM agent (850k tokens logged)',
+      },
+      {
+        path: '/1mbkgky',
+        name: 'What is the best uncensored vision LLM nowadays?',
+      },
+      {
+        path: '/1mbkt69',
+        name: 'Does anyone know what type of loss-free balance routing GLM-4.5 is using? Is it different than the aux loss free bias gating method deepseek models use or something new?',
+      },
+      {
+        path: '/1mbkvxs',
+        name: 'NVIDIA\'s GeForce RTX 50 SUPER Rumored to Drop Into The Markets as Soon as Q4 2025, Featuring Massive VRAM Upgrades',
+      },
+      {
+        path: '/1mbl79y',
+        name: 'I’m looking for multimodal image input support and uncensored LLM',
+      },
+      {
+        path: '/1mbl9ir',
+        name: 'I built VerbatimRAG, an open source RAG that returns verbatim texts only for the user!',
+      },
+      {
+        path: '/1mblcrd',
+        name: 'Very odd behavior by gemma3 in Ollama',
+      },
+      {
+        path: '/1mblq5g',
+        name: 'There\'s not a SINGLE local LLM which can solve this logic puzzle - whether the model "reasons" or not. Only o3 can solve this at this time...',
+      },
+      {
+        path: '/1mbm4a0',
+        name: 'Tried Wan2.2 on RTX 4090, quite impressed',
+      },
+      {
+        path: '/1mbmkkp',
+        name: 'Please help me out on this. Tool calling issue for local models',
+      },
+      {
+        path: '/1mbmr8k',
+        name: 'When will we be able to get gold on IMO using a local model?',
+      },
+      {
+        path: '/1mbmw7v',
+        name: 'Dual GPU with different capabilities - any caveats for transformer parallelism?',
+      },
+      {
+        path: '/1mbnecb',
+        name: 'What GPU is the minimal to run local llms (well, almost) perfectly?',
+      },
+      {
+        path: '/1mbnn6a',
+        name: 'What motivates you to contribute to Open-source web development?',
+      },
+      {
+        path: '/1mbny6o',
+        name: '100x faster and 100x cheaper transcription with open models vs proprietary',
+      },
+      {
+        path: '/1mbocxc',
+        name: 'What’s the most reliable STT engine you’ve used in noisy, multi-speaker environments?',
+      },
+      {
+        path: '/1mboh0f',
+        name: 'Need some advice on multigpu GRPO',
+      },
+      {
+        path: '/1mbowe3',
+        name: 'GLM 4.5 Failing to use search tool in LM studio',
+      },
+      {
+        path: '/1mbp4nm',
+        name: 'The walled garden gets higher walls: Anthropic is adding weekly rate limits for paid Claude subscribers',
+      },
+      {
+        path: '/1mbp7nh',
+        name: 'Found a React SDK that turns LLM responses into real-time UI that adapts based on context',
+      },
+      {
+        path: '/1mbpoy9',
+        name: 'Everyone is struggling about documentation',
+      },
+      {
+        path: '/1mbq7xx',
+        name: 'How do I calculate hardware needs?',
+      },
+      {
+        path: '/1mbs4dw',
+        name: '8600G / 760M llama-bench with Gemma 3 (4, 12, 27B), Mistral Small, Qwen 3 (4, 8, 14, 32B) and  Qwen 3 MoE 30B-A3B',
+      },
+      {
+        path: '/1mbs6mj',
+        name: 'What do do with 88GB Vram GPU server',
+      },
+      {
+        path: '/1mbsi46',
+        name: 'Llama.cpp Android cutting off responses',
+      },
+      {
+        path: '/1mbsxb3',
+        name: 'Enterprise Local AI Implementation for Small user base',
+      },
+      {
+        path: '/1mbt030',
+        name: 'So you all loved my open-source voice AI when I first showed it off - I officially got response times to under 2 seconds AND it now fits all within 9 gigs of VRAM! Open Source Code included!',
+      },
+      {
+        path: '/1mbt3ji',
+        name: 'Getting a consistent style over multiple sessions when you don\'t have the original prompt',
+      },
+      {
+        path: '/1mbtb3t',
+        name: 'qwen3 2507 thinking vs deepseek r1 0528',
+      },
+      {
+        path: '/1mbthgr',
+        name: '[Guide] Running GLM 4.5 as Instruct model in vLLM (with Tool Calling)',
+      },
+      {
+        path: '/1mbu532',
+        name: 'Best local LLM for iterative story writing',
+      },
+      {
+        path: '/1mbugfr',
+        name: 'Techniques to Inject Emotion in Responses',
+      },
+      {
+        path: '/1mbutu4',
+        name: 'I want to use llama 7b to check if a 5-7 sentence paragraph contains a given subject, what\'s the minimum GPU I need?',
+      },
+      {
+        path: '/1mbvf2z',
+        name: 'its getting comical',
+      },
+      {
+        path: '/1mbvgdm',
+        name: 'Using Apple Intelligence as OpenAI / Ollama API',
+      },
+      {
+        path: '/1mbviok',
+        name: 'How do I train a good LLM on my company\'s doc in order to answer easy questions?',
+      },
+      {
+        path: '/1mbwvve',
+        name: '“This step is necessary to prove that I am not a bot” LOL',
+      },
+      {
+        path: '/1mbx6zk',
+        name: 'Suggestions to fine tune Gemma 3N E4B or similar model for diagnosis and troubleshooting',
+      },
+      {
+        path: '/1mbxx64',
+        name: 'Can’t get continue.dev to index my codebase',
+      },
+      {
+        path: '/1mby5ct',
+        name: 'Qwen3 235B 2507 adding its own questions to mine, and thinking despite being Instruct model?',
+      },
+      {
+        path: '/1mby6nd',
+        name: 'Has anyone used PEZ or similar learned hard prompt methods for local LLMs?',
+      },
     ],
   },
   {
