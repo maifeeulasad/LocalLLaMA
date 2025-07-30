@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I wrote a small CLI in golang today with Claude that auto downloads the models and comes out at around 5MB in size when compiled. The goal is to create a foundation to build a single unix style utility that can take files as input and transcribe them easily. It also handles whole folders of files and can restart when it gets interrupted. \n\nI still want to add speaker diarization as well as publish it to brew and a few more things. But I already wanted to get some feedback from people. \n\nThe main goal for me is to point it at a YouTube channel, download all the videos audio streams via yt-dlp, then transcribe the whole pack, recognise speakers, use a small LLM to identify who is who to replace &lt;speaker1&gt; with “Tom” etc and then have nice archives of channels with good text representations. \n\nhttps://github.com/pascalwhoop/ghospel\n\nLmk what you guys think and what you’d be looking for in a CLI like this. \n\nThere’s also a blog post about it but I won’t self promote too much for now. ",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Golang based whisper.cpp wrapper CLI with intention to expand to speaker diarization and more",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mcp4lj",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.84,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 4,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1uktcnndgt",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 4,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753826924,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I wrote a small CLI in golang today with Claude that auto downloads the models and comes out at around 5MB in size when compiled. The goal is to create a foundation to build a single unix style utility that can take files as input and transcribe them easily. It also handles whole folders of files and can restart when it gets interrupted. &lt;/p&gt;\n\n&lt;p&gt;I still want to add speaker diarization as well as publish it to brew and a few more things. But I already wanted to get some feedback from people. &lt;/p&gt;\n\n&lt;p&gt;The main goal for me is to point it at a YouTube channel, download all the videos audio streams via yt-dlp, then transcribe the whole pack, recognise speakers, use a small LLM to identify who is who to replace &amp;lt;speaker1&amp;gt; with “Tom” etc and then have nice archives of channels with good text representations. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/pascalwhoop/ghospel\"&gt;https://github.com/pascalwhoop/ghospel&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Lmk what you guys think and what you’d be looking for in a CLI like this. &lt;/p&gt;\n\n&lt;p&gt;There’s also a blog post about it but I won’t self promote too much for now. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?auto=webp&amp;s=c9667d67ac26714cecec59f946f00ae2cbb28091",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7e8b2c21c9cb31cb7050c6c04a1b0a264cdb2d2d",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f888bae2c84de4cb101d7a6e8bddd2ec7a8a0bc2",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0429088192a964051239facfec6a3f881acdf706",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bee7509b0c842733361018e91c9f2cb421adbc6",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=31151174fbd5c99a5e8f086a0fd0dd00c61839c2",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e1b7c7ff2eff95d41ec4a945ddbd2f58946aa08a",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "ZMHo-0fBowkzXb3QE7apipXrGseSII9LtU8r7eb84ac"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mcp4lj",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "pascalwhoop",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mcp4lj/golang_based_whispercpp_wrapper_cli_with/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mcp4lj/golang_based_whispercpp_wrapper_cli_with/",
+            "subreddit_subscribers": 506711,
+            "created_utc": 1753826924,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

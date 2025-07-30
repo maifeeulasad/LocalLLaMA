@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey everyone!  \nI’m thrilled to share a project I’ve been pouring my energy into: CloudToLocalLLM. Built with Flutter and Dart, it’s a tool that connects local Large Language Models (LLMs) to cloud services, blending privacy, offline capabilities, and cross-platform support. It’s in alpha, and I’m excited to give you a peek at what it’s all about!What’s CloudToLocalLLM?CloudToLocalLLM lets you run LLMs on your own hardware for privacy and offline use, while seamlessly hooking up to cloud APIs for extra functionality when you need it. It’s all about giving you control over your AI workflows, whether you’re on desktop now or mobile in the future.Key Features:\n\n* Local LLM Processing: Run models on-device to keep your data private.\n* Offline Support: Works smoothly without an internet connection.\n* Cloud Integration: Connects to cloud APIs for added power.\n* Cross-Platform: Desktop support now, with Android/iOS in development.\n* Future Plans: Premium features and plugin/extension support for custom setups.\n\nTech Stack:\n\n* Flutter and Dart for the UI and cross-platform foundation.\n* LLM libraries for local model processing.\n* Cloud APIs for external service integration.\n* Tunneling setup for secure local-to-cloud communication.\n\nCurrent Status:The project is in alpha with a solid foundation for local LLM processing and cloud syncing. I’m currently refining the tunneling setup to ensure smooth data flow between local models and cloud services. Mobile support for Android and iOS is on the way, along with plans for premium features and a plugin/extension system to make it highly extensible.Take a look at the project on [GitHub](https://github.com/imrightguy/CloudToLocalLLM) for more details. Hope you find it as exciting as I do—happy to share this with the community!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "CloudToLocalLLM - A Flutter-built Tool for Local LLM and Cloud Integration",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mcq5tj",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1m04ysbxj2",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753829541,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone!&lt;br/&gt;\nI’m thrilled to share a project I’ve been pouring my energy into: CloudToLocalLLM. Built with Flutter and Dart, it’s a tool that connects local Large Language Models (LLMs) to cloud services, blending privacy, offline capabilities, and cross-platform support. It’s in alpha, and I’m excited to give you a peek at what it’s all about!What’s CloudToLocalLLM?CloudToLocalLLM lets you run LLMs on your own hardware for privacy and offline use, while seamlessly hooking up to cloud APIs for extra functionality when you need it. It’s all about giving you control over your AI workflows, whether you’re on desktop now or mobile in the future.Key Features:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Local LLM Processing: Run models on-device to keep your data private.&lt;/li&gt;\n&lt;li&gt;Offline Support: Works smoothly without an internet connection.&lt;/li&gt;\n&lt;li&gt;Cloud Integration: Connects to cloud APIs for added power.&lt;/li&gt;\n&lt;li&gt;Cross-Platform: Desktop support now, with Android/iOS in development.&lt;/li&gt;\n&lt;li&gt;Future Plans: Premium features and plugin/extension support for custom setups.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Tech Stack:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Flutter and Dart for the UI and cross-platform foundation.&lt;/li&gt;\n&lt;li&gt;LLM libraries for local model processing.&lt;/li&gt;\n&lt;li&gt;Cloud APIs for external service integration.&lt;/li&gt;\n&lt;li&gt;Tunneling setup for secure local-to-cloud communication.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Current Status:The project is in alpha with a solid foundation for local LLM processing and cloud syncing. I’m currently refining the tunneling setup to ensure smooth data flow between local models and cloud services. Mobile support for Android and iOS is on the way, along with plans for premium features and a plugin/extension system to make it highly extensible.Take a look at the project on &lt;a href=\"https://github.com/imrightguy/CloudToLocalLLM\"&gt;GitHub&lt;/a&gt; for more details. Hope you find it as exciting as I do—happy to share this with the community!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?auto=webp&amp;s=55cc3598b62dd189b9301971fa3f0072aeeb4271",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=be5429a462c6432b21f002208275d58e14f8b9e1",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d4080be59a4f438d917478f7b77dffe93a39d950",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=80dbf6ca80181eaf9ae95db9fd1247b36ce4cb60",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58a1a23784b73314db3bb7695b9cf6a4291de5f",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=a94965b4db927c5db2b338fa78c7c6a09934ee03",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1dedb8e88059caaffc11bf5bbce338b323611439",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "94gP6nyOduLfhUJZ5JUL3ZMOgReprnoeDz7otvSr-5U"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mcq5tj",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "_right_guy",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mcq5tj/cloudtolocalllm_a_flutterbuilt_tool_for_local_llm/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mcq5tj/cloudtolocalllm_a_flutterbuilt_tool_for_local_llm/",
+            "subreddit_subscribers": 506711,
+            "created_utc": 1753829541,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

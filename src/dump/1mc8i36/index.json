@@ -32,11 +32,11 @@
             "downs": 0,
             "thumbnail_height": null,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "name": "t3_1mc8i36",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.5,
+            "upvote_ratio": 0.33,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mc8i36/building_a_custom_llm_trained_on_luciform_prompts/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mc8i36/building_a_custom_llm_trained_on_luciform_prompts/",
-            "subreddit_subscribers": 506439,
+            "subreddit_subscribers": 506711,
             "created_utc": 1753787233,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -298,7 +298,7 @@
             "created_utc": 1753789726,
             "send_replies": true,
             "parent_id": "t3_1mc8i36",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_8pumqmir",
             "approved_by": null,
             "mod_note": null,
@@ -340,7 +340,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

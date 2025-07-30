@@ -36,7 +36,7 @@
             "name": "t3_1mbwvve",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.61,
+            "upvote_ratio": 0.6,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 3,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mbwvve/this_step_is_necessary_to_prove_that_i_am_not_a/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mbwvve/this_step_is_necessary_to_prove_that_i_am_not_a/",
-            "subreddit_subscribers": 506439,
+            "subreddit_subscribers": 506712,
             "created_utc": 1753748044,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -252,12 +252,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "MelodicRecognition7",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5rexfq",
-                                "score": 2,
+                                "score": 5,
                                 "author_fullname": "t2_1eex9ug5",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -300,7 +300,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 5
                               }
                             }
                           ],
@@ -315,7 +315,7 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "MelodicRecognition7",
                       "can_mod_post": false,
                       "created_utc": 1753779361,
@@ -384,7 +384,7 @@
             "created_utc": 1753749116,
             "send_replies": true,
             "parent_id": "t3_1mbwvve",
-            "score": 9,
+            "score": 13,
             "author_fullname": "t2_h5utwre7",
             "approved_by": null,
             "mod_note": null,
@@ -426,7 +426,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 13
           }
         },
         {
@@ -459,7 +459,7 @@
             "created_utc": 1753751224,
             "send_replies": true,
             "parent_id": "t3_1mbwvve",
-            "score": 2,
+            "score": 1,
             "author_fullname": "t2_6okc6",
             "approved_by": null,
             "mod_note": null,
@@ -501,7 +501,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         }
       ],

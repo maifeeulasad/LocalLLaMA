@@ -1,0 +1,217 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey everyone,\n\nWe’ve been working on a desktop assistant app built using Tauri that runs entirely locally. No internet connection, no cloud calls, just fully self-hosted LLMs and audio/vision models.\n\nThe assistant passively listens and watches. It can “hear” what’s happening in meetings (Zoom, GMeet, Discord, etc.) and “see” what’s on your screen by tracking gaze and screen context. The idea is to act like a floating AI that you can summon at any time, without ever compromising privacy. \n\nWe’re currently pulling in multiple smaller AI models (Whisper, lightweight vision models, compact LLMs) to make it work well on consumer hardware.\n\nSome challenges we foresee\n• Porting the screen and audio capture features to macOS, especially dealing with sandboxing and permission models\n• iOS might be a stretch, but we’re open to ideas on how to architect toward it\n• Packaging and performance tuning across OSes without sacrificing the privacy-first, offline architecture\n\nWould love any feedback, advice, or to hear if anyone else is building similar thing with Rust, Tauri, and local AI models.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Llama and Whisper AI Desktop Assistant",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 78,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mcjaau",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.83,
+            "author_flair_background_color": null,
+            "ups": 8,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_m15q545s",
+            "secure_media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/m8h6fxpxvuff1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1920,
+                "scrubber_media_url": "https://v.redd.it/m8h6fxpxvuff1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/m8h6fxpxvuff1/DASHPlaylist.mpd?a=1756430083%2CNTY4ZDQ3MGJlYmE3ZTFlZmYzNWZmMDczZmJhZmMzNTEzZTg1MTZiNzIzMjY4NGI3ZDFlNDNmMzA4NDY4ZDRmMA%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 69,
+                "hls_url": "https://v.redd.it/m8h6fxpxvuff1/HLSPlaylist.m3u8?a=1756430083%2CNmNhOThiYWQ4NzQ4YTdiNzg2NTIxMTI5YWUyNTY2MTdlMDZhMWRiZTQxZDc5ZjM1ZWFjMjMwNGY2ZDAyZmVlZg%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 8,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=140&amp;height=78&amp;crop=140:78,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=12dfeb3f43af814c740cb88dee1963a46e854783",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "hosted:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753813502,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "v.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone,&lt;/p&gt;\n\n&lt;p&gt;We’ve been working on a desktop assistant app built using Tauri that runs entirely locally. No internet connection, no cloud calls, just fully self-hosted LLMs and audio/vision models.&lt;/p&gt;\n\n&lt;p&gt;The assistant passively listens and watches. It can “hear” what’s happening in meetings (Zoom, GMeet, Discord, etc.) and “see” what’s on your screen by tracking gaze and screen context. The idea is to act like a floating AI that you can summon at any time, without ever compromising privacy. &lt;/p&gt;\n\n&lt;p&gt;We’re currently pulling in multiple smaller AI models (Whisper, lightweight vision models, compact LLMs) to make it work well on consumer hardware.&lt;/p&gt;\n\n&lt;p&gt;Some challenges we foresee\n• Porting the screen and audio capture features to macOS, especially dealing with sandboxing and permission models\n• iOS might be a stretch, but we’re open to ideas on how to architect toward it\n• Packaging and performance tuning across OSes without sacrificing the privacy-first, offline architecture&lt;/p&gt;\n\n&lt;p&gt;Would love any feedback, advice, or to hear if anyone else is building similar thing with Rust, Tauri, and local AI models.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://v.redd.it/m8h6fxpxvuff1",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?format=pjpg&amp;auto=webp&amp;s=9ac629a01c56b181990f5154bb7bf69ffafb59c9",
+                    "width": 1920,
+                    "height": 1080
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=c98aea69c8ee48f81b0de209189e241f3069ec8a",
+                      "width": 108,
+                      "height": 60
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=b87613792ed75990facdc4c2e81181c2d85435d6",
+                      "width": 216,
+                      "height": 121
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=36c7260614c5bb7d1185aedfdfc69616a212abde",
+                      "width": 320,
+                      "height": 180
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=b732351aa485baaf25a410d68f6f03e6f7e02349",
+                      "width": 640,
+                      "height": 360
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=691220e045e714ec9e2d003a36737ee0883415da",
+                      "width": 960,
+                      "height": 540
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=ca6426d6e8f3342e9f7b582afe236c9fb84b673b",
+                      "width": 1080,
+                      "height": 607
+                    }
+                  ],
+                  "variants": {},
+                  "id": "enl2aDBwanh2dWZmMRvkiiJiLOdYuD63n9hpi_HFNsNIPqOk9sj_Up3WfKRc"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mcjaau",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "rxhxnsxngh",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/m8h6fxpxvuff1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1920,
+                "scrubber_media_url": "https://v.redd.it/m8h6fxpxvuff1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/m8h6fxpxvuff1/DASHPlaylist.mpd?a=1756430083%2CNTY4ZDQ3MGJlYmE3ZTFlZmYzNWZmMDczZmJhZmMzNTEzZTg1MTZiNzIzMjY4NGI3ZDFlNDNmMzA4NDY4ZDRmMA%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 69,
+                "hls_url": "https://v.redd.it/m8h6fxpxvuff1/HLSPlaylist.m3u8?a=1756430083%2CNmNhOThiYWQ4NzQ4YTdiNzg2NTIxMTI5YWUyNTY2MTdlMDZhMWRiZTQxZDc5ZjM1ZWFjMjMwNGY2ZDAyZmVlZg%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mcjaau/llama_and_whisper_ai_desktop_assistant/",
+            "stickied": false,
+            "url": "https://v.redd.it/m8h6fxpxvuff1",
+            "subreddit_subscribers": 506711,
+            "created_utc": 1753813502,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": true
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

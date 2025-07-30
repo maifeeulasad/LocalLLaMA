@@ -1,0 +1,1666 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "[https://huggingface.co/Tesslate/UIGEN-X-4B-0729](https://huggingface.co/Tesslate/UIGEN-X-4B-0729) 4B model that does reasoning for Design. We also released a 32B earlier in the week. \n\nAs per the last post -&gt;  \nSpecifically trained for modern web and mobile development across frameworks like React (Next.js, Remix, Gatsby, Vite), Vue (Nuxt, Quasar), Angular (Angular CLI, Ionic), and SvelteKit, along with Solid.js, Qwik, Astro, and static site tools like 11ty and Hugo. Styling options include Tailwind CSS, CSS-in-JS (Styled Components, Emotion), and full design systems like Carbon and Material UI. We cover UI libraries for every framework React (shadcn/ui, Chakra, Ant Design), Vue (Vuetify, PrimeVue), Angular, and Svelte plus headless solutions like Radix UI. State management spans Redux, Zustand, Pinia, Vuex, NgRx, and universal tools like MobX and XState. For animation, we support Framer Motion, GSAP, and Lottie, with icons from Lucide, Heroicons, and more. Beyond web, we enable React Native, Flutter, and Ionic for mobile, and Electron, Tauri, and Flutter Desktop for desktop apps. Python integration includes Streamlit, Gradio, Flask, and FastAPI. All backed by modern build tools, testing frameworks, and support for 26+ languages and UI approaches, including JavaScript, TypeScript, Dart, HTML5, CSS3, and component-driven architectures.\n\nWe're looking for some beta testers for some new models and open source projects!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "4B models are consistently overlooked. Runs Locally and Crushes It. Reasoning for UI, Mobile, Software and Frontend design.",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 89,
+            "top_awarded_type": null,
+            "name": "t3_1mcr64f",
+            "media_metadata": {
+              "yof4zxwiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 69,
+                    "x": 108,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b585f63f1976fecd3209b28576a30e20382e3288"
+                  },
+                  {
+                    "y": 139,
+                    "x": 216,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d390945c2be5960f802c46d7534e3b13b1b9ce64"
+                  },
+                  {
+                    "y": 206,
+                    "x": 320,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e4d91cbd80cd1bea9bf4046a92926c7a6a1327b3"
+                  },
+                  {
+                    "y": 412,
+                    "x": 640,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf7e75cc7fc920dcadfeddadec7708838aa7f496"
+                  },
+                  {
+                    "y": 618,
+                    "x": 960,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=64c2c4a9e6f40664edd97d0fcbc66a58fbd01f10"
+                  },
+                  {
+                    "y": 695,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/yof4zxwiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9baade1c07727a9e0b013590eb07022ff7d97bbf"
+                  }
+                ],
+                "s": {
+                  "y": 1855,
+                  "x": 2880,
+                  "u": "https://preview.redd.it/yof4zxwiewff1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=750bd98b519b2c2a6a9b67e375c712a747d76a7b"
+                },
+                "id": "yof4zxwiewff1"
+              },
+              "16laa8fzewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 107,
+                    "x": 108,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=be850094630e801bc14b141c02c45a5d5780e39e"
+                  },
+                  {
+                    "y": 214,
+                    "x": 216,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=000716e3856e70eec1e6c3feee9a6082dfb6f14b"
+                  },
+                  {
+                    "y": 317,
+                    "x": 320,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d7ba27c04a5a32d43cad0d06ac09510ffc21eb18"
+                  },
+                  {
+                    "y": 635,
+                    "x": 640,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be9b40c399b65fa7aac8b8f12c47664cea519593"
+                  },
+                  {
+                    "y": 953,
+                    "x": 960,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=2c69dc72963fd774990d40819354963b4542144b"
+                  },
+                  {
+                    "y": 1073,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/16laa8fzewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=56223aed305acfd4d0bdfc7293eac13e683e3a05"
+                  }
+                ],
+                "s": {
+                  "y": 1739,
+                  "x": 1750,
+                  "u": "https://preview.redd.it/16laa8fzewff1.png?width=1750&amp;format=png&amp;auto=webp&amp;s=685da575f550a67f1885f3ee2f448abb0ad8dfa8"
+                },
+                "id": "16laa8fzewff1"
+              },
+              "ntu2cxwiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 62,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f0d018ce17ce6e93fd4107130e86643585cf96c2"
+                  },
+                  {
+                    "y": 125,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=23db8ae32b0c22d865ce52f9a03fbbcde05deeb0"
+                  },
+                  {
+                    "y": 185,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ba539c8005ffd0c4736b5a57568e182824f305fd"
+                  },
+                  {
+                    "y": 371,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=106863b52b2fff18696ddf6ec546938ea7f8de35"
+                  },
+                  {
+                    "y": 557,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b5e57f7a9e86b03e31ebaac20963a33085097ff2"
+                  },
+                  {
+                    "y": 627,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a44493249a8080f036743b50835676ad73e83c7d"
+                  }
+                ],
+                "s": {
+                  "y": 1672,
+                  "x": 2880,
+                  "u": "https://preview.redd.it/ntu2cxwiewff1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=f6ef93e725d1a52278691bd9f2ecb1cf3ea1b6ee"
+                },
+                "id": "ntu2cxwiewff1"
+              },
+              "wj4w2vb2fwff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 124,
+                    "x": 108,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=ce4efa314f24050279eaa398edd15d69545694b6"
+                  },
+                  {
+                    "y": 249,
+                    "x": 216,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=48cd29a868c118178676c8e761b9d0c7965971ba"
+                  },
+                  {
+                    "y": 370,
+                    "x": 320,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=524401edbadd87267db44465bb77ec546449da42"
+                  },
+                  {
+                    "y": 740,
+                    "x": 640,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f2d93c05fafd7effe55c1b8c9299eee020be45e"
+                  },
+                  {
+                    "y": 1110,
+                    "x": 960,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9ff4bd17f8ef6686dd9f1c981b0ff0106d81f12f"
+                  },
+                  {
+                    "y": 1249,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ef3bc24444f01bec00a0224cb2c86cb3bca5067e"
+                  }
+                ],
+                "s": {
+                  "y": 1742,
+                  "x": 1506,
+                  "u": "https://preview.redd.it/wj4w2vb2fwff1.png?width=1506&amp;format=png&amp;auto=webp&amp;s=9eb5a8ab422fa1d5864870f6212bbb512ee327f3"
+                },
+                "id": "wj4w2vb2fwff1"
+              },
+              "s7p75twiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=84e39273f74fd125311c365fac8f17aa2f027ac2"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=94fbe9bcc7206c2de0cd6c9ad5dafa699528449e"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b412b682e705205f4a9170aeca865f1dabd2e419"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd319320ae2e53ab1adeebb7127aa9d9a3f5e760"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b384f769fd836b366a0cddefec36f82e53b87918"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/s7p75twiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=97aa4cdd51e0498d0929bbc700ba0d01373ea554"
+                  }
+                ],
+                "s": {
+                  "y": 5391,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/s7p75twiewff1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=473ae9015c69ce171209a0f6d69a7262bd95c4cc"
+                },
+                "id": "s7p75twiewff1"
+              },
+              "adea0wwiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 94,
+                    "x": 108,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=97e39bf0fb8a28722a9fdec246b8f02853a61239"
+                  },
+                  {
+                    "y": 188,
+                    "x": 216,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5b30b4a9d77e84eb9a95649bf5113d51f5c7733d"
+                  },
+                  {
+                    "y": 278,
+                    "x": 320,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e8d21cc220a9c038420281dd75bf1cbc8c810781"
+                  },
+                  {
+                    "y": 557,
+                    "x": 640,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=305114889fd74072b8f44408ea2eb39e9d6ca40d"
+                  },
+                  {
+                    "y": 836,
+                    "x": 960,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=4b3179c0833b7971357d239b13f9544ca646a9c0"
+                  },
+                  {
+                    "y": 941,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/adea0wwiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8b112315e314c3e8663a20042433fdb632fca8b4"
+                  }
+                ],
+                "s": {
+                  "y": 1673,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/adea0wwiewff1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=fd821b55ed691c1336897e770b0cac21d3da1733"
+                },
+                "id": "adea0wwiewff1"
+              },
+              "ax8700xiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 215,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b6cecc068a16f0743e7f7aa0118d59381e879f59"
+                  },
+                  {
+                    "y": 430,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=bd1befd4a28971b0793663f9dc338070a9476cfa"
+                  },
+                  {
+                    "y": 638,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3535688560617701a73e241cee3b40f695746ebb"
+                  },
+                  {
+                    "y": 1276,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6017beab10859d631fbafb9bb24558403617258"
+                  },
+                  {
+                    "y": 1914,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=20cddeaa29fde178c979ec16035d38ab20242536"
+                  },
+                  {
+                    "y": 2153,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ax8700xiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4f70ea717022f00cedac4143741218799011ef84"
+                  }
+                ],
+                "s": {
+                  "y": 5743,
+                  "x": 2880,
+                  "u": "https://preview.redd.it/ax8700xiewff1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=a6e9f1619b46af78448cf8f2b9ac70e06d78a1ea"
+                },
+                "id": "ax8700xiewff1"
+              },
+              "ejyq00xiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=98e5ba20ac3d31de436e60a97922996875d347ff"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fa9bc6a58df8f71ea883392c35f600600742b517"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8ec152ece72fff30fb421645a1669dd931e4bdfc"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=544c750520fddedec5be1f081c7cc7401df16985"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d6e5f430fda3cc2768464bd78ec043b99927fc6b"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ejyq00xiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5f91d5725b574cb286fec458ef62e689c27e607c"
+                  }
+                ],
+                "s": {
+                  "y": 6984,
+                  "x": 2880,
+                  "u": "https://preview.redd.it/ejyq00xiewff1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=303ddd2e22aebde6c25e2fdcb88a832f57df9944"
+                },
+                "id": "ejyq00xiewff1"
+              },
+              "kxkn9umxewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 106,
+                    "x": 108,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=932e983f66f50902893c65fc0cfda02a9d2b22a2"
+                  },
+                  {
+                    "y": 212,
+                    "x": 216,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ec248f0a2e6cf260216575fc5cc60bab220bb28e"
+                  },
+                  {
+                    "y": 314,
+                    "x": 320,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5edf2564694ad7e618bb3f280ef348153a1913f3"
+                  },
+                  {
+                    "y": 629,
+                    "x": 640,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c864fa70160d3f0e137ee42eff4a18605859c2"
+                  },
+                  {
+                    "y": 943,
+                    "x": 960,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=614d3f0351a10e309aa56852fa09cd6a934d7328"
+                  },
+                  {
+                    "y": 1061,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/kxkn9umxewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ceee5ecfa7a0dd1ca565f7a3cddb9b4a64ffd10d"
+                  }
+                ],
+                "s": {
+                  "y": 1742,
+                  "x": 1772,
+                  "u": "https://preview.redd.it/kxkn9umxewff1.png?width=1772&amp;format=png&amp;auto=webp&amp;s=ee44a102a0f980b2655670786261becf38366c67"
+                },
+                "id": "kxkn9umxewff1"
+              },
+              "z7pj58xiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=09b6203fb4f173b715c03493dfe67e9b039f3664"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=655762aeb2b663c2bf82fa7a23b9ba0e046ff117"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9b0c36608a8dd7d989cb8f1425f0ed68cecc6cf0"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2395673178607874bdae7dfaa75c8460c22721a"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=036661bf27ca2ae95489ef42fbd9163baa23a0f5"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/z7pj58xiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f100364d1c04026b195f7ea334a7a1d4a51831c7"
+                  }
+                ],
+                "s": {
+                  "y": 6229,
+                  "x": 2880,
+                  "u": "https://preview.redd.it/z7pj58xiewff1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=aeafa90cf8e3d73863c35071d9e713ca83facbf7"
+                },
+                "id": "z7pj58xiewff1"
+              },
+              "acxqsuwiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d7425577e6a47a9d3e0a3a100f387cf005fd280d"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=bdb03c41fce1c12f00429512ee516e3032d7be24"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1bd65e8862fc6957d1b38807ae5860c9cdaf6019"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fef431ddba58fbfeadf672b3f1b2f7cd59a4024e"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d048fdfecfaaf1e67a1c0c3acc520744d210c2c3"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/acxqsuwiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d5bf701f33777ed0ef64335bf05d63f02e05f82b"
+                  }
+                ],
+                "s": {
+                  "y": 5998,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/acxqsuwiewff1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=1ff339ed9b099c2cc7e6c8983e87af8e3494534e"
+                },
+                "id": "acxqsuwiewff1"
+              },
+              "lex8nqwiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 127,
+                    "x": 108,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=120a521aa4bebf6052a8a8e73b8052832817615b"
+                  },
+                  {
+                    "y": 255,
+                    "x": 216,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d03a3f3bbf63c6fa038368a77926fdc077cffe45"
+                  },
+                  {
+                    "y": 379,
+                    "x": 320,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5069c1d3fc72035727961c5af49935dc5edaf6d"
+                  },
+                  {
+                    "y": 758,
+                    "x": 640,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=49088fabb5a9e1b73f83b42ff1659d2c651ecabb"
+                  },
+                  {
+                    "y": 1137,
+                    "x": 960,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=8fae5c9dede0064c130c7af51c4efd8d9b89291b"
+                  },
+                  {
+                    "y": 1279,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/lex8nqwiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8390fb53d7893ccfbda7ba43e1043526d3ed1995"
+                  }
+                ],
+                "s": {
+                  "y": 2274,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/lex8nqwiewff1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=962070f4cec63ffe5e3f74afdd9e361d3eb1e65c"
+                },
+                "id": "lex8nqwiewff1"
+              },
+              "gjgr517pewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 68,
+                    "x": 108,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=4755f1869d3b7eb7ea0597f941557ba81c651329"
+                  },
+                  {
+                    "y": 137,
+                    "x": 216,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fb98a6adf6598211d6e427d7dbb4e18218c97614"
+                  },
+                  {
+                    "y": 203,
+                    "x": 320,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5801ab34ab8e6d6c323c619f5fd48ef9bcd7de9f"
+                  },
+                  {
+                    "y": 407,
+                    "x": 640,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86b0ac115a5b3e9db3e959924030049ea892d809"
+                  },
+                  {
+                    "y": 610,
+                    "x": 960,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0a6414c79af3f3c9b4a589fa97d866dd966bdda5"
+                  },
+                  {
+                    "y": 686,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/gjgr517pewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c0f0758aadd57cbcd02f9ff3c31c98632506f060"
+                  }
+                ],
+                "s": {
+                  "y": 1564,
+                  "x": 2459,
+                  "u": "https://preview.redd.it/gjgr517pewff1.png?width=2459&amp;format=png&amp;auto=webp&amp;s=d7c539f97e387b73f2f07bc8ba1f06bec4aad9d0"
+                },
+                "id": "gjgr517pewff1"
+              },
+              "1p1dk2xiewff1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=4168773f08144636cd601811a4ab8d2ab17744f8"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c0167a8561f08feb97a21f409a40491b2d8179c2"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a81d1f425fbb1ba6891eebd5fc7834621d47a971"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a92096881722780601c9417e8ed52dda672226c5"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b3a497379e5488734b986a943c4b9c8a9177f8ab"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=999cfe06600aab2caa654d74023a8ece7a9424de"
+                  }
+                ],
+                "s": {
+                  "y": 5337,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/1p1dk2xiewff1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=8b79f29a9a816ef267db3d202bb66ee24e42e89b"
+                },
+                "id": "1p1dk2xiewff1"
+              }
+            },
+            "hide_score": true,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.95,
+            "author_flair_background_color": null,
+            "ups": 58,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_15kd4d",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "gjgr517pewff1",
+                  "id": 716986046
+                },
+                {
+                  "media_id": "wj4w2vb2fwff1",
+                  "id": 716986047
+                },
+                {
+                  "media_id": "kxkn9umxewff1",
+                  "id": 716986048
+                },
+                {
+                  "media_id": "ntu2cxwiewff1",
+                  "id": 716986049
+                },
+                {
+                  "media_id": "ax8700xiewff1",
+                  "id": 716986050
+                },
+                {
+                  "media_id": "lex8nqwiewff1",
+                  "id": 716986051
+                },
+                {
+                  "media_id": "acxqsuwiewff1",
+                  "id": 716986052
+                },
+                {
+                  "media_id": "s7p75twiewff1",
+                  "id": 716986053
+                },
+                {
+                  "media_id": "1p1dk2xiewff1",
+                  "id": 716986054
+                },
+                {
+                  "media_id": "adea0wwiewff1",
+                  "id": 716986055
+                },
+                {
+                  "media_id": "yof4zxwiewff1",
+                  "id": 716986056
+                },
+                {
+                  "media_id": "ejyq00xiewff1",
+                  "id": 716986057
+                },
+                {
+                  "media_id": "z7pj58xiewff1",
+                  "id": 716986058
+                },
+                {
+                  "media_id": "16laa8fzewff1",
+                  "id": 716986059
+                }
+              ]
+            },
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 58,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/3wFSGxs0og7hUYyLF8nuoy2CBvu34JQ_m2cRe7ujEoc.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753832160,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://huggingface.co/Tesslate/UIGEN-X-4B-0729\"&gt;https://huggingface.co/Tesslate/UIGEN-X-4B-0729&lt;/a&gt; 4B model that does reasoning for Design. We also released a 32B earlier in the week. &lt;/p&gt;\n\n&lt;p&gt;As per the last post -&amp;gt;&lt;br/&gt;\nSpecifically trained for modern web and mobile development across frameworks like React (Next.js, Remix, Gatsby, Vite), Vue (Nuxt, Quasar), Angular (Angular CLI, Ionic), and SvelteKit, along with Solid.js, Qwik, Astro, and static site tools like 11ty and Hugo. Styling options include Tailwind CSS, CSS-in-JS (Styled Components, Emotion), and full design systems like Carbon and Material UI. We cover UI libraries for every framework React (shadcn/ui, Chakra, Ant Design), Vue (Vuetify, PrimeVue), Angular, and Svelte plus headless solutions like Radix UI. State management spans Redux, Zustand, Pinia, Vuex, NgRx, and universal tools like MobX and XState. For animation, we support Framer Motion, GSAP, and Lottie, with icons from Lucide, Heroicons, and more. Beyond web, we enable React Native, Flutter, and Ionic for mobile, and Electron, Tauri, and Flutter Desktop for desktop apps. Python integration includes Streamlit, Gradio, Flask, and FastAPI. All backed by modern build tools, testing frameworks, and support for 26+ languages and UI approaches, including JavaScript, TypeScript, Dart, HTML5, CSS3, and component-driven architectures.&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re looking for some beta testers for some new models and open source projects!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mcr64f",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mcr64f",
+            "is_robot_indexable": true,
+            "num_duplicates": 1,
+            "report_reasons": null,
+            "author": "smirkishere",
+            "discussion_type": null,
+            "num_comments": 11,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mcr64f",
+            "subreddit_subscribers": 506711,
+            "created_utc": 1753832160,
+            "num_crossposts": 1,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5w0omx",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": false,
+                      "author": "Realistic-Mix-7913",
+                      "can_mod_post": false,
+                      "created_utc": 1753833050,
+                      "send_replies": true,
+                      "parent_id": "t1_n5w0fq4",
+                      "score": 9,
+                      "author_fullname": "t2_ttg864as",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Yeah, Gemma and Qwen at those sizes are both quite decent",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5w0omx",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, Gemma and Qwen at those sizes are both quite decent&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mcr64f",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w0omx/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753833050,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 9
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5w0fq4",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "Revolutionalredstone",
+            "can_mod_post": false,
+            "created_utc": 1753832966,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 16,
+            "author_fullname": "t2_6crrj",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "This is new, something has changed in the 4B scene.\n\n4B models were garbage even just a few months ago.\n\nSeems the small models are getting much much better.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5w0fq4",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is new, something has changed in the 4B scene.&lt;/p&gt;\n\n&lt;p&gt;4B models were garbage even just a few months ago.&lt;/p&gt;\n\n&lt;p&gt;Seems the small models are getting much much better.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w0fq4/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753832966,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 16
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5vymjt",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "smirkishere",
+            "can_mod_post": false,
+            "created_utc": 1753832369,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 10,
+            "author_fullname": "t2_15kd4d",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Hey! Just to be transparent: We have our model to be posted here with sample prompts and outputs. [https://uigenoutput.tesslate.com/uigen-x-4b-0729](https://uigenoutput.tesslate.com/uigen-x-4b-0729) \n\nShare me your favorite ones!",
+            "edited": 1753833337,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5vymjt",
+            "is_submitter": true,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hey! Just to be transparent: We have our model to be posted here with sample prompts and outputs. &lt;a href=\"https://uigenoutput.tesslate.com/uigen-x-4b-0729\"&gt;https://uigenoutput.tesslate.com/uigen-x-4b-0729&lt;/a&gt; &lt;/p&gt;\n\n&lt;p&gt;Share me your favorite ones!&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5vymjt/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753832369,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 10
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5vz2eh",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "FunnyAsparagus1253",
+            "can_mod_post": false,
+            "created_utc": 1753832514,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 3,
+            "author_fullname": "t2_i6c8tay3w",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Interesting model!",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5vz2eh",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Interesting model!&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5vz2eh/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753832514,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5w364y",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "o5mfiHTNsH748KVq",
+            "can_mod_post": false,
+            "created_utc": 1753833886,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 3,
+            "author_fullname": "t2_e11zi",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Giving it a go. Going to try the 32B one too.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5w364y",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Giving it a go. Going to try the 32B one too.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": true,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w364y/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753833886,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5w9av2",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "FullstackSensei",
+                      "can_mod_post": false,
+                      "created_utc": 1753836007,
+                      "send_replies": true,
+                      "parent_id": "t1_n5w2qzg",
+                      "score": 1,
+                      "author_fullname": "t2_17n3nqtj56",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "This is a fine tuned version of Qwen 3...",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5w9av2",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is a fine tuned version of Qwen 3...&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mcr64f",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w9av2/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753836007,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5w2qzg",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "redditisunproductive",
+            "can_mod_post": false,
+            "created_utc": 1753833744,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 3,
+            "author_fullname": "t2_19353jsswd",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I hope more people train specialized small models like this. Finetuning, from what I gather, isn't very useful versus full training for complex single-domain performance like here.\n\nMy personal number one wishlist is an agentic backbone that just understands and routes tasks, manage files, and all the slow brainless stuff that Claude Code wastes time on. Everything but the coding. Puppeteer or Win gui use would be the cherry on top.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5w2qzg",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I hope more people train specialized small models like this. Finetuning, from what I gather, isn&amp;#39;t very useful versus full training for complex single-domain performance like here.&lt;/p&gt;\n\n&lt;p&gt;My personal number one wishlist is an agentic backbone that just understands and routes tasks, manage files, and all the slow brainless stuff that Claude Code wastes time on. Everything but the coding. Puppeteer or Win gui use would be the cherry on top.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w2qzg/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753833744,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5w73pw",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Blahblahblakha",
+            "can_mod_post": false,
+            "created_utc": 1753835237,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": 1,
+            "author_fullname": "t2_5lbg30ew",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Looks awesome! Going to test it out.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5w73pw",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Looks awesome! Going to test it out.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w73pw/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753835237,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5w4f5x",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "grabber4321",
+                      "can_mod_post": false,
+                      "created_utc": 1753834313,
+                      "send_replies": true,
+                      "parent_id": "t1_n5w45ee",
+                      "score": 1,
+                      "author_fullname": "t2_1180s0gl",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Oh I see: [https://ollama.com/search?q=UIGEN](https://ollama.com/search?q=UIGEN)   \n  \nI'll check it out.\n\nIs there a specific stack it likes?",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5w4f5x",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh I see: &lt;a href=\"https://ollama.com/search?q=UIGEN\"&gt;https://ollama.com/search?q=UIGEN&lt;/a&gt;   &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ll check it out.&lt;/p&gt;\n\n&lt;p&gt;Is there a specific stack it likes?&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mcr64f",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w4f5x/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753834313,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5wevrv",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "grabber4321",
+                      "can_mod_post": false,
+                      "created_utc": 1753837924,
+                      "send_replies": true,
+                      "parent_id": "t1_n5w45ee",
+                      "score": 1,
+                      "author_fullname": "t2_1180s0gl",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "I just tried this model:\nhttps://huggingface.co/mradermacher/UIGEN-X-8B-GGUF\n\nSo far not impressed.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5wevrv",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I just tried this model:\n&lt;a href=\"https://huggingface.co/mradermacher/UIGEN-X-8B-GGUF\"&gt;https://huggingface.co/mradermacher/UIGEN-X-8B-GGUF&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;So far not impressed.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mcr64f",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5wevrv/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753837924,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n5w45ee",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "grabber4321",
+            "can_mod_post": false,
+            "created_utc": 1753834221,
+            "send_replies": true,
+            "parent_id": "t3_1mcr64f",
+            "score": -1,
+            "author_fullname": "t2_1180s0gl",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I call fake news.\n\nBut would definitely like to check it out. How to use this on Ollama?",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5w45ee",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I call fake news.&lt;/p&gt;\n\n&lt;p&gt;But would definitely like to check it out. How to use this on Ollama?&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcr64f/4b_models_are_consistently_overlooked_runs/n5w45ee/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753834221,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcr64f",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

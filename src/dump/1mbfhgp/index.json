@@ -125,9 +125,9 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.97,
+            "upvote_ratio": 0.96,
             "author_flair_background_color": null,
-            "ups": 114,
+            "ups": 119,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -153,7 +153,7 @@
             },
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 114,
+            "score": 119,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -209,7 +209,7 @@
             "report_reasons": null,
             "author": "TKGaming_11",
             "discussion_type": null,
-            "num_comments": 28,
+            "num_comments": 29,
             "send_replies": false,
             "media": null,
             "contest_mode": false,
@@ -218,7 +218,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mbfhgp/early_glm_45_benchmarks_claiming_to_surpass_qwen/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mbfhgp",
-            "subreddit_subscribers": 506440,
+            "subreddit_subscribers": 506712,
             "created_utc": 1753707550,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -275,7 +275,93 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "after": null,
+                          "dist": null,
+                          "modhash": "",
+                          "geo_filter": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n5sbabx",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "Shadow-Amulet-Ambush",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n5m0cm1",
+                                "score": 1,
+                                "author_fullname": "t2_1loou9xu",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "Yeah Gemeni 2.5 is my least favorite out of the big 3 (openai, google, Anthropic) it was benchmaxed for sure.\n\nThe most novel thing about it is that it’s got google search and url context integration (not  the only one that has it, but it was always consistently good at that part for me) and that it’s free to use, including $300 of free api",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n5sbabx",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah Gemeni 2.5 is my least favorite out of the big 3 (openai, google, Anthropic) it was benchmaxed for sure.&lt;/p&gt;\n\n&lt;p&gt;The most novel thing about it is that it’s got google search and url context integration (not  the only one that has it, but it was always consistently good at that part for me) and that it’s free to use, including $300 of free api&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1mbfhgp",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1mbfhgp/early_glm_45_benchmarks_claiming_to_surpass_qwen/n5sbabx/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753794178,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1753794178,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "n5m0cm1",
@@ -503,7 +589,7 @@
             "created_utc": 1753710698,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": 28,
+            "score": 31,
             "author_fullname": "t2_ah13x",
             "approved_by": null,
             "mod_note": null,
@@ -550,7 +636,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 28
+            "ups": 31
           }
         },
         {
@@ -658,7 +744,7 @@
             "created_utc": 1753721119,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": 9,
+            "score": 10,
             "author_fullname": "t2_1b9gox1vsw",
             "approved_by": null,
             "mod_note": null,
@@ -700,7 +786,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
@@ -733,7 +819,7 @@
             "created_utc": 1753733018,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_syq52",
             "approved_by": null,
             "mod_note": null,
@@ -775,7 +861,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -876,7 +962,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5mq2lj",
-                                          "score": 8,
+                                          "score": 11,
                                           "author_fullname": "t2_j1v7f",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -919,7 +1005,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 8
+                                          "ups": 11
                                         }
                                       },
                                       {
@@ -1014,7 +1100,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5m28tl",
-                                "score": 6,
+                                "score": 7,
                                 "author_fullname": "t2_1j9oxxzd6c",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1057,7 +1143,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             },
                             {
@@ -1422,7 +1508,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5m28tl",
-                                "score": -3,
+                                "score": -2,
                                 "author_fullname": "t2_1tbils8tdw",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1465,7 +1551,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -3
+                                "ups": -2
                               }
                             },
                             {
@@ -1642,7 +1728,7 @@
                       "created_utc": 1753712258,
                       "send_replies": true,
                       "parent_id": "t1_n5m1h78",
-                      "score": 11,
+                      "score": 12,
                       "author_fullname": "t2_anslobe6",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1684,7 +1770,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 12
                     }
                   }
                 ],
@@ -1705,7 +1791,7 @@
             "created_utc": 1753712025,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": 9,
+            "score": 10,
             "author_fullname": "t2_1er159f32z",
             "approved_by": null,
             "mod_note": null,
@@ -1747,7 +1833,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
@@ -2177,7 +2263,7 @@
             "created_utc": 1753727209,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": 0,
+            "score": 1,
             "author_fullname": "t2_oy3c84euj",
             "approved_by": null,
             "mod_note": null,
@@ -2219,7 +2305,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -2470,7 +2556,7 @@
                       "created_utc": 1753711768,
                       "send_replies": true,
                       "parent_id": "t1_n5lsqin",
-                      "score": -7,
+                      "score": -5,
                       "author_fullname": "t2_i3y6jzfhp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2512,7 +2598,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -7
+                      "ups": -5
                     }
                   }
                 ],
@@ -2526,19 +2612,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": null,
+            "collapsed_reason_code": "LOW_SCORE",
             "no_follow": true,
             "author": "Kathane37",
             "can_mod_post": false,
             "created_utc": 1753709272,
             "send_replies": true,
             "parent_id": "t3_1mbfhgp",
-            "score": -4,
+            "score": -5,
             "author_fullname": "t2_91nqzv8x",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": false,
+            "collapsed": true,
             "body": "How can it be already bench ?\nWasn’t qwen released last week ?",
             "edited": false,
             "top_awarded_type": null,
@@ -2550,7 +2636,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How can it be already bench ?\nWasn’t qwen released last week ?&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": null,
+            "collapsed_reason": "comment score below threshold",
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -2575,7 +2661,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -4
+            "ups": -5
           }
         }
       ],
