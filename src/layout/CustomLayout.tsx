@@ -10060,6 +10060,126 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mcsrls',
         name: 'ChatGPT stopped lying to me when I started treating it like a scared kid',
       },
+      {
+        path: '/1mcuziy',
+        name: 'Fine-tuning LLaMA with LoRA for document parsing (invoices with varying layouts)?',
+      },
+      {
+        path: '/1mcv2w9',
+        name: 'SOTA multilingual TTS with zero-shot voice cloning and speaking style control',
+      },
+      {
+        path: '/1mcv5b0',
+        name: 'Sooo ASI might already be running',
+      },
+      {
+        path: '/1mcva93',
+        name: 'Anyone knows where can I find the latest NVIDIA TPU test for the total throughput tokens for any size model',
+      },
+      {
+        path: '/1mcvc46',
+        name: 'GLM-4.5 Air on 64gb Mac with MLX',
+      },
+      {
+        path: '/1mcw1sl',
+        name: 'GLM 4.5 Air Tool Calling Issues In LM Studio',
+      },
+      {
+        path: '/1mcwfxh',
+        name: 'Fireship-style youtube channel but for ai news?',
+      },
+      {
+        path: '/1mcx681',
+        name: 'Make text LLMs listen and speak',
+      },
+      {
+        path: '/1mcxdiu',
+        name: 'New, faster SoftMax math makes Llama inference faster by 5%',
+      },
+      {
+        path: '/1mcxy74',
+        name: 'Quick censorship test of Qwen3-30B, failed :(. What other checks have you found valuble?',
+      },
+      {
+        path: '/1mcy7y2',
+        name: 'Question on tiny models (&lt;5B parameter size)',
+      },
+      {
+        path: '/1mcyrgb',
+        name: 'Nemotron super 49b running on Apple Silicon',
+      },
+      {
+        path: '/1mcz2pu',
+        name: 'Tests failures',
+      },
+      {
+        path: '/1mcz4jq',
+        name: 'Stuck with Sesame CSM 1b in windows...',
+      },
+      {
+        path: '/1mcz8sc',
+        name: 'What is the best method for LLM to improve competency in a specific domain?',
+      },
+      {
+        path: '/1mczdbb',
+        name: 'What\'s the best TTS model to run locally? That\'s relatively quick and close to C.ai capabilities',
+      },
+      {
+        path: '/1mczdxa',
+        name: 'Best Inference Server for Large Vram',
+      },
+      {
+        path: '/1md00oc',
+        name: 'Kudos to Qwen 3 team!',
+      },
+      {
+        path: '/1md0ech',
+        name: 'Local Lipsync Model For Electron',
+      },
+      {
+        path: '/1md0ejq',
+        name: 'Newest Qwrn 30B double answers',
+      },
+      {
+        path: '/1md0gfh',
+        name: 'RTX 5090 form INNO3D 1 slot with Alphacool-waterkoeling look perfect for local AI machines',
+      },
+      {
+        path: '/1md1fka',
+        name: 'Benchmark: 15 STT models on long-form medical dialogue',
+      },
+      {
+        path: '/1md1m8u',
+        name: 'Self hosting n8n',
+      },
+      {
+        path: '/1md1md1',
+        name: 'CPU server specs',
+      },
+      {
+        path: '/1md1piz',
+        name: 'QWEN3-235b-8b',
+      },
+      {
+        path: '/1md2k1b',
+        name: 'Cooling 4× Tesla P40 with 2×140 mm push‑pull + mITX homelab — airflow &amp; power sanity check',
+      },
+      {
+        path: '/1md2ul2',
+        name: 'i got this. I\'m new to AI stuff — is there any model I can run, and how',
+      },
+      {
+        path: '/1md463z',
+        name: 'Help with deepseek',
+      },
+      {
+        path: '/1md4atg',
+        name: 'How is the quality of Sesame CSM TTS?',
+      },
+      {
+        path: '/1md4g25',
+        name: 'On the hunt for the best VLM 6B or smaller',
+      },
     ],
   },
   {

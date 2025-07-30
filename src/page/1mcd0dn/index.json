@@ -125,7 +125,7 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.49,
+            "upvote_ratio": 0.46,
             "author_flair_background_color": null,
             "ups": 0,
             "domain": "reddit.com",
@@ -220,7 +220,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mcd0dn/we_used_qwen3coder_via_netminds_api_to_build_a_2d/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mcd0dn",
-            "subreddit_subscribers": 506711,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753799495,
             "num_crossposts": 2,
             "mod_reports": [],
@@ -355,7 +355,7 @@
             "created_utc": 1753799702,
             "send_replies": true,
             "parent_id": "t3_1mcd0dn",
-            "score": 14,
+            "score": 15,
             "author_fullname": "t2_pmniwf57y",
             "approved_by": null,
             "mod_note": null,
@@ -397,7 +397,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 15
           }
         },
         {
@@ -453,7 +453,7 @@
                       "created_utc": 1753801444,
                       "send_replies": true,
                       "parent_id": "t1_n5swjfk",
-                      "score": 4,
+                      "score": 2,
                       "author_fullname": "t2_pmniwf57y",
                       "removal_reason": null,
                       "approved_by": null,
@@ -495,7 +495,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 2
                     }
                   },
                   {
@@ -821,7 +821,7 @@
             "created_utc": 1753801323,
             "send_replies": true,
             "parent_id": "t3_1mcd0dn",
-            "score": -6,
+            "score": -7,
             "author_fullname": "t2_1mz24a41z0",
             "approved_by": null,
             "mod_note": null,
@@ -863,7 +863,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -7
           }
         }
       ],

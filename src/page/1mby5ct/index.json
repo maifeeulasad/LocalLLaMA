@@ -36,10 +36,10 @@
             "name": "t3_1mby5ct",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.82,
+            "upvote_ratio": 0.83,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 18,
+            "ups": 19,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 18,
+            "score": 19,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mby5ct/qwen3_235b_2507_adding_its_own_questions_to_mine/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mby5ct/qwen3_235b_2507_adding_its_own_questions_to_mine/",
-            "subreddit_subscribers": 506712,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753751558,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -256,7 +256,7 @@
             "created_utc": 1753764497,
             "send_replies": true,
             "parent_id": "t3_1mby5ct",
-            "score": 11,
+            "score": 13,
             "author_fullname": "t2_edafqr22",
             "approved_by": null,
             "mod_note": null,
@@ -298,7 +298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 13
           }
         },
         {
@@ -916,13 +916,13 @@
                                                     "mod_reason_title": null,
                                                     "gilded": 0,
                                                     "archived": false,
-                                                    "collapsed_reason_code": null,
+                                                    "collapsed_reason_code": "LOW_SCORE",
                                                     "no_follow": true,
                                                     "author": "coolestmage",
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5tmuwv",
-                                                    "score": -2,
+                                                    "score": -6,
                                                     "author_fullname": "t2_6dtdz",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -938,7 +938,7 @@
                                                     "author_patreon_flair": false,
                                                     "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It happens with llama.cpp as well jackass. VLLM barely supports Radeon MI50&amp;#39;s even with custom forks, and you can&amp;#39;t combine gpu and cpu inference. Before opening your mouth try to learn something.&lt;/p&gt;\n&lt;/div&gt;",
                                                     "gildings": {},
-                                                    "collapsed_reason": null,
+                                                    "collapsed_reason": "comment score below threshold",
                                                     "link_id": "t3_1mby5ct",
                                                     "associated_award": null,
                                                     "stickied": false,
@@ -955,7 +955,7 @@
                                                     "report_reasons": null,
                                                     "created": 1753808225,
                                                     "author_flair_text": null,
-                                                    "collapsed": false,
+                                                    "collapsed": true,
                                                     "created_utc": 1753808225,
                                                     "subreddit_name_prefixed": "r/LocalLLaMA",
                                                     "controversiality": 0,
@@ -964,7 +964,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -2
+                                                    "ups": -6
                                                   }
                                                 }
                                               ],
@@ -1052,7 +1052,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5s5yeg",
-                                "score": 0,
+                                "score": -1,
                                 "author_fullname": "t2_6dtdz",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1095,7 +1095,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": -1
                               }
                             }
                           ],
@@ -1184,7 +1184,7 @@
             "created_utc": 1753762211,
             "send_replies": true,
             "parent_id": "t3_1mby5ct",
-            "score": 6,
+            "score": 4,
             "author_fullname": "t2_6dtdz",
             "approved_by": null,
             "mod_note": null,
@@ -1226,7 +1226,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -1873,7 +1873,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5qtjxz",
-                                "score": 5,
+                                "score": 6,
                                 "author_fullname": "t2_1hz0lz0k5i",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1916,7 +1916,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 6
                               }
                             }
                           ],
@@ -1937,7 +1937,7 @@
                       "created_utc": 1753767347,
                       "send_replies": true,
                       "parent_id": "t1_n5qmnlr",
-                      "score": 5,
+                      "score": 6,
                       "author_fullname": "t2_fmd6oq5v6",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1984,7 +1984,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 6
                     }
                   }
                 ],
