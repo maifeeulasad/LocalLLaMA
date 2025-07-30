@@ -36,10 +36,10 @@
             "name": "t3_1mcavlf",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.72,
+            "upvote_ratio": 0.71,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 5,
+            "ups": 7,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 5,
+            "score": 7,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "lavoid12",
             "discussion_type": null,
-            "num_comments": 34,
+            "num_comments": 35,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mcavlf/best_local_llm_hardware_build_for_coding_with_a/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mcavlf/best_local_llm_hardware_build_for_coding_with_a/",
-            "subreddit_subscribers": 506711,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753794225,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1753798448,
             "send_replies": true,
             "parent_id": "t3_1mcavlf",
-            "score": 16,
+            "score": 19,
             "author_fullname": "t2_x6e5t",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 19
           }
         },
         {
@@ -401,7 +401,7 @@
             "created_utc": 1753795057,
             "send_replies": true,
             "parent_id": "t3_1mcavlf",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_8llornh4",
             "approved_by": null,
             "mod_note": null,
@@ -443,7 +443,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -746,7 +746,7 @@
                       "created_utc": 1753799481,
                       "send_replies": true,
                       "parent_id": "t1_n5se4l1",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_559a1",
                       "removal_reason": null,
                       "approved_by": null,
@@ -788,7 +788,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   }
                 ],
@@ -1229,7 +1229,7 @@
                       "created_utc": 1753800846,
                       "send_replies": true,
                       "parent_id": "t1_n5sclk5",
-                      "score": 2,
+                      "score": 1,
                       "author_fullname": "t2_p7nc2",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1271,7 +1271,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 1
                     }
                   },
                   {
@@ -1558,7 +1558,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n5sz1kp",
-                                                              "score": 0,
+                                                              "score": -1,
                                                               "author_fullname": "t2_1tpuoj72sa",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -1600,7 +1600,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 0
+                                                              "ups": -1
                                                             }
                                                           }
                                                         ],
@@ -1676,19 +1676,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "GPTrack_ai",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5swnyw",
-                                          "score": -4,
+                                          "score": -7,
                                           "author_fullname": "t2_1tpuoj72sa",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "nobody forced apple to aggreesivly put their MAP logo in everbody's face. at least there are people who would never give a single dime to such an disgracful company. Regarding the technical side: Nvidia is the gold standard. if you cannot afford bying that, you need to rent it.",
                                           "edited": false,
                                           "top_awarded_type": null,
@@ -1700,7 +1700,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;nobody forced apple to aggreesivly put their MAP logo in everbody&amp;#39;s face. at least there are people who would never give a single dime to such an disgracful company. Regarding the technical side: Nvidia is the gold standard. if you cannot afford bying that, you need to rent it.&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -1725,7 +1725,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -4
+                                          "ups": -7
                                         }
                                       }
                                     ],
@@ -2256,19 +2256,19 @@
                                           "mod_reason_title": null,
                                           "gilded": 0,
                                           "archived": false,
-                                          "collapsed_reason_code": null,
+                                          "collapsed_reason_code": "LOW_SCORE",
                                           "no_follow": true,
                                           "author": "GPTrack_ai",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5sukk8",
-                                          "score": -4,
+                                          "score": -5,
                                           "author_fullname": "t2_1tpuoj72sa",
                                           "removal_reason": null,
                                           "approved_by": null,
                                           "mod_note": null,
                                           "all_awardings": [],
-                                          "collapsed": false,
+                                          "collapsed": true,
                                           "body": "IMHO nobody should give money to people who harm children. No matter what. if you can't afford buying Nvidua, you need to rent it.",
                                           "edited": false,
                                           "top_awarded_type": null,
@@ -2280,7 +2280,7 @@
                                           "author_patreon_flair": false,
                                           "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;IMHO nobody should give money to people who harm children. No matter what. if you can&amp;#39;t afford buying Nvidua, you need to rent it.&lt;/p&gt;\n&lt;/div&gt;",
                                           "gildings": {},
-                                          "collapsed_reason": null,
+                                          "collapsed_reason": "comment score below threshold",
                                           "distinguished": null,
                                           "associated_award": null,
                                           "stickied": false,
@@ -2305,7 +2305,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -4
+                                          "ups": -5
                                         }
                                       }
                                     ],
@@ -2389,7 +2389,7 @@
                       "created_utc": 1753799293,
                       "send_replies": true,
                       "parent_id": "t1_n5sclk5",
-                      "score": -7,
+                      "score": -9,
                       "author_fullname": "t2_1tpuoj72sa",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2431,7 +2431,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -7
+                      "ups": -9
                     }
                   }
                 ],

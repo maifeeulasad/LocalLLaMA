@@ -36,7 +36,7 @@
             "name": "t3_1mci1dy",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.33,
+            "upvote_ratio": 0.32,
             "author_flair_background_color": null,
             "ups": 0,
             "total_awards_received": 0,
@@ -154,7 +154,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mci1dy/so_whats_next/",
             "stickied": false,
             "url": "https://i.redd.it/c7o0g0tvmuff1.png",
-            "subreddit_subscribers": 506711,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753810751,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -393,7 +393,7 @@
                       "created_utc": 1753811881,
                       "send_replies": true,
                       "parent_id": "t1_n5tzuj4",
-                      "score": 1,
+                      "score": 0,
                       "author_fullname": "t2_1t2xvghrcr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -435,7 +435,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 0
                     }
                   }
                 ],
@@ -456,7 +456,7 @@
             "created_utc": 1753811590,
             "send_replies": true,
             "parent_id": "t3_1mci1dy",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_ixeagk4w",
             "approved_by": null,
             "mod_note": null,
@@ -498,7 +498,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {

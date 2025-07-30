@@ -107,7 +107,7 @@
             "report_reasons": null,
             "author": "ApprehensiveDuck2382",
             "discussion_type": null,
-            "num_comments": 6,
+            "num_comments": 7,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mckboq/qwen3_coder_vs_deepseek_r1_0528_for_agentic_coding/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mckboq/qwen3_coder_vs_deepseek_r1_0528_for_agentic_coding/",
-            "subreddit_subscribers": 506712,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753815815,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -150,7 +150,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n5xlp6z",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "ApprehensiveDuck2382",
+                      "can_mod_post": false,
+                      "created_utc": 1753855710,
+                      "send_replies": true,
+                      "parent_id": "t1_n5uhzo5",
+                      "score": 1,
+                      "author_fullname": "t2_vw066zuw",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "I don't have the hardware to run these models locally. My interest is just in having a much cheaper alternative to Gemini and Claude, which were decimating my savings.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n5xlp6z",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t have the hardware to run these models locally. My interest is just in having a much cheaper alternative to Gemini and Claude, which were decimating my savings.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mckboq",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mckboq/qwen3_coder_vs_deepseek_r1_0528_for_agentic_coding/n5xlp6z/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753855710,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n5uhzo5",
@@ -159,13 +245,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "segmond",
             "can_mod_post": false,
             "created_utc": 1753816638,
             "send_replies": true,
             "parent_id": "t3_1mckboq",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_ah13x",
             "approved_by": null,
             "mod_note": null,
@@ -212,7 +298,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -245,7 +331,7 @@
             "created_utc": 1753819055,
             "send_replies": true,
             "parent_id": "t3_1mckboq",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_98ouo03z",
             "approved_by": null,
             "mod_note": null,
@@ -287,7 +373,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -320,7 +406,7 @@
             "created_utc": 1753825328,
             "send_replies": true,
             "parent_id": "t3_1mckboq",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_6ox5x11a",
             "approved_by": null,
             "mod_note": null,
@@ -362,7 +448,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -440,7 +526,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5us8vm",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_cbxyn",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -483,7 +569,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -567,7 +653,7 @@
             "created_utc": 1753817481,
             "send_replies": true,
             "parent_id": "t3_1mckboq",
-            "score": 0,
+            "score": 1,
             "author_fullname": "t2_cbxyn",
             "approved_by": null,
             "mod_note": null,
@@ -609,7 +695,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         }
       ],

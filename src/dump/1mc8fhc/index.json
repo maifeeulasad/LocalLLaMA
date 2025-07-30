@@ -36,10 +36,10 @@
             "name": "t3_1mc8fhc",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.84,
+            "upvote_ratio": 0.86,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 22,
+            "ups": 30,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 22,
+            "score": 30,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -103,7 +103,7 @@
             "link_flair_background_color": "#646d73",
             "id": "1mc8fhc",
             "is_robot_indexable": true,
-            "num_duplicates": 0,
+            "num_duplicates": 2,
             "report_reasons": null,
             "author": "ModeSquare8129",
             "discussion_type": null,
@@ -116,9 +116,9 @@
             "permalink": "/r/LocalLLaMA/comments/1mc8fhc/lets_build_a_garage_ai_supercomputer_a_p2p/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mc8fhc/lets_build_a_garage_ai_supercomputer_a_p2p/",
-            "subreddit_subscribers": 506711,
+            "subreddit_subscribers": 506973,
             "created_utc": 1753786996,
-            "num_crossposts": 0,
+            "num_crossposts": 3,
             "mod_reports": [],
             "is_video": false
           }
@@ -440,7 +440,7 @@
                       "created_utc": 1753796936,
                       "send_replies": true,
                       "parent_id": "t1_n5saolv",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_6bm8s1wm",
                       "removal_reason": null,
                       "approved_by": null,
@@ -482,7 +482,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   }
                 ],
@@ -503,7 +503,7 @@
             "created_utc": 1753793971,
             "send_replies": true,
             "parent_id": "t3_1mc8fhc",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_982y1bm",
             "approved_by": null,
             "mod_note": null,
@@ -550,7 +550,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "created_utc": 1753790479,
             "send_replies": true,
             "parent_id": "t3_1mc8fhc",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_17n3nqtj56",
             "approved_by": null,
             "mod_note": null,
@@ -1221,7 +1221,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
