@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hello all,\n\nI am a novice vibe coder. I was deeply interested in running a Bitnet model over the web. Thus I vibe coded a kernel and a conversion script for Bitnet 1.58 bit. \n\nThe example I used to give it a try was WebGPU_Chat (see examples folder)\n\nhttps://github.com/nimishchaudhari/bitnet_transformers.js/pull/1\n\nI am looking for reviews of people capable of understanding things under the hood, and looking for contributors as well for this purpose.  \n\nThanks in advance for your time and attention :)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Review request on Bitnet implementation on transformer.js",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mcif2t",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 5,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_871guq2y",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 5,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753811588,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello all,&lt;/p&gt;\n\n&lt;p&gt;I am a novice vibe coder. I was deeply interested in running a Bitnet model over the web. Thus I vibe coded a kernel and a conversion script for Bitnet 1.58 bit. &lt;/p&gt;\n\n&lt;p&gt;The example I used to give it a try was WebGPU_Chat (see examples folder)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/nimishchaudhari/bitnet_transformers.js/pull/1\"&gt;https://github.com/nimishchaudhari/bitnet_transformers.js/pull/1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I am looking for reviews of people capable of understanding things under the hood, and looking for contributors as well for this purpose.  &lt;/p&gt;\n\n&lt;p&gt;Thanks in advance for your time and attention :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?auto=webp&amp;s=793ed225c6021b81349ae8efe47b5aa798da8f21",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=600a55db6af30e74eee873e1ac9f6fe21ae0f46d",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d1c0d4d82fc391c9e4971c922ffaf7f6c36bfd51",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff45b5974157505593476dbae1023f353acfdd17",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6549a80679aa33c8520c4dbc11379199a047e808",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ae11b2ae1380b9267c9576de7fd6c6b2b7407f4e",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=87a7eb66e5a41099a27928c1190384e0f1df18fc",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "QKP5yGhNzgfc3KZ-GswZotmq6T3NbcgCKgb2zMqKL5M"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mcif2t",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "ScoreUnique",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mcif2t/review_request_on_bitnet_implementation_on/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mcif2t/review_request_on_bitnet_implementation_on/",
+            "subreddit_subscribers": 506711,
+            "created_utc": 1753811588,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

@@ -9812,6 +9812,254 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mc9sk0',
         name: '🌟 Ming-lite-omni v1.5 is here! Our recent upgrade for omni-modal AI! 🚀',
       },
+      {
+        path: '/1mca20c',
+        name: 'Dual CPU setup for the Qwen3 255b a22b 2507',
+      },
+      {
+        path: '/1mcatlt',
+        name: 'Creating a High Quality Dataset for Instruction Fine-Tuning',
+      },
+      {
+        path: '/1mcavlf',
+        name: 'Best Local LLM + Hardware Build for Coding With a $15k Budget (2025)',
+      },
+      {
+        path: '/1mccxrt',
+        name: 'How do I chunk down a long video to prepare as dataset for fine-tunining a TTS?',
+      },
+      {
+        path: '/1mcd0dn',
+        name: 'We used Qwen3-Coder via NetMind’s API to build a 2D Mario-style game in seconds (demo + setup guide)',
+      },
+      {
+        path: '/1mcd2uw',
+        name: 'Tagging 50 million assets \'quickly\' - thoughts?',
+      },
+      {
+        path: '/1mcdlxc',
+        name: 'Getting an ImportError on OpenVoice V2',
+      },
+      {
+        path: '/1mcdypn',
+        name: 'How can I deploy model to served my own web app using my own machine',
+      },
+      {
+        path: '/1mce7wo',
+        name: 'Rate my project!',
+      },
+      {
+        path: '/1mce901',
+        name: 'Beginner-Friendly Guide to AWS Strands Agents',
+      },
+      {
+        path: '/1mce934',
+        name: 'My Honest Take on Recently Popular Open Models (A Realistic Assessment)',
+      },
+      {
+        path: '/1mce9tt',
+        name: 'zai-org/GLM-4.5 · We Have Gemini At Home',
+      },
+      {
+        path: '/1mcee42',
+        name: 'My 2.5 year old laptop can write Space Invaders in JavaScript now, using GLM-4.5 Air and MLX',
+      },
+      {
+        path: '/1mcemfm',
+        name: 'AI tool/model/prompt (preferably local and free) that can evaluate video meeting content and provide feedback on tone, mood, body language?',
+      },
+      {
+        path: '/1mceq8m',
+        name: 'Has anyone profiled the expert specialization in MoE models like Qwen3-30B-A3B?',
+      },
+      {
+        path: '/1mcfmd2',
+        name: 'Qwen/Qwen3-30B-A3B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1mcfuka',
+        name: 'Qwen/Qwen3-30B-A3B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1mcg4qt',
+        name: '🚀 Qwen3-30B-A3B Small Update',
+      },
+      {
+        path: '/1mcgfnh',
+        name: 'Seeking a Local/Offline Speech-to-Text with System-Wide \'Type Anywhere\' Dictation',
+      },
+      {
+        path: '/1mcgguo',
+        name: 'Any experiences with the Codex Open-Source Fund?',
+      },
+      {
+        path: '/1mcgpno',
+        name: 'No stress',
+      },
+      {
+        path: '/1mchj7h',
+        name: 'AFM 4.5B',
+      },
+      {
+        path: '/1mchmfa',
+        name: 'What MCP server do you use to get YouTube video transcription (I\'m tired of failing)',
+      },
+      {
+        path: '/1mchsyd',
+        name: '[tutorial] Use GLM 4.5 (or any LLM) with Claude Code',
+      },
+      {
+        path: '/1mci1dy',
+        name: 'so.... what\'s next?',
+      },
+      {
+        path: '/1mci7uu',
+        name: 'Newest Qwen made me cry. It\'s not perfect, but I still love it.',
+      },
+      {
+        path: '/1mcif2t',
+        name: 'Review request on Bitnet implementation on transformer.js',
+      },
+      {
+        path: '/1mcilar',
+        name: 'ollama ps in LM Studio',
+      },
+      {
+        path: '/1mciotj',
+        name: 'Looking for a small model and hosting for conversational Agent.',
+      },
+      {
+        path: '/1mcj1q1',
+        name: 'Self hosting llm  on a budget',
+      },
+      {
+        path: '/1mcjaau',
+        name: 'Llama and Whisper AI Desktop Assistant',
+      },
+      {
+        path: '/1mcji8s',
+        name: 'Qwen3-30b-3ab-2507 is a beast for MCP usage!',
+      },
+      {
+        path: '/1mcjwmv',
+        name: 'Maverick FP8 repetition issue',
+      },
+      {
+        path: '/1mcjyp5',
+        name: 'Open‑Source LLM Energy &amp; Carbon Cost Calculator',
+      },
+      {
+        path: '/1mcjz8j',
+        name: 'One year’s benchmark progress: comparing Sonnet 3.5 with open weight 2025 non-thinking models',
+      },
+      {
+        path: '/1mck6o7',
+        name: 'NVIDIA Llama Nemotron Super v1.5 is #1 on Artificial Analysis Intelligence Index for the 70B Open Model Category.',
+      },
+      {
+        path: '/1mckboq',
+        name: 'Qwen3 Coder vs. DeepSeek R1 0528 for Agentic Coding',
+      },
+      {
+        path: '/1mckrn1',
+        name: 'Mediocre local LLM user -- tips?',
+      },
+      {
+        path: '/1mcl15k',
+        name: 'Qwen 1.7B tool calling across Android on Pixel 9 and S22',
+      },
+      {
+        path: '/1mcl17g',
+        name: 'Running GGUF models with TP',
+      },
+      {
+        path: '/1mcligh',
+        name: 'Notebook, AI Max+ 395 vs nvidia vs m4',
+      },
+      {
+        path: '/1mcmbfo',
+        name: 'I built a new open-source RL environment framework for LLM finetuning',
+      },
+      {
+        path: '/1mcmbyt',
+        name: 'Supervised Fine Tuning on Curated Data is Reinforcement Learning',
+      },
+      {
+        path: '/1mcmt07',
+        name: 'How do you provide negative examples to the LLM API?',
+      },
+      {
+        path: '/1mcn8dx',
+        name: 'Which model should I use - build a nutrition label scanner in React Native',
+      },
+      {
+        path: '/1mcnhtc',
+        name: 'Docker Model Runner is going to steal your girl’s inference.',
+      },
+      {
+        path: '/1mcnq7r',
+        name: 'AMD Ryzen AI Max+ Upgraded: Run up to 128 Billion parameter LLMs on Windows with LM Studio',
+      },
+      {
+        path: '/1mco449',
+        name: 'Lemonade: I\'m hyped about the speed of the new Qwen3-30B-A3B-Instruct-2507 on Radeon 9070 XT',
+      },
+      {
+        path: '/1mcoce7',
+        name: 'AMD\'s Ryzen AI MAX+ Processors Now Offer a Whopping 96 GB Memory for Consumer Graphics, Allowing Gigantic 128B-Parameter LLMs to Run Locally on PCs',
+      },
+      {
+        path: '/1mcoou9',
+        name: 'Could two decoder‑only models communicate directly via latent outputs and translate each other?',
+      },
+      {
+        path: '/1mcp4lj',
+        name: 'Golang based whisper.cpp wrapper CLI with intention to expand to speaker diarization and more',
+      },
+      {
+        path: '/1mcp7dp',
+        name: 'GLM-4.5 on fiction.livebench',
+      },
+      {
+        path: '/1mcpxr4',
+        name: 'CORSAIR Unveils AI Workstation 300, Starting At $1599, Boasting Ryzen AI Max+ 395 Processor And Up To 128 GB LPDDR5X Memory',
+      },
+      {
+        path: '/1mcq1cs',
+        name: 'Who are you, GLM?',
+      },
+      {
+        path: '/1mcq5tj',
+        name: 'CloudToLocalLLM - A Flutter-built Tool for Local LLM and Cloud Integration',
+      },
+      {
+        path: '/1mcqlv7',
+        name: 'How many GPUs do you run and what model(s) do you use.',
+      },
+      {
+        path: '/1mcqr9w',
+        name: 'First time an LLM has written a funny joke for me',
+      },
+      {
+        path: '/1mcqrwh',
+        name: 'RL Library for Multi-Trainable-Agents',
+      },
+      {
+        path: '/1mcr64f',
+        name: '4B models are consistently overlooked. Runs Locally and Crushes It. Reasoning for UI, Mobile, Software and Frontend design.',
+      },
+      {
+        path: '/1mcrx23',
+        name: 'PSA: The new Threadripper PROs (9000 WX) are still CCD-Memory Bandwidth bottlenecked',
+      },
+      {
+        path: '/1mcsh69',
+        name: 'Trying to build a quoting tool',
+      },
+      {
+        path: '/1mcsrls',
+        name: 'ChatGPT stopped lying to me when I started treating it like a scared kid',
+      },
     ],
   },
   {
