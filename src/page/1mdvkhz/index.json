@@ -1,0 +1,395 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Big shout out to ikawrakow and his [https://github.com/ikawrakow/ik\\_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) for making my hardware relevant (and obviously Qwen team!) :)\n\nLooking forward to trying Thinker and Coder versions of this architecture\n\nhttps://preview.redd.it/9xttfh3026gf1.png?width=2216&amp;format=png&amp;auto=webp&amp;s=cc6e39266d0a94beb5dca73650dab93021bb7d32\n\nHardware: AMD Ryzen 9 8945HS(8C/16T, up to 5.2GHz) 64GB DDR5 1TB PCIe4.0 SSD, running in Ubuntu distrobox with Fedora Bluefin as a host. Also have eGPU with RTX 3060 12GB, but it was not used in benchmark.\n\nI tried CPU + CUDA separately - and the prompt processing speed would take a significant hit (many memory trips I guess). I did try to use the \"-ot exps\" trick to ensure correct layer split - but I think it is expected, as this is the cost of offloading.\n\n-fa -rtr -fmoe made prompt processing around 20-25% faster.\n\nModels of this architecture are very snappy in CPU mode, especially on smaller prompts - good feature for daily driver model. With longer contexts, processing speed drops significantly, so will require orchestration / workflows to prevent context from blowing up.\n\nVibes-wise, this model feels strong for something that runs on \"consumer\" hardware at these speeds.\n\n**What was tested:**\n\n1. General conversations - good enough, but to be honest almost every 4B+ model feels like an ok conversationalist - what a time to be alive, no?\n2. Code doc summarization: good. I fed it 16k-30k documents and while the speed was slow, the overall result was decent.\n3. Retrieval: gave it \\~10k tokens worth of logs and asked some questions about data that appeared in the logs - mostly good, but I would not call it laser-good.\n4. Coding + Tool calling in Zed  editor- it is obviously not Sonnet or GPT 4.1, but it really tries! I think with better prompting / fine-tuning it would crack it  - perhaps it's seen different tools during original training.\n\n**Can I squeeze more?:**\n\n1. Better use for GPU?\n2. Try other quants: there was a plethora of quants added in recent weeks - perhaps there is one that will push these numbers a little up.\n3. Try [https://github.com/kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) \\- they are known for optimized configs to run on RAM + relatively low amount of VRAM - but I failed to make it work locally and didn't find an up-to-date docker image either. I would imagine it's not gonna yield significant improvements, but happy to be proven wrong.\n4. IGPU + Vulcan?\n5. NPU xD\n6. Test full context (or the largest context that does not take eternity to process)\n\nWhat's your experience / recipe for similarly-sized hardware setup?",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "ik_llama.cpp and Qwen 3 30B-A3B architecture.",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "9xttfh3026gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 8,
+                    "x": 108,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=64da390049462da724ef33b554e35e5af910f2fc"
+                  },
+                  {
+                    "y": 17,
+                    "x": 216,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=4fa51266266dc0617403d5b159742a96b76aeb4e"
+                  },
+                  {
+                    "y": 26,
+                    "x": 320,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a810e197bb579a53a220784638351bfab4c404e8"
+                  },
+                  {
+                    "y": 53,
+                    "x": 640,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b383e5850d9f6460d0d78005d33a16b6eb83ca7e"
+                  },
+                  {
+                    "y": 79,
+                    "x": 960,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=cad82ae247fac266e089462ff653d2dbe54aad89"
+                  },
+                  {
+                    "y": 89,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/9xttfh3026gf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6b0837b8dab1247af048324a0e4443983bc57010"
+                  }
+                ],
+                "s": {
+                  "y": 184,
+                  "x": 2216,
+                  "u": "https://preview.redd.it/9xttfh3026gf1.png?width=2216&amp;format=png&amp;auto=webp&amp;s=cc6e39266d0a94beb5dca73650dab93021bb7d32"
+                },
+                "id": "9xttfh3026gf1"
+              }
+            },
+            "name": "t3_1mdvkhz",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.8,
+            "author_flair_background_color": null,
+            "ups": 11,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_9f1c1mb6",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 11,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=4979726165f841523ca44a3f838520e194c3a3f3",
+            "edited": 1753949561,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1753948642,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Big shout out to ikawrakow and his &lt;a href=\"https://github.com/ikawrakow/ik_llama.cpp\"&gt;https://github.com/ikawrakow/ik_llama.cpp&lt;/a&gt; for making my hardware relevant (and obviously Qwen team!) :)&lt;/p&gt;\n\n&lt;p&gt;Looking forward to trying Thinker and Coder versions of this architecture&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/9xttfh3026gf1.png?width=2216&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cc6e39266d0a94beb5dca73650dab93021bb7d32\"&gt;https://preview.redd.it/9xttfh3026gf1.png?width=2216&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cc6e39266d0a94beb5dca73650dab93021bb7d32&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Hardware: AMD Ryzen 9 8945HS(8C/16T, up to 5.2GHz) 64GB DDR5 1TB PCIe4.0 SSD, running in Ubuntu distrobox with Fedora Bluefin as a host. Also have eGPU with RTX 3060 12GB, but it was not used in benchmark.&lt;/p&gt;\n\n&lt;p&gt;I tried CPU + CUDA separately - and the prompt processing speed would take a significant hit (many memory trips I guess). I did try to use the &amp;quot;-ot exps&amp;quot; trick to ensure correct layer split - but I think it is expected, as this is the cost of offloading.&lt;/p&gt;\n\n&lt;p&gt;-fa -rtr -fmoe made prompt processing around 20-25% faster.&lt;/p&gt;\n\n&lt;p&gt;Models of this architecture are very snappy in CPU mode, especially on smaller prompts - good feature for daily driver model. With longer contexts, processing speed drops significantly, so will require orchestration / workflows to prevent context from blowing up.&lt;/p&gt;\n\n&lt;p&gt;Vibes-wise, this model feels strong for something that runs on &amp;quot;consumer&amp;quot; hardware at these speeds.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What was tested:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;General conversations - good enough, but to be honest almost every 4B+ model feels like an ok conversationalist - what a time to be alive, no?&lt;/li&gt;\n&lt;li&gt;Code doc summarization: good. I fed it 16k-30k documents and while the speed was slow, the overall result was decent.&lt;/li&gt;\n&lt;li&gt;Retrieval: gave it ~10k tokens worth of logs and asked some questions about data that appeared in the logs - mostly good, but I would not call it laser-good.&lt;/li&gt;\n&lt;li&gt;Coding + Tool calling in Zed  editor- it is obviously not Sonnet or GPT 4.1, but it really tries! I think with better prompting / fine-tuning it would crack it  - perhaps it&amp;#39;s seen different tools during original training.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;&lt;strong&gt;Can I squeeze more?:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;Better use for GPU?&lt;/li&gt;\n&lt;li&gt;Try other quants: there was a plethora of quants added in recent weeks - perhaps there is one that will push these numbers a little up.&lt;/li&gt;\n&lt;li&gt;Try &lt;a href=\"https://github.com/kvcache-ai/ktransformers\"&gt;https://github.com/kvcache-ai/ktransformers&lt;/a&gt; - they are known for optimized configs to run on RAM + relatively low amount of VRAM - but I failed to make it work locally and didn&amp;#39;t find an up-to-date docker image either. I would imagine it&amp;#39;s not gonna yield significant improvements, but happy to be proven wrong.&lt;/li&gt;\n&lt;li&gt;IGPU + Vulcan?&lt;/li&gt;\n&lt;li&gt;NPU xD&lt;/li&gt;\n&lt;li&gt;Test full context (or the largest context that does not take eternity to process)&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;What&amp;#39;s your experience / recipe for similarly-sized hardware setup?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?auto=webp&amp;s=c7c85f2c4c738393e0af92a8424d4f3b9231b100",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e0ca996c64f35d96d82c792f292d1574156f28a8",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=13e828ba3e534b52cb7e76434082e0591ff8fe84",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9beff3bbc086be73ada08d7d9e0be23ce9b4cbec",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a74fa58f6c27cd63b1b4175d767d3aa5e620d4e6",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9a87258e5557a2c94d34ba6aad86a07f7c1180e7",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5a48274f527c77b8067ed3f8f078884cca0d1fcc",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "2UbIzGryv92r-OTNNbwj3X7DPvZqNJtHJ_N32Ju1bQs"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mdvkhz",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Bycbka",
+            "discussion_type": null,
+            "num_comments": 2,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mdvkhz/ik_llamacpp_and_qwen_3_30ba3b_architecture/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mdvkhz/ik_llamacpp_and_qwen_3_30ba3b_architecture/",
+            "subreddit_subscribers": 507575,
+            "created_utc": 1753948642,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n650u7c",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "cantgetthistowork",
+                      "can_mod_post": false,
+                      "created_utc": 1753957009,
+                      "send_replies": true,
+                      "parent_id": "t1_n64uh1q",
+                      "score": 1,
+                      "author_fullname": "t2_j1i0o",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "For Qwen3 coder, UD-Q4-KXL fit on my 13x3090s while the Q4K didn't even though the base model was 3GB smaller",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n650u7c",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;For Qwen3 coder, UD-Q4-KXL fit on my 13x3090s while the Q4K didn&amp;#39;t even though the base model was 3GB smaller&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mdvkhz",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mdvkhz/ik_llamacpp_and_qwen_3_30ba3b_architecture/n650u7c/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753957009,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n64uh1q",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "AliNT77",
+            "can_mod_post": false,
+            "created_utc": 1753953541,
+            "send_replies": true,
+            "parent_id": "t3_1mdvkhz",
+            "score": 0,
+            "author_fullname": "t2_66tlmx2l",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "If you’re using ik_llama, you should try ubergarm’s IQ_K quants. In my ppl tests, IQ4_KSS is better than Q4_K_M and smaller too. \n\nAlso you definitely should try to tinker with -ot to offload to gpu. \n\nI have a 5600G + Rtx 3080 10GB and get pp ~750 and tg ~48 while using 9.8GB VRAM with IQ3_K\n\nAlso -rtr halves the PP speed and doesn’t improve TG at all.\n\nHere’s the command and performance for Q4_K_M :\n\n./llama-sweep-bench -m model.gguf -ngl 99 -fa -fmoe -ub 768 -ctk q8_0 -ctv q6_0 -c 40960 -ot “blk.(1[8-9]|[2-4][0-9]).ffn_.*._exps=CPU”\n\npp 615tps tg 42tps",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n64uh1q",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you’re using ik_llama, you should try ubergarm’s IQ_K quants. In my ppl tests, IQ4_KSS is better than Q4_K_M and smaller too. &lt;/p&gt;\n\n&lt;p&gt;Also you definitely should try to tinker with -ot to offload to gpu. &lt;/p&gt;\n\n&lt;p&gt;I have a 5600G + Rtx 3080 10GB and get pp ~750 and tg ~48 while using 9.8GB VRAM with IQ3_K&lt;/p&gt;\n\n&lt;p&gt;Also -rtr halves the PP speed and doesn’t improve TG at all.&lt;/p&gt;\n\n&lt;p&gt;Here’s the command and performance for Q4_K_M :&lt;/p&gt;\n\n&lt;p&gt;./llama-sweep-bench -m model.gguf -ngl 99 -fa -fmoe -ub 768 -ctk q8&lt;em&gt;0 -ctv q6_0 -c 40960 -ot “blk.(1[8-9]|[2-4][0-9]).ffn&lt;/em&gt;.*._exps=CPU”&lt;/p&gt;\n\n&lt;p&gt;pp 615tps tg 42tps&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mdvkhz/ik_llamacpp_and_qwen_3_30ba3b_architecture/n64uh1q/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753953541,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mdvkhz",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

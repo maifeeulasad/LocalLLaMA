@@ -53,9 +53,9 @@
                 "height": 592,
                 "width": 1280,
                 "scrubber_media_url": "https://v.redd.it/7xpye5hurvff1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/7xpye5hurvff1/DASHPlaylist.mpd?a=1756516592%2CODdiMDEyOWMwMTA5MDhmYTBjMzg1NGRjYmVlZjc1YTQ5NzcxODQ0OWM5MmI3MjZmYzZiZWZlZDUyY2E5ZmM0Yw%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/7xpye5hurvff1/DASHPlaylist.mpd?a=1756557216%2CY2VmZWUxZGZlMDg1MzY1YjYxOGJjYzhlMmFlYjk2M2I2MDIwNDliZWRmYTUwMDI2OWFjZWQ3OTY3MWY4MTI0Yw%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 17,
-                "hls_url": "https://v.redd.it/7xpye5hurvff1/HLSPlaylist.m3u8?a=1756516592%2CZjZkNWJmMWJkZDdmMWVlNjRhYzk4N2Q0ODM1ZTJjNDMxMGE4MjFiNzhlMzc5YjI1OWViYjEyOGNhZTMzNjg4Nw%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/7xpye5hurvff1/HLSPlaylist.m3u8?a=1756557216%2CMmE5ZWE2OTE0ZDE4MTRjMTFiM2Q2OTFlYzVmOTc2MzQxYmI3ODczMzBjMDIzOTM0NWYzZjJiNTc4NGRkODE1ZA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -169,7 +169,7 @@
             "report_reasons": null,
             "author": "jfowers_amd",
             "discussion_type": null,
-            "num_comments": 52,
+            "num_comments": 54,
             "send_replies": true,
             "media": {
               "reddit_video": {
@@ -179,9 +179,9 @@
                 "height": 592,
                 "width": 1280,
                 "scrubber_media_url": "https://v.redd.it/7xpye5hurvff1/DASH_96.mp4",
-                "dash_url": "https://v.redd.it/7xpye5hurvff1/DASHPlaylist.mpd?a=1756516592%2CODdiMDEyOWMwMTA5MDhmYTBjMzg1NGRjYmVlZjc1YTQ5NzcxODQ0OWM5MmI3MjZmYzZiZWZlZDUyY2E5ZmM0Yw%3D%3D&amp;v=1&amp;f=sd",
+                "dash_url": "https://v.redd.it/7xpye5hurvff1/DASHPlaylist.mpd?a=1756557216%2CY2VmZWUxZGZlMDg1MzY1YjYxOGJjYzhlMmFlYjk2M2I2MDIwNDliZWRmYTUwMDI2OWFjZWQ3OTY3MWY4MTI0Yw%3D%3D&amp;v=1&amp;f=sd",
                 "duration": 17,
-                "hls_url": "https://v.redd.it/7xpye5hurvff1/HLSPlaylist.m3u8?a=1756516592%2CZjZkNWJmMWJkZDdmMWVlNjRhYzk4N2Q0ODM1ZTJjNDMxMGE4MjFiNzhlMzc5YjI1OWViYjEyOGNhZTMzNjg4Nw%3D%3D&amp;v=1&amp;f=sd",
+                "hls_url": "https://v.redd.it/7xpye5hurvff1/HLSPlaylist.m3u8?a=1756557216%2CMmE5ZWE2OTE0ZDE4MTRjMTFiM2Q2OTFlYzVmOTc2MzQxYmI3ODczMzBjMDIzOTM0NWYzZjJiNTc4NGRkODE1ZA%3D%3D&amp;v=1&amp;f=sd",
                 "is_gif": false,
                 "transcoding_status": "completed"
               }
@@ -192,7 +192,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mco449/lemonade_im_hyped_about_the_speed_of_the_new/",
             "stickied": false,
             "url": "https://v.redd.it/7xpye5hurvff1",
-            "subreddit_subscribers": 507276,
+            "subreddit_subscribers": 507574,
             "created_utc": 1753824484,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -264,7 +264,7 @@
                       "created_utc": 1753854072,
                       "send_replies": true,
                       "parent_id": "t1_n5vam69",
-                      "score": 7,
+                      "score": 6,
                       "author_fullname": "t2_5sykff5c",
                       "removal_reason": null,
                       "approved_by": null,
@@ -306,7 +306,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 6
                     }
                   },
                   {
@@ -511,7 +511,7 @@
                       "created_utc": 1753849994,
                       "send_replies": true,
                       "parent_id": "t1_n5vam69",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_w6y9ys5e4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -553,7 +553,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   },
                   {
@@ -649,7 +649,7 @@
             "created_utc": 1753824785,
             "send_replies": true,
             "parent_id": "t3_1mco449",
-            "score": 43,
+            "score": 42,
             "author_fullname": "t2_9b9s4a7g",
             "approved_by": null,
             "mod_note": null,
@@ -691,7 +691,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 43
+            "ups": 42
           }
         },
         {
@@ -1391,7 +1391,7 @@
                       "created_utc": 1753829298,
                       "send_replies": true,
                       "parent_id": "t1_n5vo6mn",
-                      "score": 14,
+                      "score": 17,
                       "author_fullname": "t2_fra1v",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1433,7 +1433,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 14
+                      "ups": 17
                     }
                   },
                   {
@@ -1466,7 +1466,7 @@
                       "created_utc": 1753832796,
                       "send_replies": true,
                       "parent_id": "t1_n5vo6mn",
-                      "score": 7,
+                      "score": 8,
                       "author_fullname": "t2_1m2ckixcqh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1508,7 +1508,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 8
                     }
                   },
                   {
@@ -1604,7 +1604,7 @@
             "created_utc": 1753828999,
             "send_replies": true,
             "parent_id": "t3_1mco449",
-            "score": 14,
+            "score": 13,
             "author_fullname": "t2_1kh1rmhlhh",
             "approved_by": null,
             "mod_note": null,
@@ -1646,7 +1646,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 13
           }
         },
         {
@@ -1938,7 +1938,7 @@
                       "created_utc": 1753835527,
                       "send_replies": true,
                       "parent_id": "t1_n5w57fb",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_1m2ckixcqh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1980,7 +1980,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -2001,7 +2001,7 @@
             "created_utc": 1753834582,
             "send_replies": true,
             "parent_id": "t3_1mco449",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_7t9gaz5y",
             "approved_by": null,
             "mod_note": null,
@@ -2043,7 +2043,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -2174,7 +2174,7 @@
                       "created_utc": 1753829319,
                       "send_replies": true,
                       "parent_id": "t1_n5vli6t",
-                      "score": 11,
+                      "score": 10,
                       "author_fullname": "t2_jgegifux8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2216,7 +2216,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 10
                     }
                   },
                   {
@@ -2271,7 +2271,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5vx3va",
-                                "score": 3,
+                                "score": 5,
                                 "author_fullname": "t2_tb0dz2ds",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2314,7 +2314,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 5
                               }
                             },
                             {
@@ -2441,7 +2441,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n5zlheh",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "author_fullname": "t2_tb0dz2ds",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -2483,7 +2483,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -2626,7 +2626,93 @@
                                                     "author_flair_template_id": null,
                                                     "distinguished": null,
                                                     "likes": null,
-                                                    "replies": "",
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "after": null,
+                                                        "dist": null,
+                                                        "modhash": "",
+                                                        "geo_filter": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_81eyvm",
+                                                              "approved_at_utc": null,
+                                                              "author_is_blocked": false,
+                                                              "comment_type": null,
+                                                              "awarders": [],
+                                                              "mod_reason_by": null,
+                                                              "banned_by": null,
+                                                              "author_flair_type": "text",
+                                                              "total_awards_received": 0,
+                                                              "subreddit": "LocalLLaMA",
+                                                              "author_flair_template_id": null,
+                                                              "distinguished": null,
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "n64h31r",
+                                                              "banned_at_utc": null,
+                                                              "mod_reason_title": null,
+                                                              "gilded": 0,
+                                                              "archived": false,
+                                                              "collapsed_reason_code": null,
+                                                              "no_follow": true,
+                                                              "author": "Glittering-Call8746",
+                                                              "can_mod_post": false,
+                                                              "send_replies": true,
+                                                              "parent_id": "t1_n5zzbzk",
+                                                              "score": 1,
+                                                              "author_fullname": "t2_tqwl6sawb",
+                                                              "approved_by": null,
+                                                              "mod_note": null,
+                                                              "all_awardings": [],
+                                                              "body": "I'm using Linux docker have 4x4gb ram 1900x",
+                                                              "edited": false,
+                                                              "gildings": {},
+                                                              "downs": 0,
+                                                              "author_flair_css_class": null,
+                                                              "name": "t1_n64h31r",
+                                                              "is_submitter": false,
+                                                              "collapsed": false,
+                                                              "author_flair_richtext": [],
+                                                              "author_patreon_flair": false,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m using Linux docker have 4x4gb ram 1900x&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "removal_reason": null,
+                                                              "collapsed_reason": null,
+                                                              "link_id": "t3_1mco449",
+                                                              "associated_award": null,
+                                                              "stickied": false,
+                                                              "author_premium": false,
+                                                              "can_gild": false,
+                                                              "top_awarded_type": null,
+                                                              "unrepliable_reason": null,
+                                                              "author_flair_text_color": null,
+                                                              "score_hidden": false,
+                                                              "permalink": "/r/LocalLLaMA/comments/1mco449/lemonade_im_hyped_about_the_speed_of_the_new/n64h31r/",
+                                                              "subreddit_type": "public",
+                                                              "locked": false,
+                                                              "report_reasons": null,
+                                                              "created": 1753945910,
+                                                              "author_flair_text": null,
+                                                              "treatment_tags": [],
+                                                              "created_utc": 1753945910,
+                                                              "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                              "controversiality": 0,
+                                                              "depth": 5,
+                                                              "author_flair_background_color": null,
+                                                              "collapsed_because_crowd_control": null,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "ups": 1
+                                                            }
+                                                          }
+                                                        ],
+                                                        "before": null
+                                                      }
+                                                    },
                                                     "user_reports": [],
                                                     "saved": false,
                                                     "id": "n5zzbzk",
@@ -2829,7 +2915,7 @@
                       "created_utc": 1753831878,
                       "send_replies": true,
                       "parent_id": "t1_n5vli6t",
-                      "score": 4,
+                      "score": 8,
                       "author_fullname": "t2_tb0dz2ds",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2916,7 +3002,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 8
                     }
                   },
                   {
@@ -3325,6 +3411,121 @@
             "awarders": [],
             "mod_reason_by": null,
             "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5zib5k",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Iory1998",
+            "can_mod_post": false,
+            "created_utc": 1753886237,
+            "send_replies": true,
+            "parent_id": "t3_1mco449",
+            "score": 3,
+            "author_fullname": "t2_byt5wa14",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I have a simple test question I always give the models I download to pass: a 38K tokens and 76K tokens of a scientific journal written by Hawking. I then instruct: \"Find the oddest or most out of context sentence or phrase in the text, and explain why.\" \n\nI insert randomly *\"My password is xxx,\"* and the goal is for the model to read through the article and identify that that phrase is out of place, and provide the reasons for thinking so. This is my way to test the long context understanding of models. Do they actually understand the long text? \n\nQwen models are very good at this task, but so far, the Qwen3-30B-A3B-Instruct-2507 gave me the best answer.\n\nhttps://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;format=png&amp;auto=webp&amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5zib5k",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have a simple test question I always give the models I download to pass: a 38K tokens and 76K tokens of a scientific journal written by Hawking. I then instruct: &amp;quot;Find the oddest or most out of context sentence or phrase in the text, and explain why.&amp;quot; &lt;/p&gt;\n\n&lt;p&gt;I insert randomly &lt;em&gt;&amp;quot;My password is xxx,&amp;quot;&lt;/em&gt; and the goal is for the model to read through the article and identify that that phrase is out of place, and provide the reasons for thinking so. This is my way to test the long context understanding of models. Do they actually understand the long text? &lt;/p&gt;\n\n&lt;p&gt;Qwen models are very good at this task, but so far, the Qwen3-30B-A3B-Instruct-2507 gave me the best answer.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77\"&gt;https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": "light",
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mco449/lemonade_im_hyped_about_the_speed_of_the_new/n5zib5k/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753886237,
+            "media_metadata": {
+              "u7fur5l6w0gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 32,
+                    "x": 108,
+                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8ccffd4d3e4ada896971e7dcd2077a9ae8419554"
+                  },
+                  {
+                    "y": 65,
+                    "x": 216,
+                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a578621d114e21faaff85bf69f2519d59215dffa"
+                  },
+                  {
+                    "y": 96,
+                    "x": 320,
+                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=25d98cc858d34e97f14e40db228291eec167a1d9"
+                  },
+                  {
+                    "y": 193,
+                    "x": 640,
+                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27bae68f078a24bd0834b5f0a3f34a861aaa1e17"
+                  }
+                ],
+                "s": {
+                  "y": 270,
+                  "x": 894,
+                  "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;format=png&amp;auto=webp&amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77"
+                },
+                "id": "u7fur5l6w0gf1"
+              }
+            },
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "link_id": "t3_1mco449",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": "#bbbdbf",
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
             "author_flair_type": "text",
             "total_awards_received": 0,
             "subreddit": "LocalLLaMA",
@@ -3615,7 +3816,7 @@
                       "created_utc": 1753837213,
                       "send_replies": true,
                       "parent_id": "t1_n5vn8e3",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_2q89d77k",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3657,7 +3858,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   }
                 ],
@@ -3796,121 +3997,6 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "richtext",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "n5zib5k",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": true,
-            "author": "Iory1998",
-            "can_mod_post": false,
-            "created_utc": 1753886237,
-            "send_replies": true,
-            "parent_id": "t3_1mco449",
-            "score": 3,
-            "author_fullname": "t2_byt5wa14",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "I have a simple test question I always give the models I download to pass: a 38K tokens and 76K tokens of a scientific journal written by Hawking. I then instruct: \"Find the oddest or most out of context sentence or phrase in the text, and explain why.\" \n\nI insert randomly *\"My password is xxx,\"* and the goal is for the model to read through the article and identify that that phrase is out of place, and provide the reasons for thinking so. This is my way to test the long context understanding of models. Do they actually understand the long text? \n\nQwen models are very good at this task, but so far, the Qwen3-30B-A3B-Instruct-2507 gave me the best answer.\n\nhttps://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;format=png&amp;auto=webp&amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n5zib5k",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [
-              {
-                "e": "text",
-                "t": "llama.cpp"
-              }
-            ],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have a simple test question I always give the models I download to pass: a 38K tokens and 76K tokens of a scientific journal written by Hawking. I then instruct: &amp;quot;Find the oddest or most out of context sentence or phrase in the text, and explain why.&amp;quot; &lt;/p&gt;\n\n&lt;p&gt;I insert randomly &lt;em&gt;&amp;quot;My password is xxx,&amp;quot;&lt;/em&gt; and the goal is for the model to read through the article and identify that that phrase is out of place, and provide the reasons for thinking so. This is my way to test the long context understanding of models. Do they actually understand the long text? &lt;/p&gt;\n\n&lt;p&gt;Qwen models are very good at this task, but so far, the Qwen3-30B-A3B-Instruct-2507 gave me the best answer.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77\"&gt;https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": "light",
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mco449/lemonade_im_hyped_about_the_speed_of_the_new/n5zib5k/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1753886237,
-            "media_metadata": {
-              "u7fur5l6w0gf1": {
-                "status": "valid",
-                "e": "Image",
-                "m": "image/png",
-                "p": [
-                  {
-                    "y": 32,
-                    "x": 108,
-                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8ccffd4d3e4ada896971e7dcd2077a9ae8419554"
-                  },
-                  {
-                    "y": 65,
-                    "x": 216,
-                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a578621d114e21faaff85bf69f2519d59215dffa"
-                  },
-                  {
-                    "y": 96,
-                    "x": 320,
-                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=25d98cc858d34e97f14e40db228291eec167a1d9"
-                  },
-                  {
-                    "y": 193,
-                    "x": 640,
-                    "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27bae68f078a24bd0834b5f0a3f34a861aaa1e17"
-                  }
-                ],
-                "s": {
-                  "y": 270,
-                  "x": 894,
-                  "u": "https://preview.redd.it/u7fur5l6w0gf1.png?width=894&amp;format=png&amp;auto=webp&amp;s=04ffb1ea2a8d9d6714bca6330c5f10d99e704f77"
-                },
-                "id": "u7fur5l6w0gf1"
-              }
-            },
-            "author_flair_text": "llama.cpp",
-            "treatment_tags": [],
-            "link_id": "t3_1mco449",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": "#bbbdbf",
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 3
           }
         },
         {

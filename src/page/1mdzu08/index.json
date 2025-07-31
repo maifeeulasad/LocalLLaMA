@@ -1,0 +1,289 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "🚀 We're excited to share our latest research on X-Omni: reinforcement learning makes discrete autoregressive image generative models great again, empowering a practical unified model for both image and language modality generation.\n\nHighlights:\n\n✅ Unified Modeling Approach: A discrete autoregressive model handling image and language modalities.\n\n✅ Superior Instruction Following: Exceptional capability to follow complex instructions.\n\n✅ Superior Text Rendering: Accurately render text in multiple languages, including both English and Chinese.\n\n✅ Arbitrary resolutions: Produces aesthetically pleasing images at arbitrary resolutions.\n\nInsight:\n\n🔍 During the reinforcement learning process, the aesthetic quality of generated images is gradually enhanced, and the ability to adhere to instructions and the capacity to render long texts improve steadily.\n\nPaper: https://arxiv.org/pdf/2507.22058\nGithub: https://github.com/X-Omni-Team/X-Omni\nProject Page: https://x-omni-team.github.io/\n\n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "Hunyuan releases X-Omni, a unified discrete autoregressive model for both image and language modalities",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 140,
+            "top_awarded_type": null,
+            "name": "t3_1mdzu08",
+            "media_metadata": {
+              "rauc3hmya7gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 110,
+                    "x": 108,
+                    "u": "https://preview.redd.it/rauc3hmya7gf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=db31c12a8fbee6333559636cb9aeb99146e1694a"
+                  },
+                  {
+                    "y": 220,
+                    "x": 216,
+                    "u": "https://preview.redd.it/rauc3hmya7gf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4d59ead47b55e63b6ee537a2a4ea41eaaa1c6146"
+                  },
+                  {
+                    "y": 327,
+                    "x": 320,
+                    "u": "https://preview.redd.it/rauc3hmya7gf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea15a909413ad7956d7752cdd490b390121ea17a"
+                  }
+                ],
+                "s": {
+                  "y": 354,
+                  "x": 346,
+                  "u": "https://preview.redd.it/rauc3hmya7gf1.jpg?width=346&amp;format=pjpg&amp;auto=webp&amp;s=696d4c8a651b65d38563d0afec8bd124f0f81654"
+                },
+                "id": "rauc3hmya7gf1"
+              },
+              "71rr5nnya7gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 111,
+                    "x": 108,
+                    "u": "https://preview.redd.it/71rr5nnya7gf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fe01c2994c8fb47c1b39cb99f35ba55f7d9dde2e"
+                  },
+                  {
+                    "y": 222,
+                    "x": 216,
+                    "u": "https://preview.redd.it/71rr5nnya7gf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=725fe16de4c07d1b19dee1d1f77bbfd8f8ec6542"
+                  },
+                  {
+                    "y": 329,
+                    "x": 320,
+                    "u": "https://preview.redd.it/71rr5nnya7gf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=115e93af2ee69d708a88e4aae8dd1f250f62c733"
+                  }
+                ],
+                "s": {
+                  "y": 546,
+                  "x": 531,
+                  "u": "https://preview.redd.it/71rr5nnya7gf1.jpg?width=531&amp;format=pjpg&amp;auto=webp&amp;s=44b4ae50521d09e2a0883ff79bb51311b6795262"
+                },
+                "id": "71rr5nnya7gf1"
+              }
+            },
+            "hide_score": true,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 9,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_c705ri9b",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "71rr5nnya7gf1",
+                  "id": 718038871
+                },
+                {
+                  "media_id": "rauc3hmya7gf1",
+                  "id": 718038872
+                }
+              ]
+            },
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 9,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/UWzewWY4cRLtu0QtYjM_H7EidNwT1bopn8L_07vMWc4.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1753963825,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;🚀 We&amp;#39;re excited to share our latest research on X-Omni: reinforcement learning makes discrete autoregressive image generative models great again, empowering a practical unified model for both image and language modality generation.&lt;/p&gt;\n\n&lt;p&gt;Highlights:&lt;/p&gt;\n\n&lt;p&gt;✅ Unified Modeling Approach: A discrete autoregressive model handling image and language modalities.&lt;/p&gt;\n\n&lt;p&gt;✅ Superior Instruction Following: Exceptional capability to follow complex instructions.&lt;/p&gt;\n\n&lt;p&gt;✅ Superior Text Rendering: Accurately render text in multiple languages, including both English and Chinese.&lt;/p&gt;\n\n&lt;p&gt;✅ Arbitrary resolutions: Produces aesthetically pleasing images at arbitrary resolutions.&lt;/p&gt;\n\n&lt;p&gt;Insight:&lt;/p&gt;\n\n&lt;p&gt;🔍 During the reinforcement learning process, the aesthetic quality of generated images is gradually enhanced, and the ability to adhere to instructions and the capacity to render long texts improve steadily.&lt;/p&gt;\n\n&lt;p&gt;Paper: &lt;a href=\"https://arxiv.org/pdf/2507.22058\"&gt;https://arxiv.org/pdf/2507.22058&lt;/a&gt;\nGithub: &lt;a href=\"https://github.com/X-Omni-Team/X-Omni\"&gt;https://github.com/X-Omni-Team/X-Omni&lt;/a&gt;\nProject Page: &lt;a href=\"https://x-omni-team.github.io/\"&gt;https://x-omni-team.github.io/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mdzu08",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mdzu08",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "ResearchCrafty1804",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mdzu08/hunyuan_releases_xomni_a_unified_discrete/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mdzu08",
+            "subreddit_subscribers": 507576,
+            "created_utc": 1753963825,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n65icqp",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "kkb294",
+            "can_mod_post": false,
+            "created_utc": 1753964534,
+            "send_replies": true,
+            "parent_id": "t3_1mdzu08",
+            "score": 1,
+            "author_fullname": "t2_9u3afpb8q",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Please include hugging face model link in your post/comments.\n\nI thought the model was not released but only the inference code and paper.\n\nOnce I went into the GitHub I saw the hugging face link and from there I can access the model.[Hugging face](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982)",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n65icqp",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Please include hugging face model link in your post/comments.&lt;/p&gt;\n\n&lt;p&gt;I thought the model was not released but only the inference code and paper.&lt;/p&gt;\n\n&lt;p&gt;Once I went into the GitHub I saw the hugging face link and from there I can access the model.&lt;a href=\"https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982\"&gt;Hugging face&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mdzu08/hunyuan_releases_xomni_a_unified_discrete/n65icqp/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753964534,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mdzu08",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

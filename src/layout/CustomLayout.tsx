@@ -10460,6 +10460,214 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mdnzym',
         name: 'So what benchmark websites do you refer to? (July 2025 edition)',
       },
+      {
+        path: '/1mdoevz',
+        name: 'Anyone have experience with NVIDIA Nemotron?',
+      },
+      {
+        path: '/1mdolik',
+        name: 'Is there any way to train when a model sends messages?',
+      },
+      {
+        path: '/1mdoqnv',
+        name: 'domoai’s 360 view lets you animate full spins like leiapix but it’s actually 3d',
+      },
+      {
+        path: '/1mdpd70',
+        name: 'Valuation of companies like Anthropic',
+      },
+      {
+        path: '/1mdpe8v',
+        name: 'Horizon-alpha: A new stealthed model on openrouter sweeps EQ-Bench leaderboards',
+      },
+      {
+        path: '/1mdpfm8',
+        name: 'Made a unified table of benchmarks using AI',
+      },
+      {
+        path: '/1mdppt1',
+        name: 'Host Minimax on cloud?',
+      },
+      {
+        path: '/1mdq2vw',
+        name: 'Accessing LM Studio server from iOS',
+      },
+      {
+        path: '/1mdq3sv',
+        name: 'Ollama 0.10 - New app is available for macOS and Windows plus multi-GPU performance improvements, and more',
+      },
+      {
+        path: '/1mdqj9g',
+        name: 'works well!: GLM 4.5 air (MLX) - LM studio (Mac) - Claude code',
+      },
+      {
+        path: '/1mdqlc6',
+        name: 'Setup for MOE',
+      },
+      {
+        path: '/1mdrdal',
+        name: 'If there a TTS model that works with IPA?',
+      },
+      {
+        path: '/1mdro7c',
+        name: 'I have been learning more about reinforcement learning with verifiable rewards I want to hear people\'s opinions on that',
+      },
+      {
+        path: '/1mdruc9',
+        name: 'Why is open source so behind on multi-modalitty?',
+      },
+      {
+        path: '/1mdrxio',
+        name: 'Best local LLM that can read text in images? (8 GB graphic card)',
+      },
+      {
+        path: '/1mds1gx',
+        name: 'Can we make a reward system for LLMs that operates like drug addiction? When the model gets things right, it gets a hit. Faster and better the solution, the larger the hit. Fail? Withdrawals.',
+      },
+      {
+        path: '/1mdsgax',
+        name: 'Is vast.ai fucking me over?',
+      },
+      {
+        path: '/1mdshnt',
+        name: 'Best thing Youve automated?',
+      },
+      {
+        path: '/1mdsjn2',
+        name: 'Unbelievable: China Dominates Top 10 Open-Source Models on HuggingFace',
+      },
+      {
+        path: '/1mdu4io',
+        name: 'I Built a Full Stack App Using a Local LLM (GLM 4.5 Air) and RooCode. Here\'s How It Went',
+      },
+      {
+        path: '/1mdu7se',
+        name: 'where is UK and India?',
+      },
+      {
+        path: '/1mdu8p0',
+        name: 'Breakout clone by Devstral and Qwen3 30B A3B Thinking with particle effects and Web Audio reverb.',
+      },
+      {
+        path: '/1mdu9gr',
+        name: 'Is there a way to download more Kokoro tts voices?',
+      },
+      {
+        path: '/1mdudj3',
+        name: 'Training loss is higher than validation loss for a few steps',
+      },
+      {
+        path: '/1mdufwb',
+        name: 'Can llama-swap work without specifying the "model" field in API requests?',
+      },
+      {
+        path: '/1mdug0j',
+        name: 'Models that are good in understanding and producing German text?',
+      },
+      {
+        path: '/1mdui1j',
+        name: 'Help for new LLM Rig',
+      },
+      {
+        path: '/1mduk5t',
+        name: 'Local. Open Source App with MCP Server compatability',
+      },
+      {
+        path: '/1mduqj2',
+        name: 'Page Assist',
+      },
+      {
+        path: '/1mduvcv',
+        name: 'Lightweight ChatGPT Client Using Your Own API Key (Pure HTML)',
+      },
+      {
+        path: '/1mdv67j',
+        name: 'cogito v2 preview models released 70B/109B/405B/671B',
+      },
+      {
+        path: '/1mdvhxg',
+        name: 'Ollama’s new app — Ollama 0.10 is here for macOS and Windows!',
+      },
+      {
+        path: '/1mdvj52',
+        name: 'DevOps position for AI / LLMs',
+      },
+      {
+        path: '/1mdvkhz',
+        name: 'ik_llama.cpp and Qwen 3 30B-A3B architecture.',
+      },
+      {
+        path: '/1mdw1l4',
+        name: 'An Awesome-local-LLM repository',
+      },
+      {
+        path: '/1mdw7v7',
+        name: 'How to future proof fine tuning and/or training',
+      },
+      {
+        path: '/1mdwh31',
+        name: 'How can you turn off reasoning for certain tasks in GLM 4.5?',
+      },
+      {
+        path: '/1mdwm49',
+        name: 'how much ram [cpu] do you have',
+      },
+      {
+        path: '/1mdwmju',
+        name: 'Falcon-H1 technical report release',
+      },
+      {
+        path: '/1mdwngf',
+        name: 'rednote-hilab/dots.ocr - Multilingual document layout parsing in a single vision-language model achieving SOTA performance despite compact 1.7B LLM foundation',
+      },
+      {
+        path: '/1mdwu18',
+        name: 'Ollama with Qwen2.5VL:3B – The Doom II of VLMs',
+      },
+      {
+        path: '/1mdwums',
+        name: 'How do people engage with open source AI?',
+      },
+      {
+        path: '/1mdwv4f',
+        name: 'Best local model for Claude-like agentic behavior on 3×3090 rig?',
+      },
+      {
+        path: '/1mdx40b',
+        name: 'We’re building a devboard that runs Whisper, YOLO, and TinyLlama — locally, no cloud. Want to try it before we launch?',
+      },
+      {
+        path: '/1mdx65u',
+        name: 'AMD Is Reportedly Looking to Introduce a Dedicated Discrete NPU, Similar to Gaming GPUs But Targeted Towards AI Performance On PCs; Taking Edge AI to New Levels',
+      },
+      {
+        path: '/1mdxihp',
+        name: 'DeepDrone, an open source CLI agent like Claude Code to fly your drone',
+      },
+      {
+        path: '/1mdy1at',
+        name: 'Jan now runs fully on llama.cpp &amp; auto-updates the backend',
+      },
+      {
+        path: '/1mdy8f8',
+        name: 'What model would you recommend for my specs ?',
+      },
+      {
+        path: '/1mdykfn',
+        name: 'Everyone from r/LocalLLama refreshing Hugging Face every 5 minutes today looking for GLM-4.5 GGUFs',
+      },
+      {
+        path: '/1mdytsk',
+        name: 'https://x.com/autopoiesislab/status/1950755654471131450?t=JZ8AtogcUFhwgzoKTM67Jw&amp;s=19',
+      },
+      {
+        path: '/1mdzu08',
+        name: 'Hunyuan releases X-Omni, a unified discrete autoregressive model for both image and language modalities',
+      },
+      {
+        path: '/1mdzxmv',
+        name: 'Qwen3-30B-A3B-2507-Q4_K_L Is the First Local Model to Solve the North Pole Walk Puzzle',
+      },
     ],
   },
   {

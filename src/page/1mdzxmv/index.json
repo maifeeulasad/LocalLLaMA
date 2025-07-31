@@ -1,0 +1,214 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "For the longest time, I've been giving my models a traditional puzzle that all failed to pass without fail :D  \nNot even the SOTA models provide the right answer.\n\n&gt;The puzzle is as follows:   \n\"What's the right answer: Imagine standing at the North Pole of the Earth. Walk in any direction, in a straight line, for 1 km. Now turn 90 degrees to the left. Walk for as long as it takes to pass your starting point. Have you walked: \n\n&gt;1- More than 2xPi km.  \n2- Exactly 2xPi km.  \n3- Less than 2xPi km.  \n4- I never came close to my starting point.\n\nHowever, only recently, SOTA models started to correctly answer 4 ; models like O3, latest Qwen (Qween3-235B-A22B-2507), Deepseek R1 managed to answer it correctly (I didn't test Claud 4 or Grok 4 but I guess they might get it right). For comparison, Gemini-2.5-Thinking and Kimi2 got the wrong answer.\n\nSo, I happy to report that Qwen3-30B-A3B-2507 (both the none thinking Q6 and the thinking Q4) managed to solve the puzzle providing great answers.\n\nHere is O3 answer:\n\nhttps://preview.redd.it/rbwgf8vxa7gf1.png?width=866&amp;format=png&amp;auto=webp&amp;s=d074bec940c5c3fab89cc06a5cdf7279ed154ea0\n\nAnd here is the answer of the Qwen3-30B-A3B-Thinking-2507-Q4\\_K\\_L:\n\nhttps://preview.redd.it/esglti77b7gf1.png?width=821&amp;format=png&amp;auto=webp&amp;s=9d2e5321f3918bec8209d8613d1ce2df621cd416\n\nIn addition, I tested the two variants on long text (up to 80K) for comprehension, and I am impressed by the quality of the answers. And the SPEEEEEED! It's 3 times faster than Gemma-4B!!!!\n\n\n\nAnyway, let me know what you think,",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Qwen3-30B-A3B-2507-Q4_K_L Is the First Local Model to Solve the North Pole Walk Puzzle",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 60,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "media_metadata": {
+              "esglti77b7gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 87,
+                    "x": 108,
+                    "u": "https://preview.redd.it/esglti77b7gf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=aa4c861cb82d74fa884e07763d49a9087f956d22"
+                  },
+                  {
+                    "y": 174,
+                    "x": 216,
+                    "u": "https://preview.redd.it/esglti77b7gf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a1cfe9a1b5c0462b3615bc71b7d76aed45acf149"
+                  },
+                  {
+                    "y": 258,
+                    "x": 320,
+                    "u": "https://preview.redd.it/esglti77b7gf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2cbac2d110c2783a443d0cb885b248a0d5eef241"
+                  },
+                  {
+                    "y": 516,
+                    "x": 640,
+                    "u": "https://preview.redd.it/esglti77b7gf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f2094d8a756e6c8ded571ddc2e08b260c39b760"
+                  }
+                ],
+                "s": {
+                  "y": 663,
+                  "x": 821,
+                  "u": "https://preview.redd.it/esglti77b7gf1.png?width=821&amp;format=png&amp;auto=webp&amp;s=9d2e5321f3918bec8209d8613d1ce2df621cd416"
+                },
+                "id": "esglti77b7gf1"
+              },
+              "rbwgf8vxa7gf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 46,
+                    "x": 108,
+                    "u": "https://preview.redd.it/rbwgf8vxa7gf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a1662b020232e38c498b9c33b3a84a623a9c9687"
+                  },
+                  {
+                    "y": 93,
+                    "x": 216,
+                    "u": "https://preview.redd.it/rbwgf8vxa7gf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=2257e7230fe7883100398d769880650162fb2391"
+                  },
+                  {
+                    "y": 138,
+                    "x": 320,
+                    "u": "https://preview.redd.it/rbwgf8vxa7gf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=72caaec311bc8ebe2c27b8b7ee5fb903baa018c6"
+                  },
+                  {
+                    "y": 276,
+                    "x": 640,
+                    "u": "https://preview.redd.it/rbwgf8vxa7gf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cba947c4bd3e5de66a6067de3cf1811cf7f499b9"
+                  }
+                ],
+                "s": {
+                  "y": 374,
+                  "x": 866,
+                  "u": "https://preview.redd.it/rbwgf8vxa7gf1.png?width=866&amp;format=png&amp;auto=webp&amp;s=d074bec940c5c3fab89cc06a5cdf7279ed154ea0"
+                },
+                "id": "rbwgf8vxa7gf1"
+              }
+            },
+            "name": "t3_1mdzxmv",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#bbbdbf",
+            "subreddit_type": "public",
+            "ups": 4,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_byt5wa14",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 4,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/L3dTMc7iVqHF7QYQEYnpMXvgm0DsrwCLc5zwFJKZCxk.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753964105,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For the longest time, I&amp;#39;ve been giving my models a traditional puzzle that all failed to pass without fail :D&lt;br/&gt;\nNot even the SOTA models provide the right answer.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;The puzzle is as follows:&lt;br/&gt;\n&amp;quot;What&amp;#39;s the right answer: Imagine standing at the North Pole of the Earth. Walk in any direction, in a straight line, for 1 km. Now turn 90 degrees to the left. Walk for as long as it takes to pass your starting point. Have you walked: &lt;/p&gt;\n\n&lt;p&gt;1- More than 2xPi km.&lt;br/&gt;\n2- Exactly 2xPi km.&lt;br/&gt;\n3- Less than 2xPi km.&lt;br/&gt;\n4- I never came close to my starting point.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;However, only recently, SOTA models started to correctly answer 4 ; models like O3, latest Qwen (Qween3-235B-A22B-2507), Deepseek R1 managed to answer it correctly (I didn&amp;#39;t test Claud 4 or Grok 4 but I guess they might get it right). For comparison, Gemini-2.5-Thinking and Kimi2 got the wrong answer.&lt;/p&gt;\n\n&lt;p&gt;So, I happy to report that Qwen3-30B-A3B-2507 (both the none thinking Q6 and the thinking Q4) managed to solve the puzzle providing great answers.&lt;/p&gt;\n\n&lt;p&gt;Here is O3 answer:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/rbwgf8vxa7gf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d074bec940c5c3fab89cc06a5cdf7279ed154ea0\"&gt;https://preview.redd.it/rbwgf8vxa7gf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d074bec940c5c3fab89cc06a5cdf7279ed154ea0&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;And here is the answer of the Qwen3-30B-A3B-Thinking-2507-Q4_K_L:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/esglti77b7gf1.png?width=821&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9d2e5321f3918bec8209d8613d1ce2df621cd416\"&gt;https://preview.redd.it/esglti77b7gf1.png?width=821&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9d2e5321f3918bec8209d8613d1ce2df621cd416&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;In addition, I tested the two variants on long text (up to 80K) for comprehension, and I am impressed by the quality of the answers. And the SPEEEEEED! It&amp;#39;s 3 times faster than Gemma-4B!!!!&lt;/p&gt;\n\n&lt;p&gt;Anyway, let me know what you think,&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mdzxmv",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Iory1998",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1mdzxmv/qwen330ba3b2507q4_k_l_is_the_first_local_model_to/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mdzxmv/qwen330ba3b2507q4_k_l_is_the_first_local_model_to/",
+            "subreddit_subscribers": 507576,
+            "created_utc": 1753964105,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
