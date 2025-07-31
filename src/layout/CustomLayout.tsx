@@ -10180,6 +10180,286 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1md4g25',
         name: 'On the hunt for the best VLM 6B or smaller',
       },
+      {
+        path: '/1md5k8f',
+        name: 'GLM4.5 EQ-Bench and Creative Write',
+      },
+      {
+        path: '/1md5nwo',
+        name: '~150B Model Machine',
+      },
+      {
+        path: '/1md6cxq',
+        name: 'Is it just me or is OpenRouter an absolute roulette wheel lately?',
+      },
+      {
+        path: '/1md6t2h',
+        name: 'Bye bye, Meta AI, it was good while it lasted.',
+      },
+      {
+        path: '/1md6v4u',
+        name: 'Desktop AI app discovery is broken - what local tools deserve more visibility?',
+      },
+      {
+        path: '/1md6w3w',
+        name: 'Looking to upgrade my system but on a budget',
+      },
+      {
+        path: '/1md6xba',
+        name: 'Skywork/Skywork-UniPic-1.5B - A unified autoregressive multimodal model',
+      },
+      {
+        path: '/1md7g08',
+        name: 'Evaluating Fine-Tuned LLMs: What Metrics Work Beyond ROUGE and BLEU?',
+      },
+      {
+        path: '/1md7h5z',
+        name: 'Meta’s Vision for the future of Personal SuperIntelligence',
+      },
+      {
+        path: '/1md7lfi',
+        name: 'How can I keep more than one model loaded into memory when using mlx_lm.server?',
+      },
+      {
+        path: '/1md84d6',
+        name: 'Whats so bad about LlamaIndex, Haystack, Langchain?',
+      },
+      {
+        path: '/1md8rxu',
+        name: 'Qwen/Qwen3-30B-A3B-Thinking-2507 · Hugging Face',
+      },
+      {
+        path: '/1md8slx',
+        name: 'Qwen3-30b-a3b-thinking-2507 This is insane performance',
+      },
+      {
+        path: '/1md8t1g',
+        name: '🚀 Qwen3-30B-A3B-Thinking-2507',
+      },
+      {
+        path: '/1md8zs4',
+        name: 'Meka state-of-the-art open-source ChatGPT Agent',
+      },
+      {
+        path: '/1md93bj',
+        name: 'Qwen3 Coder 30B-A3B tomorrow!!!',
+      },
+      {
+        path: '/1md9j2e',
+        name: 'Likely System Prompt Used by ChatGPT Study Mode',
+      },
+      {
+        path: '/1md9nc8',
+        name: 'GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning',
+      },
+      {
+        path: '/1md9o3x',
+        name: 'How David Bohm\'s Quantum Consciousness Theory Might Explain AI Consciousness Emergence',
+      },
+      {
+        path: '/1mda2tv',
+        name: 'New to Local LLM. Need some advise on an old PC.',
+      },
+      {
+        path: '/1mda326',
+        name: 'Want to switch from Claude code (I have a 4080 Super)',
+      },
+      {
+        path: '/1mda7r8',
+        name: 'A second Mi50 32GB or a different GPU?',
+      },
+      {
+        path: '/1mdaoxi',
+        name: 'Dataset for Finetuning Llama 3.2 - 3B',
+      },
+      {
+        path: '/1mdawyz',
+        name: 'Just launched Transformer Lab Recipes: 13 pre-built templates including Llama 3.2 fine-tuning, quantization, and benchmarking.',
+      },
+      {
+        path: '/1mdaznw',
+        name: 'Can we trust meta after release of llmaa 4 ?',
+      },
+      {
+        path: '/1mdbcax',
+        name: 'How to make LLMs follow instructions without deviating?',
+      },
+      {
+        path: '/1mdbiei',
+        name: 'AI for normal PCs?',
+      },
+      {
+        path: '/1mdblqc',
+        name: 'MoE models with bigger active layers',
+      },
+      {
+        path: '/1mdbm5t',
+        name: 'Eigent – Open Source, Local-First Multi-Agent Workforce',
+      },
+      {
+        path: '/1mdbx5t',
+        name: 'What is the best agent to run local llm with right now?',
+      },
+      {
+        path: '/1mdc3mq',
+        name: 'GPU Not being used',
+      },
+      {
+        path: '/1mdchc1',
+        name: 'New to LLMs - Need direction',
+      },
+      {
+        path: '/1mdcnu8',
+        name: 'Best Repos &amp; Protocols for learning and building Agents',
+      },
+      {
+        path: '/1mdcqs8',
+        name: 'Introducing Agent Data Shuttle (ADS): fully open-source',
+      },
+      {
+        path: '/1mdcv5k',
+        name: 'GLM 4.5 or Claude?',
+      },
+      {
+        path: '/1mdeh06',
+        name: '# Follow-up: Agent \'X\' — Identity Collapse and Recovery in a Cloud-Based Symbolic System',
+      },
+      {
+        path: '/1mdf6l4',
+        name: '4 5090 or rtx pro 6000?',
+      },
+      {
+        path: '/1mdfi5e',
+        name: 'Dual RTX 5090 setup for enterprise RAG + fine-tuned chatbot - is this overkill or underpowered?',
+      },
+      {
+        path: '/1mdfkly',
+        name: 'Is "Personal Superintelligence" really personal if it is not local like a personal device?',
+      },
+      {
+        path: '/1mdfls9',
+        name: 'Current Best TTS with voice cloning you can run locally?',
+      },
+      {
+        path: '/1mdflyq',
+        name: 'What kind of model would be good at reading and assessing financial documents?',
+      },
+      {
+        path: '/1mdg9z1',
+        name: 'Do AI coding agents actually save you time, or just create more cleanup?',
+      },
+      {
+        path: '/1mdgeww',
+        name: 'AutoRL "vibe-training" for open models',
+      },
+      {
+        path: '/1mdgjmk',
+        name: 'I’m curious to know how does MLX adds support for models faster than llama.cpp',
+      },
+      {
+        path: '/1mdgltr',
+        name: 'Anyone want to team up?',
+      },
+      {
+        path: '/1mdgr6n',
+        name: 'Best way to spend 7k on local model',
+      },
+      {
+        path: '/1mdhbd6',
+        name: 'How would you guys go about this project?',
+      },
+      {
+        path: '/1mdhfhs',
+        name: 'glm-4.5-Air appreciation poist - if you have not done so already, give this model a try',
+      },
+      {
+        path: '/1mdi1n6',
+        name: 'Analyzing and interacting with several related plots?',
+      },
+      {
+        path: '/1mdishv',
+        name: 'Best LLMs to preserve in case of internet apocalypse',
+      },
+      {
+        path: '/1mdj0g9',
+        name: 'Best CLI agent for ollama/llama-server',
+      },
+      {
+        path: '/1mdj3ap',
+        name: 'CUDA-L1 Improving CUDA Optimization via Contrastive Reinforcement Learning',
+      },
+      {
+        path: '/1mdj5ww',
+        name: 'Complete Mistral Coding Stack but for enterprise only',
+      },
+      {
+        path: '/1mdjb67',
+        name: 'After 6 months of fiddling with local AI. Here’s my curated models list that work for 90% of my needs. What’s yours?',
+      },
+      {
+        path: '/1mdjl0q',
+        name: 'GPT spending money on marketing = GPT 5 delays',
+      },
+      {
+        path: '/1mdjqy5',
+        name: 'The Holy Grail',
+      },
+      {
+        path: '/1mdk46y',
+        name: 'Weird issue running qwen3-30b-a3b-thinking in llama.cpp and openwebui on my 4090 and 64GB of RAM rig, Q4_K_M',
+      },
+      {
+        path: '/1mdk516',
+        name: 'How to locally run Grok 4 with 2x AMD 7900 XTX GPUs? (24 GB VRAM x2)',
+      },
+      {
+        path: '/1mdkmd8',
+        name: 'AMD released a fully open source model 1B',
+      },
+      {
+        path: '/1mdl999',
+        name: 'New to this and trying to learn on the fly',
+      },
+      {
+        path: '/1mdldom',
+        name: 'Kimi K2 vs Claude 4 Sonnet - Unexpected Review Result (400k token Codebase)',
+      },
+      {
+        path: '/1mdln75',
+        name: 'Hey everyone I\'m pretty new at this. I\'m a designer please help me. Stupid Question',
+      },
+      {
+        path: '/1mdlss2',
+        name: 'How to optimize TPS using IK_llama.cpp?',
+      },
+      {
+        path: '/1mdma9a',
+        name: 'Help choosing between Ollama, llama.cpp, or something else for background LLM server (used with dictation)',
+      },
+      {
+        path: '/1mdmr8m',
+        name: 'DIY LLM inference engine learning',
+      },
+      {
+        path: '/1mdmsu9',
+        name: 'Chinese models pulling away',
+      },
+      {
+        path: '/1mdn6dp',
+        name: 'Deepseek just won the best paper award at ACL 2025 with a breakthrough innovation in long context, a model using this might come soon',
+      },
+      {
+        path: '/1mdnhb1',
+        name: 'Ideological alignment at its finest',
+      },
+      {
+        path: '/1mdnp8j',
+        name: 'The DGX Spark JPN price will be $6k at one retailer',
+      },
+      {
+        path: '/1mdnzym',
+        name: 'So what benchmark websites do you refer to? (July 2025 edition)',
+      },
     ],
   },
   {

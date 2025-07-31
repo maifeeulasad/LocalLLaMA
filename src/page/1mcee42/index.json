@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.88,
             "author_flair_background_color": null,
-            "ups": 172,
+            "ups": 177,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 172,
+            "score": 177,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -151,11 +151,11 @@
             "link_flair_background_color": "#cc3600",
             "id": "1mcee42",
             "is_robot_indexable": true,
-            "num_duplicates": 3,
+            "num_duplicates": 4,
             "report_reasons": null,
             "author": "ChiliPepperHott",
             "discussion_type": null,
-            "num_comments": 31,
+            "num_comments": 32,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/",
             "stickied": false,
             "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
-            "subreddit_subscribers": 506973,
+            "subreddit_subscribers": 507276,
             "created_utc": 1753802702,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -305,7 +305,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5uau9v",
-                                                    "score": 15,
+                                                    "score": 19,
                                                     "author_fullname": "t2_1n0su21k4z",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -347,7 +347,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 15
+                                                    "ups": 19
                                                   }
                                                 },
                                                 {
@@ -438,7 +438,93 @@
                                                                                   "author_flair_template_id": null,
                                                                                   "distinguished": null,
                                                                                   "likes": null,
-                                                                                  "replies": "",
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "after": null,
+                                                                                      "dist": null,
+                                                                                      "modhash": "",
+                                                                                      "geo_filter": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_81eyvm",
+                                                                                            "approved_at_utc": null,
+                                                                                            "author_is_blocked": false,
+                                                                                            "comment_type": null,
+                                                                                            "awarders": [],
+                                                                                            "mod_reason_by": null,
+                                                                                            "banned_by": null,
+                                                                                            "author_flair_type": "text",
+                                                                                            "total_awards_received": 0,
+                                                                                            "subreddit": "LocalLLaMA",
+                                                                                            "author_flair_template_id": null,
+                                                                                            "likes": null,
+                                                                                            "replies": "",
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "n604qvb",
+                                                                                            "banned_at_utc": null,
+                                                                                            "mod_reason_title": null,
+                                                                                            "gilded": 0,
+                                                                                            "archived": false,
+                                                                                            "collapsed_reason_code": null,
+                                                                                            "no_follow": true,
+                                                                                            "author": "InterstellarReddit",
+                                                                                            "can_mod_post": false,
+                                                                                            "created_utc": 1753892661,
+                                                                                            "send_replies": true,
+                                                                                            "parent_id": "t1_n5yuatf",
+                                                                                            "score": 1,
+                                                                                            "author_fullname": "t2_3aooiye4",
+                                                                                            "approved_by": null,
+                                                                                            "mod_note": null,
+                                                                                            "all_awardings": [],
+                                                                                            "body": "I can tell you didn't even bother to click on the post because there is a video demoing the app that he created",
+                                                                                            "edited": false,
+                                                                                            "gildings": {},
+                                                                                            "downs": 0,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "name": "t1_n604qvb",
+                                                                                            "is_submitter": false,
+                                                                                            "collapsed": false,
+                                                                                            "author_flair_richtext": [],
+                                                                                            "author_patreon_flair": false,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I can tell you didn&amp;#39;t even bother to click on the post because there is a video demoing the app that he created&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "removal_reason": null,
+                                                                                            "collapsed_reason": null,
+                                                                                            "distinguished": null,
+                                                                                            "associated_award": null,
+                                                                                            "stickied": false,
+                                                                                            "author_premium": true,
+                                                                                            "can_gild": false,
+                                                                                            "top_awarded_type": null,
+                                                                                            "unrepliable_reason": null,
+                                                                                            "author_flair_text_color": null,
+                                                                                            "score_hidden": false,
+                                                                                            "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/n604qvb/",
+                                                                                            "subreddit_type": "public",
+                                                                                            "locked": false,
+                                                                                            "report_reasons": null,
+                                                                                            "created": 1753892661,
+                                                                                            "author_flair_text": null,
+                                                                                            "treatment_tags": [],
+                                                                                            "link_id": "t3_1mcee42",
+                                                                                            "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                                                            "controversiality": 0,
+                                                                                            "depth": 8,
+                                                                                            "author_flair_background_color": null,
+                                                                                            "collapsed_because_crowd_control": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
                                                                                   "user_reports": [],
                                                                                   "saved": false,
                                                                                   "id": "n5yuatf",
@@ -453,7 +539,7 @@
                                                                                   "created_utc": 1753878570,
                                                                                   "send_replies": true,
                                                                                   "parent_id": "t1_n5ydfgi",
-                                                                                  "score": 1,
+                                                                                  "score": 0,
                                                                                   "author_fullname": "t2_4zn2r",
                                                                                   "approved_by": null,
                                                                                   "mod_note": null,
@@ -494,7 +580,7 @@
                                                                                   "collapsed_because_crowd_control": null,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
-                                                                                  "ups": 1
+                                                                                  "ups": 0
                                                                                 }
                                                                               }
                                                                             ],
@@ -514,7 +600,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n5ycnm8",
-                                                                        "score": 0,
+                                                                        "score": 1,
                                                                         "author_fullname": "t2_3aooiye4",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -556,7 +642,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 0
+                                                                        "ups": 1
                                                                       }
                                                                     }
                                                                   ],
@@ -576,7 +662,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n5ycjn4",
-                                                              "score": 2,
+                                                              "score": 3,
                                                               "author_fullname": "t2_14dc1j",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -618,7 +704,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 2
+                                                              "ups": 3
                                                             }
                                                           }
                                                         ],
@@ -638,7 +724,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5uau9v",
-                                                    "score": 0,
+                                                    "score": 2,
                                                     "author_fullname": "t2_3aooiye4",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -680,7 +766,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 0
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -695,12 +781,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": false,
+                                          "no_follow": true,
                                           "author": "vert1s",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n5th6a6",
-                                          "score": 4,
+                                          "score": 2,
                                           "author_fullname": "t2_14dc1j",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -743,7 +829,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 4
+                                          "ups": 2
                                         }
                                       }
                                     ],
@@ -763,7 +849,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5t7em1",
-                                "score": 29,
+                                "score": 31,
                                 "author_fullname": "t2_3aooiye4",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -806,7 +892,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 29
+                                "ups": 31
                               }
                             }
                           ],
@@ -827,7 +913,7 @@
                       "created_utc": 1753803788,
                       "send_replies": true,
                       "parent_id": "t1_n5t6hlz",
-                      "score": 77,
+                      "score": 72,
                       "author_fullname": "t2_1j219c2ws5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -869,7 +955,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 77
+                      "ups": 72
                     }
                   },
                   {
@@ -1121,7 +1207,7 @@
             "created_utc": 1753806932,
             "send_replies": true,
             "parent_id": "t3_1mcee42",
-            "score": 40,
+            "score": 45,
             "author_fullname": "t2_36e47",
             "approved_by": null,
             "mod_note": null,
@@ -1163,7 +1249,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 40
+            "ups": 45
           }
         },
         {
@@ -1196,7 +1282,7 @@
             "created_utc": 1753805531,
             "send_replies": true,
             "parent_id": "t3_1mcee42",
-            "score": 12,
+            "score": 14,
             "author_fullname": "t2_vcawomd",
             "approved_by": null,
             "mod_note": null,
@@ -1238,7 +1324,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 14
           }
         },
         {
@@ -1294,7 +1380,7 @@
                       "created_utc": 1753808482,
                       "send_replies": true,
                       "parent_id": "t1_n5tizwe",
-                      "score": 19,
+                      "score": 22,
                       "author_fullname": "t2_16f7jp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1336,7 +1422,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 19
+                      "ups": 22
                     }
                   },
                   {
@@ -1455,7 +1541,7 @@
                       "created_utc": 1753812199,
                       "send_replies": true,
                       "parent_id": "t1_n5tizwe",
-                      "score": 6,
+                      "score": 8,
                       "author_fullname": "t2_n78sj",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1497,7 +1583,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 8
                     }
                   },
                   {
@@ -1610,7 +1696,7 @@
                       "created_utc": 1753812890,
                       "send_replies": true,
                       "parent_id": "t1_n5tizwe",
-                      "score": 3,
+                      "score": 1,
                       "author_fullname": "t2_ah13x",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1657,7 +1743,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 1
                     }
                   }
                 ],
@@ -1798,7 +1884,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5v5ovq",
-                                "score": 5,
+                                "score": 3,
                                 "author_fullname": "t2_1u3ele924k",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1841,7 +1927,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 3
                               }
                             }
                           ],
@@ -2391,7 +2477,7 @@
                       "created_utc": 1753812557,
                       "send_replies": true,
                       "parent_id": "t1_n5u08t7",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_nwasjyh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2433,7 +2519,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -2454,7 +2540,7 @@
             "created_utc": 1753811697,
             "send_replies": true,
             "parent_id": "t3_1mcee42",
-            "score": 5,
+            "score": 6,
             "author_fullname": "t2_1rceeq01eo",
             "approved_by": null,
             "mod_note": null,
@@ -2496,7 +2582,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -2517,34 +2603,34 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
-            "id": "n5xg3ul",
+            "id": "n5y8dvg",
             "banned_at_utc": null,
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
             "no_follow": true,
-            "author": "TopImaginary5996",
+            "author": "ManuelRodriguez331",
             "can_mod_post": false,
-            "created_utc": 1753852769,
+            "created_utc": 1753868739,
             "send_replies": true,
             "parent_id": "t3_1mcee42",
-            "score": 1,
-            "author_fullname": "t2_1nf3fhsk8j",
+            "score": 2,
+            "author_fullname": "t2_1zmnxeov",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "Serious question: am I missing something and what is actually amazing about being able to run it on a \"2.5 year old laptop\"? Saw him promoting this on Hacker News as usual but wasn't expecting to see it here.",
+            "body": "In the 1980s, I had installed on my ZX81 home computer an entire Database-management-System similar to Unix with Chrome-Cassettes as main storage. It was extremely fast and reliable.",
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,
-            "name": "t1_n5xg3ul",
+            "name": "t1_n5y8dvg",
             "is_submitter": false,
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Serious question: am I missing something and what is actually amazing about being able to run it on a &amp;quot;2.5 year old laptop&amp;quot;? Saw him promoting this on Hacker News as usual but wasn&amp;#39;t expecting to see it here.&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In the 1980s, I had installed on my ZX81 home computer an entire Database-management-System similar to Unix with Chrome-Cassettes as main storage. It was extremely fast and reliable.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -2556,11 +2642,11 @@
             "unrepliable_reason": null,
             "author_flair_text_color": null,
             "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/n5xg3ul/",
+            "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/n5y8dvg/",
             "subreddit_type": "public",
             "locked": false,
             "report_reasons": null,
-            "created": 1753852769,
+            "created": 1753868739,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1mcee42",
@@ -2571,7 +2657,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -2742,34 +2828,34 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
-            "id": "n5y8dvg",
+            "id": "n5xg3ul",
             "banned_at_utc": null,
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
             "no_follow": true,
-            "author": "ManuelRodriguez331",
+            "author": "TopImaginary5996",
             "can_mod_post": false,
-            "created_utc": 1753868739,
+            "created_utc": 1753852769,
             "send_replies": true,
             "parent_id": "t3_1mcee42",
             "score": 1,
-            "author_fullname": "t2_1zmnxeov",
+            "author_fullname": "t2_1nf3fhsk8j",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "In the 1980s, I had installed on my ZX81 home computer an entire Database-management-System similar to Unix with Chrome-Cassettes as main storage. It was extremely fast and reliable.",
+            "body": "Serious question: am I missing something and what is actually amazing about being able to run it on a \"2.5 year old laptop\"? Saw him promoting this on Hacker News as usual but wasn't expecting to see it here.",
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,
-            "name": "t1_n5y8dvg",
+            "name": "t1_n5xg3ul",
             "is_submitter": false,
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In the 1980s, I had installed on my ZX81 home computer an entire Database-management-System similar to Unix with Chrome-Cassettes as main storage. It was extremely fast and reliable.&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Serious question: am I missing something and what is actually amazing about being able to run it on a &amp;quot;2.5 year old laptop&amp;quot;? Saw him promoting this on Hacker News as usual but wasn&amp;#39;t expecting to see it here.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -2781,11 +2867,11 @@
             "unrepliable_reason": null,
             "author_flair_text_color": null,
             "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/n5y8dvg/",
+            "permalink": "/r/LocalLLaMA/comments/1mcee42/my_25_year_old_laptop_can_write_space_invaders_in/n5xg3ul/",
             "subreddit_type": "public",
             "locked": false,
             "report_reasons": null,
-            "created": 1753868739,
+            "created": 1753852769,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1mcee42",

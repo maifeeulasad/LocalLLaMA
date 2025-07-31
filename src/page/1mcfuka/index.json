@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 142,
+            "ups": 146,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 142,
+            "score": 146,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -151,11 +151,11 @@
             "link_flair_background_color": "#ffb000",
             "id": "1mcfuka",
             "is_robot_indexable": true,
-            "num_duplicates": 5,
+            "num_duplicates": 7,
             "report_reasons": null,
             "author": "ApprehensiveAd3629",
             "discussion_type": null,
-            "num_comments": 16,
+            "num_comments": 17,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mcfuka/qwenqwen330ba3binstruct2507_hugging_face/",
             "stickied": false,
             "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-            "subreddit_subscribers": 506973,
+            "subreddit_subscribers": 507276,
             "created_utc": 1753805955,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -236,7 +236,7 @@
                       "created_utc": 1753809700,
                       "send_replies": true,
                       "parent_id": "t1_n5tfph2",
-                      "score": 11,
+                      "score": 12,
                       "author_fullname": "t2_w4j8t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +278,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 11
+                      "ups": 12
                     }
                   }
                 ],
@@ -299,7 +299,7 @@
             "created_utc": 1753806097,
             "send_replies": true,
             "parent_id": "t3_1mcfuka",
-            "score": 26,
+            "score": 30,
             "author_fullname": "t2_7g0m6735",
             "approved_by": null,
             "mod_note": null,
@@ -386,7 +386,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 26
+            "ups": 30
           }
         },
         {
@@ -419,7 +419,7 @@
             "created_utc": 1753807741,
             "send_replies": true,
             "parent_id": "t3_1mcfuka",
-            "score": 17,
+            "score": 16,
             "author_fullname": "t2_58qturpl",
             "approved_by": null,
             "mod_note": null,
@@ -461,7 +461,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 16
           }
         },
         {
@@ -603,7 +603,7 @@
                       "created_utc": 1753806391,
                       "send_replies": true,
                       "parent_id": "t1_n5tgkgx",
-                      "score": 9,
+                      "score": 10,
                       "author_fullname": "t2_4gc7hf3m",
                       "removal_reason": null,
                       "approved_by": null,
@@ -650,7 +650,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 10
                     }
                   },
                   {
@@ -683,7 +683,7 @@
                       "created_utc": 1753806451,
                       "send_replies": true,
                       "parent_id": "t1_n5tgkgx",
-                      "score": 6,
+                      "score": 5,
                       "author_fullname": "t2_gbx2bcdvl",
                       "removal_reason": null,
                       "approved_by": null,
@@ -725,7 +725,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 5
                     }
                   },
                   {
@@ -821,7 +821,7 @@
             "created_utc": 1753806338,
             "send_replies": true,
             "parent_id": "t3_1mcfuka",
-            "score": 33,
+            "score": 35,
             "author_fullname": "t2_5wukhd4",
             "approved_by": null,
             "mod_note": null,
@@ -863,7 +863,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 33
+            "ups": 35
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "created_utc": 1753812692,
             "send_replies": true,
             "parent_id": "t3_1mcfuka",
-            "score": 5,
+            "score": 4,
             "author_fullname": "t2_uz37qfx5",
             "approved_by": null,
             "mod_note": null,
@@ -1110,7 +1110,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -1230,12 +1230,12 @@
                                                     "gilded": 0,
                                                     "archived": false,
                                                     "collapsed_reason_code": null,
-                                                    "no_follow": true,
+                                                    "no_follow": false,
                                                     "author": "xadiant",
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n5uy6gq",
-                                                    "score": 3,
+                                                    "score": 4,
                                                     "author_fullname": "t2_omgp6",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -1277,7 +1277,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -1360,7 +1360,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n5uayit",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_omgp6",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1403,7 +1403,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -1487,7 +1487,7 @@
             "created_utc": 1753806426,
             "send_replies": true,
             "parent_id": "t3_1mcfuka",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_4fuhv1gu",
             "approved_by": null,
             "mod_note": null,
@@ -1529,7 +1529,82 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n5zwjsb",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "wfgy_engine",
+            "can_mod_post": false,
+            "created_utc": 1753890341,
+            "send_replies": true,
+            "parent_id": "t3_1mcfuka",
+            "score": 1,
+            "author_fullname": "t2_1tgp8l87vk",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Nice — love to see more Qwen drops. Been playing with a few A3B variants recently, and the instruct tuning actually feels smoother on longer tasks than the base 30B.\n\nIf anyone here’s testing it for local RAG or semantic agents, would love to hear how it compares to LLaMA3 or Yi. I’m compiling use cases for side-by-side evals.\n\n(Open to share notes if anyone’s into retrieval alignment / fine-grain evals!)",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n5zwjsb",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nice — love to see more Qwen drops. Been playing with a few A3B variants recently, and the instruct tuning actually feels smoother on longer tasks than the base 30B.&lt;/p&gt;\n\n&lt;p&gt;If anyone here’s testing it for local RAG or semantic agents, would love to hear how it compares to LLaMA3 or Yi. I’m compiling use cases for side-by-side evals.&lt;/p&gt;\n\n&lt;p&gt;(Open to share notes if anyone’s into retrieval alignment / fine-grain evals!)&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mcfuka/qwenqwen330ba3binstruct2507_hugging_face/n5zwjsb/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753890341,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mcfuka",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
           }
         }
       ],
