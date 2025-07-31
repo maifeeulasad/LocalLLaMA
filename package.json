@@ -60,7 +60,7 @@
   },
   "scripts": {
     "start": "vite",
-    "build": "rm -rf build && tsc && vite build",
+    "build": "NODE_OPTIONS='--max-old-space-size=8192' rm -rf build && tsc && vite build",
     "serve": "vite preview",
     "predeploy": "pnpm lint && pnpm build",
     "deploy": "gh-pages -d build",
