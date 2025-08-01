@@ -95,9 +95,9 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.97,
+            "upvote_ratio": 0.98,
             "author_flair_background_color": null,
-            "ups": 70,
+            "ups": 85,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -123,7 +123,7 @@
             },
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 70,
+            "score": 85,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -179,7 +179,7 @@
             "report_reasons": null,
             "author": "ResearchCrafty1804",
             "discussion_type": null,
-            "num_comments": 2,
+            "num_comments": 4,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -188,7 +188,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mdzu08/hunyuan_releases_xomni_a_unified_discrete/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mdzu08",
-            "subreddit_subscribers": 507935,
+            "subreddit_subscribers": 508192,
             "created_utc": 1753963825,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -237,7 +237,7 @@
             "created_utc": 1753964534,
             "send_replies": true,
             "parent_id": "t3_1mdzu08",
-            "score": 21,
+            "score": 23,
             "author_fullname": "t2_9u3afpb8q",
             "approved_by": null,
             "mod_note": null,
@@ -279,7 +279,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 21
+            "ups": 23
           }
         },
         {
@@ -312,7 +312,7 @@
             "created_utc": 1753970075,
             "send_replies": true,
             "parent_id": "t3_1mdzu08",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_e7yz4055",
             "approved_by": null,
             "mod_note": null,
@@ -354,7 +354,253 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n6bptnj",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "FrostAutomaton",
+                      "can_mod_post": false,
+                      "created_utc": 1754043797,
+                      "send_replies": true,
+                      "parent_id": "t1_n6bpqlp",
+                      "score": 1,
+                      "author_fullname": "t2_1e9th1d970",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "https://preview.redd.it/jxmyi0znwdgf1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=d4278af93de3a20d6d1e85fab82c87a61d73b594\n\nAs compared to Flux1-dev (the base diffusion model the solution uses) with the exact same prompt",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n6bptnj",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/jxmyi0znwdgf1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d4278af93de3a20d6d1e85fab82c87a61d73b594\"&gt;https://preview.redd.it/jxmyi0znwdgf1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d4278af93de3a20d6d1e85fab82c87a61d73b594&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As compared to Flux1-dev (the base diffusion model the solution uses) with the exact same prompt&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mdzu08",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mdzu08/hunyuan_releases_xomni_a_unified_discrete/n6bptnj/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754043797,
+                      "media_metadata": {
+                        "jxmyi0znwdgf1": {
+                          "status": "valid",
+                          "e": "Image",
+                          "m": "image/png",
+                          "p": [
+                            {
+                              "y": 81,
+                              "x": 108,
+                              "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=212a980068b78eef5385435b82a3885b7968fa1b"
+                            },
+                            {
+                              "y": 162,
+                              "x": 216,
+                              "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3d1cf18c3dbc84194e8b993b649a8a12034f6643"
+                            },
+                            {
+                              "y": 240,
+                              "x": 320,
+                              "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2d1a5cdfdc76883e810ed43fe3a57131bf713a80"
+                            },
+                            {
+                              "y": 480,
+                              "x": 640,
+                              "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a68a691eca9b5e6eae3d938eaeb382b67cdade44"
+                            },
+                            {
+                              "y": 720,
+                              "x": 960,
+                              "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=51a22ccf87598ca23e5240116c1a91cff5585be1"
+                            }
+                          ],
+                          "s": {
+                            "y": 768,
+                            "x": 1024,
+                            "u": "https://preview.redd.it/jxmyi0znwdgf1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=d4278af93de3a20d6d1e85fab82c87a61d73b594"
+                          },
+                          "id": "jxmyi0znwdgf1"
+                        }
+                      },
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n6bpqlp",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "FrostAutomaton",
+            "can_mod_post": false,
+            "created_utc": 1754043754,
+            "send_replies": true,
+            "parent_id": "t3_1mdzu08",
+            "score": 1,
+            "author_fullname": "t2_1e9th1d970",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "The best autoregressive model I've seen so far. Though as one would expect, the generated image quality isn't yet at the level of the best open weights diffusion models. It does seem to handle text remarkably well though:\n\nhttps://preview.redd.it/37kmiq3jwdgf1.png?width=1152&amp;format=png&amp;auto=webp&amp;s=7f465afa07b299599b0df0c458e64845c0f7c44c",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n6bpqlp",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The best autoregressive model I&amp;#39;ve seen so far. Though as one would expect, the generated image quality isn&amp;#39;t yet at the level of the best open weights diffusion models. It does seem to handle text remarkably well though:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/37kmiq3jwdgf1.png?width=1152&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f465afa07b299599b0df0c458e64845c0f7c44c\"&gt;https://preview.redd.it/37kmiq3jwdgf1.png?width=1152&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f465afa07b299599b0df0c458e64845c0f7c44c&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mdzu08/hunyuan_releases_xomni_a_unified_discrete/n6bpqlp/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754043754,
+            "media_metadata": {
+              "37kmiq3jwdgf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 108,
+                    "x": 108,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=3c30862628f068badd37b0f71dd333bfde4e99f1"
+                  },
+                  {
+                    "y": 216,
+                    "x": 216,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9c7bdb21b884d3525cc3883022de8a38dad8acc9"
+                  },
+                  {
+                    "y": 320,
+                    "x": 320,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=43ee6307775d574053ac656c5baff85b746cd363"
+                  },
+                  {
+                    "y": 640,
+                    "x": 640,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ad1e25c81e118ce58ef9a9a00d3129e5cea1d0e"
+                  },
+                  {
+                    "y": 960,
+                    "x": 960,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=56c035dee72cc3b3ffec080a6824a4cc711edea0"
+                  },
+                  {
+                    "y": 1080,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f061a58587d9a9e61d242bc701e43367960a3a8f"
+                  }
+                ],
+                "s": {
+                  "y": 1152,
+                  "x": 1152,
+                  "u": "https://preview.redd.it/37kmiq3jwdgf1.png?width=1152&amp;format=png&amp;auto=webp&amp;s=7f465afa07b299599b0df0c458e64845c0f7c44c"
+                },
+                "id": "37kmiq3jwdgf1"
+              }
+            },
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mdzu08",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
           }
         }
       ],

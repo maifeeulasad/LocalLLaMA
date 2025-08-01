@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey folks,\n\nI've switched from using vLLM to ik\\_llamacpp for hybrid inference with the new Qwen MoE models. I am hosting the model via llama-server like so:\n\n    llama-server -m models/Qwen3-30B-A3B-Thinking-2507-IQ5_K.gguf \\\n    -t 24 \\\n    -c 65536 \\\n    -b 4096 \\\n    -ub 4096 \\\n    -fa \\\n    -ot \"blk\\\\.[0-2].*\\\\.ffn_.*_exps.weight=CUDA0\" \\\n    -ot \"blk\\\\..*\\\\.ffn_.*_exps.weight=CPU\" \\\n    -ngl 99 \\\n    -sm layer \\\n    -ts 1 \\\n    -amb 2048 \\\n    -fmoe \\\n    --top-k 20 \\\n    --min-p 0\n\nThis all works fine and fully utilises my 4090 + system RAM.\n\nHowever I'm struggling to find any discussion or documentation of how to achieve what i'm trying to do with this setup.\n\nMy use case requires reasoning model + structured generation. vLLM exposes a --reasoning-parser which when set correctly allows the backend to smartly apply the structured generation constraints to the model output, i.e. *after* its generated the &lt;think&gt;...&lt;/think&gt; CoT.\n\nIt seems that mainline llamacpp can do something similar by using the `--jinja` argument with `--chat-template` or `--reasoning-format`.\n\nik\\_llamacpp doesn't seem to support these arguments, at least not in the same way. As a result, when I enforce a JSON schema at request-time, it seems the backend constrains the *whole* response, thus nuking the thinking tags.\n\nHere is a [standalone gist](https://gist.github.com/SlapDrone/510ae0af4b5c5be83c56755732f32995) for a minimal reproduction with outputs.\n\nAnyone got a similar setup and have a solution/workaround?\n\nThanks in advance!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Reasoning + structured generation with ik_llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mer7up",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.4,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 0,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_obep6zym",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754037880,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey folks,&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve switched from using vLLM to ik_llamacpp for hybrid inference with the new Qwen MoE models. I am hosting the model via llama-server like so:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;llama-server -m models/Qwen3-30B-A3B-Thinking-2507-IQ5_K.gguf \\\n-t 24 \\\n-c 65536 \\\n-b 4096 \\\n-ub 4096 \\\n-fa \\\n-ot &amp;quot;blk\\\\.[0-2].*\\\\.ffn_.*_exps.weight=CUDA0&amp;quot; \\\n-ot &amp;quot;blk\\\\..*\\\\.ffn_.*_exps.weight=CPU&amp;quot; \\\n-ngl 99 \\\n-sm layer \\\n-ts 1 \\\n-amb 2048 \\\n-fmoe \\\n--top-k 20 \\\n--min-p 0\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;This all works fine and fully utilises my 4090 + system RAM.&lt;/p&gt;\n\n&lt;p&gt;However I&amp;#39;m struggling to find any discussion or documentation of how to achieve what i&amp;#39;m trying to do with this setup.&lt;/p&gt;\n\n&lt;p&gt;My use case requires reasoning model + structured generation. vLLM exposes a --reasoning-parser which when set correctly allows the backend to smartly apply the structured generation constraints to the model output, i.e. &lt;em&gt;after&lt;/em&gt; its generated the &amp;lt;think&amp;gt;...&amp;lt;/think&amp;gt; CoT.&lt;/p&gt;\n\n&lt;p&gt;It seems that mainline llamacpp can do something similar by using the &lt;code&gt;--jinja&lt;/code&gt; argument with &lt;code&gt;--chat-template&lt;/code&gt; or &lt;code&gt;--reasoning-format&lt;/code&gt;.&lt;/p&gt;\n\n&lt;p&gt;ik_llamacpp doesn&amp;#39;t seem to support these arguments, at least not in the same way. As a result, when I enforce a JSON schema at request-time, it seems the backend constrains the &lt;em&gt;whole&lt;/em&gt; response, thus nuking the thinking tags.&lt;/p&gt;\n\n&lt;p&gt;Here is a &lt;a href=\"https://gist.github.com/SlapDrone/510ae0af4b5c5be83c56755732f32995\"&gt;standalone gist&lt;/a&gt; for a minimal reproduction with outputs.&lt;/p&gt;\n\n&lt;p&gt;Anyone got a similar setup and have a solution/workaround?&lt;/p&gt;\n\n&lt;p&gt;Thanks in advance!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?auto=webp&amp;s=c7cbcc7517e2406e2326e7a1eb6bdb9022c27fda",
+                    "width": 1280,
+                    "height": 640
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=796041decb8c1250cbc2f301331b72f7385b477d",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=2e3562243f324d16bc6d9dd09adb1da4e0b100b5",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=564e5f4bb6808064a14eb3965a6911671c3c9807",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f53460a90493497883ab4cacbbb58e2acb464c4",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=7a4f79362039959fa37eab208ae001245ccfe6e3",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=912f966e123e94e32e7975fe8aebac89450a6b98",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mer7up",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Swedgetarian",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mer7up/reasoning_structured_generation_with_ik_llamacpp/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mer7up/reasoning_structured_generation_with_ik_llamacpp/",
+            "subreddit_subscribers": 508192,
+            "created_utc": 1754037880,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
