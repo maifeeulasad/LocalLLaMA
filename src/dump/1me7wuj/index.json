@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey folks — I’m working on a side project around LLM agents and realized I didn’t have a good place to share experiments or talk to other builders doing similar stuff.\n\nSo I started a Slack community for people working on agent-based tools, backend automations, and AI-native side projects. Think LangChain, AutoGen, prompt workflows, etc.\n\nIt’s already picked up momentum with indie builders, OSS contributors, and engineers sharing tools, code, and early prototypes.\n\nIf you’re building in this space or just exploring ideas, feel free to join in:  \n👉 [https://forms.gle/vCf4KXMsCaavvYaPA](https://forms.gle/vCf4KXMsCaavvYaPA)\n\nNot monetized, not spammy — just trying to make something useful for people shipping cool stuff. Happy to answer questions or hear what you're building too.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Started a Slack group for AI agent/automation side project builders — free to join",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1me7wuj",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 7,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_f8o54u21",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 7,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1753983128,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey folks — I’m working on a side project around LLM agents and realized I didn’t have a good place to share experiments or talk to other builders doing similar stuff.&lt;/p&gt;\n\n&lt;p&gt;So I started a Slack community for people working on agent-based tools, backend automations, and AI-native side projects. Think LangChain, AutoGen, prompt workflows, etc.&lt;/p&gt;\n\n&lt;p&gt;It’s already picked up momentum with indie builders, OSS contributors, and engineers sharing tools, code, and early prototypes.&lt;/p&gt;\n\n&lt;p&gt;If you’re building in this space or just exploring ideas, feel free to join in:&lt;br/&gt;\n👉 &lt;a href=\"https://forms.gle/vCf4KXMsCaavvYaPA\"&gt;https://forms.gle/vCf4KXMsCaavvYaPA&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Not monetized, not spammy — just trying to make something useful for people shipping cool stuff. Happy to answer questions or hear what you&amp;#39;re building too.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?auto=webp&amp;s=f21a691d46d145a42907881bc60ffe6f87f7bfa0",
+                    "width": 1200,
+                    "height": 630
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a899259f1a624211bfb51c3c4a875767313d7934",
+                      "width": 108,
+                      "height": 56
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fc5491fa87b8740161d52f961188a9d827db19f0",
+                      "width": 216,
+                      "height": 113
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=353065210c98f45c3180ab814df7f645b67b10f3",
+                      "width": 320,
+                      "height": 168
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a86b46bcc4f9b9248c97339444a35dfa510a064b",
+                      "width": 640,
+                      "height": 336
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ea901a7936852ec0306e795bf6e30510bff42e28",
+                      "width": 960,
+                      "height": 504
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=318939830d184856926afa568581d596ad7df1a5",
+                      "width": 1080,
+                      "height": 567
+                    }
+                  ],
+                  "variants": {},
+                  "id": "I-xX7rjCusgUcmQ53FmR-IUZEMbenSZYrO30pYAyMIA"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1me7wuj",
+            "is_robot_indexable": true,
+            "num_duplicates": 1,
+            "report_reasons": null,
+            "author": "Embarrassed-Radio319",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1me7wuj/started_a_slack_group_for_ai_agentautomation_side/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1me7wuj/started_a_slack_group_for_ai_agentautomation_side/",
+            "subreddit_subscribers": 507934,
+            "created_utc": 1753983128,
+            "num_crossposts": 1,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
