@@ -10668,6 +10668,306 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mdzxmv',
         name: 'Qwen3-30B-A3B-2507-Q4_K_L Is the First Local Model to Solve the North Pole Walk Puzzle',
       },
+      {
+        path: '/1me095p',
+        name: 'Junyang Lin is drinking tea',
+      },
+      {
+        path: '/1me1hh8',
+        name: 'qwen-30B success story',
+      },
+      {
+        path: '/1me1i0c',
+        name: 'stepfun-ai/step3 · Hugging Face',
+      },
+      {
+        path: '/1me20vl',
+        name: 'Looking for best cloud GPU provider',
+      },
+      {
+        path: '/1me2iza',
+        name: 'Introducing Command A Vision: Multimodal AI Built for Business',
+      },
+      {
+        path: '/1me2o28',
+        name: 'CohereLabs/command-a-vision-07-2025 · Hugging Face',
+      },
+      {
+        path: '/1me2o4z',
+        name: 'China no. 1!',
+      },
+      {
+        path: '/1me2wxx',
+        name: 'FLUX.1 Krea [dev] - a new state-of-the-art open-weights FLUX model, built for photorealism.',
+      },
+      {
+        path: '/1me2z8b',
+        name: 'Towards Locally Deployable Fine-Tuned Causal LLMs for Mode Choice Behaviour',
+      },
+      {
+        path: '/1me2zc6',
+        name: 'Qwen3-Coder-30B-A3B released!',
+      },
+      {
+        path: '/1me31d8',
+        name: '🚀 Qwen3-Coder-Flash released!',
+      },
+      {
+        path: '/1me324b',
+        name: 'Qwen/Qwen3-Coder-30B-A3B-Instruct · Hugging Face',
+      },
+      {
+        path: '/1me33jj',
+        name: 'Qwen3-Coder-Flash / Qwen3-Coder-30B-A3B-Instruct-FP8 are here!',
+      },
+      {
+        path: '/1me3b7o',
+        name: 'Sam Altman After New Models Qwen3',
+      },
+      {
+        path: '/1me3e7w',
+        name: 'MistralAI releases Codestral 25.08 (via API only tho)',
+      },
+      {
+        path: '/1me3hy7',
+        name: 'Dario\'s (stupid) take on open source',
+      },
+      {
+        path: '/1me3k8h',
+        name: 'Instruct embedding models',
+      },
+      {
+        path: '/1me3qyu',
+        name: 'LLM forgets recent user messages – only responds from memory DB, not conversation context (Llama-3 base, local setup)',
+      },
+      {
+        path: '/1me3vpe',
+        name: '8% -&gt; 33.3% on Aider polyglot',
+      },
+      {
+        path: '/1me44dy',
+        name: 'Space Invaders on first try with Qwen3 Coder 30b-a3b (Unsloth Q6_K)',
+      },
+      {
+        path: '/1me44qm',
+        name: 'Is it worth buying a 3090 over a P40 in my case?',
+      },
+      {
+        path: '/1me467z',
+        name: 'Is there a good Computer use workflow / model?',
+      },
+      {
+        path: '/1me4e22',
+        name: 'Help! How to access the full 96GB VRAM on AMD Strix Halo (Ryzen AI Max+ 395) with PyTorch in Ubuntu 24.04?',
+      },
+      {
+        path: '/1me4i2h',
+        name: 'I made a comparison chart for Qwen3-Coder-30B-A3B vs. Qwen3-Coder-480B-A35B',
+      },
+      {
+        path: '/1me4riw',
+        name: 'the last MCP server you\'ll ever need',
+      },
+      {
+        path: '/1me6j2v',
+        name: 'How can Groq host Kimi-K2 but refuses to host DeepSeek-R1-0528 or V3-0324???',
+      },
+      {
+        path: '/1me6lic',
+        name: 'Masking LLM API keys',
+      },
+      {
+        path: '/1me6sxd',
+        name: 'HELP ... FINE TUNING LED MODEL !!!!',
+      },
+      {
+        path: '/1me6yfh',
+        name: 'Ai for making photo alive',
+      },
+      {
+        path: '/1me713k',
+        name: 'Has anyone else seen LLMs lose context after a tool call in OpenWebUI? (Using Qwen 30B)',
+      },
+      {
+        path: '/1me7i6l',
+        name: '15+ templates to build agents that are production tested - please give feedback?',
+      },
+      {
+        path: '/1me7jed',
+        name: 'Which way modern man?',
+      },
+      {
+        path: '/1me7nbq',
+        name: 'Try some models',
+      },
+      {
+        path: '/1me7wuj',
+        name: 'Started a Slack group for AI agent/automation side project builders — free to join',
+      },
+      {
+        path: '/1me7xyj',
+        name: 'And people say DeepSeek is censored...',
+      },
+      {
+        path: '/1me7yia',
+        name: 'I built a local alternative to Grammarly that runs 100% offline',
+      },
+      {
+        path: '/1me7z6b',
+        name: 'Qwen 30B A3B 2507 having an identity crisis...',
+      },
+      {
+        path: '/1me88j7',
+        name: 'HELP PLEASE -I\'m all lost nothing working my RP chats are all just loop or the same message as before',
+      },
+      {
+        path: '/1me8dgy',
+        name: 'Why does HF not show total size for directories?',
+      },
+      {
+        path: '/1me8m73',
+        name: 'Are radeon mi60 32Gb gpus still any good?',
+      },
+      {
+        path: '/1me8wz6',
+        name: 'They all tried',
+      },
+      {
+        path: '/1me8ym2',
+        name: 'Ollama Troubles',
+      },
+      {
+        path: '/1me9hhl',
+        name: 'Suitable model for Summarization',
+      },
+      {
+        path: '/1me9pro',
+        name: 'GPT-5 might already be on OpenRouter?',
+      },
+      {
+        path: '/1me9qiz',
+        name: 'Code to do your *own* quantification?',
+      },
+      {
+        path: '/1me9yqh',
+        name: 'Comparison I did - Claude Sonnet / local Qwen3-30B / local Qwen3-235B-thinking',
+      },
+      {
+        path: '/1mea2gf',
+        name: 'Horizon Alpha on OpenRouter',
+      },
+      {
+        path: '/1meadtx',
+        name: 'Suggest models for local computer use agent',
+      },
+      {
+        path: '/1mearht',
+        name: 'An attempt to explain LLM Transformers without math',
+      },
+      {
+        path: '/1meazh1',
+        name: 'New Portable AI Rig Announced (Marketed As A Gaming Laptop)',
+      },
+      {
+        path: '/1mebifn',
+        name: 'Laptop Recommendations?',
+      },
+      {
+        path: '/1mebzvo',
+        name: 'What are some good sites to buy a LLM capable desktop',
+      },
+      {
+        path: '/1mec14w',
+        name: 'Finding it hard to part with QwQ:32b, convince me there is something better that I should be using for production RAG tasks.',
+      },
+      {
+        path: '/1mecvig',
+        name: 'Built a full stack web app builder that runs locally and gives you full control',
+      },
+      {
+        path: '/1mecx9y',
+        name: 'ChatGPT hallucinated about music app Soundslice so often, the founder made the lie come true | TechCrunch',
+      },
+      {
+        path: '/1med15k',
+        name: 'I built a python script to auto-generate full AI character sets (SFW/NSFW) with LoRA, WebUI API, metadata + folder structure',
+      },
+      {
+        path: '/1med9hx',
+        name: 'Claude Code alternative for local',
+      },
+      {
+        path: '/1mee99g',
+        name: 'Here\'s cogito-v2-109B MoE coding Space Invaders in 1 minute on Strix Halo using Lemonade (unedited video)',
+      },
+      {
+        path: '/1meen33',
+        name: 'Vibe coding in prod by Anthropic',
+      },
+      {
+        path: '/1meep6o',
+        name: 'The Great Deception of "Low Prices" in LLM APIs',
+      },
+      {
+        path: '/1meeyee',
+        name: 'Ollama\'s new GUI is closed source?',
+      },
+      {
+        path: '/1mefgt2',
+        name: 'An Ollama wrapper for IRC/Slack/Discord, you want to run your own AI for chat? Here ya go.',
+      },
+      {
+        path: '/1meg9cq',
+        name: 'DIY AI MAX 395+ ITX board?',
+      },
+      {
+        path: '/1meg9k5',
+        name: 'GLM is way more open about the chinese government than other chinese models.',
+      },
+      {
+        path: '/1megdy9',
+        name: 'Bytedance Seed Diffusion Preview',
+      },
+      {
+        path: '/1megpco',
+        name: '"Horizon Alpha" hides its thinking',
+      },
+      {
+        path: '/1megyc6',
+        name: 'Why is "hf download" such a PITA?',
+      },
+      {
+        path: '/1mehark',
+        name: '100 E-books in 15 min | vLLM, A6000, around 1k output tokens/s with 100 concurrent requests Qwen3-30B-A3B-Instruct-2507',
+      },
+      {
+        path: '/1mehiqe',
+        name: 'best ram configuration for llama with stable difusion',
+      },
+      {
+        path: '/1meho6b',
+        name: 'Open source TTS w/voice cloning and multilingual translation?',
+      },
+      {
+        path: '/1mei5ya',
+        name: 'How many times do you sample, and why not more?',
+      },
+      {
+        path: '/1mei9pu',
+        name: 'Cline + Qwen 3 Coder A3B wont call tools',
+      },
+      {
+        path: '/1mei9yg',
+        name: 'Speech-to-text for long audio files',
+      },
+      {
+        path: '/1meiizp',
+        name: 'Releasing Open Weights for FLUX.1 Krea',
+      },
+      {
+        path: '/1meiwzu',
+        name: 'first time local llm and facing issues',
+      },
     ],
   },
   {

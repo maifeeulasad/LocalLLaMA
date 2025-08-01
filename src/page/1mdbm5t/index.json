@@ -127,9 +127,9 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.81,
+            "upvote_ratio": 0.82,
             "author_flair_background_color": null,
-            "ups": 104,
+            "ups": 107,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -155,7 +155,7 @@
             },
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 104,
+            "score": 107,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -211,7 +211,7 @@
             "report_reasons": null,
             "author": "FitHeron1933",
             "discussion_type": null,
-            "num_comments": 56,
+            "num_comments": 59,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -220,7 +220,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mdbm5t/eigent_open_source_localfirst_multiagent_workforce/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mdbm5t",
-            "subreddit_subscribers": 507574,
+            "subreddit_subscribers": 507935,
             "created_utc": 1753893843,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -314,7 +314,7 @@
                                 "can_mod_post": false,
                                 "send_replies": false,
                                 "parent_id": "t1_n61lg7o",
-                                "score": 13,
+                                "score": 16,
                                 "author_fullname": "t2_177r8n",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -357,7 +357,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 16
                               }
                             },
                             {
@@ -389,7 +389,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n61lg7o",
-                                "score": 4,
+                                "score": 6,
                                 "author_fullname": "t2_6kroii95",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -432,7 +432,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 6
                               }
                             }
                           ],
@@ -446,14 +446,14 @@
                       "mod_reason_title": null,
                       "gilded": 0,
                       "archived": false,
-                      "collapsed_reason_code": "LOW_SCORE",
+                      "collapsed_reason_code": null,
                       "no_follow": true,
                       "author": "Fluffy_Sheepherder76",
                       "can_mod_post": false,
                       "created_utc": 1753907329,
                       "send_replies": true,
                       "parent_id": "t1_n612fou",
-                      "score": -5,
+                      "score": -4,
                       "author_fullname": "t2_cdpvjyp4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -470,7 +470,7 @@
                       "author_patreon_flair": false,
                       "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The product has the source code on GitHub, you can simply build from there. &lt;/p&gt;\n\n&lt;p&gt;Plus if you have hosted your model locally, you can use it for free. Another option is that you can add your API keys.&lt;/p&gt;\n&lt;/div&gt;",
                       "gildings": {},
-                      "collapsed_reason": "comment score below threshold",
+                      "collapsed_reason": null,
                       "distinguished": null,
                       "associated_award": null,
                       "stickied": false,
@@ -487,7 +487,7 @@
                       "created": 1753907329,
                       "author_flair_text": null,
                       "treatment_tags": [],
-                      "collapsed": true,
+                      "collapsed": false,
                       "subreddit_name_prefixed": "r/LocalLLaMA",
                       "controversiality": 0,
                       "depth": 1,
@@ -495,7 +495,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -5
+                      "ups": -4
                     }
                   }
                 ],
@@ -516,7 +516,7 @@
             "created_utc": 1753901906,
             "send_replies": true,
             "parent_id": "t3_1mdbm5t",
-            "score": 29,
+            "score": 35,
             "author_fullname": "t2_6kroii95",
             "approved_by": null,
             "mod_note": null,
@@ -558,7 +558,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 29
+            "ups": 35
           }
         },
         {
@@ -645,7 +645,98 @@
                                           "subreddit": "LocalLLaMA",
                                           "author_flair_template_id": null,
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "after": null,
+                                              "dist": null,
+                                              "modhash": "",
+                                              "geo_filter": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_81eyvm",
+                                                    "approved_at_utc": null,
+                                                    "author_is_blocked": false,
+                                                    "comment_type": null,
+                                                    "awarders": [],
+                                                    "mod_reason_by": null,
+                                                    "banned_by": null,
+                                                    "author_flair_type": "richtext",
+                                                    "total_awards_received": 0,
+                                                    "subreddit": "LocalLLaMA",
+                                                    "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+                                                    "distinguished": null,
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "n662st1",
+                                                    "banned_at_utc": null,
+                                                    "mod_reason_title": null,
+                                                    "gilded": 0,
+                                                    "archived": false,
+                                                    "collapsed_reason_code": null,
+                                                    "no_follow": true,
+                                                    "author": "No_Afternoon_4260",
+                                                    "can_mod_post": false,
+                                                    "send_replies": true,
+                                                    "parent_id": "t1_n60pcyr",
+                                                    "score": 1,
+                                                    "author_fullname": "t2_cj9kap4bx",
+                                                    "removal_reason": null,
+                                                    "approved_by": null,
+                                                    "mod_note": null,
+                                                    "all_awardings": [],
+                                                    "body": "Hardcoring some ollama options and not including openai-compatible endpoint that you just set an url and api key isn't that \"local lm\" at all  \nIf i want to try it with llama 0.5B let me play with it lol",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "name": "t1_n662st1",
+                                                    "is_submitter": false,
+                                                    "downs": 0,
+                                                    "author_flair_richtext": [
+                                                      {
+                                                        "e": "text",
+                                                        "t": "llama.cpp"
+                                                      }
+                                                    ],
+                                                    "author_patreon_flair": false,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hardcoring some ollama options and not including openai-compatible endpoint that you just set an url and api key isn&amp;#39;t that &amp;quot;local lm&amp;quot; at all&lt;br/&gt;\nIf i want to try it with llama 0.5B let me play with it lol&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "gildings": {},
+                                                    "collapsed_reason": null,
+                                                    "link_id": "t3_1mdbm5t",
+                                                    "associated_award": null,
+                                                    "stickied": false,
+                                                    "author_premium": false,
+                                                    "can_gild": false,
+                                                    "top_awarded_type": null,
+                                                    "unrepliable_reason": null,
+                                                    "author_flair_text_color": "light",
+                                                    "treatment_tags": [],
+                                                    "score_hidden": false,
+                                                    "permalink": "/r/LocalLLaMA/comments/1mdbm5t/eigent_open_source_localfirst_multiagent_workforce/n662st1/",
+                                                    "subreddit_type": "public",
+                                                    "locked": false,
+                                                    "report_reasons": null,
+                                                    "created": 1753971139,
+                                                    "author_flair_text": "llama.cpp",
+                                                    "collapsed": false,
+                                                    "created_utc": 1753971139,
+                                                    "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                    "controversiality": 0,
+                                                    "depth": 4,
+                                                    "author_flair_background_color": "#bbbdbf",
+                                                    "collapsed_because_crowd_control": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "n60pcyr",
@@ -659,7 +750,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n60od5d",
-                                          "score": 2,
+                                          "score": 1,
                                           "author_fullname": "t2_152q9v633e",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -702,7 +793,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 1
                                         }
                                       }
                                     ],
@@ -722,7 +813,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n60n5nv",
-                                "score": 14,
+                                "score": 13,
                                 "author_fullname": "t2_ajuxt3cr4",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -765,7 +856,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 14
+                                "ups": 13
                               }
                             },
                             {
@@ -842,6 +933,86 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "richtext",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n66303u",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "No_Afternoon_4260",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n60n5nv",
+                                "score": 1,
+                                "author_fullname": "t2_cj9kap4bx",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "If I build from source do I still need to login?",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n66303u",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [
+                                  {
+                                    "e": "text",
+                                    "t": "llama.cpp"
+                                  }
+                                ],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If I build from source do I still need to login?&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1mdbm5t",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": "light",
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1mdbm5t/eigent_open_source_localfirst_multiagent_workforce/n66303u/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1753971200,
+                                "author_flair_text": "llama.cpp",
+                                "treatment_tags": [],
+                                "created_utc": 1753971200,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": "#bbbdbf",
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "before": null
@@ -861,7 +1032,7 @@
                       "created_utc": 1753897668,
                       "send_replies": true,
                       "parent_id": "t1_n60kjmt",
-                      "score": -13,
+                      "score": -12,
                       "author_fullname": "t2_152q9v633e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -903,7 +1074,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -13
+                      "ups": -12
                     }
                   }
                 ],
@@ -924,7 +1095,7 @@
             "created_utc": 1753896971,
             "send_replies": true,
             "parent_id": "t3_1mdbm5t",
-            "score": 14,
+            "score": 17,
             "author_fullname": "t2_ajuxt3cr4",
             "approved_by": null,
             "mod_note": null,
@@ -966,7 +1137,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 17
           }
         },
         {
@@ -1022,7 +1193,7 @@
                       "created_utc": 1753908377,
                       "send_replies": true,
                       "parent_id": "t1_n60hb1w",
-                      "score": 12,
+                      "score": 9,
                       "author_fullname": "t2_17n3nqtj56",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1064,7 +1235,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 12
+                      "ups": 9
                     }
                   },
                   {
@@ -1235,7 +1406,7 @@
             "created_utc": 1753896104,
             "send_replies": true,
             "parent_id": "t3_1mdbm5t",
-            "score": 31,
+            "score": 35,
             "author_fullname": "t2_5rv80",
             "approved_by": null,
             "mod_note": null,
@@ -1277,7 +1448,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 31
+            "ups": 35
           }
         },
         {
@@ -1505,7 +1676,7 @@
                       "created_utc": 1753894730,
                       "send_replies": true,
                       "parent_id": "t1_n60b7hn",
-                      "score": 6,
+                      "score": 4,
                       "author_fullname": "t2_152q9v633e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1547,7 +1718,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 4
                     }
                   }
                 ],
@@ -1568,7 +1739,7 @@
             "created_utc": 1753894472,
             "send_replies": true,
             "parent_id": "t3_1mdbm5t",
-            "score": 10,
+            "score": 8,
             "author_fullname": "t2_schpscpb",
             "approved_by": null,
             "mod_note": null,
@@ -1610,7 +1781,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 8
           }
         },
         {
@@ -1763,7 +1934,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n61kixe",
-                                "score": -2,
+                                "score": -1,
                                 "author_fullname": "t2_152q9v633e",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1806,7 +1977,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -2
+                                "ups": -1
                               }
                             }
                           ],
@@ -2085,7 +2256,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n60k4ga",
-                                "score": 6,
+                                "score": 5,
                                 "author_fullname": "t2_17n3nqtj56",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2128,7 +2299,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 5
                               }
                             }
                           ],
@@ -2310,7 +2481,7 @@
                       "created_utc": 1753901818,
                       "send_replies": true,
                       "parent_id": "t1_n60h86n",
-                      "score": 4,
+                      "score": 5,
                       "author_fullname": "t2_6kroii95",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2352,7 +2523,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 5
                     }
                   },
                   {
@@ -2482,7 +2653,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n60jlbm",
-                                "score": 8,
+                                "score": 9,
                                 "author_fullname": "t2_6kroii95",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2525,7 +2696,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             }
                           ],
@@ -2546,7 +2717,7 @@
                       "created_utc": 1753896715,
                       "send_replies": true,
                       "parent_id": "t1_n60h86n",
-                      "score": -5,
+                      "score": -6,
                       "author_fullname": "t2_152q9v633e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2588,7 +2759,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -5
+                      "ups": -6
                     }
                   }
                 ],
@@ -2609,7 +2780,7 @@
             "created_utc": 1753896083,
             "send_replies": true,
             "parent_id": "t3_1mdbm5t",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_ajuxt3cr4",
             "approved_by": null,
             "mod_note": null,
@@ -2651,7 +2822,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -2862,13 +3033,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": false,
+                      "no_follow": true,
                       "author": "FitHeron1933",
                       "can_mod_post": false,
                       "created_utc": 1753894881,
                       "send_replies": true,
                       "parent_id": "t1_n609wdd",
-                      "score": 4,
+                      "score": 3,
                       "author_fullname": "t2_152q9v633e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2910,7 +3081,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 3
                     }
                   },
                   {
@@ -3126,7 +3297,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n60bwpn",
-                                "score": 19,
+                                "score": 21,
                                 "author_fullname": "t2_extzz",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -3169,7 +3340,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 19
+                                "ups": 21
                               }
                             }
                           ],
@@ -3396,7 +3567,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n60bqfp",
-                                          "score": 1,
+                                          "score": 0,
                                           "author_fullname": "t2_152q9v633e",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3439,7 +3610,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 1
+                                          "ups": 0
                                         }
                                       }
                                     ],
@@ -4275,7 +4446,7 @@
                       "created_utc": 1753928248,
                       "send_replies": true,
                       "parent_id": "t1_n613j0a",
-                      "score": 1,
+                      "score": 0,
                       "author_fullname": "t2_152q9v633e",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4317,7 +4488,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 0
                     }
                   },
                   {
@@ -4595,6 +4766,81 @@
             "locked": false,
             "report_reasons": null,
             "created": 1753950344,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mdbm5t",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n65ze1y",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "WorriedTechnology343",
+            "can_mod_post": false,
+            "created_utc": 1753970131,
+            "send_replies": true,
+            "parent_id": "t3_1mdbm5t",
+            "score": 1,
+            "author_fullname": "t2_1lkgadqd8u",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "It says I need an invitation code - how do I get one? u/FitHeron1933",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n65ze1y",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It says I need an invitation code - how do I get one? &lt;a href=\"/u/FitHeron1933\"&gt;u/FitHeron1933&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mdbm5t/eigent_open_source_localfirst_multiagent_workforce/n65ze1y/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1753970131,
             "author_flair_text": null,
             "treatment_tags": [],
             "link_id": "t3_1mdbm5t",
