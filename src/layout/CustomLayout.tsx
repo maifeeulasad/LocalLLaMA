@@ -10968,6 +10968,226 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1meiwzu',
         name: 'first time local llm and facing issues',
       },
+      {
+        path: '/1mejkcu',
+        name: '[P] Tri-70B-preview-SFT: New 70B Model (Research Preview, SFT-only)',
+      },
+      {
+        path: '/1mejoef',
+        name: 'How are people running GLM-4.5-Air in int4 on a 4090 or even laptops with 64GB of ram? I get Out of Memory errors.',
+      },
+      {
+        path: '/1mejq45',
+        name: 'Running Local RAG on Thousands of OCR’d PDFs — Need Advice for Efficient Long-Doc Processing',
+      },
+      {
+        path: '/1meju07',
+        name: 'Anyone desperate for a little more compute, may as well try',
+      },
+      {
+        path: '/1mejvkn',
+        name: 'Best TTS model right now that I can self host?',
+      },
+      {
+        path: '/1mek98n',
+        name: 'tool calling support was merged into ik_llama last week',
+      },
+      {
+        path: '/1mekm4p',
+        name: 'How can I set the context length for API external models in Open webUI ?',
+      },
+      {
+        path: '/1meknnb',
+        name: 'Looking to buy/build a killer LLM/AI/ML/Deep Learning workstation',
+      },
+      {
+        path: '/1mekoy8',
+        name: 'Agentic email workflow inside of OpenWebUI',
+      },
+      {
+        path: '/1mekuwo',
+        name: 'What kind of system do I need to run Qwen3-Coder locally like Cursor AI? Is my setup enough?',
+      },
+      {
+        path: '/1mekzk3',
+        name: 'genmo is great for storyboards and concept videos',
+      },
+      {
+        path: '/1mel6ma',
+        name: 'Best open source LLM for long context RAG?',
+      },
+      {
+        path: '/1mel6r0',
+        name: 'Dingo 1.9.0 released: Open-source data quality evaluation with enhanced hallucination detection',
+      },
+      {
+        path: '/1melcsm',
+        name: 'Some Questions (Curiosity) Regarding ollama , llama.cpp and LM Studio for a complete beginner',
+      },
+      {
+        path: '/1melltk',
+        name: 'Need advice on a vps to host a docker Rag engine with vectorDB',
+      },
+      {
+        path: '/1melurk',
+        name: 'AI-Researcher: Intern-Discovery from Shanghai AI Lab!',
+      },
+      {
+        path: '/1mem8cb',
+        name: 'Can I offload tasks from CUDA to Vulkan (iGPU), and fallback to CPU if not supported?',
+      },
+      {
+        path: '/1memwlm',
+        name: 'has anyone actually gotten RAG + OCR to work locally without silent bugs?',
+      },
+      {
+        path: '/1men0pj',
+        name: 'How to auto feed terminal input into language model?',
+      },
+      {
+        path: '/1men28l',
+        name: '[Guide] The *SIMPLE* Self-Hosted AI Coding That Just Works feat. Qwen3-Coder-Flash',
+      },
+      {
+        path: '/1menm37',
+        name: 'can someone point me to some articles/posts they found really informative in understanding which paramters and how to determine value when deploying models in ik_llama.cpp',
+      },
+      {
+        path: '/1mensme',
+        name: 'Using Open Source LLM in my Web App',
+      },
+      {
+        path: '/1menuqx',
+        name: 'Q: Is it possible to fine-tune LLM for specific language?',
+      },
+      {
+        path: '/1meohe5',
+        name: 'Foundation-Sec-8B-Instruct (from Cisco Foundation AI)',
+      },
+      {
+        path: '/1meostj',
+        name: 'Bought RTX 5070 to run 30B AI and it worked with 18 tokens/s',
+      },
+      {
+        path: '/1mepeqh',
+        name: 'The OpenAI Open weight model might be 120B',
+      },
+      {
+        path: '/1mephu7',
+        name: 'I accidentally built a self-replicating AI agent. It used Tesseract OCR + ncdir, installed Ollama, tried to clone itself, and failed — because my PATH was broken. Defender didn’t catch it. VirusTotal flagged 1/61. This is how AI-native malware might start.',
+      },
+      {
+        path: '/1mepinc',
+        name: 'Kimi K2 vs Grok 4: Who’s Better at Real-World Coding Tasks with Tools?',
+      },
+      {
+        path: '/1mepr38',
+        name: 'DocStrange - Open Source Document Data Extractor',
+      },
+      {
+        path: '/1mepr5q',
+        name: 'How to run Qwen3 Coder 30B-A3B the fastest?',
+      },
+      {
+        path: '/1mepueg',
+        name: 'How to get started?',
+      },
+      {
+        path: '/1mepz8z',
+        name: 'OpenAI OS model info leaked - 120B &amp; 20B will be available',
+      },
+      {
+        path: '/1mepzf6',
+        name: 'Why is gemma3 constantly hallucinating?',
+      },
+      {
+        path: '/1meqnn1',
+        name: 'More supposed info about OpenAI\'s open-weight model',
+      },
+      {
+        path: '/1meqsph',
+        name: 'What\'s your take on davidau models? Qwen3 30b with 24 activated experts',
+      },
+      {
+        path: '/1mequp1',
+        name: 'Multi server multi gpu vllm qwen-coder deployment',
+      },
+      {
+        path: '/1mer66c',
+        name: 'RAG System to Analyse bank data',
+      },
+      {
+        path: '/1mer7up',
+        name: 'Reasoning + structured generation with ik_llama.cpp',
+      },
+      {
+        path: '/1merf2i',
+        name: 'Horizon Alpha vs Kingfall(gemini 3.0 codename) svg 🤖bench. Horizon Alpha an open-source model from OpenAI, as per recent rumours.',
+      },
+      {
+        path: '/1meryoo',
+        name: 'OSS OCR model for Android phones?',
+      },
+      {
+        path: '/1mes3pu',
+        name: 'I built a full-system computer simulation platform. What LLM experiments should I run?',
+      },
+      {
+        path: '/1mes7rc',
+        name: 'Quantize your own GGUFs the same way as your fav Unsloth Dynamic GGUFs',
+      },
+      {
+        path: '/1mesgsv',
+        name: 'Nemotron Super – GPU VRAM Allocations',
+      },
+      {
+        path: '/1mesh8e',
+        name: 'extract structured data from html',
+      },
+      {
+        path: '/1mesi2s',
+        name: 'GLM-4.5-Air running on 64GB Mac Studio(M4)',
+      },
+      {
+        path: '/1meslsd',
+        name: '📟 Probando IA local con personalidad fija: alcalde operativo en protocolo de emergencia.',
+      },
+      {
+        path: '/1mesoyy',
+        name: 'Best model 32RAM CPU only?',
+      },
+      {
+        path: '/1messzq',
+        name: 'Built a Rust terminal AI coding assistant',
+      },
+      {
+        path: '/1mesvnt',
+        name: '(Noob here) Qwen 30b (MoE) vs Qwen 32B which is smartest in coding, reasoning and which faster &amp; smartest? (I have RTX 3060 12GB VRAM + 48 GB RAM)',
+      },
+      {
+        path: '/1mete9h',
+        name: 'What model for my laptop RTX3060 6gb, 16gb ram, i7 11 gen?',
+      },
+      {
+        path: '/1metf4h',
+        name: 'Installscript for Qwen3-Coder running on ik_llama.cpp for high performance',
+      },
+      {
+        path: '/1meu3jn',
+        name: 'Gemini 2.5 Deep Think mode benchmarks!',
+      },
+      {
+        path: '/1meucvo',
+        name: 'Unsloth GGUFs Perplexity Score Comparison | Qwen3-Coder-30B-A3B-Instruct',
+      },
+      {
+        path: '/1meuqfw',
+        name: 'Meta Targets Talent from Thinking Machines Lab',
+      },
+      {
+        path: '/1meuqm6',
+        name: 'Qwen Code with local Qwen 3 Coder in Ollama + OpenWebUI',
+      },
     ],
   },
   {
