@@ -11464,6 +11464,174 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mfda7s',
         name: 'Horizon Beta - new openai open source model?',
       },
+      {
+        path: '/1mfe6jm',
+        name: 'Wizard Coder... or not coder?',
+      },
+      {
+        path: '/1mfe77f',
+        name: 'Claude Code - limit reached super quickly',
+      },
+      {
+        path: '/1mfeazc',
+        name: 'Cerebras Pro Coder Deceptive Limits',
+      },
+      {
+        path: '/1mfedua',
+        name: 'Question about my dinosaur computer',
+      },
+      {
+        path: '/1mfeipz',
+        name: 'Getting SmolLM3-3B\'s /think and /no_think to work with llama.cpp',
+      },
+      {
+        path: '/1mfek6x',
+        name: 'New to LLM studio?',
+      },
+      {
+        path: '/1mffa5a',
+        name: 'Can you please review the comment from my tuned open source local model?',
+      },
+      {
+        path: '/1mffjjj',
+        name: 'EasyWhisperUI – GPU accelerated Open Source Whisper UI for Windows &amp; macOS now with Live Transcriptions!',
+      },
+      {
+        path: '/1mffuv0',
+        name: 'Performance issues when using GPU and CPU',
+      },
+      {
+        path: '/1mfgj0g',
+        name: 'all I need....',
+      },
+      {
+        path: '/1mfgqb0',
+        name: 'Blackwell (RTX 5090 / RTX 6000 Pro) support in llama.cpp',
+      },
+      {
+        path: '/1mfgwyu',
+        name: 'Horizon Alpha vs Horizon Beta',
+      },
+      {
+        path: '/1mfhfg0',
+        name: 'Good practices to implement memory for LLMs?',
+      },
+      {
+        path: '/1mfhji6',
+        name: 'What to do with a NVIDIA Tesla V100S 32GB GPU',
+      },
+      {
+        path: '/1mfhv2c',
+        name: 'Med school and LLM',
+      },
+      {
+        path: '/1mfi8ly',
+        name: 'What context lengths do people actually run their models at?',
+      },
+      {
+        path: '/1mfia6f',
+        name: 'AI model names are out of control. Let’s give them nicknames.',
+      },
+      {
+        path: '/1mfifhh',
+        name: 'Best creative writing + long context model?',
+      },
+      {
+        path: '/1mfij9a',
+        name: 'How to avoid IP bans when using youtube-transcript-api to fetch YouTube video transcripts?',
+      },
+      {
+        path: '/1mfiroj',
+        name: 'Serious hallucination issues of 30B-A3B Instruct 2507',
+      },
+      {
+        path: '/1mfitwb',
+        name: 'Skywork MindLink 32B/72B',
+      },
+      {
+        path: '/1mfj2bn',
+        name: 'Reach Mini is not Open source?',
+      },
+      {
+        path: '/1mfj3vj',
+        name: 'TTS that I can use a downloaded AI voice for? (not sure if this is the right place to ask)',
+      },
+      {
+        path: '/1mfj6fq',
+        name: '24/7 local HW buying guide 2025-H2?',
+      },
+      {
+        path: '/1mfjn88',
+        name: 'TTS Model Comparisons: My Personal Rankings (So far) of TTS Models',
+      },
+      {
+        path: '/1mfjn9f',
+        name: 'GLM just removed there full stack tool...',
+      },
+      {
+        path: '/1mfjp96',
+        name: 'I made new stealth model horizon beta deep think just for fun',
+      },
+      {
+        path: '/1mfjqcb',
+        name: 'Getting started',
+      },
+      {
+        path: '/1mfk3y2',
+        name: 'MetaStoneTec/XBai-o4',
+      },
+      {
+        path: '/1mfk4hx',
+        name: 'Embedding models',
+      },
+      {
+        path: '/1mfk60l',
+        name: 'What is the best way to connect Android with LLM - Virtually',
+      },
+      {
+        path: '/1mfl6bo',
+        name: 'Qwen3 (30B) with Ollama: Blazing Fast, but accuracy concerns',
+      },
+      {
+        path: '/1mfldxj',
+        name: 'Small LLM in german',
+      },
+      {
+        path: '/1mfll39',
+        name: 'AI models are picking up hidden habits from each other | IBM',
+      },
+      {
+        path: '/1mfn2xf',
+        name: 'Saidia: Offline-First AI Assistant for Educators in low-connectivity regions',
+      },
+      {
+        path: '/1mfn7pv',
+        name: 'Tool calling is now supported on World\'s first Intermediate Reasoning model',
+      },
+      {
+        path: '/1mfnfrp',
+        name: 'Best &lt;2B open-source LLMs for European languages?',
+      },
+      {
+        path: '/1mfnq2r',
+        name: 'Benchmarking Qwen3 8B Inference: M1 vs RTX 5060 Ti 16 vs RTX 4090',
+      },
+      {
+        path: '/1mfodac',
+        name: 'How to build a local agent for Windows GUI automation (mouse control &amp; accurate button clicking)?',
+      },
+      {
+        path: '/1mfofx5',
+        name: 'Issues with michaelf34/infinity:latest-cpu + Qwen3-Embedding-8B',
+      },
+      {
+        path: '/1mfoh32',
+        name: 'Looking for a local model that can help a non native writer with sentence phrasing and ideas.',
+      },
+      {
+        path: '/1mfor6n',
+        name: 'RAG or prompt engineering',
+      },
     ],
   },
   {
