@@ -154,7 +154,7 @@
             "report_reasons": null,
             "author": "thecookingsenpai",
             "discussion_type": null,
-            "num_comments": 8,
+            "num_comments": 9,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1meqsph/whats_your_take_on_davidau_models_qwen3_30b_with/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1meqsph/whats_your_take_on_davidau_models_qwen3_30b_with/",
-            "subreddit_subscribers": 508192,
+            "subreddit_subscribers": 508541,
             "created_utc": 1754036227,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -257,7 +257,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6bdti6",
-                                "score": 4,
+                                "score": 6,
                                 "author_fullname": "t2_yrl9ztfsa",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -300,7 +300,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 6
                               }
                             },
                             {
@@ -318,7 +318,93 @@
                                 "subreddit": "LocalLLaMA",
                                 "author_flair_template_id": null,
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n6d0gkr",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "brahh85",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n6bnx4e",
+                                          "score": 1,
+                                          "author_fullname": "t2_n9d13wu1",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "Many optimizations and cutting edge features can only be implemented outside corporations, not  because  people at corporations dont know how to do it, but  because they dont want to do it, because its not their mission. Their mission is creating a balanced AI model, good  in almost everything ,  that gives  the less amount of problems possible. They dont want an experimental release.\n\nBut many people dont want a \"good for everything model\",  but a very specialized model in one field. People  that wants a model for  creative writing, dont give a fuck about the model losing its capability to translate, code or respond  college level request, if  in exchange they get a model very  creative because hallucinates a lot. \n\nThere  are also models for coding  that are finetuned by non-corporate people on huggingface, because they want that particular model to work with a particular app they use, and  they dont care about how the model will work in the rest of benchmarks. Many are people like you and me, that train their model for a particular datasets,  and then they decide to share it on huggingface.\n\nThe models released by corporations are just stable products,  and a starting point for further training.\n\nAlso,  there are products that the companies can create, but wont, because they think is not profitable for them. For example, openai could have released a lightweight TTS model for local inference able to run in any CPU (like kokoro-tts), but their business model is making you pay for something more expensive, not creating models that will cannibalize that. Lately, they are rethinking that position with LLM, because they realized that other companies are taking that market  in a way in which makes openai irrelevant, as in, if  im using  qwen for everything (work and home),  or deepseek for everything, or mistral for everything, or google for everything , why im going to buy openai tokens? to  conflict with the rest of my creations? \n\nThey now think that releasing open weight models is a way to attract people to the rest of their products and ecosystem. Or a  way to sabotage the rivals, like , there is no  return for these open weight LLM  companies  if no one use their models. And once they are dead, openai could simply cut the open weight supply. But those decisions are  based on \"greed\" , not based on superior wisdom over tech. They do have wisdom, but is cut by greed. Thats why many of the founders(legends) left openai,  that company has no room for them, because altman  changed its purpose.\n\nTalking about doctors and usa , the problem is not the wisdom of the doctors, but the  price for their services, that many people cant afford, even if they need it. So they look in internet, or in ai models, or if possible, in going to other countries to get attended at lower prices (people from my country comes back home to be treated by the national healthcare system). Maybe the doctors in usa are the best of the world, but there is a market  with people that demands different services and prices, because they dont want to die for being unattended, or because they dont want to get poor for something like a surgery.",
+                                          "edited": false,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n6d0gkr",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Many optimizations and cutting edge features can only be implemented outside corporations, not  because  people at corporations dont know how to do it, but  because they dont want to do it, because its not their mission. Their mission is creating a balanced AI model, good  in almost everything ,  that gives  the less amount of problems possible. They dont want an experimental release.&lt;/p&gt;\n\n&lt;p&gt;But many people dont want a &amp;quot;good for everything model&amp;quot;,  but a very specialized model in one field. People  that wants a model for  creative writing, dont give a fuck about the model losing its capability to translate, code or respond  college level request, if  in exchange they get a model very  creative because hallucinates a lot. &lt;/p&gt;\n\n&lt;p&gt;There  are also models for coding  that are finetuned by non-corporate people on huggingface, because they want that particular model to work with a particular app they use, and  they dont care about how the model will work in the rest of benchmarks. Many are people like you and me, that train their model for a particular datasets,  and then they decide to share it on huggingface.&lt;/p&gt;\n\n&lt;p&gt;The models released by corporations are just stable products,  and a starting point for further training.&lt;/p&gt;\n\n&lt;p&gt;Also,  there are products that the companies can create, but wont, because they think is not profitable for them. For example, openai could have released a lightweight TTS model for local inference able to run in any CPU (like kokoro-tts), but their business model is making you pay for something more expensive, not creating models that will cannibalize that. Lately, they are rethinking that position with LLM, because they realized that other companies are taking that market  in a way in which makes openai irrelevant, as in, if  im using  qwen for everything (work and home),  or deepseek for everything, or mistral for everything, or google for everything , why im going to buy openai tokens? to  conflict with the rest of my creations? &lt;/p&gt;\n\n&lt;p&gt;They now think that releasing open weight models is a way to attract people to the rest of their products and ecosystem. Or a  way to sabotage the rivals, like , there is no  return for these open weight LLM  companies  if no one use their models. And once they are dead, openai could simply cut the open weight supply. But those decisions are  based on &amp;quot;greed&amp;quot; , not based on superior wisdom over tech. They do have wisdom, but is cut by greed. Thats why many of the founders(legends) left openai,  that company has no room for them, because altman  changed its purpose.&lt;/p&gt;\n\n&lt;p&gt;Talking about doctors and usa , the problem is not the wisdom of the doctors, but the  price for their services, that many people cant afford, even if they need it. So they look in internet, or in ai models, or if possible, in going to other countries to get attended at lower prices (people from my country comes back home to be treated by the national healthcare system). Maybe the doctors in usa are the best of the world, but there is a market  with people that demands different services and prices, because they dont want to die for being unattended, or because they dont want to get poor for something like a surgery.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1meqsph",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1meqsph/whats_your_take_on_davidau_models_qwen3_30b_with/n6d0gkr/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1754060383,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1754060383,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "n6bnx4e",
@@ -327,12 +413,12 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "FullstackSensei",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6bdti6",
-                                "score": 3,
+                                "score": 5,
                                 "author_fullname": "t2_17n3nqtj56",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -375,7 +461,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 5
                               }
                             }
                           ],
@@ -396,7 +482,7 @@
                       "created_utc": 1754037108,
                       "send_replies": true,
                       "parent_id": "t1_n6bd3q0",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_pvo138ggw",
                       "removal_reason": null,
                       "approved_by": null,
@@ -438,7 +524,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -459,7 +545,7 @@
             "created_utc": 1754036696,
             "send_replies": true,
             "parent_id": "t3_1meqsph",
-            "score": 4,
+            "score": 11,
             "author_fullname": "t2_yrl9ztfsa",
             "approved_by": null,
             "mod_note": null,
@@ -501,7 +587,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 11
           }
         },
         {
@@ -528,7 +614,7 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "DocWolle",
             "can_mod_post": false,
             "created_utc": 1754037422,
@@ -609,7 +695,7 @@
             "created_utc": 1754037897,
             "send_replies": true,
             "parent_id": "t3_1meqsph",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_uz37qfx5",
             "approved_by": null,
             "mod_note": null,
@@ -651,7 +737,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
