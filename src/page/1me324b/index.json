@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.96,
             "author_flair_background_color": "#bbbdbf",
-            "ups": 98,
+            "ups": 102,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 98,
+            "score": 102,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -169,7 +169,7 @@
             "permalink": "/r/LocalLLaMA/comments/1me324b/qwenqwen3coder30ba3binstruct_hugging_face/",
             "stickied": false,
             "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
-            "subreddit_subscribers": 508192,
+            "subreddit_subscribers": 508542,
             "created_utc": 1753972061,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -218,7 +218,7 @@
             "created_utc": 1753974823,
             "send_replies": true,
             "parent_id": "t3_1me324b",
-            "score": 14,
+            "score": 15,
             "author_fullname": "t2_cbxyn",
             "approved_by": null,
             "mod_note": null,
@@ -260,7 +260,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 15
           }
         },
         {
@@ -316,7 +316,7 @@
                       "created_utc": 1753978975,
                       "send_replies": true,
                       "parent_id": "t1_n668idp",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_5wukhd4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -358,7 +358,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   }
                 ],
@@ -579,7 +579,7 @@
             "created_utc": 1753978958,
             "send_replies": true,
             "parent_id": "t3_1me324b",
-            "score": 5,
+            "score": 7,
             "author_fullname": "t2_5wukhd4",
             "approved_by": null,
             "mod_note": null,
@@ -621,12 +621,13 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 7
           }
         },
         {
           "kind": "t1",
           "data": {
+            "body": "Are there benchmarks for comparison with other LLMs?",
             "subreddit_id": "t5_81eyvm",
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -654,13 +655,13 @@
             "created_utc": 1753972270,
             "send_replies": true,
             "parent_id": "t3_1me324b",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_hoxc8",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "Are there benchmarks for comparison with other LLMs?",
+            "author_cakeday": true,
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,
@@ -696,7 +697,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {

@@ -11188,6 +11188,282 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1meuqm6',
         name: 'Qwen Code with local Qwen 3 Coder in Ollama + OpenWebUI',
       },
+      {
+        path: '/1mewg8a',
+        name: 'AMD EPYC 4545P: 16 Zen 5 Cores @ 65 Watts For Low-Power / Energy Efficient Servers',
+      },
+      {
+        path: '/1mewgyf',
+        name: 'I created a script that gives local LLMs an autonomous "inner-monologue" to evolve themselves. You can run it right now.',
+      },
+      {
+        path: '/1mewq1v',
+        name: 'Hugging Face space for anyone who want to try the new Dots OCR',
+      },
+      {
+        path: '/1meww7m',
+        name: 'Looking for a Manchester-based AI/dev builder to help set up a private assistant system',
+      },
+      {
+        path: '/1mex4wg',
+        name: 'Prompting Large Language Models In Bash Scripts',
+      },
+      {
+        path: '/1mexa2g',
+        name: 'Heads up to those that downloaded Qwen3 Coder 480B before yesterday',
+      },
+      {
+        path: '/1mexai2',
+        name: 'MI50 prompt processing performance',
+      },
+      {
+        path: '/1mexvp5',
+        name: 'Which SQL dialects is more comfortable for LLMs?',
+      },
+      {
+        path: '/1mey3rs',
+        name: 'Coping',
+      },
+      {
+        path: '/1meyn4a',
+        name: 'Faster token generation using qwen coder 30B A3B',
+      },
+      {
+        path: '/1mez1w0',
+        name: 'retrieval works, embedding matches... but the answer is wrong. anyone else?',
+      },
+      {
+        path: '/1mez87h',
+        name: 'anyone managed to run vllm windows with gguf?',
+      },
+      {
+        path: '/1mezdck',
+        name: 'Anyone have experience optimizing ttft?',
+      },
+      {
+        path: '/1mezdl4',
+        name: 'LLama.cpp on CUDA performance',
+      },
+      {
+        path: '/1meze5n',
+        name: 'Question about cpu threads (beginner here)',
+      },
+      {
+        path: '/1mezgxf',
+        name: 'Limited to a 3060ti right now (8gb vram) - Is it even worth setting up a local setup to play with?',
+      },
+      {
+        path: '/1mezwua',
+        name: '[Question] Which local VLMs can transform text well?',
+      },
+      {
+        path: '/1mf07dy',
+        name: 'An Experiment in Logit Control: Using Statistical "Constraint Masks" to Guide Token Selection',
+      },
+      {
+        path: '/1mf08e5',
+        name: 'SVDQuant does INT4 quantization of text-to-image models without losing quality. Can\'t the same technique be used in LLMs?',
+      },
+      {
+        path: '/1mf0fgj',
+        name: 'Help: Qwen3-Coder + LM Studio + Continue.dev (VSCode) + Mac 64GB M3 Max  — 500 Internal Server Error, Even After Unsloth Fix',
+      },
+      {
+        path: '/1mf0hou',
+        name: 'support for the upcoming hunyuan dense models has been merged into llama.cpp',
+      },
+      {
+        path: '/1mf0i54',
+        name: 'Qwen 30b a3b 2507 instruct as good as Gemma 3 27B!?',
+      },
+      {
+        path: '/1mf0mw2',
+        name: 'Open-source architectures that aren\'t Llama 3 knock offs?',
+      },
+      {
+        path: '/1mf0qlf',
+        name: 'Qwen3-235B-A22B-2507 is the top open weights model on lmarena',
+      },
+      {
+        path: '/1mf16vx',
+        name: 'AMD 7900 xtx for inference?',
+      },
+      {
+        path: '/1mf1bab',
+        name: 'How much VRAM does MOE models take comparative to dense models?',
+      },
+      {
+        path: '/1mf1lfv',
+        name: 'How much do PCIe Lanes matter?',
+      },
+      {
+        path: '/1mf2cu1',
+        name: 'Is Qwen still the best for coding?',
+      },
+      {
+        path: '/1mf3abn',
+        name: 'Why on open router using Horizon Alpha refuse to work until I pay for credits?',
+      },
+      {
+        path: '/1mf3mhi',
+        name: 'Built a web dashboard to manage multiple llama-server instances - llamactl',
+      },
+      {
+        path: '/1mf3nw4',
+        name: 'I Generated 1 Billion Tokens (So You Don\'t Have To): Introducing ReasonScape',
+      },
+      {
+        path: '/1mf3tm9',
+        name: 'The “Leaked” 120 B OpenAI Model is not Trained in FP4',
+      },
+      {
+        path: '/1mf3wr0',
+        name: 'Best way to run the Qwen3 30b A3B coder/instruct models for HIGH throughput and/or HIGH context? (on a single 4090)',
+      },
+      {
+        path: '/1mf3z9k',
+        name: 'How do you speed up llama.cpp on macOS?',
+      },
+      {
+        path: '/1mf44kh',
+        name: 'Are you interested in building something cool?',
+      },
+      {
+        path: '/1mf4ihq',
+        name: 'Me lately... Anyone else can relate? 😎',
+      },
+      {
+        path: '/1mf4zaz',
+        name: 'Automated Testing Framework for Voice AI Agents : Technical Webinar &amp; Demo',
+      },
+      {
+        path: '/1mf581n',
+        name: 'Need help debugging: llama-server uses GPU Memory but 0% GPU Util for inference (CPU only)',
+      },
+      {
+        path: '/1mf6bkl',
+        name: 'Qwen3-Embedding-0.6B is fast, high quality, and supports up to 32k tokens. Beats OpenAI embeddings on MTEB',
+      },
+      {
+        path: '/1mf6gaa',
+        name: 'Llama-4-Scout-17B-16E-Instruct-GGUF:Q4_K_S running at 20 tk/s on Ryzen AI Max + 395 with llama.cpp Vulkan + Lemonade server (60GB GPU memory)',
+      },
+      {
+        path: '/1mf6n4u',
+        name: 'Any up to date coding benchmarks?',
+      },
+      {
+        path: '/1mf72g8',
+        name: 'LLama.cpp performance on ROCm',
+      },
+      {
+        path: '/1mf7663',
+        name: 'Noob question',
+      },
+      {
+        path: '/1mf7h6k',
+        name: 'Too much time playing with LLMs',
+      },
+      {
+        path: '/1mf7hkw',
+        name: 'Y\'all got more of them hard problems?',
+      },
+      {
+        path: '/1mf7lyi',
+        name: 'Voice cloning on amd',
+      },
+      {
+        path: '/1mf7q94',
+        name: 'How to add most recent python library documentation?',
+      },
+      {
+        path: '/1mf7rut',
+        name: 'How much to match Sonnet 4?',
+      },
+      {
+        path: '/1mf7snn',
+        name: 'Where is Ollama blog rss feed?',
+      },
+      {
+        path: '/1mf82l5',
+        name: 'A senior tech journalist left TechCrunch to join Ai2, an open source AI non-profit, to work on solutions that would be "difficult to get buy-in at a commercial organization."',
+      },
+      {
+        path: '/1mf86rn',
+        name: 'Cold start vLLM in 5 seconds with GPU snapshotting',
+      },
+      {
+        path: '/1mf8la7',
+        name: 'Qwen3-Coder is bad at tool call while glm-4.5 is surprisingly good',
+      },
+      {
+        path: '/1mf8pdo',
+        name: 'China report the finetune deepseek scientific model 40.44% on HLE',
+      },
+      {
+        path: '/1mf8um1',
+        name: 'Never seen such weird unrelated response from LLMs before  (gemini 2.5 pro)',
+      },
+      {
+        path: '/1mf92r1',
+        name: 'MAESTRO, a deep research assistant/RAG pipeline that runs on your local LLMs',
+      },
+      {
+        path: '/1mf955w',
+        name: 'qwen3 coder vs glm 4.5 vs kimi k2',
+      },
+      {
+        path: '/1mf9exw',
+        name: 'Help: I have an RTX 5090, can I realistically replace Claude Code in any way?',
+      },
+      {
+        path: '/1mf9vr7',
+        name: 'Want to run models on PC and use them via same wifi with my laptop',
+      },
+      {
+        path: '/1mfa5nv',
+        name: 'How do I know how much my GPU/CPU is being used by ik_llama.cpp',
+      },
+      {
+        path: '/1mfa9nd',
+        name: 'Lambda Chat Odd Outputs',
+      },
+      {
+        path: '/1mfa9tj',
+        name: 'Anyone tried GLM-4.5 with Claude code or other agents?',
+      },
+      {
+        path: '/1mfag1h',
+        name: 'Qwen3 built from Claude?',
+      },
+      {
+        path: '/1mfaigh',
+        name: 'We\'re truly in the fastest-paced era of AI these days. (50 LLM Released these 2-3 Weeks)',
+      },
+      {
+        path: '/1mfap30',
+        name: 'Cursor codebase indexing open source alternative?',
+      },
+      {
+        path: '/1mfariy',
+        name: 'All local Roo Code and qwen3 coder 30B Q8',
+      },
+      {
+        path: '/1mfb2ed',
+        name: 'OpenWebUI is ridiculous',
+      },
+      {
+        path: '/1mfbw8a',
+        name: 'DoubleAgents: Fine-tuning LLMs for Covert Malicious Tool Calls',
+      },
+      {
+        path: '/1mfc1oj',
+        name: 'RX 7900 GRE users: What training speeds do you get on Applio? (I\'m seeing ~1.88s/it)',
+      },
+      {
+        path: '/1mfda7s',
+        name: 'Horizon Beta - new openai open source model?',
+      },
     ],
   },
   {

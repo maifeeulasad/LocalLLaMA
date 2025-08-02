@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I have a particular use case (basically synthetic data generation) where I want to take a page of text and get its bboxes and then inpaint them, similar to how is done with tasks like face superresolution, but for just completely rewriting whole words.\n\nMy aim is to keep the general structure of the page, and I’ll avoid doing it for certain parts which will get left untouched, similar to masked language modelling.\n\nCan anyone suggest a good VLM with generation abilities I could run on a consumer card (24GB) which would be able to do this task well?\n\nI tried Black Forest Kontext Dev and it works for editing a single word (so would be amenable to a pipeline doing word segmentation) but it’s pretty ‘open domain’ whereas this use case is pretty specific, so maybe a smaller model or more specific one exists for text? Testing it a little in HuggingFace Spaces it also looks like Kontext fails really badly when the text is at all skewed (or may be to do with the expected aspect ratio of the input)\n\nEdit: came across synthtiger (used in synthdog, used for Donut) which may be one answer ! https://github.com/clovaai/synthtiger",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "[Question] Which local VLMs can transform text well?",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mezwua",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.67,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_91j7t13l",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": 1754065432,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754063017,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have a particular use case (basically synthetic data generation) where I want to take a page of text and get its bboxes and then inpaint them, similar to how is done with tasks like face superresolution, but for just completely rewriting whole words.&lt;/p&gt;\n\n&lt;p&gt;My aim is to keep the general structure of the page, and I’ll avoid doing it for certain parts which will get left untouched, similar to masked language modelling.&lt;/p&gt;\n\n&lt;p&gt;Can anyone suggest a good VLM with generation abilities I could run on a consumer card (24GB) which would be able to do this task well?&lt;/p&gt;\n\n&lt;p&gt;I tried Black Forest Kontext Dev and it works for editing a single word (so would be amenable to a pipeline doing word segmentation) but it’s pretty ‘open domain’ whereas this use case is pretty specific, so maybe a smaller model or more specific one exists for text? Testing it a little in HuggingFace Spaces it also looks like Kontext fails really badly when the text is at all skewed (or may be to do with the expected aspect ratio of the input)&lt;/p&gt;\n\n&lt;p&gt;Edit: came across synthtiger (used in synthdog, used for Donut) which may be one answer ! &lt;a href=\"https://github.com/clovaai/synthtiger\"&gt;https://github.com/clovaai/synthtiger&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?auto=webp&amp;s=37f4105c43a646ae41f52b2f84edf75d22c9226b",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b2ed9ce292b0991f0425775aa1cc2a6818aded96",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=b8dae1fcad670ab1602ba6755d197cc11d09ee6a",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6f350817ce364bc5e76463397707d9f7c27e3e90",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36e291401d28832bf96b2e663d3ee0dca6a05b6b",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=c42fa550cb33a4b3c348f19248ac8abb64b4e7e8",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=34548fba1b3c6f156d210470746bda993a40d029",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "T1bY2eJ09uGgvdUAknMfFYYutnBXtblSICN7agMjLT0"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mezwua",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "permutans",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mezwua/question_which_local_vlms_can_transform_text_well/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mezwua/question_which_local_vlms_can_transform_text_well/",
+            "subreddit_subscribers": 508541,
+            "created_utc": 1754063017,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

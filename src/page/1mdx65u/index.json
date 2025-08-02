@@ -39,7 +39,7 @@
             "upvote_ratio": 0.96,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 310,
+            "ups": 315,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 310,
+            "score": 315,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -108,7 +108,7 @@
             "report_reasons": null,
             "author": "_SYSTEM_ADMIN_MOD_",
             "discussion_type": null,
-            "num_comments": 54,
+            "num_comments": 56,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -117,7 +117,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mdx65u/amd_is_reportedly_looking_to_introduce_a/",
             "stickied": false,
             "url": "https://wccftech.com/amd-is-looking-toward-introducing-a-dedicated-discrete-npu-similar-to-gaming-gpus/",
-            "subreddit_subscribers": 508191,
+            "subreddit_subscribers": 508542,
             "created_utc": 1753954906,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -486,7 +486,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n65cgdv",
-                                          "score": 24,
+                                          "score": 26,
                                           "author_fullname": "t2_by77ogdhr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -529,7 +529,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 24
+                                          "ups": 26
                                         }
                                       },
                                       {
@@ -688,7 +688,7 @@
                       "created_utc": 1753956168,
                       "send_replies": true,
                       "parent_id": "t1_n64xpb6",
-                      "score": 64,
+                      "score": 63,
                       "author_fullname": "t2_8llornh4",
                       "removal_reason": null,
                       "approved_by": null,
@@ -730,7 +730,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 64
+                      "ups": 63
                     }
                   },
                   {
@@ -871,7 +871,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n664hks",
-                                "score": 10,
+                                "score": 11,
                                 "author_fullname": "t2_p1gfswvnw",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -914,7 +914,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 10
+                                "ups": 11
                               }
                             },
                             {
@@ -1010,7 +1010,7 @@
                       "created_utc": 1753971635,
                       "send_replies": true,
                       "parent_id": "t1_n64xpb6",
-                      "score": 15,
+                      "score": 18,
                       "author_fullname": "t2_ql2vu0wz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1052,7 +1052,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 15
+                      "ups": 18
                     }
                   },
                   {
@@ -1107,7 +1107,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n66mhvn",
-                                "score": 6,
+                                "score": 7,
                                 "author_fullname": "t2_p1gfswvnw",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1150,7 +1150,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             },
                             {
@@ -1243,7 +1243,93 @@
                                 "subreddit": "LocalLLaMA",
                                 "author_flair_template_id": null,
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n6cpqr8",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "Icy_Restaurant_8900",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n6ak2ck",
+                                          "score": 1,
+                                          "author_fullname": "t2_16iw3lqxbj",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "I would consider any GPU/PC over $3000 to be for professionals or at least prosumers. Hopefully 256GB of URAM gets below $3000 in the next couple years. \n\nThere’s the Ryzen AI Max 395 128GB desktops starting to roll out for $2000, but painfully slow for 70B models and image/video gen.",
+                                          "edited": false,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n6cpqr8",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I would consider any GPU/PC over $3000 to be for professionals or at least prosumers. Hopefully 256GB of URAM gets below $3000 in the next couple years. &lt;/p&gt;\n\n&lt;p&gt;There’s the Ryzen AI Max 395 128GB desktops starting to roll out for $2000, but painfully slow for 70B models and image/video gen.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1mdx65u",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1mdx65u/amd_is_reportedly_looking_to_introduce_a/n6cpqr8/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1754057290,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1754057290,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "n6ak2ck",
@@ -1257,7 +1343,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n66mhvn",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_jqxb4pte",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1300,7 +1386,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -1321,7 +1407,7 @@
                       "created_utc": 1753976716,
                       "send_replies": true,
                       "parent_id": "t1_n64xpb6",
-                      "score": 7,
+                      "score": 6,
                       "author_fullname": "t2_16iw3lqxbj",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1363,7 +1449,82 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 6
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n679y9a",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": false,
+                      "author": "Double_Cause4609",
+                      "can_mod_post": false,
+                      "created_utc": 1753983227,
+                      "send_replies": true,
+                      "parent_id": "t1_n64xpb6",
+                      "score": 6,
+                      "author_fullname": "t2_1kubzxt2ww",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "\\&gt; 64GB+ of VRAM\n\nLol.\n\nThe reason you get an NPU isn't the same reason you get a GPU. The problem is if you throw VRAM like that on board it'll still cost as much as enterprise cards ($4k+), and it's kind of a waste.\n\nNPUs are crazy compute dense for their price, so you get an NPU to run compute bound models that really don't need as much memory bandwidth, anyway. Go and read Qwen's paper on Parallel Scaling Law, or look at the compute characteristics of speculative decoding heads, or the compute characteristics of Diffusion language models.\n\nThey could be run, hypothetically, on an add-in NPU card with effectively no (or at least very little) onboard memory, bringing the cost down, using the much cheaper main system memory to push really impressive speeds.\n\nIf you look at a lot of the most interesting advancements, they tend to be compute bound, and there's possibly even more unexpected developments in this area coming up.\n\nUnder that paradigm, a fairly cheap add-in NPU with around 100 TOP/s could either hit the performance of a current generation 70B - 100B model with fewer parameters and current generation speed (maybe a \\~20B running at up to 5 T/s...?), or launch a fairly similar model to current 70B models that runs at an acceptable speed off of system RAM (possibly around 8 to 80 T/s depending on the specifics; it's hard to speculate), or you could run MoE models like Deepseek V3 on a consumer system with multi-token prediction and possibly hit 16 T/s or so (without any model changes; with a drastically different arch I think 80 T/s is possible for the same performance).\n\nThe add in card wouldn't really even need to be terribly expensive (possibly $80 to $200).\n\nI think that if you think about NPUs like a GPU, they're always going to come up short. They'll feel memory and bandwidth starved. They look like little toys in comparison.\n\nBut, I think if you think about NPUs as their own things, and you plan LLM architectures around them, they can make something extremely special happen.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n679y9a",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;gt; 64GB+ of VRAM&lt;/p&gt;\n\n&lt;p&gt;Lol.&lt;/p&gt;\n\n&lt;p&gt;The reason you get an NPU isn&amp;#39;t the same reason you get a GPU. The problem is if you throw VRAM like that on board it&amp;#39;ll still cost as much as enterprise cards ($4k+), and it&amp;#39;s kind of a waste.&lt;/p&gt;\n\n&lt;p&gt;NPUs are crazy compute dense for their price, so you get an NPU to run compute bound models that really don&amp;#39;t need as much memory bandwidth, anyway. Go and read Qwen&amp;#39;s paper on Parallel Scaling Law, or look at the compute characteristics of speculative decoding heads, or the compute characteristics of Diffusion language models.&lt;/p&gt;\n\n&lt;p&gt;They could be run, hypothetically, on an add-in NPU card with effectively no (or at least very little) onboard memory, bringing the cost down, using the much cheaper main system memory to push really impressive speeds.&lt;/p&gt;\n\n&lt;p&gt;If you look at a lot of the most interesting advancements, they tend to be compute bound, and there&amp;#39;s possibly even more unexpected developments in this area coming up.&lt;/p&gt;\n\n&lt;p&gt;Under that paradigm, a fairly cheap add-in NPU with around 100 TOP/s could either hit the performance of a current generation 70B - 100B model with fewer parameters and current generation speed (maybe a ~20B running at up to 5 T/s...?), or launch a fairly similar model to current 70B models that runs at an acceptable speed off of system RAM (possibly around 8 to 80 T/s depending on the specifics; it&amp;#39;s hard to speculate), or you could run MoE models like Deepseek V3 on a consumer system with multi-token prediction and possibly hit 16 T/s or so (without any model changes; with a drastically different arch I think 80 T/s is possible for the same performance).&lt;/p&gt;\n\n&lt;p&gt;The add in card wouldn&amp;#39;t really even need to be terribly expensive (possibly $80 to $200).&lt;/p&gt;\n\n&lt;p&gt;I think that if you think about NPUs like a GPU, they&amp;#39;re always going to come up short. They&amp;#39;ll feel memory and bandwidth starved. They look like little toys in comparison.&lt;/p&gt;\n\n&lt;p&gt;But, I think if you think about NPUs as their own things, and you plan LLM architectures around them, they can make something extremely special happen.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mdx65u",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mdx65u/amd_is_reportedly_looking_to_introduce_a/n679y9a/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1753983227,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 6
                     }
                   },
                   {
@@ -1439,81 +1600,6 @@
                       "mod_reports": [],
                       "num_reports": null,
                       "ups": 3
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_81eyvm",
-                      "approved_at_utc": null,
-                      "author_is_blocked": false,
-                      "comment_type": null,
-                      "awarders": [],
-                      "mod_reason_by": null,
-                      "banned_by": null,
-                      "author_flair_type": "text",
-                      "total_awards_received": 0,
-                      "subreddit": "LocalLLaMA",
-                      "author_flair_template_id": null,
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "n679y9a",
-                      "banned_at_utc": null,
-                      "mod_reason_title": null,
-                      "gilded": 0,
-                      "archived": false,
-                      "collapsed_reason_code": null,
-                      "no_follow": false,
-                      "author": "Double_Cause4609",
-                      "can_mod_post": false,
-                      "created_utc": 1753983227,
-                      "send_replies": true,
-                      "parent_id": "t1_n64xpb6",
-                      "score": 5,
-                      "author_fullname": "t2_1kubzxt2ww",
-                      "removal_reason": null,
-                      "approved_by": null,
-                      "mod_note": null,
-                      "all_awardings": [],
-                      "body": "\\&gt; 64GB+ of VRAM\n\nLol.\n\nThe reason you get an NPU isn't the same reason you get a GPU. The problem is if you throw VRAM like that on board it'll still cost as much as enterprise cards ($4k+), and it's kind of a waste.\n\nNPUs are crazy compute dense for their price, so you get an NPU to run compute bound models that really don't need as much memory bandwidth, anyway. Go and read Qwen's paper on Parallel Scaling Law, or look at the compute characteristics of speculative decoding heads, or the compute characteristics of Diffusion language models.\n\nThey could be run, hypothetically, on an add-in NPU card with effectively no (or at least very little) onboard memory, bringing the cost down, using the much cheaper main system memory to push really impressive speeds.\n\nIf you look at a lot of the most interesting advancements, they tend to be compute bound, and there's possibly even more unexpected developments in this area coming up.\n\nUnder that paradigm, a fairly cheap add-in NPU with around 100 TOP/s could either hit the performance of a current generation 70B - 100B model with fewer parameters and current generation speed (maybe a \\~20B running at up to 5 T/s...?), or launch a fairly similar model to current 70B models that runs at an acceptable speed off of system RAM (possibly around 8 to 80 T/s depending on the specifics; it's hard to speculate), or you could run MoE models like Deepseek V3 on a consumer system with multi-token prediction and possibly hit 16 T/s or so (without any model changes; with a drastically different arch I think 80 T/s is possible for the same performance).\n\nThe add in card wouldn't really even need to be terribly expensive (possibly $80 to $200).\n\nI think that if you think about NPUs like a GPU, they're always going to come up short. They'll feel memory and bandwidth starved. They look like little toys in comparison.\n\nBut, I think if you think about NPUs as their own things, and you plan LLM architectures around them, they can make something extremely special happen.",
-                      "edited": false,
-                      "top_awarded_type": null,
-                      "author_flair_css_class": null,
-                      "name": "t1_n679y9a",
-                      "is_submitter": false,
-                      "downs": 0,
-                      "author_flair_richtext": [],
-                      "author_patreon_flair": false,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;gt; 64GB+ of VRAM&lt;/p&gt;\n\n&lt;p&gt;Lol.&lt;/p&gt;\n\n&lt;p&gt;The reason you get an NPU isn&amp;#39;t the same reason you get a GPU. The problem is if you throw VRAM like that on board it&amp;#39;ll still cost as much as enterprise cards ($4k+), and it&amp;#39;s kind of a waste.&lt;/p&gt;\n\n&lt;p&gt;NPUs are crazy compute dense for their price, so you get an NPU to run compute bound models that really don&amp;#39;t need as much memory bandwidth, anyway. Go and read Qwen&amp;#39;s paper on Parallel Scaling Law, or look at the compute characteristics of speculative decoding heads, or the compute characteristics of Diffusion language models.&lt;/p&gt;\n\n&lt;p&gt;They could be run, hypothetically, on an add-in NPU card with effectively no (or at least very little) onboard memory, bringing the cost down, using the much cheaper main system memory to push really impressive speeds.&lt;/p&gt;\n\n&lt;p&gt;If you look at a lot of the most interesting advancements, they tend to be compute bound, and there&amp;#39;s possibly even more unexpected developments in this area coming up.&lt;/p&gt;\n\n&lt;p&gt;Under that paradigm, a fairly cheap add-in NPU with around 100 TOP/s could either hit the performance of a current generation 70B - 100B model with fewer parameters and current generation speed (maybe a ~20B running at up to 5 T/s...?), or launch a fairly similar model to current 70B models that runs at an acceptable speed off of system RAM (possibly around 8 to 80 T/s depending on the specifics; it&amp;#39;s hard to speculate), or you could run MoE models like Deepseek V3 on a consumer system with multi-token prediction and possibly hit 16 T/s or so (without any model changes; with a drastically different arch I think 80 T/s is possible for the same performance).&lt;/p&gt;\n\n&lt;p&gt;The add in card wouldn&amp;#39;t really even need to be terribly expensive (possibly $80 to $200).&lt;/p&gt;\n\n&lt;p&gt;I think that if you think about NPUs like a GPU, they&amp;#39;re always going to come up short. They&amp;#39;ll feel memory and bandwidth starved. They look like little toys in comparison.&lt;/p&gt;\n\n&lt;p&gt;But, I think if you think about NPUs as their own things, and you plan LLM architectures around them, they can make something extremely special happen.&lt;/p&gt;\n&lt;/div&gt;",
-                      "gildings": {},
-                      "collapsed_reason": null,
-                      "distinguished": null,
-                      "associated_award": null,
-                      "stickied": false,
-                      "author_premium": false,
-                      "can_gild": false,
-                      "link_id": "t3_1mdx65u",
-                      "unrepliable_reason": null,
-                      "author_flair_text_color": null,
-                      "score_hidden": false,
-                      "permalink": "/r/LocalLLaMA/comments/1mdx65u/amd_is_reportedly_looking_to_introduce_a/n679y9a/",
-                      "subreddit_type": "public",
-                      "locked": false,
-                      "report_reasons": null,
-                      "created": 1753983227,
-                      "author_flair_text": null,
-                      "treatment_tags": [],
-                      "collapsed": false,
-                      "subreddit_name_prefixed": "r/LocalLLaMA",
-                      "controversiality": 0,
-                      "depth": 1,
-                      "author_flair_background_color": null,
-                      "collapsed_because_crowd_control": null,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "ups": 5
                     }
                   },
                   {
@@ -1718,7 +1804,7 @@
                       "created_utc": 1753957100,
                       "send_replies": true,
                       "parent_id": "t1_n64xpb6",
-                      "score": 3,
+                      "score": 5,
                       "author_fullname": "t2_dievh",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1760,7 +1846,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 5
                     }
                   }
                 ],
@@ -1781,7 +1867,7 @@
             "created_utc": 1753955351,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 148,
+            "score": 144,
             "author_fullname": "t2_p1gfswvnw",
             "approved_by": null,
             "mod_note": null,
@@ -1823,7 +1909,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 148
+            "ups": 144
           }
         },
         {
@@ -1987,7 +2073,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n666i3y",
-                                "score": 8,
+                                "score": 9,
                                 "author_fullname": "t2_10icmj",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2030,7 +2116,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             },
                             {
@@ -2085,7 +2171,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n66zkmg",
-                                          "score": 6,
+                                          "score": 5,
                                           "author_fullname": "t2_42tdujpc",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2128,7 +2214,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 6
+                                          "ups": 5
                                         }
                                       }
                                     ],
@@ -2256,6 +2342,86 @@
                       "num_reports": null,
                       "ups": 9
                     }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "richtext",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": "2ff18162-05ce-11ee-aa52-6a828e39b56c",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n6efx5u",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "RelicDerelict",
+                      "can_mod_post": false,
+                      "created_utc": 1754075166,
+                      "send_replies": true,
+                      "parent_id": "t1_n657ldu",
+                      "score": 1,
+                      "author_fullname": "t2_c9l5cm1",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "I apologize for my ignorance but is it not Vulcan which it can do better on all fronts regards to AI? Or is it only performative at inference?",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n6efx5u",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [
+                        {
+                          "e": "text",
+                          "t": "Orca"
+                        }
+                      ],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I apologize for my ignorance but is it not Vulcan which it can do better on all fronts regards to AI? Or is it only performative at inference?&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mdx65u",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": "light",
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mdx65u/amd_is_reportedly_looking_to_introduce_a/n6efx5u/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754075166,
+                      "author_flair_text": "Orca",
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": "#bbbdbf",
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
                   }
                 ],
                 "before": null
@@ -2275,7 +2441,7 @@
             "created_utc": 1753960235,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 27,
+            "score": 28,
             "author_fullname": "t2_10icmj",
             "approved_by": null,
             "mod_note": null,
@@ -2317,7 +2483,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 27
+            "ups": 28
           }
         },
         {
@@ -2350,7 +2516,7 @@
             "created_utc": 1753959400,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 17,
+            "score": 14,
             "author_fullname": "t2_7guj3cyv",
             "approved_by": null,
             "mod_note": null,
@@ -2392,7 +2558,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 14
           }
         },
         {
@@ -2511,7 +2677,7 @@
             "created_utc": 1753960246,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 14,
+            "score": 16,
             "author_fullname": "t2_6id3lwou",
             "approved_by": null,
             "mod_note": null,
@@ -2553,7 +2719,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 16
           }
         },
         {
@@ -2609,7 +2775,7 @@
                       "created_utc": 1753971900,
                       "send_replies": true,
                       "parent_id": "t1_n64x8kg",
-                      "score": 6,
+                      "score": 8,
                       "author_fullname": "t2_ql2vu0wz",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2651,7 +2817,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 8
                     }
                   }
                 ],
@@ -2672,7 +2838,7 @@
             "created_utc": 1753955098,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 14,
+            "score": 13,
             "author_fullname": "t2_twl3xhruz",
             "approved_by": null,
             "mod_note": null,
@@ -2714,7 +2880,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 13
           }
         },
         {
@@ -2897,7 +3063,7 @@
             "created_utc": 1753956689,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": 2,
+            "score": 6,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -2939,7 +3105,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 6
           }
         },
         {
@@ -3306,7 +3472,7 @@
                       "created_utc": 1753960897,
                       "send_replies": true,
                       "parent_id": "t1_n652gvi",
-                      "score": 22,
+                      "score": 20,
                       "author_fullname": "t2_dm4gp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3348,7 +3514,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 22
+                      "ups": 20
                     }
                   },
                   {
@@ -4314,7 +4480,7 @@
                       "created_utc": 1753961227,
                       "send_replies": true,
                       "parent_id": "t1_n658ufv",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_1441omqx4c",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4356,7 +4522,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   }
                 ],
@@ -4377,7 +4543,7 @@
             "created_utc": 1753960788,
             "send_replies": true,
             "parent_id": "t3_1mdx65u",
-            "score": -1,
+            "score": 0,
             "author_fullname": "t2_2zdvefj",
             "approved_by": null,
             "mod_note": null,
@@ -4419,7 +4585,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         }
       ],

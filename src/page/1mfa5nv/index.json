@@ -1,0 +1,536 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "**System:** Threadripper Pro 3945WX &amp; RTX 4090 + 128GB system RAM\n\n**Inference engine:**  recent build of ik\\_llama.cpp in an LXC under proxmox *(with -DGGML\\_CUDA=ON -DGGML\\_CUDA\\_FA\\_ALL\\_QUANTS=ON -DGGML\\_BLAS=OFF -DCMAKE\\_CUDA\\_ARCHITECTURES=89 -DGGML\\_IQK\\_FA\\_ALL\\_QUANTS=1 -DGGML\\_SCHED\\_MAX\\_COPIES=1 -DGGML\\_CUDA\\_IQK\\_FORCE\\_BF16=1 -DGGML\\_MAX\\_CONTEXTS=2048)*\n\n**Model:** [unsloth](https://huggingface.co/unsloth)/[Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF) Q5\\_K\\_M\n\n**llama-server arguments:** \\-fa -fmoe --metrics --n-gpu-layers 99 --override-tensor exps=CPU\n\n(though I understand -ngl and -ot  are not strictly necessary as this model fits in 24GB VRAM and removing these arguments stil results in the same situation as below)\n\nThe model runs fast (though not quite as fast as a 5090 running same prompt in Ollama in a windows machine) so I assume it is running on 4090. But when I actually look at what is happenig in the system I cant make sense of what the hardware is doing:\n\n1. The llama-server output seems to indicate NO layers are being offloaded to GPU\n2. nvidia-smi appears to show less than 6GB VRAM ustilised\n3. proxmox shows my CPU at 60% useage but only 555MB of system RAM utilised.\n\nSo where is the actual 'work' being done, by whom and with what resources when I've sent a prompt to the model?\n\nhttps://preview.redd.it/77ei5ozrdhgf1.png?width=1424&amp;format=png&amp;auto=webp&amp;s=51988beff5df7d92551b5ea589d0269bf1495de9\n\nhttps://preview.redd.it/f2rbytyrdhgf1.png?width=834&amp;format=png&amp;auto=webp&amp;s=c5e9a47c3795a7778617960a0332915e11175738\n\nhttps://preview.redd.it/q25p3syrdhgf1.png?width=689&amp;format=png&amp;auto=webp&amp;s=6bf259369ba31c2d505f978975fe5b3fa3b6b3b9",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "How do I know how much my GPU/CPU is being used by ik_llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 75,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "q25p3syrdhgf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 50,
+                    "x": 108,
+                    "u": "https://preview.redd.it/q25p3syrdhgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=30cfee213aeafa0c0832df866c5f8e2433710dd3"
+                  },
+                  {
+                    "y": 100,
+                    "x": 216,
+                    "u": "https://preview.redd.it/q25p3syrdhgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=60ace2e74c81147096a4c092a139de0e010d9f3a"
+                  },
+                  {
+                    "y": 149,
+                    "x": 320,
+                    "u": "https://preview.redd.it/q25p3syrdhgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=41575a41590519a2549146d429c0af0fed4ab9c9"
+                  },
+                  {
+                    "y": 299,
+                    "x": 640,
+                    "u": "https://preview.redd.it/q25p3syrdhgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d187a40dd06756ab6f7129dec9c2b9dea5e10606"
+                  }
+                ],
+                "s": {
+                  "y": 322,
+                  "x": 689,
+                  "u": "https://preview.redd.it/q25p3syrdhgf1.png?width=689&amp;format=png&amp;auto=webp&amp;s=6bf259369ba31c2d505f978975fe5b3fa3b6b3b9"
+                },
+                "id": "q25p3syrdhgf1"
+              },
+              "77ei5ozrdhgf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 46,
+                    "x": 108,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=9daee453bc912d747a1f4b4d939a9bd137acea4a"
+                  },
+                  {
+                    "y": 93,
+                    "x": 216,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ab5d82e84323811d4bdc79e032ba85cd1af22659"
+                  },
+                  {
+                    "y": 138,
+                    "x": 320,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c6bb740f5a107044d66abe3ce716d030f43abc24"
+                  },
+                  {
+                    "y": 276,
+                    "x": 640,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92d25f5df6008fffe9f151d749611b16ceeda7ad"
+                  },
+                  {
+                    "y": 414,
+                    "x": 960,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=be12f05f4d725aa5da225b4aaf406de451964ddd"
+                  },
+                  {
+                    "y": 466,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bf30b63c5714cf9a004202c442393d389773dfdd"
+                  }
+                ],
+                "s": {
+                  "y": 615,
+                  "x": 1424,
+                  "u": "https://preview.redd.it/77ei5ozrdhgf1.png?width=1424&amp;format=png&amp;auto=webp&amp;s=51988beff5df7d92551b5ea589d0269bf1495de9"
+                },
+                "id": "77ei5ozrdhgf1"
+              },
+              "f2rbytyrdhgf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 49,
+                    "x": 108,
+                    "u": "https://preview.redd.it/f2rbytyrdhgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=4450dbbc6856d5daca1f1fc8dd29cb393b2522ab"
+                  },
+                  {
+                    "y": 98,
+                    "x": 216,
+                    "u": "https://preview.redd.it/f2rbytyrdhgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a2e42c546b733640d1e56fc8678c8ead80c8aa2e"
+                  },
+                  {
+                    "y": 146,
+                    "x": 320,
+                    "u": "https://preview.redd.it/f2rbytyrdhgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bdc95c5b92f6e28e51ce694cc5bbd2cb45e96467"
+                  },
+                  {
+                    "y": 293,
+                    "x": 640,
+                    "u": "https://preview.redd.it/f2rbytyrdhgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb69f354c1790297b3df2140717acdb87c90c7a4"
+                  }
+                ],
+                "s": {
+                  "y": 382,
+                  "x": 834,
+                  "u": "https://preview.redd.it/f2rbytyrdhgf1.png?width=834&amp;format=png&amp;auto=webp&amp;s=c5e9a47c3795a7778617960a0332915e11175738"
+                },
+                "id": "f2rbytyrdhgf1"
+              }
+            },
+            "name": "t3_1mfa5nv",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.5,
+            "author_flair_background_color": null,
+            "ups": 0,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_if95iuzc",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=140&amp;height=75&amp;crop=140:75,smart&amp;auto=webp&amp;s=bb5e71525389d3b53f19ec775a25ce04738c2fdf",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1754087090,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;System:&lt;/strong&gt; Threadripper Pro 3945WX &amp;amp; RTX 4090 + 128GB system RAM&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Inference engine:&lt;/strong&gt;  recent build of ik_llama.cpp in an LXC under proxmox &lt;em&gt;(with -DGGML_CUDA=ON -DGGML_CUDA_FA_ALL_QUANTS=ON -DGGML_BLAS=OFF -DCMAKE_CUDA_ARCHITECTURES=89 -DGGML_IQK_FA_ALL_QUANTS=1 -DGGML_SCHED_MAX_COPIES=1 -DGGML_CUDA_IQK_FORCE_BF16=1 -DGGML_MAX_CONTEXTS=2048)&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Model:&lt;/strong&gt; &lt;a href=\"https://huggingface.co/unsloth\"&gt;unsloth&lt;/a&gt;/&lt;a href=\"https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF\"&gt;Qwen3-Coder-30B-A3B-Instruct-GGUF&lt;/a&gt; Q5_K_M&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;llama-server arguments:&lt;/strong&gt; -fa -fmoe --metrics --n-gpu-layers 99 --override-tensor exps=CPU&lt;/p&gt;\n\n&lt;p&gt;(though I understand -ngl and -ot  are not strictly necessary as this model fits in 24GB VRAM and removing these arguments stil results in the same situation as below)&lt;/p&gt;\n\n&lt;p&gt;The model runs fast (though not quite as fast as a 5090 running same prompt in Ollama in a windows machine) so I assume it is running on 4090. But when I actually look at what is happenig in the system I cant make sense of what the hardware is doing:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;The llama-server output seems to indicate NO layers are being offloaded to GPU&lt;/li&gt;\n&lt;li&gt;nvidia-smi appears to show less than 6GB VRAM ustilised&lt;/li&gt;\n&lt;li&gt;proxmox shows my CPU at 60% useage but only 555MB of system RAM utilised.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;So where is the actual &amp;#39;work&amp;#39; being done, by whom and with what resources when I&amp;#39;ve sent a prompt to the model?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/77ei5ozrdhgf1.png?width=1424&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=51988beff5df7d92551b5ea589d0269bf1495de9\"&gt;https://preview.redd.it/77ei5ozrdhgf1.png?width=1424&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=51988beff5df7d92551b5ea589d0269bf1495de9&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/f2rbytyrdhgf1.png?width=834&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c5e9a47c3795a7778617960a0332915e11175738\"&gt;https://preview.redd.it/f2rbytyrdhgf1.png?width=834&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c5e9a47c3795a7778617960a0332915e11175738&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/q25p3syrdhgf1.png?width=689&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6bf259369ba31c2d505f978975fe5b3fa3b6b3b9\"&gt;https://preview.redd.it/q25p3syrdhgf1.png?width=689&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6bf259369ba31c2d505f978975fe5b3fa3b6b3b9&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?auto=webp&amp;s=e56082d18db2b9b44c9a8404db67a6a0159b5aaa",
+                    "width": 1200,
+                    "height": 648
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=305a70e8c82e5c0a94fb3ba2ee9df26c9b46914f",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=cb27b19d48faec1a1b9eb8d5977c1c5dc9b60ce9",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=17894ebb2ab4b6a2595f8ef54d10ed9c6f3670cb",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=980118277fff46b9a8e1b486d83ba01a5045e9a9",
+                      "width": 640,
+                      "height": 345
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e2f5464545b7a0e8b1172bf0c91182a19e11edf3",
+                      "width": 960,
+                      "height": 518
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f9074f9f7d7985d6799aab5078f32476394a2e67",
+                      "width": 1080,
+                      "height": 583
+                    }
+                  ],
+                  "variants": {},
+                  "id": "rwedkgKC292WXtVkRTFrnQdmEFp-chPjwmYAiGsq2kA"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mfa5nv",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "munkiemagik",
+            "discussion_type": null,
+            "num_comments": 4,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mfa5nv/how_do_i_know_how_much_my_gpucpu_is_being_used_by/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mfa5nv/how_do_i_know_how_much_my_gpucpu_is_being_used_by/",
+            "subreddit_subscribers": 508541,
+            "created_utc": 1754087090,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n6fzf7o",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "eloquentemu",
+            "can_mod_post": false,
+            "created_utc": 1754092824,
+            "send_replies": true,
+            "parent_id": "t3_1mfa5nv",
+            "score": 2,
+            "author_fullname": "t2_lpdsy",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "The memory utilization checks out at least: `nvidia-smi` is reporting that `llama-server` is using 1.7GB which matches the `CUDA0 compute buffer size`.  The rest I'm assuming is on CPU memory.  I haven't really used proxmox LXC, but I'm guessing it's only counting memory that's uniquely used by the process.  That is, the model is a memory mapped file so the memory it's using is just a cache of the disk and the OS could drop it if it wanted (and destroy your performance).  While it seems like 24GB of KV cache is getting allocated, I'm guessing the allocation is lazy, meaning that the OS won't _actually_ give it to the process until the process writes to it.  So the only thing that's really allocated is the ~516MB compute buffer.  Memory usage should grow with context length, however.\n\nAs for why it's only using the GPU for compute and not offloading layers I can't say.  I mean, _technically_ `--n-gpu-layers 99 --override-tensor exps=CPU` causes all layers to be split between CPU and GPU so \"0/49\" and \"49/49\" are both valid interpretations.  However, it doesn't seem like that's happening, both according to `nvidia-smi` and the log.  I'm not experienced with ik_llama (never got it to work better than llama.cpp) but I'm wondering if it's maybe streaming the model weights to the GPU?  There is the discrepency with the reported 1.7GB used by the process and the 5.5GB used on the GPU in general which could be some shared memory buffer... Still, I don't know why it seems to be ignoring your command line.  You could try `--override-tensor attn=CUDA0,exps=CPU` (or maybe the other way around) and seeing if that forces the attention tensors on the GPU.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n6fzf7o",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The memory utilization checks out at least: &lt;code&gt;nvidia-smi&lt;/code&gt; is reporting that &lt;code&gt;llama-server&lt;/code&gt; is using 1.7GB which matches the &lt;code&gt;CUDA0 compute buffer size&lt;/code&gt;.  The rest I&amp;#39;m assuming is on CPU memory.  I haven&amp;#39;t really used proxmox LXC, but I&amp;#39;m guessing it&amp;#39;s only counting memory that&amp;#39;s uniquely used by the process.  That is, the model is a memory mapped file so the memory it&amp;#39;s using is just a cache of the disk and the OS could drop it if it wanted (and destroy your performance).  While it seems like 24GB of KV cache is getting allocated, I&amp;#39;m guessing the allocation is lazy, meaning that the OS won&amp;#39;t &lt;em&gt;actually&lt;/em&gt; give it to the process until the process writes to it.  So the only thing that&amp;#39;s really allocated is the ~516MB compute buffer.  Memory usage should grow with context length, however.&lt;/p&gt;\n\n&lt;p&gt;As for why it&amp;#39;s only using the GPU for compute and not offloading layers I can&amp;#39;t say.  I mean, &lt;em&gt;technically&lt;/em&gt; &lt;code&gt;--n-gpu-layers 99 --override-tensor exps=CPU&lt;/code&gt; causes all layers to be split between CPU and GPU so &amp;quot;0/49&amp;quot; and &amp;quot;49/49&amp;quot; are both valid interpretations.  However, it doesn&amp;#39;t seem like that&amp;#39;s happening, both according to &lt;code&gt;nvidia-smi&lt;/code&gt; and the log.  I&amp;#39;m not experienced with ik_llama (never got it to work better than llama.cpp) but I&amp;#39;m wondering if it&amp;#39;s maybe streaming the model weights to the GPU?  There is the discrepency with the reported 1.7GB used by the process and the 5.5GB used on the GPU in general which could be some shared memory buffer... Still, I don&amp;#39;t know why it seems to be ignoring your command line.  You could try &lt;code&gt;--override-tensor attn=CUDA0,exps=CPU&lt;/code&gt; (or maybe the other way around) and seeing if that forces the attention tensors on the GPU.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mfa5nv/how_do_i_know_how_much_my_gpucpu_is_being_used_by/n6fzf7o/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754092824,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mfa5nv",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n6g9fo3",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "munkiemagik",
+                      "can_mod_post": false,
+                      "created_utc": 1754096499,
+                      "send_replies": true,
+                      "parent_id": "t1_n6g384y",
+                      "score": 1,
+                      "author_fullname": "t2_if95iuzc",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Because I am using proxmox to host the LXC I did have a ton of trouble with cuda toolkit due to proxmox pulling a version which would not let me build, kept getting errors about arch (89 for 4090) and commands not found when trying to use -DGGML\\_CUDA=ON etc\n\nHad to add the Nvidia repository and manually install a higher version of cuda toolkit. Which finally let me build with the above listed options and running `nvcc --version` I get the follwoing output\n\n    nvcc: NVIDIA (R) Cuda compiler driver\n    Copyright (c) 2005-2024 NVIDIA Corporation\n    Built on Tue_Oct_29_23:50:19_PDT_2024\n    Cuda compilation tools, release 12.6, V12.6.85\n    Build cuda_12.6.r12.6/compiler.35059454_0\n\nSo it seems that cuda is functioning as it should be?",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n6g9fo3",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Because I am using proxmox to host the LXC I did have a ton of trouble with cuda toolkit due to proxmox pulling a version which would not let me build, kept getting errors about arch (89 for 4090) and commands not found when trying to use -DGGML_CUDA=ON etc&lt;/p&gt;\n\n&lt;p&gt;Had to add the Nvidia repository and manually install a higher version of cuda toolkit. Which finally let me build with the above listed options and running &lt;code&gt;nvcc --version&lt;/code&gt; I get the follwoing output&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;nvcc: NVIDIA (R) Cuda compiler driver\nCopyright (c) 2005-2024 NVIDIA Corporation\nBuilt on Tue_Oct_29_23:50:19_PDT_2024\nCuda compilation tools, release 12.6, V12.6.85\nBuild cuda_12.6.r12.6/compiler.35059454_0\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;So it seems that cuda is functioning as it should be?&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mfa5nv",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mfa5nv/how_do_i_know_how_much_my_gpucpu_is_being_used_by/n6g9fo3/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754096499,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n6g384y",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Danmoreng",
+            "can_mod_post": false,
+            "created_utc": 1754094209,
+            "send_replies": true,
+            "parent_id": "t3_1mfa5nv",
+            "score": 1,
+            "author_fullname": "t2_7z26p",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Maybe cuda toolkit was not present/found when running the build and the executable has no cuda but only cpu inference? Think I had that problem when building llama.cpp once.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n6g384y",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Maybe cuda toolkit was not present/found when running the build and the executable has no cuda but only cpu inference? Think I had that problem when building llama.cpp once.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mfa5nv/how_do_i_know_how_much_my_gpucpu_is_being_used_by/n6g384y/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754094209,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mfa5nv",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
