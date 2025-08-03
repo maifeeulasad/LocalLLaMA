@@ -39,7 +39,7 @@
             "upvote_ratio": 0.75,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 2,
+            "ups": 4,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Resources",
             "can_mod_post": false,
-            "score": 2,
+            "score": 4,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mfzg8h/opensource_project_for_distributed_inference/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mfzg8h/opensource_project_for_distributed_inference/",
-            "subreddit_subscribers": 509053,
+            "subreddit_subscribers": 509292,
             "created_utc": 1754163962,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -298,7 +298,7 @@
             "created_utc": 1754172172,
             "send_replies": true,
             "parent_id": "t3_1mfzg8h",
-            "score": 5,
+            "score": 3,
             "author_fullname": "t2_1qq10p5wjo",
             "approved_by": null,
             "mod_note": null,
@@ -340,7 +340,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 3
           }
         },
         {
@@ -396,7 +396,7 @@
                       "created_utc": 1754178587,
                       "send_replies": true,
                       "parent_id": "t1_n6lkdy5",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_g5wvmwck",
                       "removal_reason": null,
                       "approved_by": null,
@@ -438,7 +438,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
