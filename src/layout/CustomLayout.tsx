@@ -11513,6 +11513,10 @@ const defaultMenus: MenuDataItem[] = [
         name: 'Horizon Alpha vs Horizon Beta',
       },
       {
+        path: '/1mfh4ee',
+        name: 'MoE models not as fast as active parameter counts suggest',
+      },
+      {
         path: '/1mfhfg0',
         name: 'Good practices to implement memory for LLMs?',
       },
@@ -11631,6 +11635,222 @@ const defaultMenus: MenuDataItem[] = [
       {
         path: '/1mfor6n',
         name: 'RAG or prompt engineering',
+      },
+      {
+        path: '/1mfpgae',
+        name: 'Qwen3 30B A3b --override-tensor + Qwen3 4b draft = &lt;3 (22 vs 14 t/s)',
+      },
+      {
+        path: '/1mfpn4a',
+        name: 'What\'s the current go-to setup for a fully-local coding agent that continuously improves code?',
+      },
+      {
+        path: '/1mfpnxi',
+        name: 'Best free good deep research LLM websites?',
+      },
+      {
+        path: '/1mfqejn',
+        name: 'Open-source model that is as intelligent as Claude Sonnet 4',
+      },
+      {
+        path: '/1mfqr3o',
+        name: 'Ollamacode - Local AI assistant that can create, run and understand your codebase.',
+      },
+      {
+        path: '/1mfqzc8',
+        name: 'Smart integration',
+      },
+      {
+        path: '/1mfrec0',
+        name: 'I made a opensource CAL-AI alternative using ollama which runs completely locally and for is fully free.',
+      },
+      {
+        path: '/1mfrq3v',
+        name: 'What is "tool use", exactly?',
+      },
+      {
+        path: '/1mfrunn',
+        name: 'It\'s time to run your own R1, Kimi ... and split the cost of it',
+      },
+      {
+        path: '/1mfs9cw',
+        name: 'Getting started into self hosting LLM',
+      },
+      {
+        path: '/1mfs9qn',
+        name: '[GUIDE] Running Qwen-30B (Coder/Instruct/Thinking) with CPU-GPU Partial Offloading - Tips, Tricks, and Optimizations',
+      },
+      {
+        path: '/1mft55c',
+        name: 'Scalable LLM Virtual Assistant – Looking for Architecture Tips',
+      },
+      {
+        path: '/1mfu41i',
+        name: 'I\'m researching some OS &amp; Local LLMs that can be useful for farmers, either in high-end PCs and in raspberry pi. Suggestions?',
+      },
+      {
+        path: '/1mfu5ll',
+        name: 'Learn GPU AI',
+      },
+      {
+        path: '/1mfubwt',
+        name: 'Best model to use as agentic AI for RTX 4090?',
+      },
+      {
+        path: '/1mfuiri',
+        name: 'Qwen Code + Qwen Coder 30b 3A is insane',
+      },
+      {
+        path: '/1mfuu40',
+        name: 'Gateway/Proxy for Claude-Code to OpenAI API compatible.',
+      },
+      {
+        path: '/1mfuz5w',
+        name: 'Need Help: Building a University Assistant RAGbot',
+      },
+      {
+        path: '/1mfv3b0',
+        name: 'Best local LLM that fits with 12GB VRAM?',
+      },
+      {
+        path: '/1mfve4v',
+        name: 'AGI Could Be Our Era\'s Perpetual Motion Machine - Forever Out of Reach, Though Current AI Already Amazes',
+      },
+      {
+        path: '/1mfvk5h',
+        name: 'Chatterbox TTS in cloud?',
+      },
+      {
+        path: '/1mfvxdo',
+        name: 'What would it take to support Multi-Token-Prediction (MTP) in llama.cpp? feat. GLM 4.5',
+      },
+      {
+        path: '/1mfvzai',
+        name: 'WebGPU enables local LLM in the browser. Demo site with AI chat',
+      },
+      {
+        path: '/1mfwckf',
+        name: '100+ AI Benchmarks list',
+      },
+      {
+        path: '/1mfwec7',
+        name: 'Four Models, One Prompt: Who Writes the Best Instructions for AI?',
+      },
+      {
+        path: '/1mfxas1',
+        name: 'Qwen moe in C',
+      },
+      {
+        path: '/1mfxdlg',
+        name: 'Are there any Open source LLM’s better than free tier of ChatGPT(4o and 4o mini)?',
+      },
+      {
+        path: '/1mfxjd5',
+        name: 'Is there any limits on Deep Research mode on Qwen Chat?',
+      },
+      {
+        path: '/1mfy5qs',
+        name: 'Dutch LLM',
+      },
+      {
+        path: '/1mfy6vo',
+        name: 'How do I get this information into an AI to make a video?',
+      },
+      {
+        path: '/1mfy924',
+        name: 'LocalLLM for movies',
+      },
+      {
+        path: '/1mfz1k2',
+        name: 'Chatterbox tts on amd',
+      },
+      {
+        path: '/1mfzezz',
+        name: 'OpenAI RAG API (File Search): an experimental study',
+      },
+      {
+        path: '/1mfzg8h',
+        name: 'Open-Source Project for Distributed Inference Management',
+      },
+      {
+        path: '/1mfzu3d',
+        name: 'How I Built Medical AI by Solving the Radiation Dose Problem',
+      },
+      {
+        path: '/1mfzzt4',
+        name: 'Experience with GLM-4.5-Air + claude code?',
+      },
+      {
+        path: '/1mg0sbe',
+        name: 'Alibaba not doing to bad at coding according to lmarena',
+      },
+      {
+        path: '/1mg0ur7',
+        name: 'How the best image generation models work from the inside ?',
+      },
+      {
+        path: '/1mg0uw8',
+        name: 'I have built my own, poor mans Lovable - testing out Cerebras AI',
+      },
+      {
+        path: '/1mg12k4',
+        name: 'Convert your ChatGTP exported conversations to something that Open-WebUI can import',
+      },
+      {
+        path: '/1mg1cg5',
+        name: 'Guide for GPU Purchase for Local LLM?',
+      },
+      {
+        path: '/1mg1e80',
+        name: 'Any news about the open source models that OpenAI promised to release ?',
+      },
+      {
+        path: '/1mg1evr',
+        name: 'GNOME AI Virtual Assistant "Newelle" Reaches Version 1.0 Milestone',
+      },
+      {
+        path: '/1mg24nd',
+        name: 'Closest Local Version of OpenAI\'s Agent Mode?',
+      },
+      {
+        path: '/1mg26g0',
+        name: 'How are people running an MLX-compatible OpenAI API server locally?',
+      },
+      {
+        path: '/1mg3d62',
+        name: 'Note to the Qwen team re. the new 30B A3B Coder and Instruct versions: Coder is lobotomized when compared to Instruct',
+      },
+      {
+        path: '/1mg3g2e',
+        name: 'Easily installable GUI for ML-powered audio transcription on AMD GPU ?',
+      },
+      {
+        path: '/1mg3i48',
+        name: 'HRM solved thinking more than current "thinking" models (this needs more hype)',
+      },
+      {
+        path: '/1mg40u1',
+        name: 'Is this set up sufficient?',
+      },
+      {
+        path: '/1mg44ya',
+        name: '64GB M1 Max, which GLM-4.5-Air?',
+      },
+      {
+        path: '/1mg4lxw',
+        name: 'How do I get Qwen 3 to stop asking terrible questions?',
+      },
+      {
+        path: '/1mg5scj',
+        name: 'Thinking or Instruct?',
+      },
+      {
+        path: '/1mg5xlb',
+        name: 'I created a persistent memory for an AI assistant I\'m developing, and am releasing the memory system',
+      },
+      {
+        path: '/1mg5zcx',
+        name: 'Quasar, Horizon, "Singularity?", Diseases &amp; Theory',
       },
     ],
   },

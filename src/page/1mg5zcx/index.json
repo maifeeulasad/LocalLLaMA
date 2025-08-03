@@ -1,0 +1,186 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "**Je vais être franc :**\n\nJe souffre de multiples pathologies (cinq maladies chroniques dont une auto-immune persistante et sévère). Les deux seuls modèles qui m'ont aidé avec succès à trouver des pistes d'amélioration sont Deepseek R1 et Perplexity Pro. Personnellement, lors de mes interactions avec Horizon Beta, je me suis senti à la fois mal à l'aise et plein d'espoir en raison de l'impression qu'une sorte de pouvoir caché ou restreint se cache derrière cela, car certaines des réponses étaient tout simplement stupéfiantes.\n\nAvant de continuer, je ne suis pas venu ici pour jouer à la victime, et je n'ai besoin d'aucune empathie, merci.\n\nBref, j'ai une liste de pistes spécifiques à ma situation que j'ai élaborées après plusieurs tentatives, car je ne dispose que d'une fenêtre de temps quotidienne qui me permet d'avoir un peu d'énergie et de clarté d'esprit pour, dans un premier temps, comprendre comment organiser mentalement mes besoins, les exprimer, et enfin les structurer et les prioriser.\n\n**Voici 5 de mes modèles si cela peut aider quelqu'un :**\n\n&gt;[ https://pastebin.com/KXenEf7Q ](https://pastebin.com/KXenEf7Q)\n\n**Prudence !**\n\n&gt;*Je ne fournirai aucun commentaire ou information supplémentaire sur ma santé, mes traitements, etc.*\n\n&gt;*N'essayez pas l'automédication, parlez à votre cheval, bla bla, ne faites pas l'imbécile sans avis médical HUMAIN !*\n\n**Retour au sujet :**\n\nCe qui m’a pris environ deux mois pour avoir un semblant d’espoir thérapeutique semble désormais ridicule par rapport aux résultats d’Horizon Beta. J'utilise principalement TTS pour éviter de lire les réponses des modèles, \"surtout les longues\", parce que parfois c'est épuisant et putain d'ennuyeux, alors j'écoute ! Et quand on a l'habitude d'écouter les réponses du LLM, il y a des schémas qui ne m'échappent pas.\n\n**Deux possibilités :**\n\n\\*C'est pur OpenAI\n\nou\n\n* C'est un modèle distillé GptXYZ\n\n**Ce qui m'amène à confirmer mon ressenti pour la première possibilité :**\n\nLa théorie selon laquelle les modèles Quasar et Horizon sur OpenRouter sont de mystérieux prototypes OpenAI est basée sur plusieurs indices et spéculations.\n\nQuand j'ai découvert Quasar-Alpha pour la première fois, en avril 2025 sur OpenRouter, il était décrit comme un modèle préliminaire avec une fenêtre contextuelle de 1 million de tokens, optimisé pour l'encodage, et des capacités multimodales, bla bla...\n\nRien d'excitant pour moi à l'époque.\n\nEnsuite, il y avait des \"preuves\" suggérant une connexion à OpenAI : le style de sortie utilise des caractères Unicode spécifiques pour la ponctuation, un trait observé dans les modèles OpenAI  :\n\n[ https://news.ycombinator.com/item?id=43640166 ](https://news.ycombinator.com/item?id=43640166)\n\nD'autres spéculent sur une origine Google en raison du nom « Quasar » évoquant des objets cosmiques, semblables aux Gémeaux.\n\nEnsuite Horizon Alpha et Beta, apparus plus récemment, sont vus comme une suite potentielle.\n\nCertaines spéculations le lient directement à OpenAI, peut-être en tant que version open source ou précurseur de GPT-5, en raison de benchmarks dominants et d'un style de sortie rappelant OpenAI:\n\n[ https://ossels.ai/openai-horizon-alpha-gpt-5-model/ ](https://ossels.ai/openai-horizon-alpha-gpt-5-model/)\n\nLes utilisateurs ont signalé qu'il code des applications entières en une seule requête, renforçant ainsi l'idée d'un prototype avancé.\n\n**J'ai essayé moi-même avec cette invite et il m'a fallu 5 échanges pour obtenir un résultat correct :**\n\nhttps://preview.redd.it/ywuejlr1apgf1.png?width=1624&amp;format=png&amp;auto=webp&amp;s=361adad6190cb9e740de45ce670fa7b0bd50669d\n\n**Voici l'invite Neo Tetris HTML :**\n\n    Créez un fichier HTML autonome qui fournit un Tetris néo-rétro complet avec les spécifications ci-dessous. Pas de bibliothèques externes, pas de liens CDN : intégrez tout (polices, CSS, JS, sons le cas échéant) via la base 64 ou le code en ligne.\n    Gameplay de base • Classique 7 tétrominos, rotation SRS, pièce de maintien, aperçu de la pièce fantôme. • Suppression de lignes avec explosion de particules : lorsqu'une ligne est terminée, générez une explosion de particules lumineuses qui volent vers l'extérieur et s'estompent. • « Onde de choc d'impact » à chaque verrouillage : un anneau de néon concentrique qui s'étend à partir de la base de la pièce et s'estompe. • Score, progression de niveau, 3 vies (vies perdues lorsque les blocs atteignent le sommet), file d'attente des 3 pièces suivantes.\n    Contrôles • Bureau Flèches gauche/droite : déplacer Flèche vers le bas : soft-drop (accélérer) – afficher la trace de mouvement / la séquence de vitesse derrière la pièce qui tombe Flèche vers le haut OU Espace : tourner dans le sens des aiguilles d'une montre Entrée : démarrer le jeu / confirmer dans les menus • Smartphone (toucher) Glisser vers la gauche/droite : déplacer Glisser vers le bas : soft-drop (avec la même trace) Appuyez sur les moitiés gauche/droite de l'écran : faire pivoter • Mettre en pause la superposition sur « P ».\n    Visuels et animations • Effet d'écran CRT : superposez un cadre en verre incurvé subtil, des lignes de balayage, une légère distorsion RVB et une vignette qui reste pendant la lecture. • Palette néon harmonieuse sur fond indigo profond (cyan, magenta, violet électrique, citron vert). • Écran titre avant le jeu : – Texte centré \"PRESS ENTER\" clignotant avec lueur. – Derrière lui, un défilé sans fin de chaque tétromino tournant lentement en mode filaire 3D, avec des particules de filament traçant leurs bords et s'éloignant. – Petit bloc affichant des astuces de contrôle : Gauche/Droite – Déplacer | Vers le bas – Chute de vitesse | Haut/Espace – Rotation | Entrée – Démarrer • Tableau de scores persistant (top 5) stocké dans localStorage, affiché sur l'écran titre et l'écran de fin de partie.\n    Adaptatif • Disposition fluide : le plateau de jeu s'adapte automatiquement aux fenêtres d'affichage des ordinateurs de bureau et mobiles tout en préservant les proportions. • Zones tactiles dimensionnées pour les pouces.\n    Technique • Rendu Canvas 2D, rendu d'image : pixellisé pour des blocs nets. • Toutes les images clés, CSS et JavaScript dans les balises &lt;style&gt; et &lt;script&gt;. • Aucune demande de réseau externe.\n    Important : les pièces ne doivent pas tomber trop rapidement. Commencez lentement et augmentez progressivement la vitesse à mesure que les jalons de score sont atteints, avec un niveau maximum de 100.\n    Renvoie uniquement le code HTML complet.\n\n**Spéculons :**\n\nQuant à la spéculation selon laquelle le prochain modèle ou étape serait la « singularité », elle trouve son origine dans les déclarations de Sam Altman, qui a publié un article en juin 2025 intitulé « La douce singularité » ( [ https://blog.samaltman.com/the-gentle-singularity ](https://blog.samaltman.com/the-gentle-singularity) ), affirmant que l'humanité a dépassé l'horizon des événements vers la superintelligence, avec des agents d'IA capables d'un véritable travail cognitif comme dès 2025 et des idées innovantes en 2026.\n\nAltman décrit un processus d'auto-amélioration récursive, dans lequel l'IA assiste la recherche sur l'IA, conduisant à une abondance d'intelligence et d'énergie :\n\n[ https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/ ](https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/)\n\nLes prédictions des experts, basées sur 8 590 estimations, placent l’AGI vers 2060 avec une probabilité de 50 %, mais des voix comme Ray Kurzweil visent 2029.\n\nMais OpenAI a également résolu les problèmes de niveau or de l'OMI avec un modèle expérimental général, soutenant l'idée d'une progression rapide vers la singularité :\n\n[ https://www.reddit.com/r/singularity/comments/1m3qutl/openai\\_achieved\\_imo\\_gold\\_with\\_experimental/ ](https://www.reddit.com/r/singularity/comments/1m3qutl/openai_achieved_imo_gold_with_experimental/)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Quasar, Horizon, \"Singularity?\", Diseases &amp; Theory",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 77,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "media_metadata": {
+              "ywuejlr1apgf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 59,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=301aefc74b41ee6ff2109d4b74c5bb037e7776c4"
+                  },
+                  {
+                    "y": 119,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e5700d44e832bceef8fecc9f79c9b6d121798cc4"
+                  },
+                  {
+                    "y": 177,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1dceb4e138080ddbb94a9f5797b1ebd4e95a2086"
+                  },
+                  {
+                    "y": 354,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdea74a602d24154843aa58afeb7d7b7c05d0fbf"
+                  },
+                  {
+                    "y": 532,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=7dfcbd21e17c90eb183099ce1e76638f537f89ec"
+                  },
+                  {
+                    "y": 598,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=220ec113997c299dcc44858c06358f79cbf8c4b5"
+                  }
+                ],
+                "s": {
+                  "y": 900,
+                  "x": 1624,
+                  "u": "https://preview.redd.it/ywuejlr1apgf1.png?width=1624&amp;format=png&amp;auto=webp&amp;s=361adad6190cb9e740de45ce670fa7b0bd50669d"
+                },
+                "id": "ywuejlr1apgf1"
+              }
+            },
+            "name": "t3_1mg5zcx",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.2,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 0,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_ti5m9mpc",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/1VZ-7dUfibZEb-GUiH0w3fY_1ECf6GJPMzUsVAS0HXc.jpg",
+            "edited": 1754182043,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754181849,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;Je vais être franc :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Je souffre de multiples pathologies (cinq maladies chroniques dont une auto-immune persistante et sévère). Les deux seuls modèles qui m&amp;#39;ont aidé avec succès à trouver des pistes d&amp;#39;amélioration sont Deepseek R1 et Perplexity Pro. Personnellement, lors de mes interactions avec Horizon Beta, je me suis senti à la fois mal à l&amp;#39;aise et plein d&amp;#39;espoir en raison de l&amp;#39;impression qu&amp;#39;une sorte de pouvoir caché ou restreint se cache derrière cela, car certaines des réponses étaient tout simplement stupéfiantes.&lt;/p&gt;\n\n&lt;p&gt;Avant de continuer, je ne suis pas venu ici pour jouer à la victime, et je n&amp;#39;ai besoin d&amp;#39;aucune empathie, merci.&lt;/p&gt;\n\n&lt;p&gt;Bref, j&amp;#39;ai une liste de pistes spécifiques à ma situation que j&amp;#39;ai élaborées après plusieurs tentatives, car je ne dispose que d&amp;#39;une fenêtre de temps quotidienne qui me permet d&amp;#39;avoir un peu d&amp;#39;énergie et de clarté d&amp;#39;esprit pour, dans un premier temps, comprendre comment organiser mentalement mes besoins, les exprimer, et enfin les structurer et les prioriser.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Voici 5 de mes modèles si cela peut aider quelqu&amp;#39;un :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;a href=\"https://pastebin.com/KXenEf7Q\"&gt; https://pastebin.com/KXenEf7Q &lt;/a&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;strong&gt;Prudence !&lt;/strong&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;Je ne fournirai aucun commentaire ou information supplémentaire sur ma santé, mes traitements, etc.&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;N&amp;#39;essayez pas l&amp;#39;automédication, parlez à votre cheval, bla bla, ne faites pas l&amp;#39;imbécile sans avis médical HUMAIN !&lt;/em&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;strong&gt;Retour au sujet :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Ce qui m’a pris environ deux mois pour avoir un semblant d’espoir thérapeutique semble désormais ridicule par rapport aux résultats d’Horizon Beta. J&amp;#39;utilise principalement TTS pour éviter de lire les réponses des modèles, &amp;quot;surtout les longues&amp;quot;, parce que parfois c&amp;#39;est épuisant et putain d&amp;#39;ennuyeux, alors j&amp;#39;écoute ! Et quand on a l&amp;#39;habitude d&amp;#39;écouter les réponses du LLM, il y a des schémas qui ne m&amp;#39;échappent pas.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Deux possibilités :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;*C&amp;#39;est pur OpenAI&lt;/p&gt;\n\n&lt;p&gt;ou&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;C&amp;#39;est un modèle distillé GptXYZ&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Ce qui m&amp;#39;amène à confirmer mon ressenti pour la première possibilité :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;La théorie selon laquelle les modèles Quasar et Horizon sur OpenRouter sont de mystérieux prototypes OpenAI est basée sur plusieurs indices et spéculations.&lt;/p&gt;\n\n&lt;p&gt;Quand j&amp;#39;ai découvert Quasar-Alpha pour la première fois, en avril 2025 sur OpenRouter, il était décrit comme un modèle préliminaire avec une fenêtre contextuelle de 1 million de tokens, optimisé pour l&amp;#39;encodage, et des capacités multimodales, bla bla...&lt;/p&gt;\n\n&lt;p&gt;Rien d&amp;#39;excitant pour moi à l&amp;#39;époque.&lt;/p&gt;\n\n&lt;p&gt;Ensuite, il y avait des &amp;quot;preuves&amp;quot; suggérant une connexion à OpenAI : le style de sortie utilise des caractères Unicode spécifiques pour la ponctuation, un trait observé dans les modèles OpenAI  :&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://news.ycombinator.com/item?id=43640166\"&gt; https://news.ycombinator.com/item?id=43640166 &lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;D&amp;#39;autres spéculent sur une origine Google en raison du nom « Quasar » évoquant des objets cosmiques, semblables aux Gémeaux.&lt;/p&gt;\n\n&lt;p&gt;Ensuite Horizon Alpha et Beta, apparus plus récemment, sont vus comme une suite potentielle.&lt;/p&gt;\n\n&lt;p&gt;Certaines spéculations le lient directement à OpenAI, peut-être en tant que version open source ou précurseur de GPT-5, en raison de benchmarks dominants et d&amp;#39;un style de sortie rappelant OpenAI:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://ossels.ai/openai-horizon-alpha-gpt-5-model/\"&gt; https://ossels.ai/openai-horizon-alpha-gpt-5-model/ &lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Les utilisateurs ont signalé qu&amp;#39;il code des applications entières en une seule requête, renforçant ainsi l&amp;#39;idée d&amp;#39;un prototype avancé.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;J&amp;#39;ai essayé moi-même avec cette invite et il m&amp;#39;a fallu 5 échanges pour obtenir un résultat correct :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ywuejlr1apgf1.png?width=1624&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=361adad6190cb9e740de45ce670fa7b0bd50669d\"&gt;https://preview.redd.it/ywuejlr1apgf1.png?width=1624&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=361adad6190cb9e740de45ce670fa7b0bd50669d&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Voici l&amp;#39;invite Neo Tetris HTML :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Créez un fichier HTML autonome qui fournit un Tetris néo-rétro complet avec les spécifications ci-dessous. Pas de bibliothèques externes, pas de liens CDN : intégrez tout (polices, CSS, JS, sons le cas échéant) via la base 64 ou le code en ligne.\nGameplay de base • Classique 7 tétrominos, rotation SRS, pièce de maintien, aperçu de la pièce fantôme. • Suppression de lignes avec explosion de particules : lorsqu&amp;#39;une ligne est terminée, générez une explosion de particules lumineuses qui volent vers l&amp;#39;extérieur et s&amp;#39;estompent. • « Onde de choc d&amp;#39;impact » à chaque verrouillage : un anneau de néon concentrique qui s&amp;#39;étend à partir de la base de la pièce et s&amp;#39;estompe. • Score, progression de niveau, 3 vies (vies perdues lorsque les blocs atteignent le sommet), file d&amp;#39;attente des 3 pièces suivantes.\nContrôles • Bureau Flèches gauche/droite : déplacer Flèche vers le bas : soft-drop (accélérer) – afficher la trace de mouvement / la séquence de vitesse derrière la pièce qui tombe Flèche vers le haut OU Espace : tourner dans le sens des aiguilles d&amp;#39;une montre Entrée : démarrer le jeu / confirmer dans les menus • Smartphone (toucher) Glisser vers la gauche/droite : déplacer Glisser vers le bas : soft-drop (avec la même trace) Appuyez sur les moitiés gauche/droite de l&amp;#39;écran : faire pivoter • Mettre en pause la superposition sur « P ».\nVisuels et animations • Effet d&amp;#39;écran CRT : superposez un cadre en verre incurvé subtil, des lignes de balayage, une légère distorsion RVB et une vignette qui reste pendant la lecture. • Palette néon harmonieuse sur fond indigo profond (cyan, magenta, violet électrique, citron vert). • Écran titre avant le jeu : – Texte centré &amp;quot;PRESS ENTER&amp;quot; clignotant avec lueur. – Derrière lui, un défilé sans fin de chaque tétromino tournant lentement en mode filaire 3D, avec des particules de filament traçant leurs bords et s&amp;#39;éloignant. – Petit bloc affichant des astuces de contrôle : Gauche/Droite – Déplacer | Vers le bas – Chute de vitesse | Haut/Espace – Rotation | Entrée – Démarrer • Tableau de scores persistant (top 5) stocké dans localStorage, affiché sur l&amp;#39;écran titre et l&amp;#39;écran de fin de partie.\nAdaptatif • Disposition fluide : le plateau de jeu s&amp;#39;adapte automatiquement aux fenêtres d&amp;#39;affichage des ordinateurs de bureau et mobiles tout en préservant les proportions. • Zones tactiles dimensionnées pour les pouces.\nTechnique • Rendu Canvas 2D, rendu d&amp;#39;image : pixellisé pour des blocs nets. • Toutes les images clés, CSS et JavaScript dans les balises &amp;lt;style&amp;gt; et &amp;lt;script&amp;gt;. • Aucune demande de réseau externe.\nImportant : les pièces ne doivent pas tomber trop rapidement. Commencez lentement et augmentez progressivement la vitesse à mesure que les jalons de score sont atteints, avec un niveau maximum de 100.\nRenvoie uniquement le code HTML complet.\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;&lt;strong&gt;Spéculons :&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Quant à la spéculation selon laquelle le prochain modèle ou étape serait la « singularité », elle trouve son origine dans les déclarations de Sam Altman, qui a publié un article en juin 2025 intitulé « La douce singularité » ( &lt;a href=\"https://blog.samaltman.com/the-gentle-singularity\"&gt; https://blog.samaltman.com/the-gentle-singularity &lt;/a&gt; ), affirmant que l&amp;#39;humanité a dépassé l&amp;#39;horizon des événements vers la superintelligence, avec des agents d&amp;#39;IA capables d&amp;#39;un véritable travail cognitif comme dès 2025 et des idées innovantes en 2026.&lt;/p&gt;\n\n&lt;p&gt;Altman décrit un processus d&amp;#39;auto-amélioration récursive, dans lequel l&amp;#39;IA assiste la recherche sur l&amp;#39;IA, conduisant à une abondance d&amp;#39;intelligence et d&amp;#39;énergie :&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/\"&gt; https://research.aimultiple.com/artificial-general-intelligence-singularity-timing/ &lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Les prédictions des experts, basées sur 8 590 estimations, placent l’AGI vers 2060 avec une probabilité de 50 %, mais des voix comme Ray Kurzweil visent 2029.&lt;/p&gt;\n\n&lt;p&gt;Mais OpenAI a également résolu les problèmes de niveau or de l&amp;#39;OMI avec un modèle expérimental général, soutenant l&amp;#39;idée d&amp;#39;une progression rapide vers la singularité :&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/singularity/comments/1m3qutl/openai_achieved_imo_gold_with_experimental/\"&gt; https://www.reddit.com/r/singularity/comments/1m3qutl/openai_achieved_imo_gold_with_experimental/ &lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mg5zcx",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Ok_Ninja7526",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mg5zcx/quasar_horizon_singularity_diseases_theory/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mg5zcx/quasar_horizon_singularity_diseases_theory/",
+            "subreddit_subscribers": 509052,
+            "created_utc": 1754181849,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

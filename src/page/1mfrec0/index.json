@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Im trying to put on some weight and muscle and needed to count my calories , for times when i dont have time to search and count i needed an app like CAL-AI but didnt want to pay for a ChatGpt wrapper so i created this and thought to myself why not share it with other people.\n\nI gotta say tho it is not the most accurate one out there since it uses a little local model but its pretty accurate as far as i tested it\n\n[https://github.com/mmemoo/dis-cal](https://github.com/mmemoo/dis-cal)  All instructions and everything is in this repo, i would appreciate it if you tried it and told me bugs, improveable parts and features that can be added. \n\nThanks in advance!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "I made a opensource CAL-AI alternative using ollama which runs completely locally and for is fully free.",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mfrec0",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.57,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_cgzigjpd",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754143606,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Im trying to put on some weight and muscle and needed to count my calories , for times when i dont have time to search and count i needed an app like CAL-AI but didnt want to pay for a ChatGpt wrapper so i created this and thought to myself why not share it with other people.&lt;/p&gt;\n\n&lt;p&gt;I gotta say tho it is not the most accurate one out there since it uses a little local model but its pretty accurate as far as i tested it&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/mmemoo/dis-cal\"&gt;https://github.com/mmemoo/dis-cal&lt;/a&gt;  All instructions and everything is in this repo, i would appreciate it if you tried it and told me bugs, improveable parts and features that can be added. &lt;/p&gt;\n\n&lt;p&gt;Thanks in advance!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?auto=webp&amp;s=7740e51b065f73baef20acb9661652efbd31473e",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=43d0c8bafbb43faea860f8f86e81107782da6aa3",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=2c8b2d47057fd20576416383a2c09e2a524b760d",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b75736c0b2fa807b69315eb351d4357ec156394",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=78079915dfeceeab89fd37ed8f707b7cfbc64ce5",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=cabc737e4eaac8c82320118a5fb4890d5545856f",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=57c3313f0eff8bcc3ad6c3af276b7a5cb4a42f83",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "SDBxUlMfav63r9emstxn0JGBVFpMuYK-50VWDphIeFg"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1mfrec0",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "mehmetflix_",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mfrec0/i_made_a_opensource_calai_alternative_using/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mfrec0/i_made_a_opensource_calai_alternative_using/",
+            "subreddit_subscribers": 509054,
+            "created_utc": 1754143606,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
