@@ -11852,6 +11852,158 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mg5zcx',
         name: 'Quasar, Horizon, "Singularity?", Diseases &amp; Theory',
       },
+      {
+        path: '/1mg6xia',
+        name: 'Any news on updated Qwen3-8B/14B versions?',
+      },
+      {
+        path: '/1mg7abc',
+        name: 'Mac + Blackwell 👀',
+      },
+      {
+        path: '/1mg7qpa',
+        name: 'Announcing Olla - LLM Load Balancer, Proxy &amp; Model Unifier for Ollama / LM Studio &amp; OpenAI Compatible backends',
+      },
+      {
+        path: '/1mg82el',
+        name: 'ccproxy - Route Claude Code requests to any LLM while keeping your MAX plan',
+      },
+      {
+        path: '/1mg8f1r',
+        name: 'Best Vibe Code tools that are free and use your own local LLM as of August 2025?',
+      },
+      {
+        path: '/1mg916l',
+        name: 'Recent Qwen Models More Pro-Liberally Aligned?',
+      },
+      {
+        path: '/1mga3ox',
+        name: 'I made a prebuilt windows binary for ik_llama.cpp',
+      },
+      {
+        path: '/1mgadmz',
+        name: 'Seeking a way to implement Low-Maintenance, Fully Local RAG Stack for a 16GB VRAM Setup (36k Arabic epub Docs)',
+      },
+      {
+        path: '/1mgatd6',
+        name: 'CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning',
+      },
+      {
+        path: '/1mgbk2y',
+        name: 'Running LLMs locally and flawlessly like copilot or Claude chat or cline.',
+      },
+      {
+        path: '/1mgbprh',
+        name: 'SmallThinker-21B-A3B-Instruct-QAT version',
+      },
+      {
+        path: '/1mgbs6r',
+        name: 'We enabled Multi-GPU training in Unsloth AI — a feature that’s usually paid — using just 2 Copilot prompts!',
+      },
+      {
+        path: '/1mgbven',
+        name: 'Modded RTX3080 20GBs for $360?',
+      },
+      {
+        path: '/1mgc0v0',
+        name: 'I created an app to run local AI as if it were the App Store',
+      },
+      {
+        path: '/1mgccyc',
+        name: 'ByteDance drops Seed-Prover',
+      },
+      {
+        path: '/1mgd3lh',
+        name: 'HRM model was trained on test?',
+      },
+      {
+        path: '/1mgdh6r',
+        name: 'is the P102-100 still a viable option for LLM?',
+      },
+      {
+        path: '/1mgdhdq',
+        name: 'Chinese LLMs talk freely about Tiananmen massacre and Taiwan',
+      },
+      {
+        path: '/1mgdjkx',
+        name: 'Chinese LLMs talk freely about Tiananmen massacre and Taiwan',
+      },
+      {
+        path: '/1mgdrws',
+        name: 'Audio-in LLM',
+      },
+      {
+        path: '/1mgdur5',
+        name: '🧠 ICM+DPO: Used Qwen3\'s coherent understanding to improve Gemma3 at math - cross-model capability transfer with zero supervision',
+      },
+      {
+        path: '/1mgdypr',
+        name: 'Best Medical Embedding Model Released',
+      },
+      {
+        path: '/1mgeerv',
+        name: 'Qwen3-30B-A3B-Instruct-2507-Q4_K_S.gguf + LM Studio 0.3.21 (Build 3): Assistant ignores questions, stuck in loop',
+      },
+      {
+        path: '/1mgfccn',
+        name: 'LLM Observability - Any Suggestions?',
+      },
+      {
+        path: '/1mgfs7l',
+        name: 'Do you also get weird behavior from Qwen3-Coder-30B-A3B?',
+      },
+      {
+        path: '/1mgfuf3',
+        name: 'Still getting bad results with PDFs in AnythingLLM + Llama 3 – Am I doing something wrong, or is there a better setup?',
+      },
+      {
+        path: '/1mgg3mh',
+        name: 'Successfully running INSTINCT MI50 on Win11',
+      },
+      {
+        path: '/1mgg4ki',
+        name: 'Best Gemma 3 Quant?',
+      },
+      {
+        path: '/1mggdxz',
+        name: 'NUMAI: A spreadsheet with LLM formula conversion',
+      },
+      {
+        path: '/1mggku0',
+        name: 'XBai-04 Is It Real?',
+      },
+      {
+        path: '/1mggnjy',
+        name: 'When You Ask Claude to Optimize Your Ride',
+      },
+      {
+        path: '/1mggsyb',
+        name: 'OSINT fingerprinting a stealth OpenRouter model - likely Llama-family, not OpenAI',
+      },
+      {
+        path: '/1mgh19i',
+        name: 'I built a GitHub scanner that automatically discovers your AI tools using a new .awesome-ai.md standard I created',
+      },
+      {
+        path: '/1mgh2cb',
+        name: 'Why Fortune 500 Wants to Fund Open Models',
+      },
+      {
+        path: '/1mghd3l',
+        name: 'GLM 4.5 Air local tool calling',
+      },
+      {
+        path: '/1mghhau',
+        name: 'MI50 w 32gb?  Guys please',
+      },
+      {
+        path: '/1mghw96',
+        name: 'AI "devs"',
+      },
+      {
+        path: '/1mghy1u',
+        name: 'qihoo360/Light-IF-32B',
+      },
     ],
   },
   {
