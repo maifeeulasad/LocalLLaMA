@@ -1,0 +1,314 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "This set of experiments were conducted about half a year ago and we are suggested to share them to the community. Summary of the experiments\n\n(1) Lihua world dataset: conversation data, all texts\n\n(2) In previous studies, Graph RAG (and variants) showed advantages over \"naïve\" RAG.\n\n(3) Using OpenAI RAG API (File Search), the accuracy is substantially higher than graph RAG &amp; variants\n\n(4) Using the same embeddings, [https://chat.vecml.com](https://chat.vecml.com/) produces consistently better accuracies than OpenAI RAG API (File Search).\n\n(5) More interestingly, [https://chat.vecml.com/](https://chat.vecml.com/) is substantially (550x) faster than OpenAI RAG (File Search)\n\n(6) Additional experiments on different embeddings are also provided.\n\nNote that Lihua world dataset is purely text. In practice, the documents are in all sorts of formats: PDFs, OCR, Excel, HTML, DocX, PPTX, WPS, and more. [https://chat.vecml.com/](https://chat.vecml.com/) is able to handle documents of many different formats and is capable of dealing with multi-modal RAG.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "OpenAI RAG API (File Search): an experimental study",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 140,
+            "top_awarded_type": null,
+            "name": "t3_1mfzezz",
+            "media_metadata": {
+              "snfxiwiotngf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 48,
+                    "x": 108,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=ecc1cf0a6bca5c4e3328477b7026c95b8f03eb70"
+                  },
+                  {
+                    "y": 96,
+                    "x": 216,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=914115ad10b3b2959058b4fd792112b6f9b05f24"
+                  },
+                  {
+                    "y": 143,
+                    "x": 320,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=73850eb9a8677a5bea2d313bccdaa792685357ff"
+                  },
+                  {
+                    "y": 286,
+                    "x": 640,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=244d9f4891b0943eb383c852c0e469dbaf82ffc5"
+                  },
+                  {
+                    "y": 429,
+                    "x": 960,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0cfa0e69bb3aa9572c84bf191e4bb5ef839f6f18"
+                  },
+                  {
+                    "y": 483,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/snfxiwiotngf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=58d6f1634978dfaf2f93ccc8b49cacf69fc18ded"
+                  }
+                ],
+                "s": {
+                  "y": 598,
+                  "x": 1336,
+                  "u": "https://preview.redd.it/snfxiwiotngf1.png?width=1336&amp;format=png&amp;auto=webp&amp;s=69a448d93ef8f0a3be6f01eec30503520d18f053"
+                },
+                "id": "snfxiwiotngf1"
+              },
+              "kdrqcvintngf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 130,
+                    "x": 108,
+                    "u": "https://preview.redd.it/kdrqcvintngf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=1f4114f77943df8660e61b3e333ac3cd0aabebfd"
+                  },
+                  {
+                    "y": 260,
+                    "x": 216,
+                    "u": "https://preview.redd.it/kdrqcvintngf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8274df2d3ccb3961cf1d9322752fd6967fd017ed"
+                  },
+                  {
+                    "y": 386,
+                    "x": 320,
+                    "u": "https://preview.redd.it/kdrqcvintngf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f20bec91b1fa2c9b44e0434ddd20d6eb31063312"
+                  },
+                  {
+                    "y": 772,
+                    "x": 640,
+                    "u": "https://preview.redd.it/kdrqcvintngf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6177b1bb06a5fd33588da0d54116a9f1e75d1690"
+                  }
+                ],
+                "s": {
+                  "y": 881,
+                  "x": 730,
+                  "u": "https://preview.redd.it/kdrqcvintngf1.png?width=730&amp;format=png&amp;auto=webp&amp;s=9244cca0f81ba098aa6e1aaea3a59ac371ac8b0b"
+                },
+                "id": "kdrqcvintngf1"
+              }
+            },
+            "hide_score": false,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.41,
+            "author_flair_background_color": null,
+            "ups": 0,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_x7ezv9dmy",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "kdrqcvintngf1",
+                  "id": 719740416
+                },
+                {
+                  "media_id": "snfxiwiotngf1",
+                  "id": 719740417
+                }
+              ]
+            },
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/fwt17fYbAFMoObf3HbNFT-k87BCWFCICFS0WC914Tx8.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754163875,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This set of experiments were conducted about half a year ago and we are suggested to share them to the community. Summary of the experiments&lt;/p&gt;\n\n&lt;p&gt;(1) Lihua world dataset: conversation data, all texts&lt;/p&gt;\n\n&lt;p&gt;(2) In previous studies, Graph RAG (and variants) showed advantages over &amp;quot;naïve&amp;quot; RAG.&lt;/p&gt;\n\n&lt;p&gt;(3) Using OpenAI RAG API (File Search), the accuracy is substantially higher than graph RAG &amp;amp; variants&lt;/p&gt;\n\n&lt;p&gt;(4) Using the same embeddings, &lt;a href=\"https://chat.vecml.com/\"&gt;https://chat.vecml.com&lt;/a&gt; produces consistently better accuracies than OpenAI RAG API (File Search).&lt;/p&gt;\n\n&lt;p&gt;(5) More interestingly, &lt;a href=\"https://chat.vecml.com/\"&gt;https://chat.vecml.com/&lt;/a&gt; is substantially (550x) faster than OpenAI RAG (File Search)&lt;/p&gt;\n\n&lt;p&gt;(6) Additional experiments on different embeddings are also provided.&lt;/p&gt;\n\n&lt;p&gt;Note that Lihua world dataset is purely text. In practice, the documents are in all sorts of formats: PDFs, OCR, Excel, HTML, DocX, PPTX, WPS, and more. &lt;a href=\"https://chat.vecml.com/\"&gt;https://chat.vecml.com/&lt;/a&gt; is able to handle documents of many different formats and is capable of dealing with multi-modal RAG.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mfzezz",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mfzezz",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "DueKitchen3102",
+            "discussion_type": null,
+            "num_comments": 2,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mfzezz/openai_rag_api_file_search_an_experimental_study/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mfzezz",
+            "subreddit_subscribers": 509053,
+            "created_utc": 1754163875,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n6lb7c0",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "ekaj",
+            "can_mod_post": false,
+            "created_utc": 1754170072,
+            "send_replies": true,
+            "parent_id": "t3_1mfzezz",
+            "score": 4,
+            "author_fullname": "t2_3cajs",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "This is an ad.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n6lb7c0",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is an ad.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": "light",
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mfzezz/openai_rag_api_file_search_an_experimental_study/n6lb7c0/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754170072,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "link_id": "t3_1mfzezz",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": "#bbbdbf",
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
