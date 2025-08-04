@@ -39,7 +39,7 @@
             "upvote_ratio": 0.83,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 59,
+            "ups": 60,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 59,
+            "score": 60,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mg3d62/note_to_the_qwen_team_re_the_new_30b_a3b_coder/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mg3d62/note_to_the_qwen_team_re_the_new_30b_a3b_coder/",
-            "subreddit_subscribers": 509626,
+            "subreddit_subscribers": 509919,
             "created_utc": 1754174302,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1754180230,
             "send_replies": true,
             "parent_id": "t3_1mg3d62",
-            "score": 36,
+            "score": 37,
             "author_fullname": "t2_98d256k",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 37
           }
         },
         {
@@ -831,7 +831,7 @@
             "created_utc": 1754184900,
             "send_replies": true,
             "parent_id": "t3_1mg3d62",
-            "score": 15,
+            "score": 16,
             "author_fullname": "t2_w4j8t",
             "approved_by": null,
             "mod_note": null,
@@ -873,7 +873,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 16
           }
         },
         {
@@ -912,8 +912,8 @@
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "It must vary depending on the task. For me, Qwen 3 Coder 30B-A3B has been excellent, and substantially better than the non-coder 2507 Instruct model. While the coder model’s general world knowledge is a lot worse as expected, its knowledge of language features, APIs, popular APIs, and behaviour of APIs is vastly superior to the non-coder for me. Coder has also done substantially better for me at generating working code and understanding large complex codebases.\n\nI’ve been using it for embedded C and Rust things, and some Python web service backend stuff.",
-            "edited": false,
+            "body": "It must vary depending on the task. For me, Qwen 3 Coder 30B-A3B has been excellent, and substantially better than the non-coder 2507 Instruct model. While the coder model’s general world knowledge is a lot worse as expected, its knowledge of language features, popular libraries/APIs, and behaviour of APIs is vastly superior to the non-coder for me. Coder has also done substantially better for me at generating working code and understanding large complex codebases.\n\nI’ve been using it for embedded C and Rust things, and some Python web service backend stuff.",
+            "edited": 1754287574,
             "top_awarded_type": null,
             "author_flair_css_class": null,
             "name": "t1_n6mwu1o",
@@ -921,7 +921,7 @@
             "downs": 0,
             "author_flair_richtext": [],
             "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It must vary depending on the task. For me, Qwen 3 Coder 30B-A3B has been excellent, and substantially better than the non-coder 2507 Instruct model. While the coder model’s general world knowledge is a lot worse as expected, its knowledge of language features, APIs, popular APIs, and behaviour of APIs is vastly superior to the non-coder for me. Coder has also done substantially better for me at generating working code and understanding large complex codebases.&lt;/p&gt;\n\n&lt;p&gt;I’ve been using it for embedded C and Rust things, and some Python web service backend stuff.&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It must vary depending on the task. For me, Qwen 3 Coder 30B-A3B has been excellent, and substantially better than the non-coder 2507 Instruct model. While the coder model’s general world knowledge is a lot worse as expected, its knowledge of language features, popular libraries/APIs, and behaviour of APIs is vastly superior to the non-coder for me. Coder has also done substantially better for me at generating working code and understanding large complex codebases.&lt;/p&gt;\n\n&lt;p&gt;I’ve been using it for embedded C and Rust things, and some Python web service backend stuff.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
             "collapsed_reason": null,
             "distinguished": null,
@@ -981,7 +981,7 @@
             "created_utc": 1754211001,
             "send_replies": true,
             "parent_id": "t3_1mg3d62",
-            "score": 6,
+            "score": 4,
             "author_fullname": "t2_q1q7nlxa",
             "approved_by": null,
             "mod_note": null,
@@ -1023,7 +1023,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "created_utc": 1754194177,
             "send_replies": true,
             "parent_id": "t3_1mg3d62",
-            "score": 2,
+            "score": 1,
             "author_fullname": "t2_yrl9ztfsa",
             "approved_by": null,
             "mod_note": null,
@@ -1173,7 +1173,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -1642,7 +1642,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6lw3do",
-                                "score": 9,
+                                "score": 8,
                                 "author_fullname": "t2_1mhx5",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1685,7 +1685,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 9
+                                "ups": 8
                               }
                             }
                           ],
@@ -1706,7 +1706,7 @@
                       "created_utc": 1754177363,
                       "send_replies": true,
                       "parent_id": "t1_n6lqwd2",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_8eneodlk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1753,7 +1753,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   },
                   {
@@ -2332,7 +2332,7 @@
             "created_utc": 1754196779,
             "send_replies": true,
             "parent_id": "t3_1mg3d62",
-            "score": 3,
+            "score": 1,
             "author_fullname": "t2_1qychuraq9",
             "approved_by": null,
             "mod_note": null,
@@ -2374,7 +2374,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 1
           }
         }
       ],

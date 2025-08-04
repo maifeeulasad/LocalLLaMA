@@ -12248,6 +12248,138 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mgzuky',
         name: 'Are there any options for creating  original tts models, not just cloning someone specific?',
       },
+      {
+        path: '/1mh09f8',
+        name: 'Help me choose macbook',
+      },
+      {
+        path: '/1mh0ltj',
+        name: 'Keep It Simple Pseudo Code (That\'s what Codex does)',
+      },
+      {
+        path: '/1mh0n5h',
+        name: 'What is the best model (to replace Sonnet 4) that fits in 256GB Vram and the best that fits in 512gb of Vram?',
+      },
+      {
+        path: '/1mh2v1h',
+        name: 'Horizon Beta is OpenAI (Another Evidence)',
+      },
+      {
+        path: '/1mh358z',
+        name: 'Why LLMs use emojis in code?',
+      },
+      {
+        path: '/1mh3s7q',
+        name: 'new Hunyuan Instruct 7B/4B/1.8B/0.5B models',
+      },
+      {
+        path: '/1mh3uhu',
+        name: 'A system we built is responding… differently.',
+      },
+      {
+        path: '/1mh3wzs',
+        name: 'Scaling GPU - How to add concurrency support?',
+      },
+      {
+        path: '/1mh4r0s',
+        name: 'BItTorrent tracker that mirrors HuggingFace',
+      },
+      {
+        path: '/1mh5h07',
+        name: 'LLM dream build?',
+      },
+      {
+        path: '/1mh5qlh',
+        name: 'Friends, I’m looking for help. After months developing this on my own, it seems I need a little push to present it all properly. 🤯',
+      },
+      {
+        path: '/1mh5v49',
+        name: 'Anyone got LM Studio working with DWQ models?',
+      },
+      {
+        path: '/1mh5wve',
+        name: 'ChatGPT\'s o3 just got quietly nerfed',
+      },
+      {
+        path: '/1mh6z16',
+        name: 'New small models from Hunyuan (0.5B, 1.8B, 4B, 7B)',
+      },
+      {
+        path: '/1mh6zja',
+        name: 'GLM 4.5 AI Sliders vs Gemini 2.5 Pro Deep Research Infographics',
+      },
+      {
+        path: '/1mh7yud',
+        name: 'MLX 4bit DWQ vs 8bit eval',
+      },
+      {
+        path: '/1mh88gg',
+        name: 'NVIDIA GPU underutilized.',
+      },
+      {
+        path: '/1mh8u1j',
+        name: 'Upgraded my hardware and internet connection so I can download GUFFs way faster than you, all your GGUFs are belong to me now.',
+      },
+      {
+        path: '/1mh8xqp',
+        name: 'lcoal llm on raspberry pi',
+      },
+      {
+        path: '/1mh960c',
+        name: 'Runpod breaks my head - need a working alternative',
+      },
+      {
+        path: '/1mh99hu',
+        name: 'LiteLLM started breaking down for us past 300 RPS, what are folks using in prod?',
+      },
+      {
+        path: '/1mh9r0z',
+        name: 'Best LLM gateway?',
+      },
+      {
+        path: '/1mh9uha',
+        name: 'ik_llama speculative decoding error',
+      },
+      {
+        path: '/1mha1g1',
+        name: 'RAG with 30k documents, some with 300 pages each.',
+      },
+      {
+        path: '/1mha439',
+        name: 'Open Music Foundation Models for Full-Song Generation',
+      },
+      {
+        path: '/1mhaw4g',
+        name: 'Local database agent',
+      },
+      {
+        path: '/1mhb5el',
+        name: 'GLM-4.5 llama.cpp PR is nearing completion',
+      },
+      {
+        path: '/1mhbhn3',
+        name: 'Build a Small Language Model from Scratch | Free 6 hour live workshop',
+      },
+      {
+        path: '/1mhbk4f',
+        name: 'What are some use cases to send multiple messages in one LLM API request?',
+      },
+      {
+        path: '/1mhbp73',
+        name: 'How to maximise Prompt processing speed for long context usage?',
+      },
+      {
+        path: '/1mhbpmo',
+        name: 'New Qwen Models Today!!!',
+      },
+      {
+        path: '/1mhbvig',
+        name: 'What kind of Qwen 2508 do you want tonight? ;)',
+      },
+      {
+        path: '/1mhc31j',
+        name: 'Running, fine tuning and converting LLMs on new Ryzen AI 7 or 9 APUs - 64-128GB RAM - 75% VRAM',
+      },
     ],
   },
   {
