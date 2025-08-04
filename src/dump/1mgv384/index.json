@@ -39,7 +39,7 @@
             "upvote_ratio": 1,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 3,
+            "ups": 5,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 3,
+            "score": 5,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mgv384/grounding_an_open_source_agent_with_its_source/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mgv384/grounding_an_open_source_agent_with_its_source/",
-            "subreddit_subscribers": 509625,
+            "subreddit_subscribers": 509913,
             "created_utc": 1754256391,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -251,7 +251,7 @@
             "created_utc": 1754257009,
             "send_replies": true,
             "parent_id": "t3_1mgv384",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_lq9vco2g",
             "approved_by": null,
             "mod_note": null,
@@ -293,7 +293,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -349,7 +349,7 @@
                       "created_utc": 1754268100,
                       "send_replies": true,
                       "parent_id": "t1_n6rvhze",
-                      "score": 1,
+                      "score": 0,
                       "author_fullname": "t2_1rxetzin7f",
                       "removal_reason": null,
                       "approved_by": null,
@@ -391,7 +391,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 0
                     }
                   }
                 ],

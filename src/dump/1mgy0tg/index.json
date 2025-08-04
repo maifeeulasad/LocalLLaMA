@@ -32,7 +32,7 @@
             "downs": 0,
             "thumbnail_height": null,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "name": "t3_1mgy0tg",
             "quarantine": false,
             "link_flair_text_color": "dark",
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mgy0tg/help_with_a_project_what_is_or_would_be_the/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mgy0tg/help_with_a_project_what_is_or_would_be_the/",
-            "subreddit_subscribers": 509625,
+            "subreddit_subscribers": 509913,
             "created_utc": 1754264052,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -165,7 +165,7 @@
             "created_utc": 1754268772,
             "send_replies": true,
             "parent_id": "t3_1mgy0tg",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_lpdsy",
             "approved_by": null,
             "mod_note": null,
@@ -207,7 +207,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

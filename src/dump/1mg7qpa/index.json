@@ -133,7 +133,7 @@
             "hide_score": false,
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.88,
+            "upvote_ratio": 0.87,
             "author_flair_background_color": null,
             "ups": 64,
             "domain": "reddit.com",
@@ -230,7 +230,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mg7qpa/announcing_olla_llm_load_balancer_proxy_model/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mg7qpa",
-            "subreddit_subscribers": 509626,
+            "subreddit_subscribers": 509919,
             "created_utc": 1754187279,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -279,7 +279,7 @@
             "created_utc": 1754188225,
             "send_replies": true,
             "parent_id": "t3_1mg7qpa",
-            "score": 4,
+            "score": 5,
             "author_fullname": "t2_973amyap",
             "approved_by": null,
             "mod_note": null,
@@ -321,7 +321,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -479,7 +479,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6queq8",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_116dje",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -522,7 +522,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
