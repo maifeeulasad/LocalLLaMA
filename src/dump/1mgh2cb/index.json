@@ -32,13 +32,13 @@
             "downs": 0,
             "thumbnail_height": 105,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "name": "t3_1mgh2cb",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.6,
+            "upvote_ratio": 0.31,
             "author_flair_background_color": null,
-            "ups": 1,
+            "ups": 0,
             "total_awards_received": 0,
             "media_embed": {
               "content": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/fTqINzeudJ4?start=1067&amp;feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"China Open-Source, Compute Arms Race, Reordering Global Trade | BG2 w/ Bill Gurley and Brad Gerstner\"&gt;&lt;/iframe&gt;",
@@ -80,7 +80,7 @@
             },
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -194,7 +194,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mgh2cb/why_fortune_500_wants_to_fund_open_models/",
             "stickied": false,
             "url": "https://youtu.be/fTqINzeudJ4?&amp;t=1067",
-            "subreddit_subscribers": 509291,
+            "subreddit_subscribers": 509625,
             "created_utc": 1754220993,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -329,7 +329,7 @@
             "created_utc": 1754222286,
             "send_replies": true,
             "parent_id": "t3_1mgh2cb",
-            "score": 0,
+            "score": 1,
             "author_fullname": "t2_1j5dv6mrfz",
             "approved_by": null,
             "mod_note": null,
@@ -371,7 +371,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         }
       ],
