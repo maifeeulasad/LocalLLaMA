@@ -36,10 +36,10 @@
             "name": "t3_1mg5scj",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.73,
+            "upvote_ratio": 0.83,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 5,
+            "ups": 8,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 5,
+            "score": 8,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -103,7 +103,7 @@
             "link_flair_background_color": "#5a74cc",
             "id": "1mg5scj",
             "is_robot_indexable": true,
-            "num_duplicates": 1,
+            "num_duplicates": 0,
             "report_reasons": null,
             "author": "9acca9",
             "discussion_type": null,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mg5scj/thinking_or_instruct/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mg5scj/thinking_or_instruct/",
-            "subreddit_subscribers": 509291,
+            "subreddit_subscribers": 509626,
             "created_utc": 1754181257,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -251,7 +251,7 @@
             "created_utc": 1754182114,
             "send_replies": true,
             "parent_id": "t3_1mg5scj",
-            "score": 4,
+            "score": 6,
             "author_fullname": "t2_1zr9gwsn",
             "approved_by": null,
             "mod_note": null,
@@ -293,7 +293,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -326,7 +326,7 @@
             "created_utc": 1754185317,
             "send_replies": true,
             "parent_id": "t3_1mg5scj",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_973amyap",
             "approved_by": null,
             "mod_note": null,
@@ -368,7 +368,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -401,7 +401,7 @@
             "created_utc": 1754190156,
             "send_replies": true,
             "parent_id": "t3_1mg5scj",
-            "score": 1,
+            "score": 2,
             "author_fullname": "t2_19zqycaf",
             "approved_by": null,
             "mod_note": null,
@@ -443,7 +443,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

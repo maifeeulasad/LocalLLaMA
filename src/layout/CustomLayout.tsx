@@ -12004,6 +12004,250 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mghy1u',
         name: 'qihoo360/Light-IF-32B',
       },
+      {
+        path: '/1mgi7v8',
+        name: 'What is an interesting question that an LLM failed to answer, in your experience?',
+      },
+      {
+        path: '/1mgi9df',
+        name: 'Building for the era of experience',
+      },
+      {
+        path: '/1mgifea',
+        name: 'MLX -&gt; GGUF',
+      },
+      {
+        path: '/1mgis6h',
+        name: 'NVIDIA\'s "Highly Optimistic" DGX Spark Mini-Supercomputer Still Hasn\'t Hit Retail Despite a Planned July Launch, Suggesting Possible Production Issues',
+      },
+      {
+        path: '/1mgixw4',
+        name: 'Best Practice For CPU Inference',
+      },
+      {
+        path: '/1mgiyg4',
+        name: 'Why doesn\'t "OpenAI" just release one of the models they already have? Like 3.5',
+      },
+      {
+        path: '/1mgjcai',
+        name: 'Roleplay with large historical context and RAG',
+      },
+      {
+        path: '/1mgjlek',
+        name: 'Are Chinese LLM companies effectively price dumping?',
+      },
+      {
+        path: '/1mgjpvm',
+        name: 'GLM 4.5 Tool Calling Jinja Template',
+      },
+      {
+        path: '/1mgjvn8',
+        name: 'Open source alternatives to gpt 4o mini?',
+      },
+      {
+        path: '/1mgk2nm',
+        name: 'Your proud AI setup',
+      },
+      {
+        path: '/1mgkgek',
+        name: 'Ollama app requires internet ?',
+      },
+      {
+        path: '/1mgkiti',
+        name: 'Use local LLM to neutralise the headers on the web',
+      },
+      {
+        path: '/1mgkpm6',
+        name: 'LLMstudio doesn’t use all the available VRAM',
+      },
+      {
+        path: '/1mgkus5',
+        name: 'Table Extraction for Tabloid Paper Sizes',
+      },
+      {
+        path: '/1mgky8g',
+        name: 'This might be the largest un-aligned open-source model',
+      },
+      {
+        path: '/1mgl1qz',
+        name: 'Is EXL3 doomed?',
+      },
+      {
+        path: '/1mgljhp',
+        name: 'Teaching LM Studio to Browse the Internet When Answering Questions',
+      },
+      {
+        path: '/1mglmse',
+        name: 'Are image generations from LLMs as accurate as OpenAI?',
+      },
+      {
+        path: '/1mgm8d3',
+        name: 'Daydreaming of a new Gemma model',
+      },
+      {
+        path: '/1mgmlzw',
+        name: 'How would you generate a dataset to fine-tune a llm to your codebase?',
+      },
+      {
+        path: '/1mgmr6x',
+        name: 'How many of you actually know by heart the general structure of the transformer architecture?',
+      },
+      {
+        path: '/1mgmx8w',
+        name: 'Open Source Voice Cloning at 16x real-time: Porting Chatterbox to vLLM',
+      },
+      {
+        path: '/1mgn94g',
+        name: 'If Horizon Models is not from OpenAI, who would be?',
+      },
+      {
+        path: '/1mgnq9n',
+        name: 'Is there a "Chat-GPT agent" kind of agent that is open source and can be run locally?',
+      },
+      {
+        path: '/1mgnwnx',
+        name: 'Drummer\'s Cydonia R1 24B v4 - A thinking Mistral Small 3.2!',
+      },
+      {
+        path: '/1mgny8p',
+        name: 'When DeepSeek r2?',
+      },
+      {
+        path: '/1mgo50t',
+        name: 'Question : Best small sized LLM for Information extraction from Unstructured Text',
+      },
+      {
+        path: '/1mgo662',
+        name: 'Jin 3.5 - Does anyone know anything about this model?',
+      },
+      {
+        path: '/1mgocw6',
+        name: 'Fastest way to run Qwen 3 30B A3B on 32GB RAM+10GB VRAM in LM Studio?',
+      },
+      {
+        path: '/1mgpb8t',
+        name: 'Reimplemention of Qwen 2 from scratch',
+      },
+      {
+        path: '/1mgpq7a',
+        name: 'Need help- unsure of right ollama configs with 6x 3090’s, also model choice for RAG?',
+      },
+      {
+        path: '/1mgq8yz',
+        name: 'Are there any good open source models for NSFW writing?',
+      },
+      {
+        path: '/1mgqkjt',
+        name: 'Models for 24gb Macbook',
+      },
+      {
+        path: '/1mgr02b',
+        name: 'Scam Altman : gpt5',
+      },
+      {
+        path: '/1mgr13d',
+        name: 'What’s the Best Open-Source Small LLM (≤ 8B) for Agentic Web Page Interactions?',
+      },
+      {
+        path: '/1mgrgmu',
+        name: 'I don’t understand how to get what I want from Local LLM',
+      },
+      {
+        path: '/1mgrhcp',
+        name: 'Make chatterbox tts sound more realistic',
+      },
+      {
+        path: '/1mgstni',
+        name: 'Raw weights answer gibberish while ollama answers just fine!',
+      },
+      {
+        path: '/1mgt2om',
+        name: 'Mac M3 + RooCode + Qwen3-Coder-30B (4-bit DWQ) in LM Studio — Possibly the Best Local Cursor Alternative Right Now?',
+      },
+      {
+        path: '/1mgt5bx',
+        name: 'A rambling post on ollama / llama.cpp and when to use each. Pros and cons and everything in between.',
+      },
+      {
+        path: '/1mgtbeq',
+        name: 'Bolt Graphics (@BoltGraphicsInc) on X',
+      },
+      {
+        path: '/1mgtboa',
+        name: 'Horizon Beta is OpenAI',
+      },
+      {
+        path: '/1mgtrvz',
+        name: 'samsung 9100 pro 4tb vs WD_BLACK 8TB SN850X for llama.cpp',
+      },
+      {
+        path: '/1mgues2',
+        name: 'Can you have a « bad run » with LLM ?',
+      },
+      {
+        path: '/1mgv384',
+        name: 'Grounding an open source agent with its source code',
+      },
+      {
+        path: '/1mgv4h3',
+        name: 'Generating Unit Tests with Qwen3-Coder-30B - not really usable',
+      },
+      {
+        path: '/1mgv53t',
+        name: 'GLM 4.5 Air Produces Better Code Without Thinking, Using 3-bit MLX (/nothink)?',
+      },
+      {
+        path: '/1mgv74s',
+        name: 'Best uncensored +50B parameters model?',
+      },
+      {
+        path: '/1mgvbw6',
+        name: 'Looking to build or buy a mini pc for LLM',
+      },
+      {
+        path: '/1mgvyyj',
+        name: 'Most complete almost plug and play LLM Tool with features',
+      },
+      {
+        path: '/1mgx02s',
+        name: 'M3 – A Modular Mathematical Memory system for local LLMs (Collatz, Goldbach, Riemann, Levenshtein)',
+      },
+      {
+        path: '/1mgy0tg',
+        name: 'Help with a project. What is or would be the lesser local LLM that one can use to recognize TCG cards (pkmn, YGO, mtg) in a reliable way and generate an CSV file with, language, edition, card name and treatment?',
+      },
+      {
+        path: '/1mgy28u',
+        name: 'What is best website to pay to run Qwen3b to code?',
+      },
+      {
+        path: '/1mgyp1z',
+        name: 'Building a CLI tool to fix my biggest git frustration: lost commit context',
+      },
+      {
+        path: '/1mgypja',
+        name: 'Help me pick a first model',
+      },
+      {
+        path: '/1mgys0z',
+        name: 'MLX DWQ question: what\'s "lr1e-8" and "lr8e-7 " and should we care?',
+      },
+      {
+        path: '/1mgytca',
+        name: 'Title: Reducing token usage with progressive documentation loading - looking for feedback on approach',
+      },
+      {
+        path: '/1mgytfi',
+        name: 'Mini SVG test: law icons in pt-br (HorizonBeta x Gemini x Claude x Grok)',
+      },
+      {
+        path: '/1mgzmmw',
+        name: 'Idea for combining multiple models\' inference via normalizing logit lists -- would it work, has someone already done it, and how could it be made better?',
+      },
+      {
+        path: '/1mgzuky',
+        name: 'Are there any options for creating  original tts models, not just cloning someone specific?',
+      },
     ],
   },
   {
