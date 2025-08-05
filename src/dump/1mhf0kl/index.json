@@ -111,7 +111,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.98,
             "author_flair_background_color": null,
-            "ups": 306,
+            "ups": 341,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -125,7 +125,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 306,
+            "score": 341,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -236,7 +236,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/",
-            "subreddit_subscribers": 510259,
+            "subreddit_subscribers": 510541,
             "created_utc": 1754317809,
             "num_crossposts": 2,
             "mod_reports": [],
@@ -353,7 +353,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n6vvgfh",
-                                          "score": 14,
+                                          "score": 17,
                                           "author_fullname": "t2_1n0su21k4z",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -396,7 +396,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 14
+                                          "ups": 17
                                         }
                                       }
                                     ],
@@ -416,7 +416,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vv7at",
-                                "score": 4,
+                                "score": 3,
                                 "author_fullname": "t2_j1kqr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -464,7 +464,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -485,7 +485,7 @@
                       "created_utc": 1754320955,
                       "send_replies": true,
                       "parent_id": "t1_n6vsv7z",
-                      "score": 18,
+                      "score": 17,
                       "author_fullname": "t2_askwa",
                       "removal_reason": null,
                       "approved_by": null,
@@ -527,7 +527,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 18
+                      "ups": 17
                     }
                   },
                   {
@@ -582,7 +582,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vyqri",
-                                "score": 5,
+                                "score": 6,
                                 "author_fullname": "t2_v9cchwm6",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -630,7 +630,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 6
                               }
                             }
                           ],
@@ -861,81 +861,6 @@
                       "subreddit": "LocalLLaMA",
                       "author_flair_template_id": null,
                       "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "n6w0roq",
-                      "banned_at_utc": null,
-                      "mod_reason_title": null,
-                      "gilded": 0,
-                      "archived": false,
-                      "collapsed_reason_code": null,
-                      "no_follow": true,
-                      "author": "guyinalabcoat",
-                      "can_mod_post": false,
-                      "created_utc": 1754322537,
-                      "send_replies": true,
-                      "parent_id": "t1_n6vsv7z",
-                      "score": 1,
-                      "author_fullname": "t2_c3xne",
-                      "removal_reason": null,
-                      "approved_by": null,
-                      "mod_note": null,
-                      "all_awardings": [],
-                      "body": "Well judging from [their examples](https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image) it's not very good so don't sweat it too much.",
-                      "edited": false,
-                      "top_awarded_type": null,
-                      "author_flair_css_class": null,
-                      "name": "t1_n6w0roq",
-                      "is_submitter": false,
-                      "downs": 0,
-                      "author_flair_richtext": [],
-                      "author_patreon_flair": false,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well judging from &lt;a href=\"https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image\"&gt;their examples&lt;/a&gt; it&amp;#39;s not very good so don&amp;#39;t sweat it too much.&lt;/p&gt;\n&lt;/div&gt;",
-                      "gildings": {},
-                      "collapsed_reason": null,
-                      "distinguished": null,
-                      "associated_award": null,
-                      "stickied": false,
-                      "author_premium": false,
-                      "can_gild": false,
-                      "link_id": "t3_1mhf0kl",
-                      "unrepliable_reason": null,
-                      "author_flair_text_color": null,
-                      "score_hidden": false,
-                      "permalink": "/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/n6w0roq/",
-                      "subreddit_type": "public",
-                      "locked": false,
-                      "report_reasons": null,
-                      "created": 1754322537,
-                      "author_flair_text": null,
-                      "treatment_tags": [],
-                      "collapsed": false,
-                      "subreddit_name_prefixed": "r/LocalLLaMA",
-                      "controversiality": 0,
-                      "depth": 1,
-                      "author_flair_background_color": null,
-                      "collapsed_because_crowd_control": null,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "ups": 1
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_81eyvm",
-                      "approved_at_utc": null,
-                      "author_is_blocked": false,
-                      "comment_type": null,
-                      "awarders": [],
-                      "mod_reason_by": null,
-                      "banned_by": null,
-                      "author_flair_type": "text",
-                      "total_awards_received": 0,
-                      "subreddit": "LocalLLaMA",
-                      "author_flair_template_id": null,
-                      "likes": null,
                       "replies": {
                         "kind": "Listing",
                         "data": {
@@ -973,7 +898,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6w87bi",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_j1kqr",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1021,7 +946,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -1161,6 +1086,81 @@
                       "num_reports": null,
                       "ups": 1
                     }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n6w0roq",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "guyinalabcoat",
+                      "can_mod_post": false,
+                      "created_utc": 1754322537,
+                      "send_replies": true,
+                      "parent_id": "t1_n6vsv7z",
+                      "score": 0,
+                      "author_fullname": "t2_c3xne",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Well judging from [their examples](https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image) it's not very good so don't sweat it too much.",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n6w0roq",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well judging from &lt;a href=\"https://wavespeed.ai/models/wavespeed-ai/qwen-image/text-to-image\"&gt;their examples&lt;/a&gt; it&amp;#39;s not very good so don&amp;#39;t sweat it too much.&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mhf0kl",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/n6w0roq/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754322537,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 0
+                    }
                   }
                 ],
                 "before": null
@@ -1180,7 +1180,7 @@
             "created_utc": 1754320282,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 36,
+            "score": 42,
             "author_fullname": "t2_j1kqr",
             "approved_by": null,
             "mod_note": null,
@@ -1227,7 +1227,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 42
           }
         },
         {
@@ -1305,7 +1305,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vpt6l",
-                                "score": 57,
+                                "score": 63,
                                 "author_fullname": "t2_3ofwm7j3",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1348,7 +1348,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 57
+                                "ups": 63
                               }
                             },
                             {
@@ -1575,7 +1575,7 @@
                                                                                   "created_utc": 1754323828,
                                                                                   "send_replies": true,
                                                                                   "parent_id": "t1_n6w4duq",
-                                                                                  "score": 9,
+                                                                                  "score": 8,
                                                                                   "author_fullname": "t2_vep8zxxd",
                                                                                   "approved_by": null,
                                                                                   "mod_note": null,
@@ -1616,7 +1616,7 @@
                                                                                   "collapsed_because_crowd_control": null,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
-                                                                                  "ups": 9
+                                                                                  "ups": 8
                                                                                 }
                                                                               }
                                                                             ],
@@ -1636,7 +1636,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n6w0arx",
-                                                                        "score": 13,
+                                                                        "score": 14,
                                                                         "author_fullname": "t2_gct10",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -1678,13 +1678,12 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 13
+                                                                        "ups": 14
                                                                       }
                                                                     },
                                                                     {
                                                                       "kind": "t1",
                                                                       "data": {
-                                                                        "body": "This is how I do cable management too, as long as the surface looks clean who cares what the underside of the desk looks like ;)",
                                                                         "subreddit_id": "t5_81eyvm",
                                                                         "approved_at_utc": null,
                                                                         "author_is_blocked": false,
@@ -1707,18 +1706,18 @@
                                                                         "gilded": 0,
                                                                         "archived": false,
                                                                         "collapsed_reason_code": null,
-                                                                        "no_follow": true,
+                                                                        "no_follow": false,
                                                                         "author": "the320x200",
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n6w0arx",
-                                                                        "score": 3,
+                                                                        "score": 5,
                                                                         "author_fullname": "t2_5m9yw",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
                                                                         "all_awardings": [],
                                                                         "collapsed": false,
-                                                                        "author_cakeday": true,
+                                                                        "body": "This is how I do cable management too, as long as the surface looks clean who cares what the underside of the desk looks like ;)",
                                                                         "edited": false,
                                                                         "gildings": {},
                                                                         "author_flair_css_class": null,
@@ -1754,7 +1753,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 3
+                                                                        "ups": 5
                                                                       }
                                                                     },
                                                                     {
@@ -1787,7 +1786,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n6w0arx",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "author_fullname": "t2_qf8h7ka8",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -1829,7 +1828,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -1849,7 +1848,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n6vwz9t",
-                                                              "score": 6,
+                                                              "score": 5,
                                                               "author_fullname": "t2_s4zzntp",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -1936,7 +1935,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 6
+                                                              "ups": 5
                                                             }
                                                           }
                                                         ],
@@ -1956,7 +1955,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n6vtbrs",
-                                                    "score": 38,
+                                                    "score": 40,
                                                     "author_fullname": "t2_99gpc",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -2023,7 +2022,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 38
+                                                    "ups": 40
                                                   }
                                                 }
                                               ],
@@ -2043,7 +2042,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n6vswkv",
-                                          "score": 41,
+                                          "score": 39,
                                           "author_fullname": "t2_qf8h7ka8",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2086,7 +2085,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 41
+                                          "ups": 39
                                         }
                                       }
                                     ],
@@ -2106,7 +2105,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vpt6l",
-                                "score": 45,
+                                "score": 49,
                                 "author_fullname": "t2_s4zzntp",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2149,7 +2148,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 45
+                                "ups": 49
                               }
                             },
                             {
@@ -2271,12 +2270,12 @@
                                                                         "gilded": 0,
                                                                         "archived": false,
                                                                         "collapsed_reason_code": null,
-                                                                        "no_follow": true,
+                                                                        "no_follow": false,
                                                                         "author": "Chelono",
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n6vuga5",
-                                                                        "score": 3,
+                                                                        "score": 4,
                                                                         "author_fullname": "t2_v9cchwm6",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -2323,7 +2322,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 3
+                                                                        "ups": 4
                                                                       }
                                                                     }
                                                                   ],
@@ -2472,7 +2471,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n6vsidu",
-                                          "score": 7,
+                                          "score": 8,
                                           "author_fullname": "t2_qf8h7ka8",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2515,7 +2514,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 7
+                                          "ups": 8
                                         }
                                       }
                                     ],
@@ -2535,7 +2534,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vpt6l",
-                                "score": 15,
+                                "score": 14,
                                 "author_fullname": "t2_v9cchwm6",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2583,7 +2582,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 14
                               }
                             },
                             {
@@ -2754,7 +2753,7 @@
                       "created_utc": 1754319389,
                       "send_replies": true,
                       "parent_id": "t1_n6vp4it",
-                      "score": 211,
+                      "score": 228,
                       "author_fullname": "t2_qf8h7ka8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2796,7 +2795,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 211
+                      "ups": 228
                     }
                   },
                   {
@@ -2829,7 +2828,7 @@
                       "created_utc": 1754321528,
                       "send_replies": true,
                       "parent_id": "t1_n6vp4it",
-                      "score": 7,
+                      "score": 11,
                       "author_fullname": "t2_7eurf",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2871,7 +2870,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 11
                     }
                   },
                   {
@@ -3054,7 +3053,7 @@
                       "created_utc": 1754338908,
                       "send_replies": true,
                       "parent_id": "t1_n6vp4it",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_6gpjg",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3096,7 +3095,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -3215,7 +3214,7 @@
                       "created_utc": 1754320841,
                       "send_replies": true,
                       "parent_id": "t1_n6vn8ye",
-                      "score": 9,
+                      "score": 11,
                       "author_fullname": "t2_3pwbsmdr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3257,7 +3256,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 11
                     }
                   }
                 ],
@@ -3278,7 +3277,7 @@
             "created_utc": 1754318654,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 77,
+            "score": 82,
             "author_fullname": "t2_4f5ire5w",
             "approved_by": null,
             "mod_note": null,
@@ -3365,7 +3364,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 77
+            "ups": 82
           }
         },
         {
@@ -3398,7 +3397,7 @@
             "created_utc": 1754322414,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 24,
+            "score": 27,
             "author_fullname": "t2_qf8h7ka8",
             "approved_by": null,
             "mod_note": null,
@@ -3440,7 +3439,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 27
           }
         },
         {
@@ -3496,7 +3495,7 @@
                       "created_utc": 1754320166,
                       "send_replies": true,
                       "parent_id": "t1_n6vs29a",
-                      "score": 39,
+                      "score": 44,
                       "author_fullname": "t2_baavelp5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3538,7 +3537,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 39
+                      "ups": 44
                     }
                   },
                   {
@@ -3565,13 +3564,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "panchovix",
                       "can_mod_post": false,
                       "created_utc": 1754321233,
                       "send_replies": true,
                       "parent_id": "t1_n6vs29a",
-                      "score": 3,
+                      "score": 6,
                       "author_fullname": "t2_j1kqr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3618,7 +3617,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 6
                     }
                   },
                   {
@@ -3651,7 +3650,7 @@
                       "created_utc": 1754320752,
                       "send_replies": true,
                       "parent_id": "t1_n6vs29a",
-                      "score": 6,
+                      "score": 7,
                       "author_fullname": "t2_s4zzntp",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3693,7 +3692,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 7
                     }
                   },
                   {
@@ -3857,7 +3856,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n6wbvgy",
-                                          "score": 0,
+                                          "score": 1,
                                           "author_fullname": "t2_chxnc83m9",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3905,7 +3904,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 0
+                                          "ups": 1
                                         }
                                       }
                                     ],
@@ -3925,7 +3924,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vsioh",
-                                "score": 5,
+                                "score": 4,
                                 "author_fullname": "t2_1n0su21k4z",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -3968,7 +3967,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             }
                           ],
@@ -4057,7 +4056,7 @@
             "created_utc": 1754320047,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 21,
+            "score": 23,
             "author_fullname": "t2_6d2qv6jc",
             "approved_by": null,
             "mod_note": null,
@@ -4104,7 +4103,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 21
+            "ups": 23
           }
         },
         {
@@ -4160,7 +4159,7 @@
                       "created_utc": 1754330163,
                       "send_replies": true,
                       "parent_id": "t1_n6vtt27",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_9s7pmakgx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4202,7 +4201,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   }
                 ],
@@ -4223,7 +4222,7 @@
             "created_utc": 1754320553,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 8,
+            "score": 9,
             "author_fullname": "t2_el5pibmej",
             "approved_by": null,
             "mod_note": null,
@@ -4265,7 +4264,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -4298,7 +4297,7 @@
             "created_utc": 1754317975,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 25,
+            "score": 24,
             "author_fullname": "t2_u398xzta",
             "approved_by": null,
             "mod_note": null,
@@ -4375,7 +4374,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 25
+            "ups": 24
           }
         },
         {
@@ -4408,7 +4407,7 @@
             "created_utc": 1754321771,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 19,
+            "score": 24,
             "author_fullname": "t2_15c0cxrioh",
             "approved_by": null,
             "mod_note": null,
@@ -4450,7 +4449,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 19
+            "ups": 24
           }
         },
         {
@@ -4546,19 +4545,94 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "n6w4zas",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "Temporary_Exam_3620",
+            "can_mod_post": false,
+            "created_utc": 1754323741,
+            "send_replies": true,
+            "parent_id": "t3_1mhf0kl",
+            "score": 5,
+            "author_fullname": "t2_1rg0qz5eci",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "We need to have support for ViTs in llama.cpp - eventually true multimodality will come about and a lot of models will have image generation aswell - huggingface support for quantization is dogshit as it doesent allow offloading plus AMD stuff rarely ever works with anything but Vulkan (which has no torch support).",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n6w4zas",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;We need to have support for ViTs in llama.cpp - eventually true multimodality will come about and a lot of models will have image generation aswell - huggingface support for quantization is dogshit as it doesent allow offloading plus AMD stuff rarely ever works with anything but Vulkan (which has no torch support).&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/n6w4zas/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754323741,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mhf0kl",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "n6w76nc",
             "banned_at_utc": null,
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "VegaKH",
             "can_mod_post": false,
             "created_utc": 1754324371,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 3,
+            "score": 4,
             "author_fullname": "t2_11wjla",
             "approved_by": null,
             "mod_note": null,
@@ -4600,7 +4674,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -4696,81 +4770,6 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
-            "id": "n6w4zas",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": true,
-            "author": "Temporary_Exam_3620",
-            "can_mod_post": false,
-            "created_utc": 1754323741,
-            "send_replies": true,
-            "parent_id": "t3_1mhf0kl",
-            "score": 2,
-            "author_fullname": "t2_1rg0qz5eci",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "We need to have support for ViTs in llama.cpp - eventually true multimodality will come about and a lot of models will have image generation aswell - huggingface support for quantization is dogshit as it doesent allow offloading plus AMD stuff rarely ever works with anything but Vulkan (which has no torch support).",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n6w4zas",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;We need to have support for ViTs in llama.cpp - eventually true multimodality will come about and a lot of models will have image generation aswell - huggingface support for quantization is dogshit as it doesent allow offloading plus AMD stuff rarely ever works with anything but Vulkan (which has no torch support).&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mhf0kl/qwen_image_20b_is_coming/n6w4zas/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1754323741,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1mhf0kl",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
             "id": "n6w7jxh",
             "banned_at_utc": null,
             "mod_reason_title": null,
@@ -4783,7 +4782,7 @@
             "created_utc": 1754324477,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": 2,
+            "score": 3,
             "author_fullname": "t2_1ja781oq",
             "approved_by": null,
             "mod_note": null,
@@ -4825,7 +4824,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -5117,7 +5116,7 @@
                       "created_utc": 1754320835,
                       "send_replies": true,
                       "parent_id": "t1_n6vu68r",
-                      "score": 13,
+                      "score": 14,
                       "author_fullname": "t2_fv2sf0g1t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5159,7 +5158,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 14
                     }
                   }
                 ],
@@ -5180,7 +5179,7 @@
             "created_utc": 1754320659,
             "send_replies": true,
             "parent_id": "t3_1mhf0kl",
-            "score": -12,
+            "score": -14,
             "author_fullname": "t2_30nt1tdo",
             "approved_by": null,
             "mod_note": null,
@@ -5222,7 +5221,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -12
+            "ups": -14
           }
         }
       ],
