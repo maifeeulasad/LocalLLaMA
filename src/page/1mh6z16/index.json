@@ -127,7 +127,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.95,
             "author_flair_background_color": null,
-            "ups": 144,
+            "ups": 149,
             "domain": "reddit.com",
             "media_embed": {},
             "thumbnail_width": 140,
@@ -153,7 +153,7 @@
             },
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 144,
+            "score": 149,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -218,7 +218,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mh6z16/new_small_models_from_hunyuan_05b_18b_4b_7b/",
             "stickied": false,
             "url": "https://www.reddit.com/gallery/1mh6z16",
-            "subreddit_subscribers": 510259,
+            "subreddit_subscribers": 510541,
             "created_utc": 1754292468,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -467,7 +467,7 @@
                       "created_utc": 1754293465,
                       "send_replies": true,
                       "parent_id": "t1_n6u07tm",
-                      "score": 3,
+                      "score": 4,
                       "author_fullname": "t2_1jgkfm9u25",
                       "removal_reason": null,
                       "approved_by": null,
@@ -509,7 +509,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 4
                     }
                   }
                 ],
@@ -530,7 +530,7 @@
             "created_utc": 1754293192,
             "send_replies": true,
             "parent_id": "t3_1mh6z16",
-            "score": 15,
+            "score": 14,
             "author_fullname": "t2_vqgbql9w",
             "approved_by": null,
             "mod_note": null,
@@ -577,7 +577,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 14
           }
         },
         {
@@ -690,13 +690,13 @@
             "gilded": 0,
             "archived": false,
             "collapsed_reason_code": null,
-            "no_follow": true,
+            "no_follow": false,
             "author": "Utoko",
             "can_mod_post": false,
             "created_utc": 1754305174,
             "send_replies": true,
             "parent_id": "t3_1mh6z16",
-            "score": 3,
+            "score": 5,
             "author_fullname": "t2_6a8ry",
             "approved_by": null,
             "mod_note": null,
@@ -738,7 +738,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -816,7 +816,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6vfqbw",
-                                "score": 2,
+                                "score": 3,
                                 "author_fullname": "t2_s4zzntp",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -859,7 +859,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             },
                             {
@@ -1846,7 +1846,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6ugds6",
-                                "score": -5,
+                                "score": -6,
                                 "author_fullname": "t2_16to413y2o",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1889,7 +1889,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -5
+                                "ups": -6
                               }
                             }
                           ],
@@ -1910,7 +1910,7 @@
                       "created_utc": 1754302504,
                       "send_replies": true,
                       "parent_id": "t1_n6u8cmw",
-                      "score": 6,
+                      "score": 8,
                       "author_fullname": "t2_qf8h7ka8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1952,7 +1952,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 8
                     }
                   },
                   {
@@ -1985,7 +1985,7 @@
                       "created_utc": 1754303423,
                       "send_replies": true,
                       "parent_id": "t1_n6u8cmw",
-                      "score": -1,
+                      "score": 0,
                       "author_fullname": "t2_1jgkfm9u25",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2027,7 +2027,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -1
+                      "ups": 0
                     }
                   }
                 ],
@@ -2048,7 +2048,7 @@
             "created_utc": 1754297937,
             "send_replies": true,
             "parent_id": "t3_1mh6z16",
-            "score": -11,
+            "score": -10,
             "author_fullname": "t2_16to413y2o",
             "approved_by": null,
             "mod_note": null,
@@ -2090,7 +2090,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -11
+            "ups": -10
           }
         }
       ],

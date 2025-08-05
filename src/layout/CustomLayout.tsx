@@ -12649,6 +12649,186 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1mhv99h',
         name: 'I built a one stop AI powered study solution',
       },
+      {
+        path: '/1mhwb9g',
+        name: 'how to do a self-play data generation system',
+      },
+      {
+        path: '/1mhx1kc',
+        name: 'I see people rushing to GLM Air GGUF\'s on this repo - what does this warning usually mean? I haven\'t seen a model flagged since we passed around pickled weights',
+      },
+      {
+        path: '/1mhx8cn',
+        name: '[Student Project Help] Gemma 3 Vision (Unsloth) giving nonsense output — used official notebook',
+      },
+      {
+        path: '/1mhx9d2',
+        name: 'A simple python module to scrape github api for agentic code generation',
+      },
+      {
+        path: '/1mhxhi5',
+        name: 'Light-IF-32B weights',
+      },
+      {
+        path: '/1mhxzdy',
+        name: 'I built a tool that got 16K downloads, but no one uses the charts. Here\'s what they\'re missing.',
+      },
+      {
+        path: '/1mhyn3c',
+        name: 'Best tool to prioritize workloads sharing with LLM?',
+      },
+      {
+        path: '/1mhyzp7',
+        name: 'Kitten TTS : SOTA Super-tiny TTS Model (Less than 25 MB)',
+      },
+      {
+        path: '/1mhz2sc',
+        name: '[Student Unsloth Help] Save to GGUF Taking Forever with Gemma 3 4B Vision + Unsloth on WSL (Single 4090)',
+      },
+      {
+        path: '/1mhz4jl',
+        name: 'Finding a local model for text table QA',
+      },
+      {
+        path: '/1mi0co2',
+        name: 'Anthropic\'s CEO dismisses open source as \'red herring\' - but his reasoning seems to miss the point entirely!',
+      },
+      {
+        path: '/1mi0luy',
+        name: 'generated using Qwen',
+      },
+      {
+        path: '/1mi0sr3',
+        name: 'What is the best current model for roleplay if I have 8gb vram 6600xt 16gb ram and 3600 ryzen?',
+      },
+      {
+        path: '/1mi0wkg',
+        name: 'How do I convert a .xml file to a .json file to train my LLM?',
+      },
+      {
+        path: '/1mi0y3u',
+        name: 'MTP with GLM 4.5 Air on Mac possible?',
+      },
+      {
+        path: '/1mi1bic',
+        name: 'What should I pick ? 5090 or Asus GX10 or Halo Strix MiniPC at similar prices',
+      },
+      {
+        path: '/1mi1fdc',
+        name: 'DFLoat11 Quantization for Qwen-Image Drops – Run It on 17GB VRAM with CPU Offloading!',
+      },
+      {
+        path: '/1mi1hl9',
+        name: 'Exaone 4.0-1.2B is creating pretty wild fake language stories when asking to write in any other language than English or Korean.',
+      },
+      {
+        path: '/1mi1tns',
+        name: 'Is llama.cpp sycl backend really worth it?',
+      },
+      {
+        path: '/1mi1vov',
+        name: 'Qwen-image now supported in ComfyUI',
+      },
+      {
+        path: '/1mi1wwr',
+        name: 'Confused About TPS Needs for On-Device LLM: 5 vs 30 TPS for Voice?',
+      },
+      {
+        path: '/1mi23im',
+        name: 'Thoughts on Georg Zoeller',
+      },
+      {
+        path: '/1mi24mj',
+        name: 'Anyone here figured out how to reliably extract formulas from PDFs?',
+      },
+      {
+        path: '/1mi2ebo',
+        name: 'How does someone with programming exp get started with LLMs?',
+      },
+      {
+        path: '/1mi2izf',
+        name: 'Raw text file not starting Lora training',
+      },
+      {
+        path: '/1mi3b19',
+        name: 'OCR Recognition and ASCII Generation of Medical Prescription',
+      },
+      {
+        path: '/1mi3has',
+        name: 'Can I fine-tune GLM-4.5 Air via MLX?',
+      },
+      {
+        path: '/1mi3igq',
+        name: 'The translation capability of GLM4.5 for Chinese slang.',
+      },
+      {
+        path: '/1mi41q9',
+        name: '🔥GPT-5 is coming... one day, according to Altman\'s cosmic calendar',
+      },
+      {
+        path: '/1mi45h1',
+        name: 'Kitten TTS Web Demo',
+      },
+      {
+        path: '/1mi4emi',
+        name: 'why , is "everyone" here Cynics?',
+      },
+      {
+        path: '/1mi4q4o',
+        name: 'From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs',
+      },
+      {
+        path: '/1mi5er2',
+        name: 'AI Agent Human Feedback within Tool Use',
+      },
+      {
+        path: '/1mi5s6w',
+        name: 'Mi50 32gb (Working config, weirdness and performance)',
+      },
+      {
+        path: '/1mi5wk1',
+        name: 'Ollama RESTful API and code interpreter',
+      },
+      {
+        path: '/1mi6bkf',
+        name: 'The Chess Arena pairings for today\'s Kaggle exhibition are out, commentary by grandmasters like Hikaru Nakamura!',
+      },
+      {
+        path: '/1mi6brm',
+        name: 'Fast and local open source TTS engine. 20+ languages, multiple voices. Model size 25MB to 65MB. Can train on new voices.',
+      },
+      {
+        path: '/1mi6c0x',
+        name: 'Actual replacements for perplexity, notebookLm',
+      },
+      {
+        path: '/1mi6lek',
+        name: 'What are the best LLMs to transcribe Japanese audio to English?',
+      },
+      {
+        path: '/1mi789a',
+        name: 'VS Code plugins that can handle XML tool calling?',
+      },
+      {
+        path: '/1mi7bec',
+        name: 'SmallThinker trained on DeepSeek?',
+      },
+      {
+        path: '/1mi7bem',
+        name: 'New llama.cpp options make MoE offloading trivial: `--n-cpu-moe`',
+      },
+      {
+        path: '/1mi7lwi',
+        name: 'Looking to buy a new machine - Mac vs NVIDIA',
+      },
+      {
+        path: '/1mi7pei',
+        name: 'DeepSeek R1 vs. V3 - Going Head-To-Head In AI Roleplay',
+      },
+      {
+        path: '/1mi7sg0',
+        name: 'Best quantisation method, libraries and tools?',
+      },
     ],
   },
   {

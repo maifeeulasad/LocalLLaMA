@@ -36,7 +36,7 @@
             "name": "t3_1mhjtvv",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.5,
+            "upvote_ratio": 0.33,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 0,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mhjtvv/what_kind_of_setup_should_i_get/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mhjtvv/what_kind_of_setup_should_i_get/",
-            "subreddit_subscribers": 510259,
+            "subreddit_subscribers": 510540,
             "created_utc": 1754328503,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -387,7 +387,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6wnfq3",
-                                "score": 1,
+                                "score": 2,
                                 "author_fullname": "t2_vqgbql9w",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -435,7 +435,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
