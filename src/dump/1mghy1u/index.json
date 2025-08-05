@@ -38,7 +38,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.89,
             "author_flair_background_color": "#bbbdbf",
-            "ups": 81,
+            "ups": 88,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 81,
+            "score": 88,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mghy1u/qihoo360lightif32b/",
             "stickied": false,
             "url": "https://i.redd.it/6vaf0crhrsgf1.png",
-            "subreddit_subscribers": 509918,
+            "subreddit_subscribers": 510259,
             "created_utc": 1754223868,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -258,7 +258,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n6on8af",
-                                "score": 17,
+                                "score": 18,
                                 "author_fullname": "t2_t6glzswk",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -301,7 +301,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 17
+                                "ups": 18
                               }
                             }
                           ],
@@ -322,7 +322,7 @@
                       "created_utc": 1754224154,
                       "send_replies": true,
                       "parent_id": "t1_n6omvl4",
-                      "score": 14,
+                      "score": 12,
                       "author_fullname": "t2_w4j8t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -364,7 +364,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 14
+                      "ups": 12
                     }
                   },
                   {
@@ -397,7 +397,7 @@
                       "created_utc": 1754226624,
                       "send_replies": true,
                       "parent_id": "t1_n6omvl4",
-                      "score": 5,
+                      "score": 7,
                       "author_fullname": "t2_9s7pmakgx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -439,7 +439,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 7
                     }
                   },
                   {
@@ -776,7 +776,7 @@
             "created_utc": 1754224008,
             "send_replies": true,
             "parent_id": "t3_1mghy1u",
-            "score": 52,
+            "score": 48,
             "author_fullname": "t2_3wi6j7vwh",
             "approved_by": null,
             "mod_note": null,
@@ -818,12 +818,13 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 52
+            "ups": 48
           }
         },
         {
           "kind": "t1",
           "data": {
+            "body": "What do I think? I think this might be useful, but only for particularly much larger models which are already smart enough in all other areas, because instruction following capability is one thing, but what is it worth to nail the instruction following, if the model doesn't know that when the user asks it to generate an SVG code of an animal of the model's own choice, the model should not draw a squirrel hanging at the bottom of the sea, unless it's been specifically stated by the user that the model can go wild like that (hi Qwen models...)",
             "subreddit_id": "t5_81eyvm",
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -870,6 +871,7 @@
                             {
                               "kind": "t1",
                               "data": {
+                                "body": "Oh it will format your data and more, no worries. Especially if it doesn’t really know the difference between formatting all of your data and formatting all of your data… 😂",
                                 "subreddit_id": "t5_81eyvm",
                                 "approved_at_utc": null,
                                 "author_is_blocked": false,
@@ -988,7 +990,7 @@
                                 "approved_by": null,
                                 "mod_note": null,
                                 "all_awardings": [],
-                                "body": "Oh it will format your data and more, no worries. Especially if it doesn’t really know the difference between formatting all of your data and formatting all of your data… 😂",
+                                "author_cakeday": true,
                                 "edited": false,
                                 "top_awarded_type": null,
                                 "downs": 0,
@@ -1109,13 +1111,13 @@
             "created_utc": 1754224404,
             "send_replies": true,
             "parent_id": "t3_1mghy1u",
-            "score": 10,
+            "score": 9,
             "author_fullname": "t2_qz1qjc86",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
             "collapsed": false,
-            "body": "What do I think? I think this might be useful, but only for particularly much larger models which are already smart enough in all other areas, because instruction following capability is one thing, but what is it worth to nail the instruction following, if the model doesn't know that when the user asks it to generate an SVG code of an animal of the model's own choice, the model should not draw a squirrel hanging at the bottom of the sea, unless it's been specifically stated by the user that the model can go wild like that (hi Qwen models...)",
+            "author_cakeday": true,
             "edited": false,
             "top_awarded_type": null,
             "author_flair_css_class": null,
@@ -1151,7 +1153,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -1613,7 +1615,7 @@
             "created_utc": 1754230684,
             "send_replies": true,
             "parent_id": "t3_1mghy1u",
-            "score": 9,
+            "score": 10,
             "author_fullname": "t2_1tp8zldw5g",
             "approved_by": null,
             "mod_note": null,
@@ -1655,7 +1657,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
