@@ -32,7 +32,7 @@
             "downs": 0,
             "thumbnail_height": 140,
             "top_awarded_type": null,
-            "hide_score": true,
+            "hide_score": false,
             "media_metadata": {
               "2062bdjfszgf1": {
                 "status": "valid",
@@ -81,7 +81,7 @@
             "name": "t3_1mhbhn3",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.67,
+            "upvote_ratio": 0.57,
             "author_flair_background_color": null,
             "subreddit_type": "public",
             "ups": 1,
@@ -161,7 +161,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mhbhn3/build_a_small_language_model_from_scratch_free_6/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mhbhn3/build_a_small_language_model_from_scratch_free_6/",
-            "subreddit_subscribers": 509911,
+            "subreddit_subscribers": 510259,
             "created_utc": 1754308876,
             "num_crossposts": 0,
             "mod_reports": [],

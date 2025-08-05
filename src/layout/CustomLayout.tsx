@@ -12380,6 +12380,275 @@ const defaultMenus: MenuDataItem[] = [
         path: '/1mhc31j',
         name: 'Running, fine tuning and converting LLMs on new Ryzen AI 7 or 9 APUs - 64-128GB RAM - 75% VRAM',
       },
+      {
+        path: '/1mhcfe4',
+        name: 'What models have the least likelihood of hallucinations?',
+      },
+      {
+        path: '/1mhchdb',
+        name: 'Qwen 3 - 7B has a rival - Hunyuan.',
+      },
+      {
+        path: '/1mhctvk',
+        name: 'Huawei released weights of Pangu Ultra,a 718B model.',
+      },
+      {
+        path: '/1mhcy5r',
+        name: 'Poor performance from llama.cpp in text-generation-webui?',
+      },
+      {
+        path: '/1mhcyu0',
+        name: 'How can I allow a local model to search the web?',
+      },
+      {
+        path: '/1mhdnye',
+        name: 'New Qwen model has vision',
+      },
+      {
+        path: '/1mhe1rl',
+        name: 'r/LocalLLaMA right now',
+      },
+      {
+        path: '/1mhe2h9',
+        name: 'Best document parser',
+      },
+      {
+        path: '/1mheij9',
+        name: 'Looks like GGUF for GLM 4.5 may be getting closer to a reality.',
+      },
+      {
+        path: '/1mhf0kl',
+        name: 'Qwen image 20B is coming!',
+      },
+      {
+        path: '/1mhf5jq',
+        name: 'Which one is faster in LLM inference, 7900 XTX or RTX Pro 4000 ?',
+      },
+      {
+        path: '/1mhfbsi',
+        name: 'Bolt Graphics’ Zeus GPU Makes Bold Claim of Outperforming NVIDIA’s RTX 5090 by 10x in Rendering Workloads, That Too Using Laptop-Grade Memory',
+      },
+      {
+        path: '/1mhg0ts',
+        name: 'Best local model for using with Cursor',
+      },
+      {
+        path: '/1mhg8rt',
+        name: 'Get ready for GLM-4-5 local gguf woot woot',
+      },
+      {
+        path: '/1mhgu6t',
+        name: 'Sam Altman watching Qwen drop model after model',
+      },
+      {
+        path: '/1mhh5g3',
+        name: 'Spot the difference',
+      },
+      {
+        path: '/1mhh6se',
+        name: 'Qwen/Qwen-Image · Hugging Face',
+      },
+      {
+        path: '/1mhhbrr',
+        name: 'Profanity: QwenCode... but is Devstral in the background. And it works. Just slower than Coder-30b-a3b... but it works.',
+      },
+      {
+        path: '/1mhhctd',
+        name: '🚀 Meet Qwen-Image',
+      },
+      {
+        path: '/1mhhdig',
+        name: 'QWEN-IMAGE is released!',
+      },
+      {
+        path: '/1mhhhpi',
+        name: 'Qwen-Image — a 20B MMDiT model',
+      },
+      {
+        path: '/1mhhiw2',
+        name: 'GPU-enabled Llama3 inference in Java now runs Qwen3, Phi-3, Mistral and Llama3 models in FP16, Q8 and Q4',
+      },
+      {
+        path: '/1mhhpy9',
+        name: '3090Ti - 38 tokens/sec?',
+      },
+      {
+        path: '/1mhhy47',
+        name: 'A free goldmine of tutorials for the components you need to create production-level agents
+Extensive open source resource with tutorials for creating robust AI agents',
+      },
+      {
+        path: '/1mhieis',
+        name: 'How do people in industry benchmark models?',
+      },
+      {
+        path: '/1mhimmj',
+        name: 'Qwen Image Japanese and Chinese text generation test',
+      },
+      {
+        path: '/1mhiqqn',
+        name: 'Qwen-Image is out',
+      },
+      {
+        path: '/1mhitwa',
+        name: 'Suggestion for upgrading hardware for MOE inference and fine-tuning.',
+      },
+      {
+        path: '/1mhix7d',
+        name: 'GLM ranks #2 for chat according to lmarena',
+      },
+      {
+        path: '/1mhj1cr',
+        name: 'Handwritten Prescription to Text',
+      },
+      {
+        path: '/1mhjk0z',
+        name: 'Is it difficult to get into the field of building LLMs?',
+      },
+      {
+        path: '/1mhjtvv',
+        name: 'What kind of setup should I get?',
+      },
+      {
+        path: '/1mhjvkh',
+        name: 'Horizon Beta is probably gpt-5',
+      },
+      {
+        path: '/1mhjyt8',
+        name: 'Is There Any GooD Bencmarking Website for LLMs for Specific Tasks???',
+      },
+      {
+        path: '/1mhk4it',
+        name: 'NVIDIA AI-Q Achieves Top Score for Open, Portable AI Deep Research (LLM with Search Category)',
+      },
+      {
+        path: '/1mhk9g3',
+        name: 'Version 1 open source',
+      },
+      {
+        path: '/1mhkhz5',
+        name: 'What\'s the best model for writing full BDSM stories on 12gb gram and 32gb ram?',
+      },
+      {
+        path: '/1mhl06m',
+        name: 'Run 0.6B LLM 100token/s locally on iPhone',
+      },
+      {
+        path: '/1mhl49l',
+        name: 'Qwen3-Coder-30B nailed Snake game in one shot on my MacBook',
+      },
+      {
+        path: '/1mhl5yo',
+        name: 'Gemini 3 is coming?..',
+      },
+      {
+        path: '/1mhlhto',
+        name: 'I built state-of-the-art AI memory, try it with any LLM of your choice!',
+      },
+      {
+        path: '/1mhlj69',
+        name: 'What\'s the verdict on using quantized KV cache?',
+      },
+      {
+        path: '/1mhlkyx',
+        name: 'support for GLM 4.5 family of models has been merged into llama.cpp',
+      },
+      {
+        path: '/1mhlo6g',
+        name: 'Google introduces a new Benchmark: Game Arena and they\'re streaming your favorite open weight models playing chess against close source models.',
+      },
+      {
+        path: '/1mhlxe1',
+        name: 'Tool for chat branching &amp; selective-context control exist?',
+      },
+      {
+        path: '/1mhmgci',
+        name: 'Mindforge — Ollama-like local LLM runner with HF + GGUF, OpenAI-compatible API',
+      },
+      {
+        path: '/1mhng5b',
+        name: 'Built my own Copilot-style assistant that works offline, with screen/mic/text input',
+      },
+      {
+        path: '/1mhnhol',
+        name: 'how are you guys getting data for fine-tuning?',
+      },
+      {
+        path: '/1mho26i',
+        name: 'Building local LLMs that remember? Here’s a memory layer that doesn’t suck.',
+      },
+      {
+        path: '/1mho569',
+        name: 'Evalproject for Local LLMs &amp; Quants',
+      },
+      {
+        path: '/1mhoaxs',
+        name: 'Offering Benchmarks on my New RIG for Larger Models',
+      },
+      {
+        path: '/1mhok5i',
+        name: 'Horizon Beta Free or not on Openrouter',
+      },
+      {
+        path: '/1mhp2e5',
+        name: 'What\'s your \'primary\' model and why? Do you run a secondary model?',
+      },
+      {
+        path: '/1mhp3to',
+        name: 'How to use  Deepseek R1 0528?',
+      },
+      {
+        path: '/1mhpm02',
+        name: 'Quick Qwen Image Gen with 4090+3060',
+      },
+      {
+        path: '/1mhprfk',
+        name: 'Tried Mistral-Small3.1-24B-Instruct with Open-WebUI and got this',
+      },
+      {
+        path: '/1mhqgv1',
+        name: 'Maxed out M3 Mac studio as an LLM server for local employees?',
+      },
+      {
+        path: '/1mhqt77',
+        name: 'What\'s the largest openweights LLM? non-MoE and MoE?',
+      },
+      {
+        path: '/1mhrey9',
+        name: 'Export/Backup AnythingLLM Workspace?',
+      },
+      {
+        path: '/1mhrke2',
+        name: 'Artificial analysis meta-benchmark update',
+      },
+      {
+        path: '/1mhrryp',
+        name: 'is there an actually useful ai model for coding tasks and workflows?',
+      },
+      {
+        path: '/1mhrx3m',
+        name: 'How to use your Local Models to watch your screen. Open Source and Completely Free!!',
+      },
+      {
+        path: '/1mhsyv9',
+        name: 'Need help optimizing GLM-4.5-Air 110B (Q4_K_M) on RTX 4090 + 64GB RAM - Getting only 3.37 TPS',
+      },
+      {
+        path: '/1mht910',
+        name: 'GLM 4.5 GGUFs are coming',
+      },
+      {
+        path: '/1mhtjqo',
+        name: 'Qwen Image quantization idea',
+      },
+      {
+        path: '/1mhu9tx',
+        name: 'Help building an price efficient inference server (no fine tuning) + multi 5090 setup',
+      },
+      {
+        path: '/1mhv99h',
+        name: 'I built a one stop AI powered study solution',
+      },
     ],
   },
   {
