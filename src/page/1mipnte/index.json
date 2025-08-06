@@ -1,0 +1,346 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "[Windows Cuda 1.45.0 \\(Not Cuda 12!\\)](https://preview.redd.it/604fqlijgahf1.png?width=464&amp;format=png&amp;auto=webp&amp;s=a23e1aa7f34f3c14c33b1167bdbeaec20c4a4905)\n\n**The Cuda 12 ver 1.44.0 do not support GLM-4.5-AIR:**\n\nhttps://preview.redd.it/pzmxer3shahf1.png?width=444&amp;format=png&amp;auto=webp&amp;s=62827136dd50d356fcc199ca5cadb958f7370ae6\n\n  \n**Ver: LM Studio 0.3.21 (Build 4) - Beta**\n\n**GLM-4.5-AIR-Q4\\_K\\_XL - UnSloth**  \n\n\nhttps://preview.redd.it/f7ow8z50hahf1.png?width=1083&amp;format=png&amp;auto=webp&amp;s=4c28aef56171182da14f6d415f7c272bd21d83c5\n\nhttps://preview.redd.it/fo4nqtu4iahf1.png?width=490&amp;format=png&amp;auto=webp&amp;s=e79dcb312290f97839548de85d8fb3765c24f4e5\n\nBut it's slow af with RTX 3090.  \n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "🍃 GLM-4.5-AIR - LmStudio Windows Unlocked !",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 24,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "media_metadata": {
+              "fo4nqtu4iahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 27,
+                    "x": 108,
+                    "u": "https://preview.redd.it/fo4nqtu4iahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=01c1011b57576095b560ff584f65a922f4997443"
+                  },
+                  {
+                    "y": 55,
+                    "x": 216,
+                    "u": "https://preview.redd.it/fo4nqtu4iahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5827b5f9c28ff5d4c54e0d31298037627e30af9a"
+                  },
+                  {
+                    "y": 82,
+                    "x": 320,
+                    "u": "https://preview.redd.it/fo4nqtu4iahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c214da098c770cd0d607166174f64925442ef8b0"
+                  }
+                ],
+                "s": {
+                  "y": 126,
+                  "x": 490,
+                  "u": "https://preview.redd.it/fo4nqtu4iahf1.png?width=490&amp;format=png&amp;auto=webp&amp;s=e79dcb312290f97839548de85d8fb3765c24f4e5"
+                },
+                "id": "fo4nqtu4iahf1"
+              },
+              "pzmxer3shahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 31,
+                    "x": 108,
+                    "u": "https://preview.redd.it/pzmxer3shahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a3b90a53256968099e24be72f28fdea1ce3997b3"
+                  },
+                  {
+                    "y": 63,
+                    "x": 216,
+                    "u": "https://preview.redd.it/pzmxer3shahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c99eef3b0c595aaaad7eb13244d97cded7307568"
+                  },
+                  {
+                    "y": 94,
+                    "x": 320,
+                    "u": "https://preview.redd.it/pzmxer3shahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ce73123af8f8d50bbb90b2e72522c64ad6532ab6"
+                  }
+                ],
+                "s": {
+                  "y": 131,
+                  "x": 444,
+                  "u": "https://preview.redd.it/pzmxer3shahf1.png?width=444&amp;format=png&amp;auto=webp&amp;s=62827136dd50d356fcc199ca5cadb958f7370ae6"
+                },
+                "id": "pzmxer3shahf1"
+              },
+              "604fqlijgahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 18,
+                    "x": 108,
+                    "u": "https://preview.redd.it/604fqlijgahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=36e94d443abf8783c10546c948f543f108098df7"
+                  },
+                  {
+                    "y": 37,
+                    "x": 216,
+                    "u": "https://preview.redd.it/604fqlijgahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=cbfe6532c35d034cbbbcd6433b5404979f1f4793"
+                  },
+                  {
+                    "y": 55,
+                    "x": 320,
+                    "u": "https://preview.redd.it/604fqlijgahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=67350cfb52ab8d39c5ec648f3f39e8893ed25f17"
+                  }
+                ],
+                "s": {
+                  "y": 80,
+                  "x": 464,
+                  "u": "https://preview.redd.it/604fqlijgahf1.png?width=464&amp;format=png&amp;auto=webp&amp;s=a23e1aa7f34f3c14c33b1167bdbeaec20c4a4905"
+                },
+                "id": "604fqlijgahf1"
+              },
+              "f7ow8z50hahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 44,
+                    "x": 108,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7badd4bf8ae3c3ee8eb75f412e3f75a8343eeb32"
+                  },
+                  {
+                    "y": 88,
+                    "x": 216,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ea0a05c5847e78286e5c2c3db89ee65878b7123b"
+                  },
+                  {
+                    "y": 131,
+                    "x": 320,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=031eeb0f1d0f9d98a6a562a55ccbbeadf18e514e"
+                  },
+                  {
+                    "y": 262,
+                    "x": 640,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=07f40316977a064b0509fc656d5f59f38b56377b"
+                  },
+                  {
+                    "y": 394,
+                    "x": 960,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=aa3c1944fb3744aec13d48533d1eb4eb745262d8"
+                  },
+                  {
+                    "y": 443,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=af820a2dc156638f6a2c2e4455d1a7229d549de0"
+                  }
+                ],
+                "s": {
+                  "y": 445,
+                  "x": 1083,
+                  "u": "https://preview.redd.it/f7ow8z50hahf1.png?width=1083&amp;format=png&amp;auto=webp&amp;s=4c28aef56171182da14f6d415f7c272bd21d83c5"
+                },
+                "id": "f7ow8z50hahf1"
+              }
+            },
+            "name": "t3_1mipnte",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.75,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 4,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_ti5m9mpc",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 4,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/YTAya9ym3-oD0YR6AjDDqp6FjwK2l4sgsia5bCj1bq4.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754438509,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/604fqlijgahf1.png?width=464&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a23e1aa7f34f3c14c33b1167bdbeaec20c4a4905\"&gt;Windows Cuda 1.45.0 (Not Cuda 12!)&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;The Cuda 12 ver 1.44.0 do not support GLM-4.5-AIR:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/pzmxer3shahf1.png?width=444&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=62827136dd50d356fcc199ca5cadb958f7370ae6\"&gt;https://preview.redd.it/pzmxer3shahf1.png?width=444&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=62827136dd50d356fcc199ca5cadb958f7370ae6&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Ver: LM Studio 0.3.21 (Build 4) - Beta&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;GLM-4.5-AIR-Q4_K_XL - UnSloth&lt;/strong&gt;  &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/f7ow8z50hahf1.png?width=1083&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4c28aef56171182da14f6d415f7c272bd21d83c5\"&gt;https://preview.redd.it/f7ow8z50hahf1.png?width=1083&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4c28aef56171182da14f6d415f7c272bd21d83c5&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/fo4nqtu4iahf1.png?width=490&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e79dcb312290f97839548de85d8fb3765c24f4e5\"&gt;https://preview.redd.it/fo4nqtu4iahf1.png?width=490&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e79dcb312290f97839548de85d8fb3765c24f4e5&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;But it&amp;#39;s slow af with RTX 3090.  &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mipnte",
+            "is_robot_indexable": true,
+            "num_duplicates": 4,
+            "report_reasons": null,
+            "author": "Ok_Ninja7526",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mipnte/glm45air_lmstudio_windows_unlocked/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mipnte/glm45air_lmstudio_windows_unlocked/",
+            "subreddit_subscribers": 511363,
+            "created_utc": 1754438509,
+            "num_crossposts": 4,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n75ecxn",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "Goldkoron",
+            "can_mod_post": false,
+            "created_utc": 1754441837,
+            "send_replies": true,
+            "parent_id": "t3_1mipnte",
+            "score": 1,
+            "author_fullname": "t2_8fz90",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "I just tried it and its not loading model onto vram even with all layers set on GPU.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n75ecxn",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I just tried it and its not loading model onto vram even with all layers set on GPU.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mipnte/glm45air_lmstudio_windows_unlocked/n75ecxn/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754441837,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mipnte",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

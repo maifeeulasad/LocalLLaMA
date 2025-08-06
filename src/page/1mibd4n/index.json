@@ -1,0 +1,193 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Not my finetune, but thought Eloisa-Qwen3-8B by nbeerbower was a surprisingly competent model. It's one of the only finetunes trained on Qwen3-R1-SLERP-Q3T-8B, which is a slerp merge between the original Qwen3 instruct, and the Deepseek R1 0528 Qwen3 distill, using the superior qwen3 tokenizer, getting the best benefits and advantages of both models. This finetune trains on gutenberg data which is one of the best datasets that improves writing quality, naturalness, reduces AI slop, and usually even improves most benchmark scores despite it not overfitting on any sort of benchmark related data. Historically, alot of the best finetunes were trained on gutenberg data. It's also trained on a decensoring dataset designed specifically to get rid of chinese censorship. This is a light finetune, of only 1 epoch so it should not have any strong biases or strange quirks, and was also my experience in testing. Found it to be very well rounded and is currently my favorite 8B model. I've tested quite a few of these models in this size range and I very rarely find stuff I like more than the original qwen instruct so this was a pleasant surprise. Thought I'd share since this model is a little under the radar. Would be happy to hear from others what they think of it in their own testing or benchmarks. \n\n[https://huggingface.co/nbeerbower/Eloisa-Qwen3-8B](https://huggingface.co/nbeerbower/Eloisa-Qwen3-8B)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Flown under the Radar: Eloisa-Qwen3-8B",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mibd4n",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.86,
+            "author_flair_background_color": "#bbbdbf",
+            "subreddit_type": "public",
+            "ups": 33,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_i697e",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 33,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754405565,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Not my finetune, but thought Eloisa-Qwen3-8B by nbeerbower was a surprisingly competent model. It&amp;#39;s one of the only finetunes trained on Qwen3-R1-SLERP-Q3T-8B, which is a slerp merge between the original Qwen3 instruct, and the Deepseek R1 0528 Qwen3 distill, using the superior qwen3 tokenizer, getting the best benefits and advantages of both models. This finetune trains on gutenberg data which is one of the best datasets that improves writing quality, naturalness, reduces AI slop, and usually even improves most benchmark scores despite it not overfitting on any sort of benchmark related data. Historically, alot of the best finetunes were trained on gutenberg data. It&amp;#39;s also trained on a decensoring dataset designed specifically to get rid of chinese censorship. This is a light finetune, of only 1 epoch so it should not have any strong biases or strange quirks, and was also my experience in testing. Found it to be very well rounded and is currently my favorite 8B model. I&amp;#39;ve tested quite a few of these models in this size range and I very rarely find stuff I like more than the original qwen instruct so this was a pleasant surprise. Thought I&amp;#39;d share since this model is a little under the radar. Would be happy to hear from others what they think of it in their own testing or benchmarks. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://huggingface.co/nbeerbower/Eloisa-Qwen3-8B\"&gt;https://huggingface.co/nbeerbower/Eloisa-Qwen3-8B&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?auto=webp&amp;s=c5f444d09b133fe0242a183d8fde0b06a4b08178",
+                    "width": 1200,
+                    "height": 648
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=37b0396825e3d3c7ea3783b687400cc3684e1f1b",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=94d238e54e87d29dda8ebb58be72a4aa474d32e9",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3fec27c0dace3d4b6716f420645a61ae62e47cd5",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=17de832ca07eed74af12a835d38463035a97f89f",
+                      "width": 640,
+                      "height": 345
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d39fa9bd7db91a345c4b4e5751abd1581ca43efc",
+                      "width": 960,
+                      "height": 518
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=55d7ab1593d1e3ff52cf872d81896947066fc88e",
+                      "width": 1080,
+                      "height": 583
+                    }
+                  ],
+                  "variants": {},
+                  "id": "J89w6YbIPhr3_Ba_Pvba7rGHKg6SRf7H8tJahfnAHsM"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mibd4n",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "lemon07r",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1mibd4n/flown_under_the_radar_eloisaqwen38b/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mibd4n/flown_under_the_radar_eloisaqwen38b/",
+            "subreddit_subscribers": 511365,
+            "created_utc": 1754405565,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Don't know why nobody is talking about this. We now have the open-source Codex CLI: https://github.com/openai/codex. And the open-source gpt-oss models: https://huggingface.co/openai/gpt-oss-120b. This gives terminal coders (my IDE is Vim!) a fully open IDE ecosystem that finally rivals VSCode + Model and Cursor + Model. Can't wait for codex plugins!",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Terminal coders rejoice: the Codex CLI ecosystem is finally fully open-source",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1milboe",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "transparent",
+            "ups": 5,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "c07aa42e-51fe-11f0-afcc-462aad931709",
+            "is_original_content": false,
+            "author_fullname": "t2_1a48h7vf",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 5,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=7adbcbcd65f1f3262b2f91b17fcd0ff9b9886180",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "a": ":X:",
+                "u": "https://emoji.redditmedia.com/tbgegafk739f1_t5_81eyvm/X",
+                "e": "emoji"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754427814,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "github.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Don&amp;#39;t know why nobody is talking about this. We now have the open-source Codex CLI: &lt;a href=\"https://github.com/openai/codex\"&gt;https://github.com/openai/codex&lt;/a&gt;. And the open-source gpt-oss models: &lt;a href=\"https://huggingface.co/openai/gpt-oss-120b\"&gt;https://huggingface.co/openai/gpt-oss-120b&lt;/a&gt;. This gives terminal coders (my IDE is Vim!) a fully open IDE ecosystem that finally rivals VSCode + Model and Cursor + Model. Can&amp;#39;t wait for codex plugins!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://github.com/openai/codex",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?auto=webp&amp;s=8bf3fdc6add1fd91ed05fb357105dccc89ec5b4e",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=39f0705850281e8c625f6eaa87c0e39037515e2d",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=769ff26669bce88115f3571fb003b8800f8977c7",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8bf37b8624a535c9f40ebf05aa6f2665bdf12c67",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de5af2479b12626138f27255d9f2ab7364c275a9",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=fa2726203496c6e9810edbdc488f1a2544cd8093",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=22ec7a7e85dda62b98ee7c8f9810895c6fe99a7c",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "pkbdz8qEySiFJEy_x76PBnHLEC5_ePJUq9_2rPu4Rz0"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": ":X:",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1milboe",
+            "is_robot_indexable": true,
+            "num_duplicates": 6,
+            "report_reasons": null,
+            "author": "entsnack",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "dark",
+            "permalink": "/r/LocalLLaMA/comments/1milboe/terminal_coders_rejoice_the_codex_cli_ecosystem/",
+            "stickied": false,
+            "url": "https://github.com/openai/codex",
+            "subreddit_subscribers": 511364,
+            "created_utc": 1754427814,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n74bdu8",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "ResidentPositive4122",
+            "can_mod_post": false,
+            "created_utc": 1754428861,
+            "send_replies": true,
+            "parent_id": "t3_1milboe",
+            "score": 2,
+            "author_fullname": "t2_10nxrjjgay",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "justgitignorethings\n\n    # cli tools\n    CLAUDE.md\n    .claude/\n\n=))",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n74bdu8",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;justgitignorethings&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;# cli tools\nCLAUDE.md\n.claude/\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;=))&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1milboe/terminal_coders_rejoice_the_codex_cli_ecosystem/n74bdu8/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754428861,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1milboe",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Interesting analysis thread: https://x.com/artificialanlys/status/1952887733803991070",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "gpt-oss-120B most intelligent model that fits on a single H100 in native precision",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "News"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 71,
+            "top_awarded_type": null,
+            "name": "t3_1miquy8",
+            "media_metadata": {
+              "dpzvl2p3sahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 49,
+                    "x": 108,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=1e7473690833fe0e39a07ac83e89c6d0f6b7b27f"
+                  },
+                  {
+                    "y": 98,
+                    "x": 216,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=83e93c9dd5d47df316e95edb2292f5a6a5091e23"
+                  },
+                  {
+                    "y": 146,
+                    "x": 320,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=63d80b0a2dd384b96d7903aec3ab6b9721410440"
+                  },
+                  {
+                    "y": 292,
+                    "x": 640,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f8a5cdfbdcd2ab97c4418c73a2d2a0773f964c5"
+                  },
+                  {
+                    "y": 439,
+                    "x": 960,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=efbcb8fa29c2a67f7ffaa3d1c1c6cbebe61e4c17"
+                  },
+                  {
+                    "y": 494,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a942a2ba4b2440e42a0a1437f449c04b54babbe1"
+                  }
+                ],
+                "s": {
+                  "y": 937,
+                  "x": 2048,
+                  "u": "https://preview.redd.it/dpzvl2p3sahf1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=a19a8f0106f41e6bb43ddcad7d87fe6f8deae7e1"
+                },
+                "id": "dpzvl2p3sahf1"
+              },
+              "ebkya4p3sahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 55,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c6d038cf936f5021097db9c730b7687bd8ca8cd9"
+                  },
+                  {
+                    "y": 110,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ce956009db834dcb698b6eb5bf74b0d6fa796fa6"
+                  },
+                  {
+                    "y": 164,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6b4516bd964d524ada4830ab63cd7412e6c5570a"
+                  },
+                  {
+                    "y": 328,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f82feabfc145a5e784aa49b984898a50a37f5663"
+                  },
+                  {
+                    "y": 492,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3e83f0e47f3a43af04328b7155123130dc35a98c"
+                  },
+                  {
+                    "y": 554,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=364cd0b9e6611d8439f4565dab7b0471341d54d9"
+                  }
+                ],
+                "s": {
+                  "y": 1051,
+                  "x": 2048,
+                  "u": "https://preview.redd.it/ebkya4p3sahf1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=fa26d7bc4703b2d2cd46903d100d285ce712afce"
+                },
+                "id": "ebkya4p3sahf1"
+              }
+            },
+            "hide_score": true,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.86,
+            "author_flair_background_color": "transparent",
+            "ups": 5,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "c07aa42e-51fe-11f0-afcc-462aad931709",
+            "is_original_content": false,
+            "author_fullname": "t2_1a48h7vf",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "ebkya4p3sahf1",
+                  "id": 722170772
+                },
+                {
+                  "media_id": "dpzvl2p3sahf1",
+                  "id": 722170773
+                }
+              ]
+            },
+            "link_flair_text": "News",
+            "can_mod_post": false,
+            "score": 5,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/kyXTn28y1tAmnc_8U0wiFCHXcHi8sY_VKspmKlI2Zi0.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "a": ":X:",
+                "u": "https://emoji.redditmedia.com/tbgegafk739f1_t5_81eyvm/X",
+                "e": "emoji"
+              }
+            ],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754441759,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Interesting analysis thread: &lt;a href=\"https://x.com/artificialanlys/status/1952887733803991070\"&gt;https://x.com/artificialanlys/status/1952887733803991070&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1miquy8",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": ":X:",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#cc3600",
+            "id": "1miquy8",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "entsnack",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "dark",
+            "permalink": "/r/LocalLLaMA/comments/1miquy8/gptoss120b_most_intelligent_model_that_fits_on_a/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1miquy8",
+            "subreddit_subscribers": 511363,
+            "created_utc": 1754441759,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

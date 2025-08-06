@@ -1,0 +1,189 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Because range matters.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Let me fix that chart for you",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 129,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1miqzgb",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 10,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_ts2dg",
+            "secure_media": null,
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 10,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/3Ok8ftvPtdWtD-XGVnuGickHrw1QOMKeHe84HGj9Omw.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "image",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754442110,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "i.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Because range matters.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://i.redd.it/69scmtwzsahf1.png",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://preview.redd.it/69scmtwzsahf1.png?auto=webp&amp;s=8f10fc00fb6f46cda975ad8202cc0242fa8ede02",
+                    "width": 1272,
+                    "height": 1180
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=33a6329665f72ebd056ba1358adce8334fa278b5",
+                      "width": 108,
+                      "height": 100
+                    },
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e7b88353f16af4b173471115398b3cb67f74750e",
+                      "width": 216,
+                      "height": 200
+                    },
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d8d420a7b9dc4092b1389e18be4245e21a14824d",
+                      "width": 320,
+                      "height": 296
+                    },
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=90ff74d87020e05e7f407a73bbc2874a6ef21143",
+                      "width": 640,
+                      "height": 593
+                    },
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0b02c3e39a067b03b3575eca3a8844f120beb84a",
+                      "width": 960,
+                      "height": 890
+                    },
+                    {
+                      "url": "https://preview.redd.it/69scmtwzsahf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f9b4d54ac08a5a124832b53e91a43c2d4024df36",
+                      "width": 1080,
+                      "height": 1001
+                    }
+                  ],
+                  "variants": {},
+                  "id": "ZTLEigllWjDcs1VEMHDhGNlq6geK4NSDHKVgPIsBcFY"
+                }
+              ],
+              "enabled": true
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1miqzgb",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "sstainsby",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1miqzgb/let_me_fix_that_chart_for_you/",
+            "stickied": false,
+            "url": "https://i.redd.it/69scmtwzsahf1.png",
+            "subreddit_subscribers": 511363,
+            "created_utc": 1754442110,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

@@ -12829,6 +12829,574 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1mi7sg0',
         name: 'Best quantisation method, libraries and tools?',
       },
+      {
+        path: '/1mi8lbl',
+        name: 'Qwen3 Coder vs. Kimi K2 vs. Sonnet 4 Coding Comparison (Tested on Qwen CLI)',
+      },
+      {
+        path: '/1miagcn',
+        name: 'Kaggle is considering further opening its evaluation platform to allow the community to add their own game environments.',
+      },
+      {
+        path: '/1miaugk',
+        name: 'II-Search-4B: model tuned for reasoning with search tools',
+      },
+      {
+        path: '/1mibd4n',
+        name: 'Flown under the Radar: Eloisa-Qwen3-8B',
+      },
+      {
+        path: '/1mibuho',
+        name: 'Kitten-TTS : Smallest ever TTS model (25MB, 15M params), runs on CPU',
+      },
+      {
+        path: '/1mic8kf',
+        name: 'Llama.cpp: Add GPT-OSS',
+      },
+      {
+        path: '/1midi67',
+        name: 'GPT-OSS today?',
+      },
+      {
+        path: '/1midu35',
+        name: 'GPT-OSS today!',
+      },
+      {
+        path: '/1midvvn',
+        name: 'Introduce OpenAI Harmony - a response format designed for GPT-OSS model series',
+      },
+      {
+        path: '/1miec9u',
+        name: 'Release v4.55.0: New openai GPT OSS model! · huggingface/transformers',
+      },
+      {
+        path: '/1mieksq',
+        name: 'OpenAI GPT OSS: 21B &amp; 117B models (3.6B &amp; 5.1B active)',
+      },
+      {
+        path: '/1mieqcb',
+        name: 'openai/gpt-oss-120b · Hugging Face',
+      },
+      {
+        path: '/1miew86',
+        name: 'openai is releasing open models',
+      },
+      {
+        path: '/1miex8t',
+        name: 'openai/gpt-oss-20b · Hugging Face',
+      },
+      {
+        path: '/1mieyhh',
+        name: 'OpenAI just dropped two new open-source models',
+      },
+      {
+        path: '/1mieyrn',
+        name: 'gpt-oss  Benchmarks',
+      },
+      {
+        path: '/1miezct',
+        name: '🚀 OpenAI released their open-weight models!!!',
+      },
+      {
+        path: '/1mif1xp',
+        name: 'Open models by OpenAI',
+      },
+      {
+        path: '/1mif3vd',
+        name: 'OpenAI OSS models released',
+      },
+      {
+        path: '/1mif5ls',
+        name: 'The long-awaited open-weight models by OpenAI have been released!',
+      },
+      {
+        path: '/1mif5s3',
+        name: 'New Open Source Model From OpenAI',
+      },
+      {
+        path: '/1mif6ro',
+        name: 'OpenAI releases open source models: Introducing gpt-oss',
+      },
+      {
+        path: '/1mif8k8',
+        name: 'OpenAI released new open models',
+      },
+      {
+        path: '/1mifaqv',
+        name: 'gpt-oss-120b and 20b GGUFs',
+      },
+      {
+        path: '/1mifc2l',
+        name: 'GPT OSS 120b and 20b is Apache 2.0!',
+      },
+      {
+        path: '/1mifejm',
+        name: 'OpenAI released OSS models!',
+      },
+      {
+        path: '/1mifpr3',
+        name: 'gpt-oss-120b can be fine-tuned on a single H100 node!',
+      },
+      {
+        path: '/1mifuqk',
+        name: 'gpt-oss-120b outperforms DeepSeek-R1-0528 in benchmarks',
+      },
+      {
+        path: '/1mifzqz',
+        name: 'GPT-OSS-120B vs GLM 4.5 Air...',
+      },
+      {
+        path: '/1mig04o',
+        name: 'Open again AI ?',
+      },
+      {
+        path: '/1mig4ob',
+        name: 'Open-weight GPTs vs Everyone',
+      },
+      {
+        path: '/1miggb2',
+        name: 'What hardware to run gpt-oss-120b?',
+      },
+      {
+        path: '/1migl0k',
+        name: 'gpt-oss-120b is safetymaxxed (cw: explicit safety)',
+      },
+      {
+        path: '/1mignfe',
+        name: 'OpenAI new OSS model impressions',
+      },
+      {
+        path: '/1migo6d',
+        name: 'I FEEL SO SAFE! THANK YOU SO MUCH OPENAI!',
+      },
+      {
+        path: '/1migs87',
+        name: 'Can someone compare GPT-OSS to Qwen 3',
+      },
+      {
+        path: '/1mih2wn',
+        name: 'GPT OSS 20B vs GPT OSS 120B',
+      },
+      {
+        path: '/1mihfp7',
+        name: 'Am i the only one seeing it this way ?',
+      },
+      {
+        path: '/1mihyr9',
+        name: 'Dang. I did not expect that. Nice job OpenAI.',
+      },
+      {
+        path: '/1mii4lc',
+        name: 'GPT OSS MacBook Air m4 16gb',
+      },
+      {
+        path: '/1mii9e3',
+        name: 'Now that openAI has released the oss model, I am still waiting for grok 3..',
+      },
+      {
+        path: '/1miid92',
+        name: 'GPT-OSS Support Merged in Llama.cpp!',
+      },
+      {
+        path: '/1miiesj',
+        name: 'Slow Huggingface downloads of gpt-oss? Try `hf download openai/gpt-oss-20b` or `hf download openai/gpt-oss-20b`',
+      },
+      {
+        path: '/1miiewp',
+        name: 'GPT OSS chat template - tool calling issue',
+      },
+      {
+        path: '/1miif0v',
+        name: 'OpenAI OSS models compatible PR merged into llama.cpp',
+      },
+      {
+        path: '/1miij6j',
+        name: 'OSS-120B fails the 20 bouncing balls in heptagon test',
+      },
+      {
+        path: '/1miikci',
+        name: 'Ollama 0.11 - Partners with OpenAI to bring gpt-oss models to Ollama',
+      },
+      {
+        path: '/1miiktg',
+        name: 'WHY CENSOR THEM SO HARD MAN??? GPT OSS??',
+      },
+      {
+        path: '/1miirnt',
+        name: 'Its raining AI models and I am loving it.',
+      },
+      {
+        path: '/1miiuj9',
+        name: 'Installing GPT-OSS-20b',
+      },
+      {
+        path: '/1miivw7',
+        name: 'UI/UX Benchmark Update 08/05: GPT-OSS Models Added, Qwen3 30B series, Flux.1 Krea Dev, Opus 4.1, Builder, Audio Arenas',
+      },
+      {
+        path: '/1miivx7',
+        name: 'GPT-OSS 20B running on an 8GB windows laptop. Slow but is running 😁',
+      },
+      {
+        path: '/1miixbr',
+        name: 'How to ingest nested tables in RAG pipeline?',
+      },
+      {
+        path: '/1miixs4',
+        name: 'Why doesn’t LM Studio let me call external OpenAI‑compatible APIs (e.g., Ollama)?',
+      },
+      {
+        path: '/1mij1ux',
+        name: 'New GPT-OSS and Claude Code?',
+      },
+      {
+        path: '/1mij25y',
+        name: 'Open-weights just beat Opus 4.1 on today’s benchmarks (AIME’25, GPQA, MMLU)',
+      },
+      {
+        path: '/1mij7fh',
+        name: 'List of open-weight models with unmodified permissive licenses',
+      },
+      {
+        path: '/1mij7ki',
+        name: 'MXFP4 and various hardware',
+      },
+      {
+        path: '/1mijcv7',
+        name: 'When Grok 3?',
+      },
+      {
+        path: '/1mijdx7',
+        name: 'GPT-OSS-20B &amp; GPT-OSS-120B on LmStudio + MCP',
+      },
+      {
+        path: '/1mijfyz',
+        name: 'GPT-OSS-20B on RTX 5090 – 221 tok/s in LM Studio (default settings + FlashAttention)',
+      },
+      {
+        path: '/1mijmmc',
+        name: 'External GPU',
+      },
+      {
+        path: '/1mijmmg',
+        name: 'How to set the reasoning effort for gpt-oss in the system message?',
+      },
+      {
+        path: '/1mijqk1',
+        name: 'The real OpenAI OSS news is MXFP4',
+      },
+      {
+        path: '/1mijros',
+        name: 'How To Run OpenAI GPT-OSS 20B and 120B Models on AMD Ryzen AI Processors and Radeon Graphics Cards',
+      },
+      {
+        path: '/1mijrtd',
+        name: 'it\'s literally me',
+      },
+      {
+        path: '/1mijwom',
+        name: 'Best Model for Single RTX 5080?',
+      },
+      {
+        path: '/1mijwvo',
+        name: 'Adding search functionality in a small lm',
+      },
+      {
+        path: '/1mijza6',
+        name: 'vLLM latency/throughput benchmarks for gpt-oss-120b',
+      },
+      {
+        path: '/1mik0co',
+        name: 'Running GPT-OSS:20B Locally on Windows 11 | 16GB of RAM |Using Ollama',
+      },
+      {
+        path: '/1mik5gy',
+        name: 'Ollama Turbo - Run models using datacenter-grade hardware',
+      },
+      {
+        path: '/1milboe',
+        name: 'Terminal coders rejoice: the Codex CLI ecosystem is finally fully open-source',
+      },
+      {
+        path: '/1milf6u',
+        name: 'Quick question; What\'s the business model behind free open source models?',
+      },
+      {
+        path: '/1milfbi',
+        name: 'Qwen3 dense instruct/coder/thinking models tomorrow?',
+      },
+      {
+        path: '/1milfjl',
+        name: 'OpenAI\'s GPT-OSS 20B in LM Studio is a bit tricky, but I finally made it work, here\'s how I did it...',
+      },
+      {
+        path: '/1milkqp',
+        name: 'Run gpt-oss locally with Unsloth GGUFs + Fixes!',
+      },
+      {
+        path: '/1milm9t',
+        name: 'Just wanna say : Kudos to llama cpp our unsung heroes 🫡',
+      },
+      {
+        path: '/1milmrl',
+        name: 'OpenAI gpt-oss-120b &amp; 20b EQ-Bench &amp; creative writing results',
+      },
+      {
+        path: '/1milofa',
+        name: 'gpt-oss-120b (and Opus 4.1) on Extended NYT Connections and Thematic Generalization benchmarks',
+      },
+      {
+        path: '/1milr4q',
+        name: 'What do the samples look like for fine tuning?',
+      },
+      {
+        path: '/1milxsh',
+        name: 'Looking for lightweight Whisper speech‑to‑text app on Windows or Android (open‑source or cheap)?',
+      },
+      {
+        path: '/1mim030',
+        name: 'CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search',
+      },
+      {
+        path: '/1mim0cs',
+        name: 'gpt-oss-120b is faster than 90t/s on 3x3090',
+      },
+      {
+        path: '/1mim1ug',
+        name: 'Running qwen for free on cloud or running it locally? What are the minimum estimated cost',
+      },
+      {
+        path: '/1mim56p',
+        name: 'CRINN: Contrastive Reinforcement Learning for Approximate Nearest Neighbor Search',
+      },
+      {
+        path: '/1mim94b',
+        name: 'More profanity: GPT-OSS powered QwenCode. It works. kind of.',
+      },
+      {
+        path: '/1mimaof',
+        name: 'OpenAI\'s OSS model has fewer active params than Llama 7B? And its good at reasoning?',
+      },
+      {
+        path: '/1mimbvg',
+        name: 'gpt-oss-120b on the "Ball Bouncing Inside Spinning Heptagon" benchmark',
+      },
+      {
+        path: '/1mime15',
+        name: 'gpt-oss-20b claims to be GPT-4 w/ Nov 2023 cutoff.',
+      },
+      {
+        path: '/1mime87',
+        name: '[Prompt Optimization Strategy] How we use query classification + graph-based context selection to reduce LLM costs in local deployments',
+      },
+      {
+        path: '/1mimelx',
+        name: 'Looking for a team to hack OSS 20B. $500k in prize pool',
+      },
+      {
+        path: '/1mimoat',
+        name: 'Cancelling all subscriptions',
+      },
+      {
+        path: '/1mimtl9',
+        name: 'GPT OSS 20B is SO good. Definitely a good day to day workhorse',
+      },
+      {
+        path: '/1mimwe9',
+        name: 'OpenAI released Fine-tuning guide for GPT-OSS',
+      },
+      {
+        path: '/1min2c3',
+        name: 'Qwen3 Uses 40% Fewer Tokens When Reasoning in Chinese vs English',
+      },
+      {
+        path: '/1min382',
+        name: 'can i run gpt oss 120B with 5070ti + 3060?',
+      },
+      {
+        path: '/1min47x',
+        name: 'Anyone was able to run gpt-oss 20b on a 5090?',
+      },
+      {
+        path: '/1min4lz',
+        name: '20B GTP-OSS on a MacBook Pro M1 Pro with 16gb memory running at less than 1 token/s. Is this correct or am I doing something wrong?',
+      },
+      {
+        path: '/1mina19',
+        name: 'At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race',
+      },
+      {
+        path: '/1minasr',
+        name: 'How to disable \'thinking\' in openai-oss?',
+      },
+      {
+        path: '/1mingyj',
+        name: 'Is GPT-OSS the first open source model to (mostly) negate prefill attack?',
+      },
+      {
+        path: '/1minhh2',
+        name: 'Recent models trained with ALiBi',
+      },
+      {
+        path: '/1mink69',
+        name: 'GPT OSS: They\'re 4bit quantized by default (giga yikes 😬), but these comments on the GGUF PR raise some questions.',
+      },
+      {
+        path: '/1minmk6',
+        name: 'Has anyone tried full fine-tuning on the OpenAI models yet?',
+      },
+      {
+        path: '/1minnrb',
+        name: 'Lol this is some next level brain fried from censorship.',
+      },
+      {
+        path: '/1minpqr',
+        name: 'Finally, a model that\'s SAFE',
+      },
+      {
+        path: '/1minr6f',
+        name: 'Is it just me?',
+      },
+      {
+        path: '/1minsd6',
+        name: 'Is RAG a good area to focus on as a beginner ADS student who wants to build something?',
+      },
+      {
+        path: '/1minuvb',
+        name: 'gpt-oss-120b destroys DeepSeek-r1-0528 on SVGBench',
+      },
+      {
+        path: '/1minxdr',
+        name: 'Every Reason Why I Hate AI and You Should Too',
+      },
+      {
+        path: '/1mio3j9',
+        name: 'Looking to buy a new PC - What specs should I be aiming for.',
+      },
+      {
+        path: '/1mio3pe',
+        name: 'Worst. Model. Ever.',
+      },
+      {
+        path: '/1mio5ld',
+        name: 'GLM-4.5-Air llama.cpp experiences?',
+      },
+      {
+        path: '/1miobog',
+        name: 'We made Octofriend, a local-LLM-friendly coding assistant like Claude Code',
+      },
+      {
+        path: '/1miodyp',
+        name: 'GPT-OSS 120B and 20B feel kind of… bad?',
+      },
+      {
+        path: '/1mioj8f',
+        name: 'made these animations with llama 4',
+      },
+      {
+        path: '/1miopto',
+        name: 'Are openai\'s new opensource llms too censored? POLL',
+      },
+      {
+        path: '/1mioq3p',
+        name: 'GPT-OSS 20B | Performance for creative types',
+      },
+      {
+        path: '/1mioswc',
+        name: 'For you vibe coders..',
+      },
+      {
+        path: '/1miotjk',
+        name: 'GPT-OSS 120B Simple-Bench is not looking great either. What is going on Openai?',
+      },
+      {
+        path: '/1miov4l',
+        name: 'DeepMind’s Genie 3 shows Google is like 3 years ahead of China and 10 years ahead of open source—leaving everyone in the dust.',
+      },
+      {
+        path: '/1miozqy',
+        name: 'Strong showing by OpenAI in Kaggle Game Arena Day 1',
+      },
+      {
+        path: '/1mip3vn',
+        name: 'End of an era I guess',
+      },
+      {
+        path: '/1mip775',
+        name: 'RX 7900 XT for LLMs?',
+      },
+      {
+        path: '/1mip7ds',
+        name: 'Trying NSFW on the OAI OSS model is fun sometimes.',
+      },
+      {
+        path: '/1mipaft',
+        name: 'OpenAI Releases gpt-oss-120b with This Warning: No AI Self-Improvement (Like What??)',
+      },
+      {
+        path: '/1mipahr',
+        name: 'Real time vibe coding with openai/gpt-oss-120b (resources in comments!)',
+      },
+      {
+        path: '/1mipcgr',
+        name: 'Which of the current models are you finding to be best at math and statistics related reasoning?',
+      },
+      {
+        path: '/1mipm3s',
+        name: 'What\'s a good way to benchmark a model without doing the useless benchmarks',
+      },
+      {
+        path: '/1mipnte',
+        name: '🍃 GLM-4.5-AIR - LmStudio Windows Unlocked !',
+      },
+      {
+        path: '/1miprwe',
+        name: 'gpt-oss-120b performance with only 16 GB VRAM- surprisingly decent',
+      },
+      {
+        path: '/1miq6y3',
+        name: 'How can we run models on IpadOS??',
+      },
+      {
+        path: '/1miq7sp',
+        name: 'GPT-OSS Support Merged into Codex',
+      },
+      {
+        path: '/1miqbyk',
+        name: 'The openai gpt-oss model is too safe!',
+      },
+      {
+        path: '/1miqfi7',
+        name: 'gpt-oss 120b on Nvidia P40',
+      },
+      {
+        path: '/1miqk3e',
+        name: 'Running OpenAI’s GPT-OSS locally: the good, the bad, and the loopy',
+      },
+      {
+        path: '/1miqu6b',
+        name: 'Anyone test the gpt-oss-120b model yet? How is its real world performance?',
+      },
+      {
+        path: '/1miquy8',
+        name: 'gpt-oss-120B most intelligent model that fits on a single H100 in native precision',
+      },
+      {
+        path: '/1miqv9l',
+        name: 'What is the difference between these Kimi-K2 models? (From NanoGPT)',
+      },
+      {
+        path: '/1miqw54',
+        name: 'Aggregated gpt-oss benchmarks',
+      },
+      {
+        path: '/1miqxdc',
+        name: 'Running Qwen2.5-Coder-32b-q6-gguf entirely on cpu',
+      },
+      {
+        path: '/1miqzgb',
+        name: 'Let me fix that chart for you',
+      },
     ],
   },
   {
