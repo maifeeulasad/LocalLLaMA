@@ -1,0 +1,390 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey LocalLlaMA! To celebrate the release of OpenAI GPT-OSS-120b, we're also soft-launching the coding assistant we made that works with open-source models: [https://github.com/synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend)\n\nYou can run the models locally, or use inference providers (we run [a privacy-focused one](https://synthetic.new)). One of the neat things it does differently is used custom-trained models to auto-fix diffs and JSON tool calls when models make minor mistakes; we also open-sourced the models we trained: [fix-json](https://huggingface.co/synthetic-lab/fix-json) and [diff-apply](https://huggingface.co/diff-apply). The models we trained are truly open-source: [here's the training code and synthetic data generation pipeline](https://github.com/synthetic-lab/octofriend/tree/main/training).\n\nhttps://preview.redd.it/scg0f8829ahf1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=2a811545fefdd11ad066d94dafcc64b5376e0f6c\n\nHappy open source release day :)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "We made Octofriend, a local-LLM-friendly coding assistant like Claude Code",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "News"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "scg0f8829ahf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 108,
+                    "x": 108,
+                    "u": "https://preview.redd.it/scg0f8829ahf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=6d425e232bd20b1eb21b80b6aa49a2b0e9bc0523"
+                  },
+                  {
+                    "y": 216,
+                    "x": 216,
+                    "u": "https://preview.redd.it/scg0f8829ahf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=00f2506d98ca3cdc70ec9223b99afb3b82fe9530"
+                  },
+                  {
+                    "y": 320,
+                    "x": 320,
+                    "u": "https://preview.redd.it/scg0f8829ahf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9c622ab9197d4583d13ab6123653ea1c9b8c6b4"
+                  },
+                  {
+                    "y": 640,
+                    "x": 640,
+                    "u": "https://preview.redd.it/scg0f8829ahf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2fb42713d71db731da782662a6ab314b4aedfe2e"
+                  },
+                  {
+                    "y": 960,
+                    "x": 960,
+                    "u": "https://preview.redd.it/scg0f8829ahf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=f62d143eea62795af228c7bfcd37461677204f04"
+                  }
+                ],
+                "s": {
+                  "y": 1024,
+                  "x": 1024,
+                  "u": "https://preview.redd.it/scg0f8829ahf1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=2a811545fefdd11ad066d94dafcc64b5376e0f6c"
+                },
+                "id": "scg0f8829ahf1"
+              }
+            },
+            "name": "t3_1miobog",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.81,
+            "author_flair_background_color": null,
+            "ups": 6,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_k8syh",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "News",
+            "can_mod_post": false,
+            "score": 6,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=251328f1e7266adb159e2897d64180b6da53f961",
+            "edited": 1754435623,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1754435074,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey LocalLlaMA! To celebrate the release of OpenAI GPT-OSS-120b, we&amp;#39;re also soft-launching the coding assistant we made that works with open-source models: &lt;a href=\"https://github.com/synthetic-lab/octofriend\"&gt;https://github.com/synthetic-lab/octofriend&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;You can run the models locally, or use inference providers (we run &lt;a href=\"https://synthetic.new\"&gt;a privacy-focused one&lt;/a&gt;). One of the neat things it does differently is used custom-trained models to auto-fix diffs and JSON tool calls when models make minor mistakes; we also open-sourced the models we trained: &lt;a href=\"https://huggingface.co/synthetic-lab/fix-json\"&gt;fix-json&lt;/a&gt; and &lt;a href=\"https://huggingface.co/diff-apply\"&gt;diff-apply&lt;/a&gt;. The models we trained are truly open-source: &lt;a href=\"https://github.com/synthetic-lab/octofriend/tree/main/training\"&gt;here&amp;#39;s the training code and synthetic data generation pipeline&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/scg0f8829ahf1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2a811545fefdd11ad066d94dafcc64b5376e0f6c\"&gt;https://preview.redd.it/scg0f8829ahf1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2a811545fefdd11ad066d94dafcc64b5376e0f6c&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Happy open source release day :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?auto=webp&amp;s=09f2308b92f0aa2465808358ee38cb8bf902dced",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=eab1807fd0d2a90e341dea1e3fa0036691f43a30",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e2cd5fa46778ce2a91628fef8bc7e520a6df5342",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ccae375db8c4a5adec0de6929a4bb5ed5967fb40",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d65a13c195798d7821de4fe9f0ac96748bc40f9f",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=66f8bdb0666058c55e7a439cf24b10eeb30432fb",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e885e440c4685be620af9286280976473fb39ca7",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "WrKsuk1CiUKFxv8BgI1hbzq2_vobi8CbYB46uwDVBEQ"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#cc3600",
+            "id": "1miobog",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "reissbaker",
+            "discussion_type": null,
+            "num_comments": 2,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1miobog/we_made_octofriend_a_localllmfriendly_coding/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1miobog/we_made_octofriend_a_localllmfriendly_coding/",
+            "subreddit_subscribers": 511364,
+            "created_utc": 1754435074,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n74vd8f",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "reissbaker",
+                      "can_mod_post": false,
+                      "created_utc": 1754435421,
+                      "send_replies": true,
+                      "parent_id": "t1_n74v5we",
+                      "score": 3,
+                      "author_fullname": "t2_k8syh",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Actually, the models we released are truly open-source! The training code and synthetic data generation pipeline is in the Octofriend repo in the \\`training/\\` directory :) I'll edit the main post to make that clear",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n74vd8f",
+                      "is_submitter": true,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Actually, the models we released are truly open-source! The training code and synthetic data generation pipeline is in the Octofriend repo in the `training/` directory :) I&amp;#39;ll edit the main post to make that clear&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1miobog",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1miobog/we_made_octofriend_a_localllmfriendly_coding/n74vd8f/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754435421,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 3
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "n74v5we",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "balianone",
+            "can_mod_post": false,
+            "created_utc": 1754435355,
+            "send_replies": true,
+            "parent_id": "t3_1miobog",
+            "score": 1,
+            "author_fullname": "t2_8pgou3uq9",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "open weight",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n74v5we",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;open weight&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1miobog/we_made_octofriend_a_localllmfriendly_coding/n74v5we/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754435355,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1miobog",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
