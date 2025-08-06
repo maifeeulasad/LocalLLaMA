@@ -1,0 +1,276 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "MNN Chat is now supporting Tencent's Hunyuan models\n\nyou can download at [MNN github](https://github.com/alibaba/MNN/blob/master/apps/Android/MnnLlmChat/README.md)  \nit is also available  in[ google play](https://play.google.com/store/apps/details?id=com.alibaba.mnnllm.android.release),\n\nKey features of the Hunyuan models include:\n\n* **Hybrid Reasoning Support**: It supports both fast and slow thinking modes, allowing for flexible use based on user needs.\n* **Ultra-Long Context Understanding**: The models natively support a 256K context window, ensuring stable performance on long-text tasks.\n* **Enhanced Agent Capabilities**: They are optimized for agent tasks and have achieved leading results on benchmarks like BFCL-v3, τ-Bench, and C3-Bench.\n* **Efficient Inference**: The models utilize Grouped Query Attention (GQA) and support multiple quantization formats for highly efficient inference.\n\nhttps://preview.redd.it/5ds7xdu37bhf1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=8550a0af516d8ec3026766ea4b194ed30a84722e\n\nhttps://preview.redd.it/78bswjs37bhf1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=30760248ca24cdb115dbcba5e6f655434b1bf307",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "MNN Chat is available in google play, and It's now supporting hunyuan models",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "5ds7xdu37bhf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=bf4054e97ac3041ad5b6ed1911eaa30603482947"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=340cbdf088f4027d42231eb20d6f4d4079c580d2"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5756d1e3c5a49e6e8a1a1c8003ed56cb679990f"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9de7690b3e4414415350b527288ca77db1a4aa86"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=50c1ab398b0102187946f6bed903216eb942ed20"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b00a1b6f6d640e9b40196b77be94eb855230c481"
+                  }
+                ],
+                "s": {
+                  "y": 2376,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/5ds7xdu37bhf1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=8550a0af516d8ec3026766ea4b194ed30a84722e"
+                },
+                "id": "5ds7xdu37bhf1"
+              },
+              "78bswjs37bhf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 216,
+                    "x": 108,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2d44db7d1aa0c1ffb35a6128e8f6678618a8f923"
+                  },
+                  {
+                    "y": 432,
+                    "x": 216,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=26f5816c3331a8dfd9ba6a26f2aabc03c7395002"
+                  },
+                  {
+                    "y": 640,
+                    "x": 320,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9ff998d26e3542dcee7df2efc36ecadacd5aba76"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 640,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20a11bcb24e50828a9afdd8f62f73bd97ab84a60"
+                  },
+                  {
+                    "y": 1920,
+                    "x": 960,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=10b49e44dfb228b691c48615551ed209aeac91f7"
+                  },
+                  {
+                    "y": 2160,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a36a1e9dfc1011794ef206fde6d59efd4508e64d"
+                  }
+                ],
+                "s": {
+                  "y": 2376,
+                  "x": 1080,
+                  "u": "https://preview.redd.it/78bswjs37bhf1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=30760248ca24cdb115dbcba5e6f655434b1bf307"
+                },
+                "id": "78bswjs37bhf1"
+              }
+            },
+            "name": "t3_1mistns",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.75,
+            "author_flair_background_color": null,
+            "ups": 6,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_orkom",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 6,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=e9eaaa0c1aa4d1df18aa5775d640ae02a0fb7ff4",
+            "edited": 1754462030,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1754447307,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;MNN Chat is now supporting Tencent&amp;#39;s Hunyuan models&lt;/p&gt;\n\n&lt;p&gt;you can download at &lt;a href=\"https://github.com/alibaba/MNN/blob/master/apps/Android/MnnLlmChat/README.md\"&gt;MNN github&lt;/a&gt;&lt;br/&gt;\nit is also available  in&lt;a href=\"https://play.google.com/store/apps/details?id=com.alibaba.mnnllm.android.release\"&gt; google play&lt;/a&gt;,&lt;/p&gt;\n\n&lt;p&gt;Key features of the Hunyuan models include:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Hybrid Reasoning Support&lt;/strong&gt;: It supports both fast and slow thinking modes, allowing for flexible use based on user needs.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ultra-Long Context Understanding&lt;/strong&gt;: The models natively support a 256K context window, ensuring stable performance on long-text tasks.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enhanced Agent Capabilities&lt;/strong&gt;: They are optimized for agent tasks and have achieved leading results on benchmarks like BFCL-v3, τ-Bench, and C3-Bench.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Efficient Inference&lt;/strong&gt;: The models utilize Grouped Query Attention (GQA) and support multiple quantization formats for highly efficient inference.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/5ds7xdu37bhf1.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=8550a0af516d8ec3026766ea4b194ed30a84722e\"&gt;https://preview.redd.it/5ds7xdu37bhf1.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=8550a0af516d8ec3026766ea4b194ed30a84722e&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/78bswjs37bhf1.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=30760248ca24cdb115dbcba5e6f655434b1bf307\"&gt;https://preview.redd.it/78bswjs37bhf1.jpg?width=1080&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=30760248ca24cdb115dbcba5e6f655434b1bf307&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?auto=webp&amp;s=605e9629abc407425a76da09d12604bb03df7466",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=94db7ebcc4ae9594945b7e1c0449739b6836c8d8",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=4797ed6add0e49a6f76d46a9340d41a2d90d540e",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eae1e1772a155de20c56cb1fa4a2f446e390ee32",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9883cab44a5222f89c36f45f343131991354d54e",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ea83c623c38a32f7db00dcc1895001bfc381b31c",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=de899a360aa748da8b8fa4139237f6abed0c1e3d",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "EVTxEQi_0AgGFAZNzaTG-rWwILtES4kPv_x_XRABSAI"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mistns",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Juude89",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mistns/mnn_chat_is_available_in_google_play_and_its_now/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mistns/mnn_chat_is_available_in_google_play_and_its_now/",
+            "subreddit_subscribers": 511887,
+            "created_utc": 1754447307,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

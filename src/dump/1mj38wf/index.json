@@ -1,0 +1,290 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Get half the throughput &amp; OOM issues when I use wrappers. Always love coming back to the OG. Terminal logs below for the curious. Should note that the system prompt flag I used does not reliably get high reasoning modes working, as seen in the logs. Need to mess around with llama CLI and llama server flags further to get it working more consistently. \n\n\n---\n\n\n```\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ ./build/bin/llama-cli -m ~/.lmstudio/models/lmstudio-community/gpt-oss-20b-GGUF/gpt-oss-20b-MXFP4.gguf --threads 4   -fa   --ctx-size 128000   --gpu-layers 999 --system-prompt \"reasoning:high\" --file ~/Projects/llamacpp/6096/llama.cpp/testprompt.txt\nggml_cuda_init: GGML_CUDA_FORCE_MMQ:    no\nggml_cuda_init: GGML_CUDA_FORCE_CUBLAS: no\nggml_cuda_init: found 1 CUDA devices:\n  Device 0: NVIDIA GeForce RTX 5060 Ti, compute capability 12.0, VMM: yes\nbuild: 6096 (fd1234cb) with cc (Ubuntu 14.2.0-19ubuntu2) 14.2.0 for x86_64-linux-gnu\nmain: llama backend init\nmain: load the model and apply lora adapter, if any\nllama_model_load_from_file_impl: using device CUDA0 (NVIDIA GeForce RTX 5060 Ti) - 15701 MiB free\n```\n\n```\nload_tensors: offloading 24 repeating layers to GPU\nload_tensors: offloading output layer to GPU\nload_tensors: offloaded 25/25 layers to GPU\nload_tensors:        CUDA0 model buffer size = 10949.38 MiB\nload_tensors:   CPU_Mapped model buffer size =   586.82 MiB\n................................................................................\nllama_context: constructing llama_context\nllama_context: n_seq_max     = 1\nllama_context: n_ctx         = 128000\nllama_context: n_ctx_per_seq = 128000\nllama_context: n_batch       = 2048\nllama_context: n_ubatch      = 512\nllama_context: causal_attn   = 1\nllama_context: flash_attn    = 1\nllama_context: kv_unified    = false\nllama_context: freq_base     = 150000.0\nllama_context: freq_scale    = 0.03125\nllama_context: n_ctx_per_seq (128000) &lt; n_ctx_train (131072) -- the full capacity of the model will not be utilized\nllama_context:  CUDA_Host  output buffer size =     0.77 MiB\nllama_kv_cache_unified_iswa: creating non-SWA KV cache, size = 128000 cells\nllama_kv_cache_unified:      CUDA0 KV buffer size =  3000.00 MiB\nllama_kv_cache_unified: size = 3000.00 MiB (128000 cells,  12 layers,  1/1 seqs), K (f16): 1500.00 MiB, V (f16): 1500.00 MiB\nllama_kv_cache_unified_iswa: creating     SWA KV cache, size = 768 cells\nllama_kv_cache_unified:      CUDA0 KV buffer size =    18.00 MiB\nllama_kv_cache_unified: size =   18.00 MiB (   768 cells,  12 layers,  1/1 seqs), K (f16):    9.00 MiB, V (f16):    9.00 MiB\nllama_context:      CUDA0 compute buffer size =   404.52 MiB\nllama_context:  CUDA_Host compute buffer size =   257.15 MiB\nllama_context: graph nodes  = 1352\nllama_context: graph splits = 2\ncommon_init_from_params: KV cache shifting is not supported for this context, disabling KV cache shifting\ncommon_init_from_params: added &lt;|endoftext|&gt; logit bias = -inf\ncommon_init_from_params: added &lt;|return|&gt; logit bias = -inf\ncommon_init_from_params: added &lt;|call|&gt; logit bias = -inf\ncommon_init_from_params: setting dry_penalty_last_n to ctx_size = 128000\ncommon_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)\nmain: llama threadpool init, n_threads = 4\nmain: chat template is available, enabling conversation mode (disable it with -no-cnv)\nmain: chat template example:\n&lt;|start|&gt;system&lt;|message|&gt;You are a helpful assistant&lt;|end|&gt;&lt;|start|&gt;user&lt;|message|&gt;Hello&lt;|end|&gt;&lt;|start|&gt;assistant&lt;|message|&gt;Hi there&lt;|return|&gt;&lt;|start|&gt;user&lt;|message|&gt;How are you?&lt;|end|&gt;&lt;|start|&gt;assistant\n\nsystem_info: n_threads = 4 (n_threads_batch = 4) / 12 | CUDA : ARCHS = 860 | F16 = 1 | USE_GRAPHS = 1 | PEER_MAX_BATCH_SIZE = 128 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX_VNNI = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | \n```\n\n```\n&gt; \nllama_perf_sampler_print:    sampling time =      57.99 ms /  3469 runs   (    0.02 ms per token, 59816.53 tokens per second)\nllama_perf_context_print:        load time =    3085.12 ms\nllama_perf_context_print: prompt eval time =    1918.14 ms /  2586 tokens (    0.74 ms per token,  1348.18 tokens per second)\nllama_perf_context_print:        eval time =    9029.84 ms /   882 runs   (   10.24 ms per token,    97.68 tokens per second)\nllama_perf_context_print:       total time =   81998.43 ms /  3468 tokens\nllama_perf_context_print:    graphs reused =        878\nInterrupted by user\n```\n\n---\nMostly similar flags for 120b, with exception of the FFNN offloading, \n\n```\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ ./build/bin/llama-cli   -m ~/.lmstudio/models/lmstudio-community/gpt-oss-120b-GGUF/gpt-oss-120b-MXFP4-00001-of-00002.gguf   --threads 6   -fa   --ctx-size 128000 --gpu-layers 999  -ot \".ffn_.*_exps\\.weight=CPU\" --system-prompt \"reasoning:high\" --file ~/Projects/llamacpp/6096/llama.cpp/testprompt.txt\n```\n\n```\n&gt;\nllama_perf_sampler_print:    sampling time =      74.12 ms /  3778 runs   (    0.02 ms per token, 50974.15 tokens per second)\nllama_perf_context_print:        load time =    3162.42 ms\nllama_perf_context_print: prompt eval time =   19010.51 ms /  2586 tokens (    7.35 ms per token,   136.03 tokens per second)\nllama_perf_context_print:        eval time =   51923.39 ms /  1191 runs   (   43.60 ms per token,    22.94 tokens per second)\nllama_perf_context_print:       total time =   89483.94 ms /  3777 tokens\nllama_perf_context_print:    graphs reused =       1186\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ \n```",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "is_gallery": true,
+            "title": "Simultaneously running 128k context windows on gpt-oss-20b (TG: 97 t/s, PP: 1348 t/s | 5060ti 16gb) &amp; gpt-oss-120b (TG: 22 t/s, PP: 136 t/s | 3070ti 8gb + expert FFNN offload to Zen 5 9600x with ~55/96gb DDR5-6400). Lots of performance reclaimed with rawdog llama.cpp CLI / server VS LM Studio!",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Generation"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 140,
+            "top_awarded_type": null,
+            "name": "t3_1mj38wf",
+            "media_metadata": {
+              "9vvndff37ehf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 120,
+                    "x": 108,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=dfcca0f06c6a9aeeb9cff91bdd1f09acd5ee8fac"
+                  },
+                  {
+                    "y": 241,
+                    "x": 216,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=92ad81569ba34de870d30127fb3921a8f1426bc3"
+                  },
+                  {
+                    "y": 358,
+                    "x": 320,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d3c1af82c5ea831285cd0b058d8543b93e989af"
+                  },
+                  {
+                    "y": 717,
+                    "x": 640,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e9f2b4fd3d97cfbb2e5b3f4234a7cb5625d6522"
+                  },
+                  {
+                    "y": 1075,
+                    "x": 960,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=83d3e177401e393cc41025f9ad5103e4b8130277"
+                  },
+                  {
+                    "y": 1209,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5bb73e85245a6abcb994da5f815d6674234cbf8f"
+                  }
+                ],
+                "s": {
+                  "y": 2151,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/9vvndff37ehf1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=1ab9daaa8b1cabdecf69eefd3b4e3a1750957124"
+                },
+                "id": "9vvndff37ehf1"
+              },
+              "s6tkagf37ehf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 120,
+                    "x": 108,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2dd305d47b0fd4ab9bc188d0d70ef17035b8bd8a"
+                  },
+                  {
+                    "y": 241,
+                    "x": 216,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=16aa7187eb037c3bf3b19bb499a1cf324c0feb09"
+                  },
+                  {
+                    "y": 358,
+                    "x": 320,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2a368afcdf023cea3d6c8c99f2bf1f1fd476d548"
+                  },
+                  {
+                    "y": 717,
+                    "x": 640,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ff80665fbf509621fa7db273cd48633d1a61b18"
+                  },
+                  {
+                    "y": 1075,
+                    "x": 960,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3cbb4795e9a6d169a10b34df33568770f748aef4"
+                  },
+                  {
+                    "y": 1209,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6df2371c24a657976b3ce7e84f91075cb2cd5dfa"
+                  }
+                ],
+                "s": {
+                  "y": 2151,
+                  "x": 1920,
+                  "u": "https://preview.redd.it/s6tkagf37ehf1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=7bd0ee80378a57eeef2fb97b1656bb74a3fcee54"
+                },
+                "id": "s6tkagf37ehf1"
+              },
+              "kavw7lf37ehf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/jpg",
+                "p": [
+                  {
+                    "y": 144,
+                    "x": 108,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3b9eccef2ba6e4ad6571922d53e4788fb595f8d9"
+                  },
+                  {
+                    "y": 288,
+                    "x": 216,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2a2a376985acd1696a1e6e65a620e281c7c1c84d"
+                  },
+                  {
+                    "y": 426,
+                    "x": 320,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=805cdb9612909edd85bd22b9217a3bd5e858518c"
+                  },
+                  {
+                    "y": 853,
+                    "x": 640,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=015543ccea21eeb04f9cfcfe7358d4245257ef27"
+                  },
+                  {
+                    "y": 1280,
+                    "x": 960,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c75b1fd2702335c3e022087ace033837c990dbe6"
+                  },
+                  {
+                    "y": 1440,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=058f272e3de1ae517875190728e8aea051b1e7cc"
+                  }
+                ],
+                "s": {
+                  "y": 4032,
+                  "x": 3024,
+                  "u": "https://preview.redd.it/kavw7lf37ehf1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=0e184e74559e60415a259a82126e636df08f81a8"
+                },
+                "id": "kavw7lf37ehf1"
+              }
+            },
+            "hide_score": true,
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 2,
+            "domain": "reddit.com",
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_6f7v3",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "gallery_data": {
+              "items": [
+                {
+                  "media_id": "s6tkagf37ehf1",
+                  "id": 722452317
+                },
+                {
+                  "media_id": "9vvndff37ehf1",
+                  "id": 722452318
+                },
+                {
+                  "media_id": "kavw7lf37ehf1",
+                  "id": 722452319
+                }
+              ]
+            },
+            "link_flair_text": "Generation",
+            "can_mod_post": false,
+            "score": 2,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/ohiXDMREdAxk39G2QyHm8Z-h-EueRHqcUNogDjgJZA0.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754483120,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Get half the throughput &amp;amp; OOM issues when I use wrappers. Always love coming back to the OG. Terminal logs below for the curious. Should note that the system prompt flag I used does not reliably get high reasoning modes working, as seen in the logs. Need to mess around with llama CLI and llama server flags further to get it working more consistently. &lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;code&gt;\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ ./build/bin/llama-cli -m ~/.lmstudio/models/lmstudio-community/gpt-oss-20b-GGUF/gpt-oss-20b-MXFP4.gguf --threads 4   -fa   --ctx-size 128000   --gpu-layers 999 --system-prompt &amp;quot;reasoning:high&amp;quot; --file ~/Projects/llamacpp/6096/llama.cpp/testprompt.txt\nggml_cuda_init: GGML_CUDA_FORCE_MMQ:    no\nggml_cuda_init: GGML_CUDA_FORCE_CUBLAS: no\nggml_cuda_init: found 1 CUDA devices:\n  Device 0: NVIDIA GeForce RTX 5060 Ti, compute capability 12.0, VMM: yes\nbuild: 6096 (fd1234cb) with cc (Ubuntu 14.2.0-19ubuntu2) 14.2.0 for x86_64-linux-gnu\nmain: llama backend init\nmain: load the model and apply lora adapter, if any\nllama_model_load_from_file_impl: using device CUDA0 (NVIDIA GeForce RTX 5060 Ti) - 15701 MiB free\n&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;```\nload_tensors: offloading 24 repeating layers to GPU\nload_tensors: offloading output layer to GPU\nload_tensors: offloaded 25/25 layers to GPU\nload_tensors:        CUDA0 model buffer size = 10949.38 MiB\nload_tensors:   CPU_Mapped model buffer size =   586.82 MiB\n................................................................................\nllama_context: constructing llama_context\nllama_context: n_seq_max     = 1\nllama_context: n_ctx         = 128000\nllama_context: n_ctx_per_seq = 128000\nllama_context: n_batch       = 2048\nllama_context: n_ubatch      = 512\nllama_context: causal_attn   = 1\nllama_context: flash_attn    = 1\nllama_context: kv_unified    = false\nllama_context: freq_base     = 150000.0\nllama_context: freq_scale    = 0.03125\nllama_context: n_ctx_per_seq (128000) &amp;lt; n_ctx_train (131072) -- the full capacity of the model will not be utilized\nllama_context:  CUDA_Host  output buffer size =     0.77 MiB\nllama_kv_cache_unified_iswa: creating non-SWA KV cache, size = 128000 cells\nllama_kv_cache_unified:      CUDA0 KV buffer size =  3000.00 MiB\nllama_kv_cache_unified: size = 3000.00 MiB (128000 cells,  12 layers,  1/1 seqs), K (f16): 1500.00 MiB, V (f16): 1500.00 MiB\nllama_kv_cache_unified_iswa: creating     SWA KV cache, size = 768 cells\nllama_kv_cache_unified:      CUDA0 KV buffer size =    18.00 MiB\nllama_kv_cache_unified: size =   18.00 MiB (   768 cells,  12 layers,  1/1 seqs), K (f16):    9.00 MiB, V (f16):    9.00 MiB\nllama_context:      CUDA0 compute buffer size =   404.52 MiB\nllama_context:  CUDA_Host compute buffer size =   257.15 MiB\nllama_context: graph nodes  = 1352\nllama_context: graph splits = 2\ncommon_init_from_params: KV cache shifting is not supported for this context, disabling KV cache shifting\ncommon_init_from_params: added &amp;lt;|endoftext|&amp;gt; logit bias = -inf\ncommon_init_from_params: added &amp;lt;|return|&amp;gt; logit bias = -inf\ncommon_init_from_params: added &amp;lt;|call|&amp;gt; logit bias = -inf\ncommon_init_from_params: setting dry_penalty_last_n to ctx_size = 128000\ncommon_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)\nmain: llama threadpool init, n_threads = 4\nmain: chat template is available, enabling conversation mode (disable it with -no-cnv)\nmain: chat template example:\n&amp;lt;|start|&amp;gt;system&amp;lt;|message|&amp;gt;You are a helpful assistant&amp;lt;|end|&amp;gt;&amp;lt;|start|&amp;gt;user&amp;lt;|message|&amp;gt;Hello&amp;lt;|end|&amp;gt;&amp;lt;|start|&amp;gt;assistant&amp;lt;|message|&amp;gt;Hi there&amp;lt;|return|&amp;gt;&amp;lt;|start|&amp;gt;user&amp;lt;|message|&amp;gt;How are you?&amp;lt;|end|&amp;gt;&amp;lt;|start|&amp;gt;assistant&lt;/p&gt;\n\n&lt;p&gt;system_info: n_threads = 4 (n_threads_batch = 4) / 12 | CUDA : ARCHS = 860 | F16 = 1 | USE_GRAPHS = 1 | PEER_MAX_BATCH_SIZE = 128 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX_VNNI = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VBMI = 1 | AVX512_VNNI = 1 | AVX512_BF16 = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | \n```&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;llama_perf_sampler_print:    sampling time =      57.99 ms /  3469 runs   (    0.02 ms per token, 59816.53 tokens per second)\nllama_perf_context_print:        load time =    3085.12 ms\nllama_perf_context_print: prompt eval time =    1918.14 ms /  2586 tokens (    0.74 ms per token,  1348.18 tokens per second)\nllama_perf_context_print:        eval time =    9029.84 ms /   882 runs   (   10.24 ms per token,    97.68 tokens per second)\nllama_perf_context_print:       total time =   81998.43 ms /  3468 tokens\nllama_perf_context_print:    graphs reused =        878\nInterrupted by user\n```&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Mostly similar flags for 120b, with exception of the FFNN offloading, &lt;/p&gt;\n\n&lt;p&gt;&lt;code&gt;\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ ./build/bin/llama-cli   -m ~/.lmstudio/models/lmstudio-community/gpt-oss-120b-GGUF/gpt-oss-120b-MXFP4-00001-of-00002.gguf   --threads 6   -fa   --ctx-size 128000 --gpu-layers 999  -ot &amp;quot;.ffn_.*_exps\\.weight=CPU&amp;quot; --system-prompt &amp;quot;reasoning:high&amp;quot; --file ~/Projects/llamacpp/6096/llama.cpp/testprompt.txt\n&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;llama_perf_sampler_print:    sampling time =      74.12 ms /  3778 runs   (    0.02 ms per token, 50974.15 tokens per second)\nllama_perf_context_print:        load time =    3162.42 ms\nllama_perf_context_print: prompt eval time =   19010.51 ms /  2586 tokens (    7.35 ms per token,   136.03 tokens per second)\nllama_perf_context_print:        eval time =   51923.39 ms /  1191 runs   (   43.60 ms per token,    22.94 tokens per second)\nllama_perf_context_print:       total time =   89483.94 ms /  3777 tokens\nllama_perf_context_print:    graphs reused =       1186\nali@TheTower:~/Projects/llamacpp/6096/llama.cpp$ \n```&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.reddit.com/gallery/1mj38wf",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "23bddba8-ff56-11ed-9688-1a11994b71f7",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#b5a3d0",
+            "id": "1mj38wf",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "altoidsjedi",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mj38wf/simultaneously_running_128k_context_windows_on/",
+            "stickied": false,
+            "url": "https://www.reddit.com/gallery/1mj38wf",
+            "subreddit_subscribers": 511882,
+            "created_utc": 1754483120,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

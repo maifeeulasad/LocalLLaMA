@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "So... 2 days ago i couldn't sleep. \n\n\n\nI was obsessed with an idea coming my intuition, i'm not an expert at all (I've only done some ml stuff almost 10 years ago).\n\nThat idea is about how to go beyond context since it's very limited, model doesn't learn from it, i mean it could be it would be very expensive and if you do it at per user basis...\n\nSo that idea came from nowhere, what if we use a tensor or even a simple matrice that we will call thought (yes, that's crazy) and we generate it alongside token and we reuse it as input, as it's own modality.\n\nAt first i was thinking of a single \"cube\" (3D tensor) generated each time and reused for next generation, then i thought \"what if we add it each time in a 4th dimension\" it could add temporality to the thought (I'm just thinking that it would be a chain of thoughts...).\n\n\n\nIt kept me awake so much time...\n\n\n\nI had so many thoughts about the size, dimension, resolution of tensor, \"what if we don't store just a single number each time but a vector\", \"What if we increased dimension\", \"What if we add another model that compress the full stack in a higher dimension...\", I was hooked !\n\nAt some point I started brainstoming with my dude claude (Yes he is very helpfull) and together we made some plans.\n\nWe settled on a very small diffusion model, 2D output thought and 3D thought stack input.\n\nFor the diffusion model, we tried to reproduce DREAM (https://github.com/DreamLM/Dream) using some bribes of data that fast-dllm (https://github.com/NVlabs/Fast-dLLM) gave.\n\nA research was starting, loaded everything on my computer and started driving my dude like crazy (Don't judge me it would have taken a month or more otherwise).\n\n\n\n1 day and a half later a proof of concept is implemented but not really tested for what it is, all i know is it kinda work (not better than it's baseline), thoughts are forming, model is learning but since it need so much compute to know if thoughts are usefull or not.\n\nIt would take days of training on better hardware than mine for something to emerge if it emerge with the current implementation...\n\n\n\nI was thinking that it could be cool to just open source it for you guys to see ! And here I am !\n\nMost of what you'll see is written by claude so it might contain some egg shell, it did my best to keep him on track and prevent mistake, and i read most of it's ouputs, it wasn't a yolo thing.\n\n\n\nSo, here it is [https://github.com/kkuette/diffusion-thought-tensor](https://github.com/kkuette/diffusion-thought-tensor) enjoy.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Diffusion Thought Tensor",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mj339p",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 3,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_ebjryj0q",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 3,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754482684,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So... 2 days ago i couldn&amp;#39;t sleep. &lt;/p&gt;\n\n&lt;p&gt;I was obsessed with an idea coming my intuition, i&amp;#39;m not an expert at all (I&amp;#39;ve only done some ml stuff almost 10 years ago).&lt;/p&gt;\n\n&lt;p&gt;That idea is about how to go beyond context since it&amp;#39;s very limited, model doesn&amp;#39;t learn from it, i mean it could be it would be very expensive and if you do it at per user basis...&lt;/p&gt;\n\n&lt;p&gt;So that idea came from nowhere, what if we use a tensor or even a simple matrice that we will call thought (yes, that&amp;#39;s crazy) and we generate it alongside token and we reuse it as input, as it&amp;#39;s own modality.&lt;/p&gt;\n\n&lt;p&gt;At first i was thinking of a single &amp;quot;cube&amp;quot; (3D tensor) generated each time and reused for next generation, then i thought &amp;quot;what if we add it each time in a 4th dimension&amp;quot; it could add temporality to the thought (I&amp;#39;m just thinking that it would be a chain of thoughts...).&lt;/p&gt;\n\n&lt;p&gt;It kept me awake so much time...&lt;/p&gt;\n\n&lt;p&gt;I had so many thoughts about the size, dimension, resolution of tensor, &amp;quot;what if we don&amp;#39;t store just a single number each time but a vector&amp;quot;, &amp;quot;What if we increased dimension&amp;quot;, &amp;quot;What if we add another model that compress the full stack in a higher dimension...&amp;quot;, I was hooked !&lt;/p&gt;\n\n&lt;p&gt;At some point I started brainstoming with my dude claude (Yes he is very helpfull) and together we made some plans.&lt;/p&gt;\n\n&lt;p&gt;We settled on a very small diffusion model, 2D output thought and 3D thought stack input.&lt;/p&gt;\n\n&lt;p&gt;For the diffusion model, we tried to reproduce DREAM (&lt;a href=\"https://github.com/DreamLM/Dream\"&gt;https://github.com/DreamLM/Dream&lt;/a&gt;) using some bribes of data that fast-dllm (&lt;a href=\"https://github.com/NVlabs/Fast-dLLM\"&gt;https://github.com/NVlabs/Fast-dLLM&lt;/a&gt;) gave.&lt;/p&gt;\n\n&lt;p&gt;A research was starting, loaded everything on my computer and started driving my dude like crazy (Don&amp;#39;t judge me it would have taken a month or more otherwise).&lt;/p&gt;\n\n&lt;p&gt;1 day and a half later a proof of concept is implemented but not really tested for what it is, all i know is it kinda work (not better than it&amp;#39;s baseline), thoughts are forming, model is learning but since it need so much compute to know if thoughts are usefull or not.&lt;/p&gt;\n\n&lt;p&gt;It would take days of training on better hardware than mine for something to emerge if it emerge with the current implementation...&lt;/p&gt;\n\n&lt;p&gt;I was thinking that it could be cool to just open source it for you guys to see ! And here I am !&lt;/p&gt;\n\n&lt;p&gt;Most of what you&amp;#39;ll see is written by claude so it might contain some egg shell, it did my best to keep him on track and prevent mistake, and i read most of it&amp;#39;s ouputs, it wasn&amp;#39;t a yolo thing.&lt;/p&gt;\n\n&lt;p&gt;So, here it is &lt;a href=\"https://github.com/kkuette/diffusion-thought-tensor\"&gt;https://github.com/kkuette/diffusion-thought-tensor&lt;/a&gt; enjoy.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?auto=webp&amp;s=648f540141da448d4c8f3fef5d9bdedbf2c9ba69",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=078ac6a67dbd5bd8fb9db08b768e4791a16bde5f",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=80961e23ff71ace9003d7cbb83252de9118531f3",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7aea376f34c28ccb2d7421ed08999c9982f41a6b",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=05e45ab8c3ecb7af774402ec5c369b2dc4c83616",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d9279c62aa0961e6935618a73a60d11dfb3bea17",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=dbd28239e8b8efe381fa0791d7cd9bed787339b2",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "DlOrHqmZq1jQaubDY4ik1dj9lWCdQTqmYeRKN6jgM5M"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mj339p",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "KKuettes",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mj339p/diffusion_thought_tensor/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mj339p/diffusion_thought_tensor/",
+            "subreddit_subscribers": 511882,
+            "created_utc": 1754482684,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

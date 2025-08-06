@@ -1,0 +1,223 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "The project started wanting to make something that had an LLM at its core. As a fan of detective stories this idea started growing of a game that understood your questions but gave you answers that were actionable by the game engine and made you progress in the story, and also answers that had to be 100% true to the story. \n\nWhat I landed on was a system with a list of questions an answers, an interview, where each time you ask a question that was already asked it will unlock you the answer. The power of LLMs allow you to ask the question in an unthinkable number of ways, for instance you can ask \"How old are you?\", \"wat ur age\", or \"how many times did the earth revolve around the sun since you were born?\" and the same answer will be unlocked (the age of the interviewee).\n\nThe current version uses a server for LLM APIs, but I'm also working on a free version that would use llama.cpp locally. My target is 100% accuracy on a selection of QnAs in less than 2 seconds total processing time using just CPU (I use my notebook's CPU as reference, an i5). I got 100% accuracy in 60 seconds with gemma2 9b, which is the smaller model to 100% the test. I got 90% with Qwen3-1.7b which takes around 2 seconds (so close!). I use non-thinking models but I kind of force a small thought through structuring the output (one of the fields in the output asks the LLM to explain what's the point of the given question).\n\nAny insights on how to improve the local performance?\n\nYou can find the game on steam: [https://store.steampowered.com/app/2448910/Pixel\\_PI/](https://store.steampowered.com/app/2448910/Pixel_PI/)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Today I released Pixel P.I. on steam, a detective game where you ask the questions.",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 78,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mj19cq",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.6,
+            "author_flair_background_color": null,
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_hgivzvub",
+            "secure_media": null,
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://a.thumbs.redditmedia.com/_7wYVI4D5ovfOll54u6NBzpeGf3JTQ3ZkUtDBuJIF_0.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "image",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754477068,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "i.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The project started wanting to make something that had an LLM at its core. As a fan of detective stories this idea started growing of a game that understood your questions but gave you answers that were actionable by the game engine and made you progress in the story, and also answers that had to be 100% true to the story. &lt;/p&gt;\n\n&lt;p&gt;What I landed on was a system with a list of questions an answers, an interview, where each time you ask a question that was already asked it will unlock you the answer. The power of LLMs allow you to ask the question in an unthinkable number of ways, for instance you can ask &amp;quot;How old are you?&amp;quot;, &amp;quot;wat ur age&amp;quot;, or &amp;quot;how many times did the earth revolve around the sun since you were born?&amp;quot; and the same answer will be unlocked (the age of the interviewee).&lt;/p&gt;\n\n&lt;p&gt;The current version uses a server for LLM APIs, but I&amp;#39;m also working on a free version that would use llama.cpp locally. My target is 100% accuracy on a selection of QnAs in less than 2 seconds total processing time using just CPU (I use my notebook&amp;#39;s CPU as reference, an i5). I got 100% accuracy in 60 seconds with gemma2 9b, which is the smaller model to 100% the test. I got 90% with Qwen3-1.7b which takes around 2 seconds (so close!). I use non-thinking models but I kind of force a small thought through structuring the output (one of the fields in the output asks the LLM to explain what&amp;#39;s the point of the given question).&lt;/p&gt;\n\n&lt;p&gt;Any insights on how to improve the local performance?&lt;/p&gt;\n\n&lt;p&gt;You can find the game on steam: &lt;a href=\"https://store.steampowered.com/app/2448910/Pixel_PI/\"&gt;https://store.steampowered.com/app/2448910/Pixel_PI/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://i.redd.it/eosgzq3zodhf1.gif",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://preview.redd.it/eosgzq3zodhf1.gif?format=png8&amp;s=bfc63f1e3878317160ab89392896fb79338b5ef9",
+                    "width": 480,
+                    "height": 270
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=4e26bf0eb76a9e10063557b3d742a8d2dceafc4c",
+                      "width": 108,
+                      "height": 60
+                    },
+                    {
+                      "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=995c628f158d4fbc3e59e9989735d39b68b40a67",
+                      "width": 216,
+                      "height": 121
+                    },
+                    {
+                      "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=8dbab48156b3df9b74c00e38d7ee691be03eeef3",
+                      "width": 320,
+                      "height": 180
+                    }
+                  ],
+                  "variants": {
+                    "gif": {
+                      "source": {
+                        "url": "https://preview.redd.it/eosgzq3zodhf1.gif?s=66075b566b03368f7603fc8f30b62e7f46527a9a",
+                        "width": 480,
+                        "height": 270
+                      },
+                      "resolutions": [
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=108&amp;crop=smart&amp;s=b8d6169171a238db1b8063092be5ed892e282393",
+                          "width": 108,
+                          "height": 60
+                        },
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=216&amp;crop=smart&amp;s=71a44d82cd86a2d27b10a5bb885d866b5a110dd3",
+                          "width": 216,
+                          "height": 121
+                        },
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=320&amp;crop=smart&amp;s=441a7b91350870d8437c0023f7c065f54e400f87",
+                          "width": 320,
+                          "height": 180
+                        }
+                      ]
+                    },
+                    "mp4": {
+                      "source": {
+                        "url": "https://preview.redd.it/eosgzq3zodhf1.gif?format=mp4&amp;s=f4f6d26febc142a46f3ed3aa58896c3d5bc32988",
+                        "width": 480,
+                        "height": 270
+                      },
+                      "resolutions": [
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=108&amp;format=mp4&amp;s=432f93aa3eb18519989dd1c3d4e72f90c147bbab",
+                          "width": 108,
+                          "height": 60
+                        },
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=216&amp;format=mp4&amp;s=3da5bf0aec0a0e2ee9d4a5bf57d21a552e6946d2",
+                          "width": 216,
+                          "height": 121
+                        },
+                        {
+                          "url": "https://preview.redd.it/eosgzq3zodhf1.gif?width=320&amp;format=mp4&amp;s=b701b9fedac21ada6d9089db529d8d5727607ac6",
+                          "width": 320,
+                          "height": 180
+                        }
+                      ]
+                    }
+                  },
+                  "id": "uOetqOYqb2-SiZGr8cNEvkK87QyrfjdqR9kPARS2Hb4"
+                }
+              ],
+              "enabled": true
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1mj19cq",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "ArcaneThoughts",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mj19cq/today_i_released_pixel_pi_on_steam_a_detective/",
+            "stickied": false,
+            "url": "https://i.redd.it/eosgzq3zodhf1.gif",
+            "subreddit_subscribers": 511882,
+            "created_utc": 1754477068,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

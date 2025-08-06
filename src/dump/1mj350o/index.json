@@ -1,0 +1,217 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hi, Emre from Jan here.\n\nAs of v0.6.7, Jan can now run gpt-oss locally via llama.cpp.\n\nWhat works:\n\n* Reasoning works, including &lt;think&gt; content (we've added frontend support to handle OpenAI's new reasoning format)\n* Available directly in Hub - please update Jan to v0.6.7\n\nWhat's not included (yet): \n\n* Tool use doesn't work for now. We scoped it out after testing, as upstream llama.cpp still has TODOs for this in the gpt-oss support PR\n\nIf you've already downloaded the models elsewhere and want to use them in Jan, go to Settings -&gt; Model Providers -&gt; llama.cpp, and use the **Import** button to add your models.\n\nUpdate your Jan or download the latest to run gpt-oss in Jan: [https://jan.ai/](https://jan.ai/)\n\n\\---  \n  \nIf you're curious about how we got it working: We initially explored using the new reasoning\\_format support in llama.cpp (b6097), but found it wasn't parsing correctly yet. So, we fell back to handling &lt;think&gt; blocks directly on the frontend with some custom logic, and it works for now. ",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Jan now supports gpt-oss",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "News"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 111,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mj350o",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.63,
+            "author_flair_background_color": null,
+            "ups": 2,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_g6cmmsdd",
+            "secure_media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/kyp6726o5ehf1/DASH_1080.mp4?source=fallback",
+                "has_audio": false,
+                "height": 1080,
+                "width": 1356,
+                "scrubber_media_url": "https://v.redd.it/kyp6726o5ehf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/kyp6726o5ehf1/DASHPlaylist.mpd?a=1757075473%2CNWJiYjg5OWU5YTlhNmY4NzExYTk5MGE3NzA3M2RmY2I4NjIxNzg5ODhjMjUyZjUzZDIxMmQ3OGUwMTIxMTk4Mw%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 16,
+                "hls_url": "https://v.redd.it/kyp6726o5ehf1/HLSPlaylist.m3u8?a=1757075473%2CNzM3NGUwNmUyNTVjNmU0YjlmZDE5YjkyNWZkZTMwOGEwMTc4ZjFiMWZhMjAyNjkxODFkYWVjMzdiNDg3MDA1NA%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "News",
+            "can_mod_post": false,
+            "score": 2,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=140&amp;height=111&amp;crop=140:111,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=2a124a2b61bc6e50c20bb7a867fc4974f280b6b0",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "hosted:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754482820,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "v.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi, Emre from Jan here.&lt;/p&gt;\n\n&lt;p&gt;As of v0.6.7, Jan can now run gpt-oss locally via llama.cpp.&lt;/p&gt;\n\n&lt;p&gt;What works:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Reasoning works, including &amp;lt;think&amp;gt; content (we&amp;#39;ve added frontend support to handle OpenAI&amp;#39;s new reasoning format)&lt;/li&gt;\n&lt;li&gt;Available directly in Hub - please update Jan to v0.6.7&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;What&amp;#39;s not included (yet): &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Tool use doesn&amp;#39;t work for now. We scoped it out after testing, as upstream llama.cpp still has TODOs for this in the gpt-oss support PR&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;If you&amp;#39;ve already downloaded the models elsewhere and want to use them in Jan, go to Settings -&amp;gt; Model Providers -&amp;gt; llama.cpp, and use the &lt;strong&gt;Import&lt;/strong&gt; button to add your models.&lt;/p&gt;\n\n&lt;p&gt;Update your Jan or download the latest to run gpt-oss in Jan: &lt;a href=\"https://jan.ai/\"&gt;https://jan.ai/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;---  &lt;/p&gt;\n\n&lt;p&gt;If you&amp;#39;re curious about how we got it working: We initially explored using the new reasoning_format support in llama.cpp (b6097), but found it wasn&amp;#39;t parsing correctly yet. So, we fell back to handling &amp;lt;think&amp;gt; blocks directly on the frontend with some custom logic, and it works for now. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://v.redd.it/kyp6726o5ehf1",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?format=pjpg&amp;auto=webp&amp;s=ab25796dca69cd9a95deb1a4b1ccc825af0c6050",
+                    "width": 1356,
+                    "height": 1080
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=53da695799164fc9bd933b83599c4323d7387d0e",
+                      "width": 108,
+                      "height": 86
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=a90c3fc3d9b020530e69dadf1ea7f28b466e5196",
+                      "width": 216,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=bc8e54bf60a245b7dde29a3e0f20c13b45924ff0",
+                      "width": 320,
+                      "height": 254
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=2d0f89b88833e33c0f768f67e51de02e5159b222",
+                      "width": 640,
+                      "height": 509
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=656ec0733d7ace0ca2783e461b75480602bd4432",
+                      "width": 960,
+                      "height": 764
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=07f2a65ebf6647b13eae74d44cfc8396f6bfb8b0",
+                      "width": 1080,
+                      "height": 860
+                    }
+                  ],
+                  "variants": {},
+                  "id": "NGt2MDcyNm81ZWhmMQ62VERZlqPJh7IITzRR5DtVbW3KlcgADGb6vsjTjyJg"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#cc3600",
+            "id": "1mj350o",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "eck72",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/kyp6726o5ehf1/DASH_1080.mp4?source=fallback",
+                "has_audio": false,
+                "height": 1080,
+                "width": 1356,
+                "scrubber_media_url": "https://v.redd.it/kyp6726o5ehf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/kyp6726o5ehf1/DASHPlaylist.mpd?a=1757075473%2CNWJiYjg5OWU5YTlhNmY4NzExYTk5MGE3NzA3M2RmY2I4NjIxNzg5ODhjMjUyZjUzZDIxMmQ3OGUwMTIxMTk4Mw%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 16,
+                "hls_url": "https://v.redd.it/kyp6726o5ehf1/HLSPlaylist.m3u8?a=1757075473%2CNzM3NGUwNmUyNTVjNmU0YjlmZDE5YjkyNWZkZTMwOGEwMTc4ZjFiMWZhMjAyNjkxODFkYWVjMzdiNDg3MDA1NA%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mj350o/jan_now_supports_gptoss/",
+            "stickied": false,
+            "url": "https://v.redd.it/kyp6726o5ehf1",
+            "subreddit_subscribers": 511882,
+            "created_utc": 1754482820,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": true
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
