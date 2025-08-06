@@ -13397,6 +13397,406 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1miqzgb',
         name: 'Let me fix that chart for you',
       },
+      {
+        path: '/1mirbhr',
+        name: 'GPT-OSS 20B took &lt;$500k for pretraining, good news for future OSS models',
+      },
+      {
+        path: '/1mirfzi',
+        name: 'Anyone Have Any Tips for a Novice Trying to Get GPT-OSS 20b to Run Faster?',
+      },
+      {
+        path: '/1mirhpt',
+        name: 'I need YOUR personal model rankings for writing quality so I can make a good benchmark',
+      },
+      {
+        path: '/1mirm31',
+        name: 'How compute intensive are foundation world models like genie3?',
+      },
+      {
+        path: '/1mirq08',
+        name: 'Aggregated Benchmark Comparison between gpt-oss-120b (high, no tools) vs Qwen3-235B-A22B-Thinking-2507, GLM 4.5, and DeepSeek-R1-0528',
+      },
+      {
+        path: '/1miruac',
+        name: 'System prompts...',
+      },
+      {
+        path: '/1mirw9l',
+        name: 'GPT-OSS:20B conflicting documentation lead to bad performance for me',
+      },
+      {
+        path: '/1mis46w',
+        name: 'Seems like GPT-OSS performance is very provider dependent, especially if you\'re using OpenRouter',
+      },
+      {
+        path: '/1mistns',
+        name: 'MNN Chat is available in google play, and It\'s now supporting hunyuan models',
+      },
+      {
+        path: '/1misyew',
+        name: 'Jailbreak GPT OSS by using this in the system prompt',
+      },
+      {
+        path: '/1misyvc',
+        name: 'OpenAI, I don\'t feel SAFE ENOUGH',
+      },
+      {
+        path: '/1mitj5j',
+        name: 'gpt-oss safety default answer: I’m sorry, but I can’t help with that (doesn\'t matter the prompt language)',
+      },
+      {
+        path: '/1mitsok',
+        name: 'which AI image generators are good for Photorealistic Art?',
+      },
+      {
+        path: '/1miuctw',
+        name: 'What is the current best FIM model that I can run on a single 3090? Still using Qwen 2.5 Coder',
+      },
+      {
+        path: '/1miuhwf',
+        name: 'gpt-oss models are SOTA for their size and people are just complaining they can\'t use it to write porn',
+      },
+      {
+        path: '/1miuluj',
+        name: 'Why unsloth gpt-oss quatizations reduces so little the model size?',
+      },
+      {
+        path: '/1miupht',
+        name: 'GPT -OSS is heavily trained on benchmark. scored rank 34 on simplebench worse than grok 2',
+      },
+      {
+        path: '/1miuwyb',
+        name: 'It fits four!',
+      },
+      {
+        path: '/1miuz1j',
+        name: 'GPT OSS !',
+      },
+      {
+        path: '/1miuzhi',
+        name: 'ex meta researcher speaks out against the double standard at the company',
+      },
+      {
+        path: '/1miv4vb',
+        name: 'Running gpt-oss on VLLM',
+      },
+      {
+        path: '/1miv5vc',
+        name: 'am i the only one who wasn\'t that impressed by gpt-oss?',
+      },
+      {
+        path: '/1miv8ww',
+        name: 'Question Regarding RAG Implementation and Hardware Limitations',
+      },
+      {
+        path: '/1miv8y4',
+        name: 'WE CAN COMPLY',
+      },
+      {
+        path: '/1mivbuo',
+        name: 'in other words benchmaxxed',
+      },
+      {
+        path: '/1mivffw',
+        name: 'At this point, should I buy RTX 5060ti or 5070ti ( 16GB ) for local models ?',
+      },
+      {
+        path: '/1mivoq2',
+        name: 'GPT OSS 120B fails at linguistics',
+      },
+      {
+        path: '/1mivt64',
+        name: 'By the end of 2025, around a third of new phones will likely ship with on-device AI. (2026–2030): The shift to “AI‑Native” and the death of traditional apps.',
+      },
+      {
+        path: '/1miw41b',
+        name: 'rednote-hilab/dots.vlm1.inst',
+      },
+      {
+        path: '/1miw4pj',
+        name: 'built a local AI chatbot widget that any website can use',
+      },
+      {
+        path: '/1miw809',
+        name: 'Finally figured out when to use RAG vs AI Agents vs Prompt Engineering',
+      },
+      {
+        path: '/1miw83f',
+        name: 'Help with setting up an Optimized local setup',
+      },
+      {
+        path: '/1miw8om',
+        name: 'Digital Spaceport: OpenAI Chat GPT OSS 120b Open Source LLM Full Local Ai Review',
+      },
+      {
+        path: '/1miw9nw',
+        name: 'Piece of code to unlock GPT-OSS power (i.e. uncensored) for VLLM/SGLANG remote servers.',
+      },
+      {
+        path: '/1miwghr',
+        name: 'It\'s time to get serious. Advice on how to start?',
+      },
+      {
+        path: '/1miwgwt',
+        name: 'Inference broken on GPT-OSS?',
+      },
+      {
+        path: '/1miwmii',
+        name: 'GPT-OSS20B RooCode - Anyone have any luck getting it to work?',
+      },
+      {
+        path: '/1miwneu',
+        name: 'Any site/service for LLM benchmark comparison by various parameters ?',
+      },
+      {
+        path: '/1miwrli',
+        name: '"What, you don\'t like your new SOTA model?"',
+      },
+      {
+        path: '/1miwzbq',
+        name: 'Don\'t try to increase the number of active experts on GPT-OSS',
+      },
+      {
+        path: '/1miwzfv',
+        name: 'Why is there a difference in size gpt oss.',
+      },
+      {
+        path: '/1mix2kg',
+        name: 'Safemaxxed for your safety!',
+      },
+      {
+        path: '/1mix4g6',
+        name: 'Open AI manually restricted GPT-OSS-20b?',
+      },
+      {
+        path: '/1mix59d',
+        name: 'As we get closer to GPT-5, older models have already been taken off ChatGPT Web chat.',
+      },
+      {
+        path: '/1mix70r',
+        name: 'Best Local LLM for Desktop Use (GPT‑4 Level)',
+      },
+      {
+        path: '/1mixmtg',
+        name: 'GPT OSS 20b seems solid for tool calling',
+      },
+      {
+        path: '/1mixw99',
+        name: 'GPT OSS',
+      },
+      {
+        path: '/1miy4bu',
+        name: 'RTX 4080 with 9060 XT or 5060 Ti 16GB?',
+      },
+      {
+        path: '/1miy64g',
+        name: 'What are my pathways to the most bang for the buck?',
+      },
+      {
+        path: '/1miy8ni',
+        name: 'openai model is a bit too safe',
+      },
+      {
+        path: '/1miyix4',
+        name: 'I\'m sorry, but I can\'t provide that... patience - I already have none...',
+      },
+      {
+        path: '/1miyra3',
+        name: 'How can gpt-oss have a system prompt, when I don\'t give it a system prompt?',
+      },
+      {
+        path: '/1miytb3',
+        name: 'Ok, we get a lobotobot. Great.',
+      },
+      {
+        path: '/1miyysp',
+        name: 'you can disable thinking on gpt-oss models by adding this to prompt',
+      },
+      {
+        path: '/1miz0r1',
+        name: '🧵 Too many destructive criticisms on LLaMA4 and GPT‑OSS? It could kill Western open source',
+      },
+      {
+        path: '/1miz2wd',
+        name: 'Worlds most tiny LLM.',
+      },
+      {
+        path: '/1miz3t6',
+        name: 'What parameters should one use with GLM-4.5 air?',
+      },
+      {
+        path: '/1miz7vr',
+        name: 'gpt-oss-120b blazing fast on M4 Max MBP',
+      },
+      {
+        path: '/1mizar6',
+        name: 'What pc specs do i need for an efficient 4x 5090 rig?',
+      },
+      {
+        path: '/1mizc0x',
+        name: 'First go at gpt-oss-20b, one-shot snake',
+      },
+      {
+        path: '/1mizhbw',
+        name: 'gpt-oss jailbreak workflow',
+      },
+      {
+        path: '/1mizhf1',
+        name: 'I mean honestly...what did you expect?',
+      },
+      {
+        path: '/1mizhx9',
+        name: 'Why the OSS like to use "we" when reasoning',
+      },
+      {
+        path: '/1mizjcg',
+        name: 'tell me a lie :)',
+      },
+      {
+        path: '/1mizlmw',
+        name: 'Is HF: ggml-org/ggml-org/gpt-oss-20b-GGUF broken?',
+      },
+      {
+        path: '/1mizx4n',
+        name: 'What\'s the best or recommended opensource model for parsing documents',
+      },
+      {
+        path: '/1mizz4c',
+        name: 'I distilled Qwen3-Coder-480B into Qwen3-Coder-30b-A3B-Instruct',
+      },
+      {
+        path: '/1mj001o',
+        name: 'Throwing a MI50 32Gb in a gaming pc',
+      },
+      {
+        path: '/1mj00g7',
+        name: 'Qwen3 vs. gpt-oss architecture: width matters',
+      },
+      {
+        path: '/1mj00mr',
+        name: 'How did you enjoy the experience so far?',
+      },
+      {
+        path: '/1mj011h',
+        name: 'It\'s amazing how OpenAI missed its window with the gpt-oss release. The models would have been perceived much better last week.',
+      },
+      {
+        path: '/1mj056j',
+        name: 'Error with Codex --oss: InternalAgentDied?',
+      },
+      {
+        path: '/1mj05g6',
+        name: 'Big models for nsfw rp',
+      },
+      {
+        path: '/1mj08lo',
+        name: 'Hmm. How about a Qwen3 8B OSS Distill',
+      },
+      {
+        path: '/1mj0c6u',
+        name: 'Are MACs good for OpenAI open-weight models?',
+      },
+      {
+        path: '/1mj0cz5',
+        name: 'Did anyone test chatgpt-oss 120b on a quad 3090 setup? What speed do you get?',
+      },
+      {
+        path: '/1mj0dbv',
+        name: 'What Triggers gpt-oss Here?',
+      },
+      {
+        path: '/1mj0e4i',
+        name: 'GPT OSS makes a perfect Tetris game in python',
+      },
+      {
+        path: '/1mj0far',
+        name: 'Best rp llm for nsfw/nsfl rp?',
+      },
+      {
+        path: '/1mj0fsr',
+        name: 'Kitten TTS Server: A self-hosted server with Web UI, GPU, API, and audiobook generation',
+      },
+      {
+        path: '/1mj0kw2',
+        name: 'Towards Open Evolutionary Agents',
+      },
+      {
+        path: '/1mj0snp',
+        name: 'Elon Musk says that xAI will make Grok 2 open source next week',
+      },
+      {
+        path: '/1mj0t7e',
+        name: 'Grok 2 open sourced next week?',
+      },
+      {
+        path: '/1mj19cq',
+        name: 'Today I released Pixel P.I. on steam, a detective game where you ask the questions.',
+      },
+      {
+        path: '/1mj1il5',
+        name: 'Building a fully local NSFW-friendly endless visual novel RP world (like Dreammir.ai but local)',
+      },
+      {
+        path: '/1mj1lj3',
+        name: 'Can I actually edit images using current QWEN IMAGE or I need to wait for some model for editing ?',
+      },
+      {
+        path: '/1mj1nym',
+        name: 'Which models would you bother running on 8GB VRAM?',
+      },
+      {
+        path: '/1mj20c7',
+        name: 'Artificial Analysis Long Context Reasoning (AA-LCR) benchmark',
+      },
+      {
+        path: '/1mj2bz5',
+        name: 'Oh...',
+      },
+      {
+        path: '/1mj2c73',
+        name: 'Unpopular opinion: The GPT OSS models will be more popular commercially precisely because they are safemaxxed.',
+      },
+      {
+        path: '/1mj2da1',
+        name: 'GSPO: Qwen3’s new RLHF method claims to fix GRPO stability issues',
+      },
+      {
+        path: '/1mj2hih',
+        name: 'GPT-OSS looks more like a publicity stunt as more independent test results come out :(',
+      },
+      {
+        path: '/1mj2omr',
+        name: 'OSS release = pressure for xAI to opensource Grok 3?',
+      },
+      {
+        path: '/1mj2q9j',
+        name: 'gpt-oss 120B runs ~13tps on laptop with igpu',
+      },
+      {
+        path: '/1mj2y0r',
+        name: 'gpt-oss-120b not support structure output format?',
+      },
+      {
+        path: '/1mj30xm',
+        name: 'Minicpm-V-4',
+      },
+      {
+        path: '/1mj32ra',
+        name: 'Qwen 30b vs. gpt-oss-20b architecture comparison',
+      },
+      {
+        path: '/1mj339p',
+        name: 'Diffusion Thought Tensor',
+      },
+      {
+        path: '/1mj350o',
+        name: 'Jan now supports gpt-oss',
+      },
+      {
+        path: '/1mj38wf',
+        name: 'Simultaneously running 128k context windows on gpt-oss-20b (TG: 97 t/s, PP: 1348 t/s | 5060ti 16gb) &amp; gpt-oss-120b (TG: 22 t/s, PP: 136 t/s | 3070ti 8gb + expert FFNN offload to Zen 5 9600x with ~55/96gb DDR5-6400). Lots of performance reclaimed with rawdog llama.cpp CLI / server VS LM Studio!',
+      },
     ],
   },
   {
