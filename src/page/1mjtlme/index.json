@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Okay, for anyone else who's been trying to put a voice on top of their LLM projects, you know how frustrating it is when you get locked into one ecosystem.\n\nI just found this project, TEN-framework, and its killer feature is that it's completely backend-agnostic. You can just swap out the brain whenever you want.\n\nI was digging through their docs, and it looks like it supports a bunch of stuff right away:\n\n* **Google Gemini Pro:** For real-time vision and screenshare detection.\n* **Dify:** To connect with other LLM platforms.\n* **Generic MCP Servers:** Basically their method for letting you plug in your own custom server or LLM backend.\n* The usual suspects for ASR/TTS like Deepgram and ElevenLabs.\n\nThis is great because it means you can let TEN handle the complex real-time interaction part (like full-duplex conversation and avatar rendering), while swapping out the \"brain\" (the LLM) whenever you need to. You could point it to a local model, a private server, or OpenAI depending on your use case. Seems like a really powerful tool for building practical applications on top of the models we're all experimenting with.\n\nGitHub repo: [`https://github.com/ten-framework/ten-framework`](https://github.com/ten-framework/ten-framework)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "This voice framework lets you swap out the LLM backend",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Tutorial | Guide"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mjtlme",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1s2wp9qme1",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Tutorial | Guide",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754551704,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Okay, for anyone else who&amp;#39;s been trying to put a voice on top of their LLM projects, you know how frustrating it is when you get locked into one ecosystem.&lt;/p&gt;\n\n&lt;p&gt;I just found this project, TEN-framework, and its killer feature is that it&amp;#39;s completely backend-agnostic. You can just swap out the brain whenever you want.&lt;/p&gt;\n\n&lt;p&gt;I was digging through their docs, and it looks like it supports a bunch of stuff right away:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Google Gemini Pro:&lt;/strong&gt; For real-time vision and screenshare detection.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dify:&lt;/strong&gt; To connect with other LLM platforms.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Generic MCP Servers:&lt;/strong&gt; Basically their method for letting you plug in your own custom server or LLM backend.&lt;/li&gt;\n&lt;li&gt;The usual suspects for ASR/TTS like Deepgram and ElevenLabs.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;This is great because it means you can let TEN handle the complex real-time interaction part (like full-duplex conversation and avatar rendering), while swapping out the &amp;quot;brain&amp;quot; (the LLM) whenever you need to. You could point it to a local model, a private server, or OpenAI depending on your use case. Seems like a really powerful tool for building practical applications on top of the models we&amp;#39;re all experimenting with.&lt;/p&gt;\n\n&lt;p&gt;GitHub repo: &lt;a href=\"https://github.com/ten-framework/ten-framework\"&gt;&lt;code&gt;https://github.com/ten-framework/ten-framework&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?auto=webp&amp;s=ffa9f42ec2a66a198ddeb2a96a47714027fa766d",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7dc51ad094925acb6ac3cf3f47ba56dfa2434d0c",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5c45d83c1bbcf9c3306e3fa614c8389d587bebc6",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=244a9debebefccda20331548c7f0b4912db9c2a4",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9d15de088a2a251f1c785b80a32c9f911a54c34",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=a0f1106a63e6a36a0ce5fe13ff5e4300e8005b34",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a1a7fd5ebd6d98896d6ab024c7255d4b59d2f118",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "Ka1zS5nkdzRMlc3lF_2y2dAD78W_cBT64NQ5G4laWks"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "449b05a6-bf8e-11ed-b4bd-66961e47bd50",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#0079d3",
+            "id": "1mjtlme",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "No-Company2897",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mjtlme/this_voice_framework_lets_you_swap_out_the_llm/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mjtlme/this_voice_framework_lets_you_swap_out_the_llm/",
+            "subreddit_subscribers": 512874,
+            "created_utc": 1754551704,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

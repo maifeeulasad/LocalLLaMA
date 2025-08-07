@@ -1,0 +1,309 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey～\n\nOur team just published results showing that a Multi-Agent System (MAS) built on the [AWorld](https://github.com/inclusionAI/AWorld) framework achieved top performance on the GAIA test dataset. \n\nhttps://preview.redd.it/ufkw2rbh9lhf1.png?width=3082&amp;format=png&amp;auto=webp&amp;s=4961f2adc25ea752585970b4286b1e2926009550\n\nFor detailed technical insights, see our comprehensive blog post on Hugging Face:\n\n[https://huggingface.co/blog/chengle/aworld-gaia](https://huggingface.co/blog/chengle/aworld-gaia)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Multi-Agent System Achieves #1 on GAIA test Benchmark",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "media_metadata": {
+              "ufkw2rbh9lhf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 39,
+                    "x": 108,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=2f55d9f1d334db38693dc0024c77ea56fd5c6886"
+                  },
+                  {
+                    "y": 78,
+                    "x": 216,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c943ab7de4b79d4106c3cacf0e3d41eefe954450"
+                  },
+                  {
+                    "y": 115,
+                    "x": 320,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c5c34f516369b7ff252348aebd38f09963ed004c"
+                  },
+                  {
+                    "y": 231,
+                    "x": 640,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a758a2be728ed6d5f949d5ff1c90ac18112f3a6e"
+                  },
+                  {
+                    "y": 346,
+                    "x": 960,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=01708a91b6d14ea2c714c01cf1f90a016a52330a"
+                  },
+                  {
+                    "y": 390,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1b2352ab899719ef762ba7fa4d79cf434f8d7a6f"
+                  }
+                ],
+                "s": {
+                  "y": 1114,
+                  "x": 3082,
+                  "u": "https://preview.redd.it/ufkw2rbh9lhf1.png?width=3082&amp;format=png&amp;auto=webp&amp;s=4961f2adc25ea752585970b4286b1e2926009550"
+                },
+                "id": "ufkw2rbh9lhf1"
+              }
+            },
+            "name": "t3_1mjygwg",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": null,
+            "ups": 2,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_159bscsg23",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 2,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=ea5e74c4ccc61c997bb32c9e1048f437a3f02cb0",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1754568959,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey～&lt;/p&gt;\n\n&lt;p&gt;Our team just published results showing that a Multi-Agent System (MAS) built on the &lt;a href=\"https://github.com/inclusionAI/AWorld\"&gt;AWorld&lt;/a&gt; framework achieved top performance on the GAIA test dataset. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ufkw2rbh9lhf1.png?width=3082&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4961f2adc25ea752585970b4286b1e2926009550\"&gt;https://preview.redd.it/ufkw2rbh9lhf1.png?width=3082&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4961f2adc25ea752585970b4286b1e2926009550&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;For detailed technical insights, see our comprehensive blog post on Hugging Face:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://huggingface.co/blog/chengle/aworld-gaia\"&gt;https://huggingface.co/blog/chengle/aworld-gaia&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?auto=webp&amp;s=85447b8af2ff32ea31663ceaabd6bb8ad8a93c94",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=cc42787550c8423a9bbf632b405598b57a8a2ebb",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=14c1e9f9af281ce456d637f8c3a4b6e1558a7771",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7dfa0b698896cc373134a8792efb3f4bcc6f8ea9",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=062a20c850ee0c047ab93979563653dddd19c720",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9dbfce58fb701a290bf0fe9ac8c9c617be61d93e",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=798ea171fa3377025fad99eaf421abdb90d1d3a0",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "5EAuW2qsBXBV0BzOspdwdGkjMQ_yCYwvSQBs79BGoJ4"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mjygwg",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Vivid_Might1225",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mjygwg/multiagent_system_achieves_1_on_gaia_test/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mjygwg/multiagent_system_achieves_1_on_gaia_test/",
+            "subreddit_subscribers": 512874,
+            "created_utc": 1754568959,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n7emnm9",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "secopsml",
+            "can_mod_post": false,
+            "created_utc": 1754569234,
+            "send_replies": true,
+            "parent_id": "t3_1mjygwg",
+            "score": 2,
+            "author_fullname": "t2_pmniwf57y",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Would be awesome if you tried only open models and achieve #1 again.\n\n\nCan volunteer for that",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n7emnm9",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Would be awesome if you tried only open models and achieve #1 again.&lt;/p&gt;\n\n&lt;p&gt;Can volunteer for that&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mjygwg/multiagent_system_achieves_1_on_gaia_test/n7emnm9/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754569234,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mjygwg",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

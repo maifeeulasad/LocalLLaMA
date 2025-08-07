@@ -14209,6 +14209,226 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1mjm5vm',
         name: 'GPT-OSS-20B F16/MXFP4 GGUF Models Not Loading on Latest llama.cpp: "tensor ... has invalid ggml type 39 (NONE)"',
       },
+      {
+        path: '/1mjn1u5',
+        name: 'n00b question: How to teach a LLM to program in a niche language ?',
+      },
+      {
+        path: '/1mjn71r',
+        name: 'Ollama doesn’t have a privacy policy',
+      },
+      {
+        path: '/1mjnhj2',
+        name: 'Llama.cpp Vulkan backend is up to 50% faster than ROCm?!?',
+      },
+      {
+        path: '/1mjnly6',
+        name: 'I\'m a newbie and I\'m having trouble.',
+      },
+      {
+        path: '/1mjo3qk',
+        name: 'How do we train openai oss to think in for a specific usecase',
+      },
+      {
+        path: '/1mjo88h',
+        name: 'Fine-Tuning the New GPT-OSS',
+      },
+      {
+        path: '/1mjoo7w',
+        name: 'Huihui released GPT-OSS 20b abliterated',
+      },
+      {
+        path: '/1mjq8gu',
+        name: 'Are the GPT OSS models another Llama?',
+      },
+      {
+        path: '/1mjqck2',
+        name: 'OSS-120b on 64gb M1 Max Studio',
+      },
+      {
+        path: '/1mjqifv',
+        name: 'Fastest way to stream whisper-large-v3-turbo?',
+      },
+      {
+        path: '/1mjqss8',
+        name: 'Question - Help! Requesting audit on custom model and infrastructure!',
+      },
+      {
+        path: '/1mjrbt9',
+        name: '[Prompt Drop] Persistent Memory Management for Local LLMs (Framework &amp; Simple Prompts)',
+      },
+      {
+        path: '/1mjrlge',
+        name: 'Extra RAM Useful?',
+      },
+      {
+        path: '/1mjrlr4',
+        name: 'Overthinking "Hey"?',
+      },
+      {
+        path: '/1mjruwj',
+        name: 'Best models under 16GB??',
+      },
+      {
+        path: '/1mjsjkn',
+        name: 'If the gpt-oss models were made by any other company than OpenAI would anyone care about them?',
+      },
+      {
+        path: '/1mjt5hw',
+        name: 'local AI Licenses',
+      },
+      {
+        path: '/1mjt7jh',
+        name: 'Token reader MCP',
+      },
+      {
+        path: '/1mjtb8e',
+        name: 'How innovative is GPT OSS\'s 4-bit quantization scheme (MXFP4), and can we expect DeepSeek MXFP4 models in the near future?',
+      },
+      {
+        path: '/1mjtlme',
+        name: 'This voice framework lets you swap out the LLM backend',
+      },
+      {
+        path: '/1mjtq7o',
+        name: 'Best LLM for less common languages?',
+      },
+      {
+        path: '/1mjtqb6',
+        name: 'Llama Modell für deutsche Korrektur/ Llama model for German correction',
+      },
+      {
+        path: '/1mjtt3g',
+        name: 'My RTX 4060 is running Llama 405B at 2.3 tokens/sec. Don\'t ask me how.',
+      },
+      {
+        path: '/1mjub4z',
+        name: 'llama.cpp HQ',
+      },
+      {
+        path: '/1mjud6n',
+        name: 'Isn\'t price per token of LLMs too low?',
+      },
+      {
+        path: '/1mjue3q',
+        name: 'I made a gpt-oss finetuned model',
+      },
+      {
+        path: '/1mjuhgt',
+        name: 'Local Language Translation',
+      },
+      {
+        path: '/1mjus1m',
+        name: 'RTX Pro 6000 or 4080+3090?',
+      },
+      {
+        path: '/1mjuu34',
+        name: 'CosyVoice V3 ?',
+      },
+      {
+        path: '/1mjv80s',
+        name: 'Ryzen AI Max+ 128GB with full pci-e?',
+      },
+      {
+        path: '/1mjv9l1',
+        name: 'Making code edits with large language models',
+      },
+      {
+        path: '/1mjv9r8',
+        name: 'With EPYC CPU are you using and why?',
+      },
+      {
+        path: '/1mjvap4',
+        name: 'Newbie Here - how to enable web lookup on local LLM?',
+      },
+      {
+        path: '/1mjvezz',
+        name: 'What do you guys think the best TTS model to do anime dubbing?',
+      },
+      {
+        path: '/1mjvhgz',
+        name: 'I made a drinking assistant using gpt-oss-120B',
+      },
+      {
+        path: '/1mjvj3n',
+        name: 'Text-to-Speech and Speech-to-Text',
+      },
+      {
+        path: '/1mjvv4f',
+        name: 'I can\'t get perfect JSON\'s to my requests. This is something new.',
+      },
+      {
+        path: '/1mjvxhj',
+        name: '5.1B active params is all you need! gpt-oss enters DesignArena',
+      },
+      {
+        path: '/1mjw1vu',
+        name: 'Help needed Fine Tuning Locally',
+      },
+      {
+        path: '/1mjw3u9',
+        name: 'So now the final question: What‘s the best Open Source Model currently?',
+      },
+      {
+        path: '/1mjw40a',
+        name: 'Nonescape: SOTA AI-Image Detection Model (Open-Source)',
+      },
+      {
+        path: '/1mjwcac',
+        name: 'More benchmarks should report response times',
+      },
+      {
+        path: '/1mjwgb2',
+        name: 'How can I use Qwen3-4B-Instruct-2507 in Ollama',
+      },
+      {
+        path: '/1mjwp99',
+        name: 'Parsing messy PDFs into structured data',
+      },
+      {
+        path: '/1mjwyfj',
+        name: 'JetBrains is studying local AI adoption',
+      },
+      {
+        path: '/1mjwyhl',
+        name: 'JetBrains is studying local AI adoption',
+      },
+      {
+        path: '/1mjxcnt',
+        name: 'Generate Fine-tunning dataset using deep research in terminal [OpenSource]',
+      },
+      {
+        path: '/1mjxcwp',
+        name: 'How to expose thinking traces of oss-gpt-120b w/vLLM',
+      },
+      {
+        path: '/1mjxmqj',
+        name: 'What\'s the best open model that I can use on my PC',
+      },
+      {
+        path: '/1mjxrh1',
+        name: 'Using gpt-oss-20b with llama.cpp.',
+      },
+      {
+        path: '/1mjxx6j',
+        name: 'GPT-OSS is Another Example Why Companies Must Build a Strong Brand Name',
+      },
+      {
+        path: '/1mjxyqp',
+        name: 'I broke a codegemma session, surprisingly quickly.  Never accuse the AI of hallucinating... they HATE that!  (Transcript)',
+      },
+      {
+        path: '/1mjy8ws',
+        name: 'gpt-oss-120b - open AI, cant comply with creating circles that repel when the mouse is close to it !!!',
+      },
+      {
+        path: '/1mjyc4l',
+        name: 'I reworked my second desk into an Jetson-AI development station',
+      },
+      {
+        path: '/1mjygwg',
+        name: 'Multi-Agent System Achieves #1 on GAIA test Benchmark',
+      },
     ],
   },
   {

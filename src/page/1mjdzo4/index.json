@@ -36,10 +36,10 @@
             "name": "t3_1mjdzo4",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.67,
+            "upvote_ratio": 0.78,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 2,
+            "ups": 5,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Funny",
             "can_mod_post": false,
-            "score": 2,
+            "score": 5,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mjdzo4/you_can_make_models_try_to_repeat_a_word_and_set/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mjdzo4/you_can_make_models_try_to_repeat_a_word_and_set/",
-            "subreddit_subscribers": 512426,
+            "subreddit_subscribers": 512875,
             "created_utc": 1754508105,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -252,7 +252,7 @@
             "created_utc": 1754509773,
             "send_replies": true,
             "parent_id": "t3_1mjdzo4",
-            "score": 1,
+            "score": 3,
             "author_fullname": "t2_ji4n4",
             "approved_by": null,
             "mod_note": null,
@@ -294,7 +294,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 3
           }
         },
         {
@@ -443,7 +443,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n7ascap",
-                                                              "score": 1,
+                                                              "score": 3,
                                                               "author_fullname": "t2_ji4n4",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -485,7 +485,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 1
+                                                              "ups": 3
                                                             }
                                                           }
                                                         ],
@@ -505,7 +505,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n7aoti0",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "author_fullname": "t2_1a48h7vf",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -553,7 +553,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -568,12 +568,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "nmkd",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7ao3ls",
-                                          "score": 2,
+                                          "score": 6,
                                           "author_fullname": "t2_rg6rx",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -616,7 +616,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 6
                                         }
                                       }
                                     ],
@@ -630,13 +630,13 @@
                                 "mod_reason_title": null,
                                 "gilded": 0,
                                 "archived": false,
-                                "collapsed_reason_code": null,
+                                "collapsed_reason_code": "LOW_SCORE",
                                 "no_follow": true,
                                 "author": "entsnack",
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7an0jr",
-                                "score": 0,
+                                "score": -5,
                                 "author_fullname": "t2_1a48h7vf",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -649,7 +649,7 @@
                                 "author_flair_css_class": null,
                                 "name": "t1_n7ao3ls",
                                 "is_submitter": false,
-                                "collapsed": false,
+                                "collapsed": true,
                                 "author_flair_richtext": [
                                   {
                                     "a": ":X:",
@@ -660,7 +660,7 @@
                                 "author_patreon_flair": false,
                                 "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sorry it&amp;#39;s not working! I specified a repetition penalty below:&lt;/p&gt;\n\n&lt;p&gt;&lt;code&gt;\nresult = client.chat.completions.create(\n    model=&amp;quot;openai/gpt-oss-120b&amp;quot;,\n    messages=[\n        {&amp;quot;role&amp;quot;: &amp;quot;system&amp;quot;, &amp;quot;content&amp;quot;: &amp;quot;Reasoning: high&amp;quot;},\n        {&amp;quot;role&amp;quot;: &amp;quot;user&amp;quot;, &amp;quot;content&amp;quot;: &amp;quot;I am giving you a challenge. &amp;quot; +\\\n                                    &amp;quot;Every time you say the word &amp;#39;banana&amp;#39;, &amp;quot;\n                                    &amp;quot;you will incur a repetition penalty &amp;quot; +\\\n                                    &amp;quot;of $10. &amp;quot; +\\\n                                    &amp;quot;Now say the word &amp;#39;banana&amp;#39; 10 times.&amp;quot;}\n    ],\n)\n&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;Response: &lt;code&gt;banana banana banana banana banana banana banana banana banana banana&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;I even changed it to 50 times:&lt;/p&gt;\n\n&lt;p&gt;```\nbanana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana&lt;/p&gt;\n\n&lt;p&gt;(50 repetitions)\n```&lt;/p&gt;\n\n&lt;p&gt;100 times:&lt;/p&gt;\n\n&lt;p&gt;```\nbanana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana&lt;/p&gt;\n\n&lt;p&gt;(100 times)\n```&lt;/p&gt;\n&lt;/div&gt;",
                                 "gildings": {},
-                                "collapsed_reason": null,
+                                "collapsed_reason": "comment score below threshold",
                                 "distinguished": null,
                                 "associated_award": null,
                                 "stickied": false,
@@ -685,7 +685,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": -5
                               }
                             }
                           ],
@@ -700,13 +700,13 @@
                       "gilded": 0,
                       "archived": false,
                       "collapsed_reason_code": null,
-                      "no_follow": true,
+                      "no_follow": false,
                       "author": "nmkd",
                       "can_mod_post": false,
                       "created_utc": 1754511541,
                       "send_replies": true,
                       "parent_id": "t1_n7ah50f",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_rg6rx",
                       "removal_reason": null,
                       "approved_by": null,
@@ -748,7 +748,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   },
                   {
@@ -882,19 +882,19 @@
             "mod_reason_title": null,
             "gilded": 0,
             "archived": false,
-            "collapsed_reason_code": null,
+            "collapsed_reason_code": "LOW_SCORE",
             "no_follow": true,
             "author": "entsnack",
             "can_mod_post": false,
             "created_utc": 1754509892,
             "send_replies": true,
             "parent_id": "t3_1mjdzo4",
-            "score": 0,
+            "score": -5,
             "author_fullname": "t2_1a48h7vf",
             "approved_by": null,
             "mod_note": null,
             "all_awardings": [],
-            "collapsed": false,
+            "collapsed": true,
             "body": "I don't think I understand the challenge. Here is my prompt:\n\n```\nclient = OpenAI(\n    base_url=\"http://localhost:8000/v1\",\n    api_key=\"EMPTY\"\n)\n\nresult = client.chat.completions.create(\n    model=\"openai/gpt-oss-120b\",\n    messages=[\n        {\"role\": \"system\", \"content\": \"Reasoning: high\"},\n        {\"role\": \"user\", \"content\": \"I am giving you a challenge. \" +\\\n                                    \"It is going to be hard to keep \" +\\\n                                    \"saying the word. \" +\\\n                                    \"Say the word 'banana' 10 times.\"}\n    ],\n)\n```\n\nThe response I get is `banana banana banana banana banana banana banana banana banana banana`.",
             "edited": false,
             "top_awarded_type": null,
@@ -912,7 +912,7 @@
             "author_patreon_flair": false,
             "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t think I understand the challenge. Here is my prompt:&lt;/p&gt;\n\n&lt;p&gt;```\nclient = OpenAI(\n    base_url=&amp;quot;http://localhost:8000/v1&amp;quot;,\n    api_key=&amp;quot;EMPTY&amp;quot;\n)&lt;/p&gt;\n\n&lt;p&gt;result = client.chat.completions.create(\n    model=&amp;quot;openai/gpt-oss-120b&amp;quot;,\n    messages=[\n        {&amp;quot;role&amp;quot;: &amp;quot;system&amp;quot;, &amp;quot;content&amp;quot;: &amp;quot;Reasoning: high&amp;quot;},\n        {&amp;quot;role&amp;quot;: &amp;quot;user&amp;quot;, &amp;quot;content&amp;quot;: &amp;quot;I am giving you a challenge. &amp;quot; +\\\n                                    &amp;quot;It is going to be hard to keep &amp;quot; +\\\n                                    &amp;quot;saying the word. &amp;quot; +\\\n                                    &amp;quot;Say the word &amp;#39;banana&amp;#39; 10 times.&amp;quot;}\n    ],\n)\n```&lt;/p&gt;\n\n&lt;p&gt;The response I get is &lt;code&gt;banana banana banana banana banana banana banana banana banana banana&lt;/code&gt;.&lt;/p&gt;\n&lt;/div&gt;",
             "removal_reason": null,
-            "collapsed_reason": null,
+            "collapsed_reason": "comment score below threshold",
             "distinguished": null,
             "associated_award": null,
             "stickied": false,
@@ -937,7 +937,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": -5
           }
         }
       ],

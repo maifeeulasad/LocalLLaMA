@@ -36,9 +36,9 @@
             "name": "t3_1mj8ndr",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.89,
+            "upvote_ratio": 0.9,
             "author_flair_background_color": null,
-            "ups": 44,
+            "ups": 51,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 44,
+            "score": 51,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -159,7 +159,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mj8ndr/qwen_3_4b_thinking_model_released/",
             "stickied": false,
             "url": "https://i.redd.it/lniprj9q9fhf1.jpeg",
-            "subreddit_subscribers": 512426,
+            "subreddit_subscribers": 512875,
             "created_utc": 1754496119,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -231,7 +231,7 @@
                       "created_utc": 1754516708,
                       "send_replies": true,
                       "parent_id": "t1_n795pxt",
-                      "score": 4,
+                      "score": 6,
                       "author_fullname": "t2_jkmo4up",
                       "removal_reason": null,
                       "approved_by": null,
@@ -273,7 +273,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 4
+                      "ups": 6
                     }
                   }
                 ],
@@ -294,7 +294,7 @@
             "created_utc": 1754496569,
             "send_replies": true,
             "parent_id": "t3_1mj8ndr",
-            "score": -8,
+            "score": -10,
             "author_fullname": "t2_1a48h7vf",
             "approved_by": null,
             "mod_note": null,
@@ -342,7 +342,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -8
+            "ups": -10
           }
         }
       ],
