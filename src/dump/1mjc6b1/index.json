@@ -1,0 +1,217 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "Hey guys,\n\ntwo friends and I built an open-source meeting assistant. We’re now at the stage where we have an MVP on GitHub that developers can try out (with just 2 terminal commands), and we’d love your feedback on what to improve. 👉 [https://github.com/joinly-ai/joinly](https://github.com/joinly-ai/joinly) \n\nThere are (at least) two very nice things about the assistant: First, it is interactive, so it speaks with you and can solve tasks in real time. Second, it is customizable. Customizable, meaning that you can add your favorite MCP servers so you can access their functionality during meetings. In addition, you can also easily change the agent’s system prompt. The meeting assistant also comes with real-time transcription.\n\nA bit more on the technical side: We built a joinly MCP server that enables AI agents to interact in meetings, providing them tools like speak\\_text, write\\_chat\\_message, and leave\\_meeting and as a resource, the meeting transcript. We connected a sample joinly agent as the MCP client. But you can also connect your own agent to our joinly MCP server to make it meeting-ready.\n\nYou can run everything locally using Whisper (STT), Kokoro (TTS), and OLLaMA (LLM). But it is all provider-agnostic, meaning you can also use external APIs like Deepgram for STT, ElevenLabs for TTS, and OpenAI as LLM. \n\nWe’re currently using the slogan: “Agentic Meeting Assistant beyond note-taking.” But we’re wondering: Do you have better ideas for a slogan? And what do you think about the project?\n\nBtw, we’re reaching for the stars right now, so if you like it, consider giving us a star on GitHub :D",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "I built an conversational and customizable open-source meeting assistant",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Other"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 90,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mjc6b1",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.4,
+            "author_flair_background_color": null,
+            "ups": 0,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1bn9cpf6mm",
+            "secure_media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/4phxa1r6xfhf1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1662,
+                "scrubber_media_url": "https://v.redd.it/4phxa1r6xfhf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/4phxa1r6xfhf1/DASHPlaylist.mpd?a=1757121332%2CODViYzNlOTkyMTBjYmY2NzdmOTkzNWY1NTFmYWFjMDE3NjZhZTA3ZmUwYjFmYmY5MjdkMzgzZjVkZjhlZjIyNA%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 174,
+                "hls_url": "https://v.redd.it/4phxa1r6xfhf1/HLSPlaylist.m3u8?a=1757121332%2CYmMyNGM2MjUwNWI5ZGQ1NmFkN2Y0ZDUwNTZlZjAzYWQxOWU0Yzc1ODMxNzhjODc3N2M2ZDI1ZGE2ZjE2MzY0YQ%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Other",
+            "can_mod_post": false,
+            "score": 0,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=140&amp;height=90&amp;crop=140:90,smart&amp;format=jpg&amp;v=enabled&amp;lthumb=true&amp;s=d95ca48c982145efa52f746f0de2b597f6809c24",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "hosted:video",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754504039,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "v.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey guys,&lt;/p&gt;\n\n&lt;p&gt;two friends and I built an open-source meeting assistant. We’re now at the stage where we have an MVP on GitHub that developers can try out (with just 2 terminal commands), and we’d love your feedback on what to improve. 👉 &lt;a href=\"https://github.com/joinly-ai/joinly\"&gt;https://github.com/joinly-ai/joinly&lt;/a&gt; &lt;/p&gt;\n\n&lt;p&gt;There are (at least) two very nice things about the assistant: First, it is interactive, so it speaks with you and can solve tasks in real time. Second, it is customizable. Customizable, meaning that you can add your favorite MCP servers so you can access their functionality during meetings. In addition, you can also easily change the agent’s system prompt. The meeting assistant also comes with real-time transcription.&lt;/p&gt;\n\n&lt;p&gt;A bit more on the technical side: We built a joinly MCP server that enables AI agents to interact in meetings, providing them tools like speak_text, write_chat_message, and leave_meeting and as a resource, the meeting transcript. We connected a sample joinly agent as the MCP client. But you can also connect your own agent to our joinly MCP server to make it meeting-ready.&lt;/p&gt;\n\n&lt;p&gt;You can run everything locally using Whisper (STT), Kokoro (TTS), and OLLaMA (LLM). But it is all provider-agnostic, meaning you can also use external APIs like Deepgram for STT, ElevenLabs for TTS, and OpenAI as LLM. &lt;/p&gt;\n\n&lt;p&gt;We’re currently using the slogan: “Agentic Meeting Assistant beyond note-taking.” But we’re wondering: Do you have better ideas for a slogan? And what do you think about the project?&lt;/p&gt;\n\n&lt;p&gt;Btw, we’re reaching for the stars right now, so if you like it, consider giving us a star on GitHub :D&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://v.redd.it/4phxa1r6xfhf1",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?format=pjpg&amp;auto=webp&amp;s=f673b5113196fe43e59b64b7642392d407c0f442",
+                    "width": 1662,
+                    "height": 1080
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=108&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=af6ebf1fe41b1c121b4d36af13a13d36682f8425",
+                      "width": 108,
+                      "height": 70
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=216&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=f91c80b4ef6e1d3acf88a4d876fca5b9c5076b7b",
+                      "width": 216,
+                      "height": 140
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=320&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=4dd0fde863603e6a7cec7601242ee4fb23fa3750",
+                      "width": 320,
+                      "height": 207
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=640&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=f5b297023655fe1fd1d7f244a3e5ed00340c71ac",
+                      "width": 640,
+                      "height": 415
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=960&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=40bf36ec15fafd9a3798f7c463222a51c1efb10a",
+                      "width": 960,
+                      "height": 623
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH.png?width=1080&amp;crop=smart&amp;format=pjpg&amp;auto=webp&amp;s=27b254317a1cf8382fabbef2f55fd5f4a59f53ae",
+                      "width": 1080,
+                      "height": 701
+                    }
+                  ],
+                  "variants": {},
+                  "id": "YnQxMDgwczZ4ZmhmMVKaDc_7hhE4hnX79EFyzHPtMW2DaPs0SZRD8_SFGHPH"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "7a7848d2-bf8e-11ed-8c2f-765d15199f78",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#94e044",
+            "id": "1mjc6b1",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Square-Test-515",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": {
+              "reddit_video": {
+                "bitrate_kbps": 5000,
+                "fallback_url": "https://v.redd.it/4phxa1r6xfhf1/DASH_1080.mp4?source=fallback",
+                "has_audio": true,
+                "height": 1080,
+                "width": 1662,
+                "scrubber_media_url": "https://v.redd.it/4phxa1r6xfhf1/DASH_96.mp4",
+                "dash_url": "https://v.redd.it/4phxa1r6xfhf1/DASHPlaylist.mpd?a=1757121332%2CODViYzNlOTkyMTBjYmY2NzdmOTkzNWY1NTFmYWFjMDE3NjZhZTA3ZmUwYjFmYmY5MjdkMzgzZjVkZjhlZjIyNA%3D%3D&amp;v=1&amp;f=sd",
+                "duration": 174,
+                "hls_url": "https://v.redd.it/4phxa1r6xfhf1/HLSPlaylist.m3u8?a=1757121332%2CYmMyNGM2MjUwNWI5ZGQ1NmFkN2Y0ZDUwNTZlZjAzYWQxOWU0Yzc1ODMxNzhjODc3N2M2ZDI1ZGE2ZjE2MzY0YQ%3D%3D&amp;v=1&amp;f=sd",
+                "is_gif": false,
+                "transcoding_status": "completed"
+              }
+            },
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mjc6b1/i_built_an_conversational_and_customizable/",
+            "stickied": false,
+            "url": "https://v.redd.it/4phxa1r6xfhf1",
+            "subreddit_subscribers": 512426,
+            "created_utc": 1754504039,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": true
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
