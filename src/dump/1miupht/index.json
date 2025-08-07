@@ -36,9 +36,9 @@
             "name": "t3_1miupht",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.84,
+            "upvote_ratio": 0.85,
             "author_flair_background_color": null,
-            "ups": 171,
+            "ups": 180,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "News",
             "can_mod_post": false,
-            "score": 171,
+            "score": 180,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -155,7 +155,7 @@
             "report_reasons": null,
             "author": "mvp525",
             "discussion_type": null,
-            "num_comments": 21,
+            "num_comments": 22,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -164,7 +164,7 @@
             "permalink": "/r/LocalLLaMA/comments/1miupht/gpt_oss_is_heavily_trained_on_benchmark_scored/",
             "stickied": false,
             "url": "https://i.redd.it/cbd2wyrfpbhf1.jpeg",
-            "subreddit_subscribers": 512428,
+            "subreddit_subscribers": 512875,
             "created_utc": 1754452970,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -236,7 +236,7 @@
                       "created_utc": 1754454566,
                       "send_replies": true,
                       "parent_id": "t1_n76aazq",
-                      "score": 37,
+                      "score": 40,
                       "author_fullname": "t2_qz1qjc86",
                       "removal_reason": null,
                       "approved_by": null,
@@ -278,7 +278,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 37
+                      "ups": 40
                     }
                   },
                   {
@@ -333,7 +333,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n77bimu",
-                                "score": 5,
+                                "score": 6,
                                 "author_fullname": "t2_42wlymjd",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -376,7 +376,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 6
                               }
                             }
                           ],
@@ -610,7 +610,7 @@
             "created_utc": 1754453620,
             "send_replies": true,
             "parent_id": "t3_1miupht",
-            "score": 68,
+            "score": 71,
             "author_fullname": "t2_ahgkl0do",
             "approved_by": null,
             "mod_note": null,
@@ -652,7 +652,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 68
+            "ups": 71
           }
         },
         {
@@ -839,7 +839,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n77wsq0",
-                                          "score": 8,
+                                          "score": 7,
                                           "author_fullname": "t2_4k965g2",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -882,7 +882,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 8
+                                          "ups": 7
                                         }
                                       }
                                     ],
@@ -1029,7 +1029,7 @@
             "created_utc": 1754467897,
             "send_replies": true,
             "parent_id": "t3_1miupht",
-            "score": 18,
+            "score": 20,
             "author_fullname": "t2_e7yz4055",
             "approved_by": null,
             "mod_note": null,
@@ -1071,7 +1071,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 20
           }
         },
         {
@@ -1127,7 +1127,7 @@
                       "created_utc": 1754461777,
                       "send_replies": true,
                       "parent_id": "t1_n76l7n8",
-                      "score": 21,
+                      "score": 22,
                       "author_fullname": "t2_1a48h7vf",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1175,7 +1175,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 21
+                      "ups": 22
                     }
                   },
                   {
@@ -1208,7 +1208,7 @@
                       "created_utc": 1754479356,
                       "send_replies": true,
                       "parent_id": "t1_n76l7n8",
-                      "score": 6,
+                      "score": 4,
                       "author_fullname": "t2_rynms12",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1250,7 +1250,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 4
                     }
                   }
                 ],
@@ -1432,7 +1432,7 @@
             "created_utc": 1754472630,
             "send_replies": true,
             "parent_id": "t3_1miupht",
-            "score": 6,
+            "score": 7,
             "author_fullname": "t2_9s7pmakgx",
             "approved_by": null,
             "mod_note": null,
@@ -1474,7 +1474,82 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n7crc2x",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "mrjackspade",
+            "can_mod_post": false,
+            "created_utc": 1754536785,
+            "send_replies": false,
+            "parent_id": "t3_1miupht",
+            "score": 2,
+            "author_fullname": "t2_5ow51",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "&gt; worse than grok 2\n\nWhy wouldn't it be? Grok 2 is older but its also probably like 5x+ the parameter count... And not MOE",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n7crc2x",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;worse than grok 2&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Why wouldn&amp;#39;t it be? Grok 2 is older but its also probably like 5x+ the parameter count... And not MOE&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1miupht/gpt_oss_is_heavily_trained_on_benchmark_scored/n7crc2x/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754536785,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1miupht",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
           }
         },
         {
