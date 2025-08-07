@@ -1,0 +1,309 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "**CodeFu** learned competitive programming from execution outcomes - no ground truth solutions were given during training. The results are encouraging:\n\n* 13.7% Pass@1 on USA Computing Olympiad benchmark \n* Outperforms models 4x larger \n* 10x improvement over its base model\n\nBuilt on DeepSeek-R1-Distill-Qwen-7B, CodeFu shows how effective RL training can achieve 10x improvements - jumping from 1% to 13.7%. This required overcoming several training stability challenges, including response length and reward collapse during hard problem training.\n\nThe training pipeline uses Ray-orchestrated distributed training on SageMaker Training Jobs to handle resource-intensive RL rollouts and code compilation/execution.\n\nTraining approach is detailed on the HF [model card](https://huggingface.co/aws-prototyping/codefu-7b-v0.1) page.\n\nhttps://preview.redd.it/6b56c57rqehf1.png?width=1276&amp;format=png&amp;auto=webp&amp;s=bbd6291e8e6e10f2cb23edcf95187459472c97f4\n\n  \n",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "CodeFu-7B-v0.1 - a Reinforcement Learning (RL)-trained 7B model for Competitive Programming",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 75,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "6b56c57rqehf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 57,
+                    "x": 108,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8351a17038999ca8164bddded350c2b142b778b4"
+                  },
+                  {
+                    "y": 114,
+                    "x": 216,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=6f89273ebab4331cd2cc5f63bf38b84a54bd16c5"
+                  },
+                  {
+                    "y": 169,
+                    "x": 320,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=128aeeb51ae9ad3e5182f45f85428c178ccb15c0"
+                  },
+                  {
+                    "y": 339,
+                    "x": 640,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=497a3dde0f845dc87d6d4bb1ca57e024d8548935"
+                  },
+                  {
+                    "y": 508,
+                    "x": 960,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=bc8834c7f32057adc3d4a8183a60d065e4795b22"
+                  },
+                  {
+                    "y": 572,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/6b56c57rqehf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a979d688e5c0226bae19ed416418f33b0551aaf6"
+                  }
+                ],
+                "s": {
+                  "y": 676,
+                  "x": 1276,
+                  "u": "https://preview.redd.it/6b56c57rqehf1.png?width=1276&amp;format=png&amp;auto=webp&amp;s=bbd6291e8e6e10f2cb23edcf95187459472c97f4"
+                },
+                "id": "6b56c57rqehf1"
+              }
+            },
+            "name": "t3_1mj5xuw",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.82,
+            "author_flair_background_color": null,
+            "ups": 7,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_7r6ablum",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 7,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=140&amp;height=75&amp;crop=140:75,smart&amp;auto=webp&amp;s=c01ca64ac1831d7bb5f52a7511846b47a1e83ab8",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "subreddit_type": "public",
+            "created": 1754489962,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;CodeFu&lt;/strong&gt; learned competitive programming from execution outcomes - no ground truth solutions were given during training. The results are encouraging:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;13.7% Pass@1 on USA Computing Olympiad benchmark &lt;/li&gt;\n&lt;li&gt;Outperforms models 4x larger &lt;/li&gt;\n&lt;li&gt;10x improvement over its base model&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Built on DeepSeek-R1-Distill-Qwen-7B, CodeFu shows how effective RL training can achieve 10x improvements - jumping from 1% to 13.7%. This required overcoming several training stability challenges, including response length and reward collapse during hard problem training.&lt;/p&gt;\n\n&lt;p&gt;The training pipeline uses Ray-orchestrated distributed training on SageMaker Training Jobs to handle resource-intensive RL rollouts and code compilation/execution.&lt;/p&gt;\n\n&lt;p&gt;Training approach is detailed on the HF &lt;a href=\"https://huggingface.co/aws-prototyping/codefu-7b-v0.1\"&gt;model card&lt;/a&gt; page.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/6b56c57rqehf1.png?width=1276&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bbd6291e8e6e10f2cb23edcf95187459472c97f4\"&gt;https://preview.redd.it/6b56c57rqehf1.png?width=1276&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bbd6291e8e6e10f2cb23edcf95187459472c97f4&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?auto=webp&amp;s=a8982db3a47f9f2b857f0c7d51fb24956db2a363",
+                    "width": 1200,
+                    "height": 648
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=5f52fb4b533f9cd10ae971b52bbd71708b64e883",
+                      "width": 108,
+                      "height": 58
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=293956d9375e572f75ba6948d8af41d2b6f2452a",
+                      "width": 216,
+                      "height": 116
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b4aa6119b64cb150fabce0431391c649e953135d",
+                      "width": 320,
+                      "height": 172
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb960069c047d2606ddccbce9a7f76f0ad921322",
+                      "width": 640,
+                      "height": 345
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=b431b23d1d40bdbcfda257aac42c14e08c66dee0",
+                      "width": 960,
+                      "height": 518
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4b196c4345b25e1673734d41898564ba232b7ee3",
+                      "width": 1080,
+                      "height": 583
+                    }
+                  ],
+                  "variants": {},
+                  "id": "zgW6HTBpLc8d_FUSPNpLKbimBYooh1wT1-1dC31nLgY"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mj5xuw",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Live_Area_2746",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mj5xuw/codefu7bv01_a_reinforcement_learning_rltrained_7b/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mj5xuw/codefu7bv01_a_reinforcement_learning_rltrained_7b/",
+            "subreddit_subscribers": 512427,
+            "created_utc": 1754489962,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n78k0ek",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": true,
+            "author": "No_Efficiency_1144",
+            "can_mod_post": false,
+            "created_utc": 1754490424,
+            "send_replies": true,
+            "parent_id": "t3_1mj5xuw",
+            "score": 2,
+            "author_fullname": "t2_1nkj9l14b0",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "No ground truth solutions is very impressive \n\n\nThis is cool because it might have learned things in a bit of a different way",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n78k0ek",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No ground truth solutions is very impressive &lt;/p&gt;\n\n&lt;p&gt;This is cool because it might have learned things in a bit of a different way&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mj5xuw/codefu7bv01_a_reinforcement_learning_rltrained_7b/n78k0ek/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754490424,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mj5xuw",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]

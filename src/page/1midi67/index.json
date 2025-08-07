@@ -36,9 +36,9 @@
             "name": "t3_1midi67",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.9,
+            "upvote_ratio": 0.89,
             "author_flair_background_color": "#bbbdbf",
-            "ups": 343,
+            "ups": 342,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -52,7 +52,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Other",
             "can_mod_post": false,
-            "score": 343,
+            "score": 342,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -160,7 +160,7 @@
             "report_reasons": null,
             "author": "jacek2023",
             "discussion_type": null,
-            "num_comments": 76,
+            "num_comments": 78,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -169,7 +169,7 @@
             "permalink": "/r/LocalLLaMA/comments/1midi67/gptoss_today/",
             "stickied": false,
             "url": "https://i.redd.it/2br9oi8178hf1.png",
-            "subreddit_subscribers": 511885,
+            "subreddit_subscribers": 512428,
             "created_utc": 1754410494,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -533,7 +533,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n72vkra",
-                                          "score": 9,
+                                          "score": 10,
                                           "author_fullname": "t2_l0pq5",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -576,7 +576,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 9
+                                          "ups": 10
                                         }
                                       },
                                       {
@@ -741,7 +741,93 @@
                                                                         "author_flair_template_id": null,
                                                                         "distinguished": null,
                                                                         "likes": null,
-                                                                        "replies": "",
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "after": null,
+                                                                            "dist": null,
+                                                                            "modhash": "",
+                                                                            "geo_filter": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_81eyvm",
+                                                                                  "approved_at_utc": null,
+                                                                                  "author_is_blocked": false,
+                                                                                  "comment_type": null,
+                                                                                  "awarders": [],
+                                                                                  "mod_reason_by": null,
+                                                                                  "banned_by": null,
+                                                                                  "author_flair_type": "text",
+                                                                                  "total_awards_received": 0,
+                                                                                  "subreddit": "LocalLLaMA",
+                                                                                  "author_flair_template_id": null,
+                                                                                  "distinguished": null,
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "n79kkj9",
+                                                                                  "banned_at_utc": null,
+                                                                                  "mod_reason_title": null,
+                                                                                  "gilded": 0,
+                                                                                  "archived": false,
+                                                                                  "collapsed_reason_code": null,
+                                                                                  "no_follow": true,
+                                                                                  "author": "x0wl",
+                                                                                  "can_mod_post": false,
+                                                                                  "created_utc": 1754500718,
+                                                                                  "send_replies": true,
+                                                                                  "parent_id": "t1_n768rto",
+                                                                                  "score": 1,
+                                                                                  "author_fullname": "t2_bzlmh",
+                                                                                  "approved_by": null,
+                                                                                  "mod_note": null,
+                                                                                  "all_awardings": [],
+                                                                                  "body": "Lenovo Legion Pro 7 16IRX8H with upgraded RAM, got it on sale",
+                                                                                  "edited": false,
+                                                                                  "gildings": {},
+                                                                                  "author_flair_css_class": null,
+                                                                                  "name": "t1_n79kkj9",
+                                                                                  "is_submitter": false,
+                                                                                  "downs": 0,
+                                                                                  "author_flair_richtext": [],
+                                                                                  "author_patreon_flair": false,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Lenovo Legion Pro 7 16IRX8H with upgraded RAM, got it on sale&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "removal_reason": null,
+                                                                                  "collapsed_reason": null,
+                                                                                  "link_id": "t3_1midi67",
+                                                                                  "associated_award": null,
+                                                                                  "stickied": false,
+                                                                                  "author_premium": false,
+                                                                                  "can_gild": false,
+                                                                                  "top_awarded_type": null,
+                                                                                  "unrepliable_reason": null,
+                                                                                  "author_flair_text_color": null,
+                                                                                  "score_hidden": false,
+                                                                                  "permalink": "/r/LocalLLaMA/comments/1midi67/gptoss_today/n79kkj9/",
+                                                                                  "subreddit_type": "public",
+                                                                                  "locked": false,
+                                                                                  "report_reasons": null,
+                                                                                  "created": 1754500718,
+                                                                                  "author_flair_text": null,
+                                                                                  "treatment_tags": [],
+                                                                                  "collapsed": false,
+                                                                                  "subreddit_name_prefixed": "r/LocalLLaMA",
+                                                                                  "controversiality": 0,
+                                                                                  "depth": 7,
+                                                                                  "author_flair_background_color": null,
+                                                                                  "collapsed_because_crowd_control": null,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "ups": 1
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "before": null
+                                                                          }
+                                                                        },
                                                                         "user_reports": [],
                                                                         "saved": false,
                                                                         "id": "n768rto",
@@ -755,7 +841,7 @@
                                                                         "can_mod_post": false,
                                                                         "send_replies": true,
                                                                         "parent_id": "t1_n73ynk7",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "author_fullname": "t2_u3o4ihmg",
                                                                         "approved_by": null,
                                                                         "mod_note": null,
@@ -797,7 +883,7 @@
                                                                         "collapsed_because_crowd_control": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -941,7 +1027,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n72vkra",
-                                          "score": 10,
+                                          "score": 9,
                                           "author_fullname": "t2_bzlmh",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -984,7 +1070,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 10
+                                          "ups": 9
                                         }
                                       }
                                     ],
@@ -1004,7 +1090,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n72u57e",
-                                "score": 30,
+                                "score": 33,
                                 "author_fullname": "t2_15phwtz8",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1047,7 +1133,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 30
+                                "ups": 33
                               }
                             },
                             {
@@ -1223,7 +1309,7 @@
                       "created_utc": 1754411341,
                       "send_replies": true,
                       "parent_id": "t1_n72tlc8",
-                      "score": 48,
+                      "score": 49,
                       "author_fullname": "t2_ahgkl0do",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1265,7 +1351,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 48
+                      "ups": 49
                     }
                   },
                   {
@@ -1550,7 +1636,7 @@
                       "created_utc": 1754411741,
                       "send_replies": true,
                       "parent_id": "t1_n72tlc8",
-                      "score": 6,
+                      "score": 10,
                       "author_fullname": "t2_66km3",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1592,7 +1678,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 6
+                      "ups": 10
                     }
                   },
                   {
@@ -1688,7 +1774,7 @@
             "created_utc": 1754411185,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 41,
+            "score": 44,
             "author_fullname": "t2_sir1o",
             "approved_by": null,
             "mod_note": null,
@@ -1730,7 +1816,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 41
+            "ups": 44
           }
         },
         {
@@ -1763,7 +1849,7 @@
             "created_utc": 1754415535,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 18,
+            "score": 20,
             "author_fullname": "t2_jqxb4pte",
             "approved_by": null,
             "mod_note": null,
@@ -1805,7 +1891,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 20
           }
         },
         {
@@ -2067,7 +2153,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n72v7h0",
-                                          "score": 8,
+                                          "score": 5,
                                           "author_fullname": "t2_3bryr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2110,7 +2196,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 8
+                                          "ups": 5
                                         }
                                       },
                                       {
@@ -2142,7 +2228,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n72v7h0",
-                                          "score": 2,
+                                          "score": 3,
                                           "author_fullname": "t2_74pqif40",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2185,7 +2271,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 3
                                         }
                                       }
                                     ],
@@ -2349,7 +2435,7 @@
                       "created_utc": 1754410927,
                       "send_replies": true,
                       "parent_id": "t1_n72s9cm",
-                      "score": 23,
+                      "score": 24,
                       "author_fullname": "t2_74pqif40",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2391,7 +2477,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 23
+                      "ups": 24
                     }
                   }
                 ],
@@ -2412,7 +2498,7 @@
             "created_utc": 1754410809,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 53,
+            "score": 51,
             "author_fullname": "t2_ahgkl0do",
             "approved_by": null,
             "mod_note": null,
@@ -2454,7 +2540,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 53
+            "ups": 51
           }
         },
         {
@@ -2487,7 +2573,7 @@
             "created_utc": 1754415661,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 11,
+            "score": 10,
             "author_fullname": "t2_s9soj2zpm",
             "approved_by": null,
             "mod_note": null,
@@ -2529,7 +2615,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {
@@ -2562,7 +2648,7 @@
             "created_utc": 1754421517,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 8,
+            "score": 7,
             "author_fullname": "t2_qds2a3i",
             "approved_by": null,
             "mod_note": null,
@@ -2604,7 +2690,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -2653,6 +2739,167 @@
                           "modhash": "",
                           "geo_filter": "",
                           "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "after": null,
+                                    "dist": null,
+                                    "modhash": "",
+                                    "geo_filter": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_81eyvm",
+                                          "approved_at_utc": null,
+                                          "author_is_blocked": false,
+                                          "comment_type": null,
+                                          "awarders": [],
+                                          "mod_reason_by": null,
+                                          "banned_by": null,
+                                          "author_flair_type": "text",
+                                          "total_awards_received": 0,
+                                          "subreddit": "LocalLLaMA",
+                                          "author_flair_template_id": null,
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "n79ps8l",
+                                          "banned_at_utc": null,
+                                          "mod_reason_title": null,
+                                          "gilded": 0,
+                                          "archived": false,
+                                          "collapsed_reason_code": null,
+                                          "no_follow": true,
+                                          "author": "Ngambardella",
+                                          "can_mod_post": false,
+                                          "send_replies": true,
+                                          "parent_id": "t1_n73gpiu",
+                                          "score": 1,
+                                          "author_fullname": "t2_1u4zot5ujt",
+                                          "removal_reason": null,
+                                          "approved_by": null,
+                                          "mod_note": null,
+                                          "all_awardings": [],
+                                          "collapsed": false,
+                                          "body": "Depends on your systems RAM, but if you have 16gb it'll be enough to run the 20B 4-bit quantized version according to their blog post.",
+                                          "edited": false,
+                                          "top_awarded_type": null,
+                                          "author_flair_css_class": null,
+                                          "name": "t1_n79ps8l",
+                                          "is_submitter": false,
+                                          "downs": 0,
+                                          "author_flair_richtext": [],
+                                          "author_patreon_flair": false,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Depends on your systems RAM, but if you have 16gb it&amp;#39;ll be enough to run the 20B 4-bit quantized version according to their blog post.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "gildings": {},
+                                          "collapsed_reason": null,
+                                          "distinguished": null,
+                                          "associated_award": null,
+                                          "stickied": false,
+                                          "author_premium": false,
+                                          "can_gild": false,
+                                          "link_id": "t3_1midi67",
+                                          "unrepliable_reason": null,
+                                          "author_flair_text_color": null,
+                                          "score_hidden": false,
+                                          "permalink": "/r/LocalLLaMA/comments/1midi67/gptoss_today/n79ps8l/",
+                                          "subreddit_type": "public",
+                                          "locked": false,
+                                          "report_reasons": null,
+                                          "created": 1754502128,
+                                          "author_flair_text": null,
+                                          "treatment_tags": [],
+                                          "created_utc": 1754502128,
+                                          "subreddit_name_prefixed": "r/LocalLLaMA",
+                                          "controversiality": 0,
+                                          "depth": 3,
+                                          "author_flair_background_color": null,
+                                          "collapsed_because_crowd_control": null,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n73gpiu",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "Acrobatic-Original92",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n739cbt",
+                                "score": 2,
+                                "author_fullname": "t2_5yhq1ebq",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "You're telling me I can run it on a 3070 8gb of vram?",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n73gpiu",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;re telling me I can run it on a 3070 8gb of vram?&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1midi67",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1midi67/gptoss_today/n73gpiu/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1754418626,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1754418626,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            },
                             {
                               "kind": "t1",
                               "data": {
@@ -2780,7 +3027,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n73b1u6",
-                                          "score": -4,
+                                          "score": -3,
                                           "author_fullname": "t2_ikdwr",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2823,7 +3070,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": -4
+                                          "ups": -3
                                         }
                                       }
                                     ],
@@ -2843,7 +3090,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n739cbt",
-                                "score": 4,
+                                "score": 5,
                                 "author_fullname": "t2_1pge6qq0g4",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2886,82 +3133,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
-                              }
-                            },
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_81eyvm",
-                                "approved_at_utc": null,
-                                "author_is_blocked": false,
-                                "comment_type": null,
-                                "awarders": [],
-                                "mod_reason_by": null,
-                                "banned_by": null,
-                                "author_flair_type": "text",
-                                "total_awards_received": 0,
-                                "subreddit": "LocalLLaMA",
-                                "author_flair_template_id": null,
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "n73gpiu",
-                                "banned_at_utc": null,
-                                "mod_reason_title": null,
-                                "gilded": 0,
-                                "archived": false,
-                                "collapsed_reason_code": null,
-                                "no_follow": true,
-                                "author": "Acrobatic-Original92",
-                                "can_mod_post": false,
-                                "send_replies": true,
-                                "parent_id": "t1_n739cbt",
-                                "score": 1,
-                                "author_fullname": "t2_5yhq1ebq",
-                                "removal_reason": null,
-                                "approved_by": null,
-                                "mod_note": null,
-                                "all_awardings": [],
-                                "body": "You're telling me I can run it on a 3070 8gb of vram?",
-                                "edited": false,
-                                "top_awarded_type": null,
-                                "downs": 0,
-                                "author_flair_css_class": null,
-                                "name": "t1_n73gpiu",
-                                "is_submitter": false,
-                                "collapsed": false,
-                                "author_flair_richtext": [],
-                                "author_patreon_flair": false,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;re telling me I can run it on a 3070 8gb of vram?&lt;/p&gt;\n&lt;/div&gt;",
-                                "gildings": {},
-                                "collapsed_reason": null,
-                                "distinguished": null,
-                                "associated_award": null,
-                                "stickied": false,
-                                "author_premium": false,
-                                "can_gild": false,
-                                "link_id": "t3_1midi67",
-                                "unrepliable_reason": null,
-                                "author_flair_text_color": null,
-                                "score_hidden": false,
-                                "permalink": "/r/LocalLLaMA/comments/1midi67/gptoss_today/n73gpiu/",
-                                "subreddit_type": "public",
-                                "locked": false,
-                                "report_reasons": null,
-                                "created": 1754418626,
-                                "author_flair_text": null,
-                                "treatment_tags": [],
-                                "created_utc": 1754418626,
-                                "subreddit_name_prefixed": "r/LocalLLaMA",
-                                "controversiality": 0,
-                                "depth": 2,
-                                "author_flair_background_color": null,
-                                "collapsed_because_crowd_control": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
+                                "ups": 5
                               }
                             }
                           ],
@@ -2982,7 +3154,7 @@
                       "created_utc": 1754416074,
                       "send_replies": true,
                       "parent_id": "t1_n7337u4",
-                      "score": 3,
+                      "score": 6,
                       "author_fullname": "t2_1u4zot5ujt",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3024,7 +3196,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 6
                     }
                   },
                   {
@@ -3206,7 +3378,7 @@
             "created_utc": 1754414162,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 6,
+            "score": 8,
             "author_fullname": "t2_5yhq1ebq",
             "approved_by": null,
             "mod_note": null,
@@ -3248,7 +3420,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 8
           }
         },
         {
@@ -3367,7 +3539,7 @@
             "created_utc": 1754416116,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 9,
+            "score": 8,
             "author_fullname": "t2_1nprbkmy5x",
             "approved_by": null,
             "mod_note": null,
@@ -3409,7 +3581,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 8
           }
         },
         {
@@ -3442,7 +3614,7 @@
             "created_utc": 1754414902,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 7,
+            "score": 6,
             "author_fullname": "t2_gitmd",
             "approved_by": null,
             "mod_note": null,
@@ -3484,7 +3656,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -3706,7 +3878,7 @@
                       "created_utc": 1754414959,
                       "send_replies": true,
                       "parent_id": "t1_n732xkj",
-                      "score": 8,
+                      "score": 10,
                       "author_fullname": "t2_p4fn8",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3748,7 +3920,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 10
                     }
                   },
                   {
@@ -5058,7 +5230,7 @@
                       "created_utc": 1754414823,
                       "send_replies": false,
                       "parent_id": "t1_n72tt3f",
-                      "score": 18,
+                      "score": 17,
                       "author_fullname": "t2_5ow51",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5100,7 +5272,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 18
+                      "ups": 17
                     }
                   },
                   {
@@ -5201,7 +5373,7 @@
             "created_utc": 1754411246,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": 0,
+            "score": 3,
             "author_fullname": "t2_15phwtz8",
             "approved_by": null,
             "mod_note": null,
@@ -5243,7 +5415,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 3
           }
         },
         {
@@ -6098,7 +6270,7 @@
             "created_utc": 1754412310,
             "send_replies": true,
             "parent_id": "t3_1midi67",
-            "score": -13,
+            "score": -11,
             "author_fullname": "t2_sgx7w7mb",
             "approved_by": null,
             "mod_note": null,
@@ -6140,7 +6312,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -13
+            "ups": -11
           }
         }
       ],

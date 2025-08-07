@@ -1,0 +1,184 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "I tried the recommended Unsloth settings, as well as the default settings, and after a few questions, the model proceeds to skip its turn indefinitely.  Maybe it’s missing a stop token? ",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Playing 20 questions with gpt-oss-120b causes the model to spiral",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Question | Help"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 140,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mjdy9g",
+            "quarantine": false,
+            "link_flair_text_color": "dark",
+            "upvote_ratio": 0.61,
+            "author_flair_background_color": null,
+            "ups": 3,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_vcawomd",
+            "secure_media": null,
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Question | Help",
+            "can_mod_post": false,
+            "score": 3,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/SB7UUlSDYD3ftVVsrrhum8U3QpnLurB7cAZ8xmHvHjw.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "image",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754508019,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "i.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I tried the recommended Unsloth settings, as well as the default settings, and after a few questions, the model proceeds to skip its turn indefinitely.  Maybe it’s missing a stop token? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://i.redd.it/fzggmq5i8ghf1.png",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://preview.redd.it/fzggmq5i8ghf1.png?auto=webp&amp;s=0e4405e63ab5bf9a7b4a99dec8e646f6f0a5def0",
+                    "width": 1057,
+                    "height": 1210
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://preview.redd.it/fzggmq5i8ghf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b707934d1ae707c636da27819dd544b55c546978",
+                      "width": 108,
+                      "height": 123
+                    },
+                    {
+                      "url": "https://preview.redd.it/fzggmq5i8ghf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8615dd625b61805d7cdc15b50fc12aca20001d09",
+                      "width": 216,
+                      "height": 247
+                    },
+                    {
+                      "url": "https://preview.redd.it/fzggmq5i8ghf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9c198ce10088e28a08d4d592985429361f315944",
+                      "width": 320,
+                      "height": 366
+                    },
+                    {
+                      "url": "https://preview.redd.it/fzggmq5i8ghf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08134fa5c63c474d25ddd5a5d44ec880348ec4ba",
+                      "width": 640,
+                      "height": 732
+                    },
+                    {
+                      "url": "https://preview.redd.it/fzggmq5i8ghf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=32dfc6a2fe17eb5f2e62d0f54f4aa87ff779734d",
+                      "width": 960,
+                      "height": 1098
+                    }
+                  ],
+                  "variants": {},
+                  "id": "ljZjp8JJaa9mATyRKuqr1RPC2Ax-vO-Vh3e8BEHMnfQ"
+                }
+              ],
+              "enabled": true
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "2c9831e6-bf92-11ed-98e6-d2b8bcc02ae1",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#5a74cc",
+            "id": "1mjdy9g",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "onil_gova",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mjdy9g/playing_20_questions_with_gptoss120b_causes_the/",
+            "stickied": false,
+            "url": "https://i.redd.it/fzggmq5i8ghf1.png",
+            "subreddit_subscribers": 512426,
+            "created_utc": 1754508019,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

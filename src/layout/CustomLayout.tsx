@@ -13797,6 +13797,418 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1mj38wf',
         name: 'Simultaneously running 128k context windows on gpt-oss-20b (TG: 97 t/s, PP: 1348 t/s | 5060ti 16gb) &amp; gpt-oss-120b (TG: 22 t/s, PP: 136 t/s | 3070ti 8gb + expert FFNN offload to Zen 5 9600x with ~55/96gb DDR5-6400). Lots of performance reclaimed with rawdog llama.cpp CLI / server VS LM Studio!',
       },
+      {
+        path: '/1mj3wks',
+        name: 'The missing conversation: Is GPT-OSS by OpenAI a good architecture?',
+      },
+      {
+        path: '/1mj4zkk',
+        name: 'LEAK: How OpenAI came up with the new models name.',
+      },
+      {
+        path: '/1mj524g',
+        name: 'GPT-OSS 120B locally in JavaScript',
+      },
+      {
+        path: '/1mj5q2f',
+        name: 'Have you tried gpt-oss on agentic tasks?',
+      },
+      {
+        path: '/1mj5qx1',
+        name: 'There we are again. Can’t kill process',
+      },
+      {
+        path: '/1mj5xuw',
+        name: 'CodeFu-7B-v0.1 - a Reinforcement Learning (RL)-trained 7B model for Competitive Programming',
+      },
+      {
+        path: '/1mj63k9',
+        name: 'I’m sorry, but I can’t help with that',
+      },
+      {
+        path: '/1mj66jb',
+        name: 'Is there any benchmark flattery?',
+      },
+      {
+        path: '/1mj6enx',
+        name: 'Y\'know',
+      },
+      {
+        path: '/1mj6krv',
+        name: 'How I cut LLM costs from $20 to $0 by making unreliable APIs reliable (and ditched OpenAI for DeepSeek)',
+      },
+      {
+        path: '/1mj6pi9',
+        name: 'gpt-oss is great for tool calling',
+      },
+      {
+        path: '/1mj6uix',
+        name: 'Gpt-oss is not just safe, it is unusable!',
+      },
+      {
+        path: '/1mj6wwd',
+        name: 'what the hell is llama.cpp',
+      },
+      {
+        path: '/1mj6xif',
+        name: 'gpt-oss-120b on CPU and 5200Mt/s dual channel memory',
+      },
+      {
+        path: '/1mj6y6j',
+        name: 'How is everyone dealing with the OpenAI Harmony format on gpt-oss?',
+      },
+      {
+        path: '/1mj71cg',
+        name: 'AMD Radeon AI PRO R9700 Has Already Launched But Will Be Only Available Via System Integrators',
+      },
+      {
+        path: '/1mj74o6',
+        name: 'How does OSS know the date?',
+      },
+      {
+        path: '/1mj75hi',
+        name: 'We’re definitely keeping him up at night right now.',
+      },
+      {
+        path: '/1mj764m',
+        name: 'GPT-Oss is safety bait.',
+      },
+      {
+        path: '/1mj7c6d',
+        name: 'What\'s the best uncensored (but not necessarily NSFW) model under 24GB to use as a creative writing assistant?',
+      },
+      {
+        path: '/1mj7gfx',
+        name: 'Ballin\' on a budget with gpt-oss-120b: Destroys Kimi K2 on FamilyBench!',
+      },
+      {
+        path: '/1mj7i8b',
+        name: 'Qwen3-4B-Thinking-2507 and Qwen3-4B-Instruct-2507',
+      },
+      {
+        path: '/1mj7io0',
+        name: 'GPT OSS 120b is not as fast as it should be',
+      },
+      {
+        path: '/1mj7m20',
+        name: 'Poor performance qwen3 235B 2507 mlx vs. unsloth variant',
+      },
+      {
+        path: '/1mj7pny',
+        name: 'Just when you thought Qwen was done...',
+      },
+      {
+        path: '/1mj7qv2',
+        name: 'Anyone using Kani?',
+      },
+      {
+        path: '/1mj7rn9',
+        name: 'Why MCP Servers Are a Nightmare for Engineers',
+      },
+      {
+        path: '/1mj7t51',
+        name: '🚀 Qwen3-4B-Thinking-2507 released!',
+      },
+      {
+        path: '/1mj83fe',
+        name: 'Qwen/Qwen3-4B-Thinking-2507',
+      },
+      {
+        path: '/1mj8dq7',
+        name: 'What is the best VLM at the moment?',
+      },
+      {
+        path: '/1mj8kbw',
+        name: 'Aren\'t we misunderstanding OAI when it says "safety"?',
+      },
+      {
+        path: '/1mj8lk8',
+        name: 'Qwen isn\'t stopping !! (And trolling sama lol)',
+      },
+      {
+        path: '/1mj8mqi',
+        name: 'With a dual 3090 system, what would be the best LLM for coding?',
+      },
+      {
+        path: '/1mj8ndr',
+        name: 'Qwen 3 4b thinking model released !!',
+      },
+      {
+        path: '/1mj8p54',
+        name: 'Advice for uncensored agent',
+      },
+      {
+        path: '/1mj8pqo',
+        name: 'run gpt-oss 20b at ok speeds on my hardware?',
+      },
+      {
+        path: '/1mj8skn',
+        name: 'Qwen3-4B-Thinking-2507 dead on arrival? Killed by gpt-oss-20b',
+      },
+      {
+        path: '/1mj8w9v',
+        name: 'Qwen3-8b and 14b censorship',
+      },
+      {
+        path: '/1mj8zya',
+        name: 'Any windows apps that handle LLM+tts+speech recognition?',
+      },
+      {
+        path: '/1mj9690',
+        name: 'gpt-oss-20b vs magistral:24b?',
+      },
+      {
+        path: '/1mj96r7',
+        name: 'Echoes of Ir - a game with local LLM companions',
+      },
+      {
+        path: '/1mj97vh',
+        name: 'Easy to use STT solutions for meetings? Ideally with live captions?',
+      },
+      {
+        path: '/1mj9e2y',
+        name: 'underwhelmed by 512gb M3 ultra Mac Studio',
+      },
+      {
+        path: '/1mj9zut',
+        name: 'Asking about the efficiency of adding more RAM just to run larger models',
+      },
+      {
+        path: '/1mja01g',
+        name: 'Somebody please make the pilgrim the official avatar of GPT-OSS',
+      },
+      {
+        path: '/1mja233',
+        name: 'gpt-oss-20b on LM Studio / Ubuntu / RX7900XTX',
+      },
+      {
+        path: '/1mjagod',
+        name: 'Qwen/Qwen3-4B-Instruct-2507 · Hugging Face',
+      },
+      {
+        path: '/1mjaiax',
+        name: 'Coolest persona in a 4B model yet?',
+      },
+      {
+        path: '/1mjajrl',
+        name: 'KittenTTS received ~2500 stars within 24 hours yet not in trending',
+      },
+      {
+        path: '/1mjarwj',
+        name: 'So I guess the horizon models were gpt-oss?',
+      },
+      {
+        path: '/1mjatfp',
+        name: 'Llama.cpp doesn\'t use GPU',
+      },
+      {
+        path: '/1mjazhj',
+        name: 'Advice For Running Larger LLMs',
+      },
+      {
+        path: '/1mjb07s',
+        name: 'No copyright censorship with gpt-oss-120b if you don\'t use shitty quants, no jailbreak needed',
+      },
+      {
+        path: '/1mjbiq6',
+        name: 'In-browser tool calling playground, running LFM2 locally on WebGPU with Transformers.js',
+      },
+      {
+        path: '/1mjbkt6',
+        name: 'Best solution to use any model in full stack mode?',
+      },
+      {
+        path: '/1mjbne6',
+        name: 'A faster text diffusion model? My concept for adaptive steps.',
+      },
+      {
+        path: '/1mjbrwu',
+        name: 'Unitree announces it\'s latest LLM hardware platform. This one really moves!',
+      },
+      {
+        path: '/1mjc2od',
+        name: 'Does giving context about whole your life make ChatGPT 10x more useful?',
+      },
+      {
+        path: '/1mjc4kb',
+        name: 'OpenRouter vs Lambda: Which is more economical for millions of tokens on the newest Qwen coder model?',
+      },
+      {
+        path: '/1mjc6b1',
+        name: 'I built an conversational and customizable open-source meeting assistant',
+      },
+      {
+        path: '/1mjcc6g',
+        name: 'Is Qwen 3:0.6B Multilingual?',
+      },
+      {
+        path: '/1mjceor',
+        name: 'Qwen3 30b 2507 Thinking - benchmarks',
+      },
+      {
+        path: '/1mjcnnu',
+        name: 'Finally: TRL now supports fine-tuning for gpt-oss! HuggingFace team: "In our testing, these models are extremely efficient to tune and can be adapted to new domains with just a few 100 samples"',
+      },
+      {
+        path: '/1mjcsty',
+        name: 'Looking for recommendation image model that understands Russian Cyrillic so I can extract text from the image locally',
+      },
+      {
+        path: '/1mjd2yd',
+        name: 'Today\'s news',
+      },
+      {
+        path: '/1mjdqqm',
+        name: 'How much vram required to quantize gemma 3 27b?',
+      },
+      {
+        path: '/1mjdvr6',
+        name: 'Reliable TTS model for German?',
+      },
+      {
+        path: '/1mjdwqp',
+        name: 'Cross-Structural Alignment for Efficient Code Language Fine-Tuning',
+      },
+      {
+        path: '/1mjdy9g',
+        name: 'Playing 20 questions with gpt-oss-120b causes the model to spiral',
+      },
+      {
+        path: '/1mjdz2a',
+        name: 'Local LLMs – What are the real advantages beyond privacy ?',
+      },
+      {
+        path: '/1mjdzo4',
+        name: 'You can make models try to repeat a word and set repeat penalty really high.',
+      },
+      {
+        path: '/1mje4dm',
+        name: 'Copilot Agent Mode with any reasonable local LLM that\'s on par with o4 mini',
+      },
+      {
+        path: '/1mje5o0',
+        name: 'PSA: Qwen3-Coder-30B-A3B tool calling fixed by Unsloth wizards',
+      },
+      {
+        path: '/1mjebkx',
+        name: 'gpt-oss-120b is the top open-weight model (with Kimi K2 right on its tail) for capabilities (HELM capabilities v1.11)!',
+      },
+      {
+        path: '/1mjef0p',
+        name: 'What\'s better Q2_K_XL or IQ3_XXS?',
+      },
+      {
+        path: '/1mjeopa',
+        name: 'What is the best Local Setup for Research?',
+      },
+      {
+        path: '/1mjept0',
+        name: '*Noob question*- running a single L4, text analysis, llama 3.1 8b-it, looking to upgrade',
+      },
+      {
+        path: '/1mjevrf',
+        name: 'Can someone explain to me why there is so much hype and excitement about Qwen 3 4b Thinking?',
+      },
+      {
+        path: '/1mjf25w',
+        name: 'Why are all the unsloth GPT-OSS-20b quants basically the same size?',
+      },
+      {
+        path: '/1mjf58p',
+        name: 'How do I get cogito v2 to work in thinking mode in openwebui?',
+      },
+      {
+        path: '/1mjf5ol',
+        name: 'r/LocalLlama is looking for moderators',
+      },
+      {
+        path: '/1mjfa2d',
+        name: 'OpenAI\'s new open-source model is like a dim-witted DMV bureaucrat who is more concerned with following rules than helping you.',
+      },
+      {
+        path: '/1mjfbk7',
+        name: 'This is peak. New personality for Qwen 30b A3B Thinking',
+      },
+      {
+        path: '/1mjfmcl',
+        name: 'Suggestions you may have',
+      },
+      {
+        path: '/1mjfwqh',
+        name: 'Is it possible to run OpenAI\'s gpt-oss-20b on AMD GPUs (like RX 7900 XT) instead of CUDA?',
+      },
+      {
+        path: '/1mjggjx',
+        name: 'Trying to run Qwen3-30b-A3B-FP8 Coder in vLLM and i am only getting 0.5 tokens per second.',
+      },
+      {
+        path: '/1mjghu2',
+        name: 'Qwen3-4B enables agentic use cases for us iGPU folks',
+      },
+      {
+        path: '/1mjgj2x',
+        name: 'llamacpp+ROCm7 beta is now supported on Lemonade',
+      },
+      {
+        path: '/1mjgv2m',
+        name: 'Old PC conversation viability',
+      },
+      {
+        path: '/1mjgw7o',
+        name: 'Concerns about  the new Windows Ollama app requiring Sign In for Web Search, Turbo and downloading models.',
+      },
+      {
+        path: '/1mjhsr7',
+        name: 'GPT-OSS was last updated in 2024?',
+      },
+      {
+        path: '/1mjhu5o',
+        name: 'Building a self-hosted AI support agent (using GPT-OSS) that can both guide users and perform real actions – looking for feedback',
+      },
+      {
+        path: '/1mji8gx',
+        name: 'What are your favorite 48gb-compatible models right now? Any particular favorites for conversation/emotional intelligence?',
+      },
+      {
+        path: '/1mjiyrf',
+        name: 'Gemma 3 27b vs GPT OSS 20B anyone try yet?',
+      },
+      {
+        path: '/1mjjaor',
+        name: 'Where are we at running the GPT-OSS models locally?',
+      },
+      {
+        path: '/1mjjcu1',
+        name: 'Jailbreak GPT OSS 120b',
+      },
+      {
+        path: '/1mjju67',
+        name: 'No, no, no, wait - on a second thought, I KNOW the answer!',
+      },
+      {
+        path: '/1mjk5l5',
+        name: 'Does anyone know if the same rules apply to embedding models with q4 being "good enough" in general?',
+      },
+      {
+        path: '/1mjk9ia',
+        name: 'GPT-OSS LM Studio Issues...thinking output as response.',
+      },
+      {
+        path: '/1mjkev8',
+        name: 'Best AI-API for mass-generating article summaries (fast + cheap)?',
+      },
+      {
+        path: '/1mjlg5q',
+        name: 'Vox Populi',
+      },
+      {
+        path: '/1mjlvxo',
+        name: 'Slow prompt eval oss 120b?',
+      },
+      {
+        path: '/1mjm5vm',
+        name: 'GPT-OSS-20B F16/MXFP4 GGUF Models Not Loading on Latest llama.cpp: "tensor ... has invalid ggml type 39 (NONE)"',
+      },
     ],
   },
   {
