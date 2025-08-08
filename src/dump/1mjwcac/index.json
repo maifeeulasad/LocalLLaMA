@@ -39,7 +39,7 @@
             "upvote_ratio": 0.67,
             "author_flair_background_color": "transparent",
             "subreddit_type": "public",
-            "ups": 11,
+            "ups": 12,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Discussion",
             "can_mod_post": false,
-            "score": 11,
+            "score": 12,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -122,7 +122,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mjwcac/more_benchmarks_should_report_response_times/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mjwcac/more_benchmarks_should_report_response_times/",
-            "subreddit_subscribers": 513417,
+            "subreddit_subscribers": 513813,
             "created_utc": 1754562117,
             "num_crossposts": 0,
             "mod_reports": [],
@@ -349,7 +349,7 @@
             "created_utc": 1754562953,
             "send_replies": true,
             "parent_id": "t3_1mjwcac",
-            "score": 15,
+            "score": 14,
             "author_fullname": "t2_1nkj9l14b0",
             "approved_by": null,
             "mod_note": null,
@@ -391,7 +391,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 14
           }
         },
         {
@@ -597,7 +597,7 @@
                       "created_utc": 1754563461,
                       "send_replies": true,
                       "parent_id": "t1_n7e6cm6",
-                      "score": 2,
+                      "score": 0,
                       "author_fullname": "t2_1a48h7vf",
                       "removal_reason": null,
                       "approved_by": null,
@@ -645,7 +645,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 0
                     }
                   }
                 ],
@@ -666,7 +666,7 @@
             "created_utc": 1754563096,
             "send_replies": true,
             "parent_id": "t3_1mjwcac",
-            "score": -2,
+            "score": -4,
             "author_fullname": "t2_66rmvyi7",
             "approved_by": null,
             "mod_note": null,
@@ -708,7 +708,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -4
           }
         }
       ],

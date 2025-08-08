@@ -36,10 +36,10 @@
             "name": "t3_1mjoo7w",
             "quarantine": false,
             "link_flair_text_color": "light",
-            "upvote_ratio": 0.97,
+            "upvote_ratio": 0.96,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 386,
+            "ups": 390,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 386,
+            "score": 390,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -154,7 +154,7 @@
             "report_reasons": null,
             "author": "_extruded",
             "discussion_type": null,
-            "num_comments": 96,
+            "num_comments": 97,
             "send_replies": true,
             "media": null,
             "contest_mode": false,
@@ -163,7 +163,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/",
-            "subreddit_subscribers": 513417,
+            "subreddit_subscribers": 513813,
             "created_utc": 1754535059,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -350,12 +350,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "Virtamancer",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7fbo2c",
-                                          "score": 2,
+                                          "score": 4,
                                           "author_fullname": "t2_kvniqgt7",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -398,7 +398,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 4
                                         }
                                       },
                                       {
@@ -498,7 +498,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7do222",
-                                "score": 11,
+                                "score": 18,
                                 "author_fullname": "t2_yrj0m",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -541,7 +541,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 11
+                                "ups": 18
                               }
                             },
                             {
@@ -745,7 +745,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7do222",
-                                "score": 11,
+                                "score": 9,
                                 "author_fullname": "t2_9so78ol2",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -788,7 +788,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 11
+                                "ups": 9
                               }
                             }
                           ],
@@ -809,7 +809,7 @@
                       "created_utc": 1754552907,
                       "send_replies": true,
                       "parent_id": "t1_n7cqqz4",
-                      "score": 25,
+                      "score": 31,
                       "author_fullname": "t2_6ywe9a9n5",
                       "removal_reason": null,
                       "approved_by": null,
@@ -851,7 +851,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 25
+                      "ups": 31
                     }
                   }
                 ],
@@ -872,7 +872,7 @@
             "created_utc": 1754536551,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 59,
+            "score": 63,
             "author_fullname": "t2_dbpkj",
             "approved_by": null,
             "mod_note": null,
@@ -914,7 +914,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 59
+            "ups": 63
           }
         },
         {
@@ -932,7 +932,93 @@
             "subreddit": "LocalLLaMA",
             "author_flair_template_id": null,
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "after": null,
+                "dist": null,
+                "modhash": "",
+                "geo_filter": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_81eyvm",
+                      "approved_at_utc": null,
+                      "author_is_blocked": false,
+                      "comment_type": null,
+                      "awarders": [],
+                      "mod_reason_by": null,
+                      "banned_by": null,
+                      "author_flair_type": "text",
+                      "total_awards_received": 0,
+                      "subreddit": "LocalLLaMA",
+                      "author_flair_template_id": null,
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "n7jpgqh",
+                      "banned_at_utc": null,
+                      "mod_reason_title": null,
+                      "gilded": 0,
+                      "archived": false,
+                      "collapsed_reason_code": null,
+                      "no_follow": true,
+                      "author": "IrisColt",
+                      "can_mod_post": false,
+                      "created_utc": 1754628165,
+                      "send_replies": true,
+                      "parent_id": "t1_n7cosa2",
+                      "score": 1,
+                      "author_fullname": "t2_c2f558x",
+                      "removal_reason": null,
+                      "approved_by": null,
+                      "mod_note": null,
+                      "all_awardings": [],
+                      "body": "Yes, but I guess...\nlobotomy + guardrails - guardrails = lobotomy",
+                      "edited": false,
+                      "top_awarded_type": null,
+                      "author_flair_css_class": null,
+                      "name": "t1_n7jpgqh",
+                      "is_submitter": false,
+                      "downs": 0,
+                      "author_flair_richtext": [],
+                      "author_patreon_flair": false,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, but I guess...\nlobotomy + guardrails - guardrails = lobotomy&lt;/p&gt;\n&lt;/div&gt;",
+                      "gildings": {},
+                      "collapsed_reason": null,
+                      "distinguished": null,
+                      "associated_award": null,
+                      "stickied": false,
+                      "author_premium": false,
+                      "can_gild": false,
+                      "link_id": "t3_1mjoo7w",
+                      "unrepliable_reason": null,
+                      "author_flair_text_color": null,
+                      "score_hidden": false,
+                      "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/n7jpgqh/",
+                      "subreddit_type": "public",
+                      "locked": false,
+                      "report_reasons": null,
+                      "created": 1754628165,
+                      "author_flair_text": null,
+                      "treatment_tags": [],
+                      "collapsed": false,
+                      "subreddit_name_prefixed": "r/LocalLLaMA",
+                      "controversiality": 0,
+                      "depth": 1,
+                      "author_flair_background_color": null,
+                      "collapsed_because_crowd_control": null,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "n7cosa2",
@@ -947,7 +1033,7 @@
             "created_utc": 1754535780,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 83,
+            "score": 84,
             "author_fullname": "t2_1lb58pxo1o",
             "approved_by": null,
             "mod_note": null,
@@ -989,7 +1075,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 83
+            "ups": 84
           }
         },
         {
@@ -1045,7 +1131,7 @@
                       "created_utc": 1754578339,
                       "send_replies": true,
                       "parent_id": "t1_n7conf4",
-                      "score": 10,
+                      "score": 11,
                       "author_fullname": "t2_9jp7inbr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1087,7 +1173,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 10
+                      "ups": 11
                     }
                   }
                 ],
@@ -1108,7 +1194,7 @@
             "created_utc": 1754535727,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 50,
+            "score": 51,
             "author_fullname": "t2_j1kqr",
             "approved_by": null,
             "mod_note": null,
@@ -1155,7 +1241,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 50
+            "ups": 51
           }
         },
         {
@@ -1586,7 +1672,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7cuo1o",
-                                "score": 16,
+                                "score": 17,
                                 "author_fullname": "t2_vqgbql9w",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1634,7 +1720,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 16
+                                "ups": 17
                               }
                             },
                             {
@@ -1666,7 +1752,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7cuo1o",
-                                "score": 15,
+                                "score": 16,
                                 "author_fullname": "t2_vqgbql9w",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1714,7 +1800,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 16
                               }
                             },
                             {
@@ -1746,14 +1832,14 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7cuo1o",
-                                "score": 9,
+                                "score": 8,
                                 "author_fullname": "t2_uhummsau",
                                 "removal_reason": null,
                                 "approved_by": null,
                                 "mod_note": null,
                                 "all_awardings": [],
-                                "body": "Tried to \"gguf\" it just now ; convert to gguf - errored out ; no \"mxfp4\" tensors.\n\nNeeds a patch ?\n\nUpdate:  \nAdded as an \"issue\" as an issue at LLamacpp ; this issue may affect all openai fine tunes (?).",
-                                "edited": 1754549525,
+                                "body": "Tried to \"gguf\" it just now ; convert to gguf - errored out ; no \"mxfp4\" tensors.\n\nNeeds a patch ?\n\nUpdate:  \nAdded as an \"issue\" as an issue at LLamacpp ; this issue may affect all openai fine tunes (?).\n\nUpdate 2:   \n  \nTested Quants here (I am DavidAU):\n\n[https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf](https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf)",
+                                "edited": 1754635370,
                                 "top_awarded_type": null,
                                 "downs": 0,
                                 "author_flair_css_class": null,
@@ -1762,7 +1848,7 @@
                                 "collapsed": false,
                                 "author_flair_richtext": [],
                                 "author_patreon_flair": false,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Tried to &amp;quot;gguf&amp;quot; it just now ; convert to gguf - errored out ; no &amp;quot;mxfp4&amp;quot; tensors.&lt;/p&gt;\n\n&lt;p&gt;Needs a patch ?&lt;/p&gt;\n\n&lt;p&gt;Update:&lt;br/&gt;\nAdded as an &amp;quot;issue&amp;quot; as an issue at LLamacpp ; this issue may affect all openai fine tunes (?).&lt;/p&gt;\n&lt;/div&gt;",
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Tried to &amp;quot;gguf&amp;quot; it just now ; convert to gguf - errored out ; no &amp;quot;mxfp4&amp;quot; tensors.&lt;/p&gt;\n\n&lt;p&gt;Needs a patch ?&lt;/p&gt;\n\n&lt;p&gt;Update:&lt;br/&gt;\nAdded as an &amp;quot;issue&amp;quot; as an issue at LLamacpp ; this issue may affect all openai fine tunes (?).&lt;/p&gt;\n\n&lt;p&gt;Update 2:   &lt;/p&gt;\n\n&lt;p&gt;Tested Quants here (I am DavidAU):&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf\"&gt;https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
                                 "gildings": {},
                                 "collapsed_reason": null,
                                 "distinguished": null,
@@ -1789,7 +1875,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 9
+                                "ups": 8
                               }
                             }
                           ],
@@ -1810,7 +1896,7 @@
                       "created_utc": 1754538150,
                       "send_replies": true,
                       "parent_id": "t1_n7cpunq",
-                      "score": 50,
+                      "score": 53,
                       "author_fullname": "t2_7quep",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1857,7 +1943,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 50
+                      "ups": 53
                     }
                   },
                   {
@@ -1883,6 +1969,81 @@
                           "modhash": "",
                           "geo_filter": "",
                           "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_81eyvm",
+                                "approved_at_utc": null,
+                                "author_is_blocked": false,
+                                "comment_type": null,
+                                "awarders": [],
+                                "mod_reason_by": null,
+                                "banned_by": null,
+                                "author_flair_type": "text",
+                                "total_awards_received": 0,
+                                "subreddit": "LocalLLaMA",
+                                "author_flair_template_id": null,
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "n7ihkvj",
+                                "banned_at_utc": null,
+                                "mod_reason_title": null,
+                                "gilded": 0,
+                                "archived": false,
+                                "collapsed_reason_code": null,
+                                "no_follow": true,
+                                "author": "suddenlyhentailover",
+                                "can_mod_post": false,
+                                "send_replies": true,
+                                "parent_id": "t1_n7evv98",
+                                "score": 3,
+                                "author_fullname": "t2_81vrmqe2",
+                                "removal_reason": null,
+                                "approved_by": null,
+                                "mod_note": null,
+                                "all_awardings": [],
+                                "body": "I''ll tell you that I just tried it with LM Studio and it's as if they lobotomised it and gave it social anxiety.  I can't get it to do anything because it just keeps asking for details I've already given or told it to make up on its own lmao",
+                                "edited": false,
+                                "top_awarded_type": null,
+                                "downs": 0,
+                                "author_flair_css_class": null,
+                                "name": "t1_n7ihkvj",
+                                "is_submitter": false,
+                                "collapsed": false,
+                                "author_flair_richtext": [],
+                                "author_patreon_flair": false,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;&amp;#39;ll tell you that I just tried it with LM Studio and it&amp;#39;s as if they lobotomised it and gave it social anxiety.  I can&amp;#39;t get it to do anything because it just keeps asking for details I&amp;#39;ve already given or told it to make up on its own lmao&lt;/p&gt;\n&lt;/div&gt;",
+                                "gildings": {},
+                                "collapsed_reason": null,
+                                "distinguished": null,
+                                "associated_award": null,
+                                "stickied": false,
+                                "author_premium": false,
+                                "can_gild": false,
+                                "link_id": "t3_1mjoo7w",
+                                "unrepliable_reason": null,
+                                "author_flair_text_color": null,
+                                "score_hidden": false,
+                                "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/n7ihkvj/",
+                                "subreddit_type": "public",
+                                "locked": false,
+                                "report_reasons": null,
+                                "created": 1754611288,
+                                "author_flair_text": null,
+                                "treatment_tags": [],
+                                "created_utc": 1754611288,
+                                "subreddit_name_prefixed": "r/LocalLLaMA",
+                                "controversiality": 0,
+                                "depth": 2,
+                                "author_flair_background_color": null,
+                                "collapsed_because_crowd_control": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            },
                             {
                               "kind": "t1",
                               "data": {
@@ -1962,81 +2123,6 @@
                                 "num_reports": null,
                                 "ups": 3
                               }
-                            },
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_81eyvm",
-                                "approved_at_utc": null,
-                                "author_is_blocked": false,
-                                "comment_type": null,
-                                "awarders": [],
-                                "mod_reason_by": null,
-                                "banned_by": null,
-                                "author_flair_type": "text",
-                                "total_awards_received": 0,
-                                "subreddit": "LocalLLaMA",
-                                "author_flair_template_id": null,
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "n7ihkvj",
-                                "banned_at_utc": null,
-                                "mod_reason_title": null,
-                                "gilded": 0,
-                                "archived": false,
-                                "collapsed_reason_code": null,
-                                "no_follow": true,
-                                "author": "suddenlyhentailover",
-                                "can_mod_post": false,
-                                "send_replies": true,
-                                "parent_id": "t1_n7evv98",
-                                "score": 2,
-                                "author_fullname": "t2_81vrmqe2",
-                                "removal_reason": null,
-                                "approved_by": null,
-                                "mod_note": null,
-                                "all_awardings": [],
-                                "body": "I''ll tell you that I just tried it with LM Studio and it's as if they lobotomised it and gave it social anxiety.  I can't get it to do anything because it just keeps asking for details I've already given or told it to make up on its own lmao",
-                                "edited": false,
-                                "top_awarded_type": null,
-                                "downs": 0,
-                                "author_flair_css_class": null,
-                                "name": "t1_n7ihkvj",
-                                "is_submitter": false,
-                                "collapsed": false,
-                                "author_flair_richtext": [],
-                                "author_patreon_flair": false,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;&amp;#39;ll tell you that I just tried it with LM Studio and it&amp;#39;s as if they lobotomised it and gave it social anxiety.  I can&amp;#39;t get it to do anything because it just keeps asking for details I&amp;#39;ve already given or told it to make up on its own lmao&lt;/p&gt;\n&lt;/div&gt;",
-                                "gildings": {},
-                                "collapsed_reason": null,
-                                "distinguished": null,
-                                "associated_award": null,
-                                "stickied": false,
-                                "author_premium": false,
-                                "can_gild": false,
-                                "link_id": "t3_1mjoo7w",
-                                "unrepliable_reason": null,
-                                "author_flair_text_color": null,
-                                "score_hidden": false,
-                                "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/n7ihkvj/",
-                                "subreddit_type": "public",
-                                "locked": false,
-                                "report_reasons": null,
-                                "created": 1754611288,
-                                "author_flair_text": null,
-                                "treatment_tags": [],
-                                "created_utc": 1754611288,
-                                "subreddit_name_prefixed": "r/LocalLLaMA",
-                                "controversiality": 0,
-                                "depth": 2,
-                                "author_flair_background_color": null,
-                                "collapsed_because_crowd_control": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 2
-                              }
                             }
                           ],
                           "before": null
@@ -2056,7 +2142,7 @@
                       "created_utc": 1754572453,
                       "send_replies": true,
                       "parent_id": "t1_n7cpunq",
-                      "score": 17,
+                      "score": 19,
                       "author_fullname": "t2_8xbif",
                       "removal_reason": null,
                       "approved_by": null,
@@ -2098,7 +2184,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 17
+                      "ups": 19
                     }
                   },
                   {
@@ -2194,7 +2280,7 @@
             "created_utc": 1754536194,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 43,
+            "score": 45,
             "author_fullname": "t2_2r0hhxb8",
             "approved_by": null,
             "mod_note": null,
@@ -2241,7 +2327,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 43
+            "ups": 45
           }
         },
         {
@@ -2394,7 +2480,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7d2zl0",
-                                "score": 37,
+                                "score": 39,
                                 "author_fullname": "t2_a2uzegb8",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2437,7 +2523,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 37
+                                "ups": 39
                               }
                             },
                             {
@@ -2607,7 +2693,7 @@
                                                     "can_mod_post": false,
                                                     "send_replies": true,
                                                     "parent_id": "t1_n7e9o9u",
-                                                    "score": 4,
+                                                    "score": 5,
                                                     "author_fullname": "t2_3nrkuhb9",
                                                     "removal_reason": null,
                                                     "approved_by": null,
@@ -2649,7 +2735,7 @@
                                                     "collapsed_because_crowd_control": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 4
+                                                    "ups": 5
                                                   }
                                                 },
                                                 {
@@ -2706,7 +2792,7 @@
                                                               "can_mod_post": false,
                                                               "send_replies": true,
                                                               "parent_id": "t1_n7edw6q",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "author_fullname": "t2_ihsdiwk6k",
                                                               "approved_by": null,
                                                               "mod_note": null,
@@ -2753,7 +2839,7 @@
                                                               "collapsed_because_crowd_control": null,
                                                               "mod_reports": [],
                                                               "num_reports": null,
-                                                              "ups": 1
+                                                              "ups": 2
                                                             }
                                                           }
                                                         ],
@@ -2835,7 +2921,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7df804",
-                                          "score": 5,
+                                          "score": 4,
                                           "author_fullname": "t2_ihsdiwk6k",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -2883,7 +2969,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 5
+                                          "ups": 4
                                         }
                                       }
                                     ],
@@ -2903,7 +2989,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7d2zl0",
-                                "score": 13,
+                                "score": 14,
                                 "author_fullname": "t2_1bpvzzmckh",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -2946,13 +3032,12 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 14
                               }
                             },
                             {
                               "kind": "t1",
                               "data": {
-                                "body": "You can mostly stop the refusals with abliteration. But that won't make it \\*know\\* anything new. So it depends on what the model has seen during training. For an openai model, we don't really know what exactly is in the training set, but we do know it was trained on a lot of synthetic data.\n\nAlso, abliteration can mess up the model if done wrong. But I think huihui is not new to this, so it is probably ok.",
                                 "subreddit_id": "t5_81eyvm",
                                 "approved_at_utc": null,
                                 "author_is_blocked": false,
@@ -3083,12 +3168,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "Former-Ad-5757",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7dtx7j",
-                                          "score": 3,
+                                          "score": 5,
                                           "author_fullname": "t2_ihsdiwk6k",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -3136,7 +3221,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 3
+                                          "ups": 5
                                         }
                                       }
                                     ],
@@ -3156,13 +3241,13 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7d2zl0",
-                                "score": 12,
+                                "score": 13,
                                 "author_fullname": "t2_5uctc4u8",
                                 "removal_reason": null,
                                 "approved_by": null,
                                 "mod_note": null,
                                 "all_awardings": [],
-                                "author_cakeday": true,
+                                "body": "You can mostly stop the refusals with abliteration. But that won't make it \\*know\\* anything new. So it depends on what the model has seen during training. For an openai model, we don't really know what exactly is in the training set, but we do know it was trained on a lot of synthetic data.\n\nAlso, abliteration can mess up the model if done wrong. But I think huihui is not new to this, so it is probably ok.",
                                 "edited": false,
                                 "top_awarded_type": null,
                                 "downs": 0,
@@ -3199,7 +3284,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 12
+                                "ups": 13
                               }
                             },
                             {
@@ -3295,7 +3380,7 @@
                       "created_utc": 1754541767,
                       "send_replies": true,
                       "parent_id": "t1_n7cpbwl",
-                      "score": 69,
+                      "score": 72,
                       "author_fullname": "t2_8j5t7yjq",
                       "removal_reason": null,
                       "approved_by": null,
@@ -3337,7 +3422,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 69
+                      "ups": 72
                     }
                   },
                   {
@@ -3971,7 +4056,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7cta3g",
-                                "score": 6,
+                                "score": 7,
                                 "author_fullname": "t2_7g79z1vy",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -4019,7 +4104,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             }
                           ],
@@ -4040,7 +4125,7 @@
                       "created_utc": 1754537571,
                       "send_replies": true,
                       "parent_id": "t1_n7cpbwl",
-                      "score": 16,
+                      "score": 18,
                       "author_fullname": "t2_d3pr9",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4082,7 +4167,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 16
+                      "ups": 18
                     }
                   },
                   {
@@ -4115,7 +4200,7 @@
                       "created_utc": 1754540192,
                       "send_replies": true,
                       "parent_id": "t1_n7cpbwl",
-                      "score": 15,
+                      "score": 16,
                       "author_fullname": "t2_8rrihts9",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4157,7 +4242,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 15
+                      "ups": 16
                     }
                   }
                 ],
@@ -4178,7 +4263,7 @@
             "created_utc": 1754535991,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 120,
+            "score": 117,
             "author_fullname": "t2_2egpkyt4",
             "approved_by": null,
             "mod_note": null,
@@ -4220,7 +4305,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 120
+            "ups": 117
           }
         },
         {
@@ -4276,7 +4361,7 @@
                       "created_utc": 1754539106,
                       "send_replies": true,
                       "parent_id": "t1_n7ct1kj",
-                      "score": 24,
+                      "score": 25,
                       "author_fullname": "t2_kzvmscgtd",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4318,7 +4403,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 24
+                      "ups": 25
                     }
                   },
                   {
@@ -4351,7 +4436,7 @@
                       "created_utc": 1754558027,
                       "send_replies": true,
                       "parent_id": "t1_n7ct1kj",
-                      "score": 7,
+                      "score": 5,
                       "author_fullname": "t2_1utnp17o3h",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4393,7 +4478,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 7
+                      "ups": 5
                     }
                   }
                 ],
@@ -4462,6 +4547,81 @@
         {
           "kind": "t1",
           "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n7e9qk6",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "gleb-tv",
+            "can_mod_post": false,
+            "created_utc": 1754564672,
+            "send_replies": true,
+            "parent_id": "t3_1mjoo7w",
+            "score": 13,
+            "author_fullname": "t2_7py6p0y7",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Even If it at least stops wasting half the tokens on thinking about 'policy' it's gonna be useful.",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n7e9qk6",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Even If it at least stops wasting half the tokens on thinking about &amp;#39;policy&amp;#39; it&amp;#39;s gonna be useful.&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/n7e9qk6/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754564672,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mjoo7w",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 13
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
             "total_awards_received": 0,
             "approved_at_utc": null,
             "author_is_blocked": false,
@@ -4469,7 +4629,7 @@
             "awarders": [],
             "mod_reason_by": null,
             "banned_by": null,
-            "ups": 28,
+            "ups": 27,
             "removal_reason": null,
             "link_id": "t3_1mjoo7w",
             "author_flair_template_id": null,
@@ -4754,7 +4914,7 @@
                       "created_utc": 1754539549,
                       "send_replies": true,
                       "parent_id": "t1_n7crqi4",
-                      "score": 13,
+                      "score": 12,
                       "author_fullname": "t2_9ss6lib7",
                       "removal_reason": null,
                       "approved_by": null,
@@ -4796,7 +4956,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 13
+                      "ups": 12
                     }
                   },
                   {
@@ -5237,7 +5397,7 @@
                       "created_utc": 1754560017,
                       "send_replies": true,
                       "parent_id": "t1_n7crqi4",
-                      "score": 8,
+                      "score": 7,
                       "author_fullname": "t2_hr2hgnsk",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5279,7 +5439,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 8
+                      "ups": 7
                     }
                   }
                 ],
@@ -5299,7 +5459,7 @@
             "can_mod_post": false,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 28,
+            "score": 27,
             "approved_by": null,
             "report_reasons": null,
             "all_awardings": [],
@@ -5358,81 +5518,6 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
-            "id": "n7e9qk6",
-            "banned_at_utc": null,
-            "mod_reason_title": null,
-            "gilded": 0,
-            "archived": false,
-            "collapsed_reason_code": null,
-            "no_follow": false,
-            "author": "gleb-tv",
-            "can_mod_post": false,
-            "created_utc": 1754564672,
-            "send_replies": true,
-            "parent_id": "t3_1mjoo7w",
-            "score": 9,
-            "author_fullname": "t2_7py6p0y7",
-            "approved_by": null,
-            "mod_note": null,
-            "all_awardings": [],
-            "collapsed": false,
-            "body": "Even If it at least stops wasting half the tokens on thinking about 'policy' it's gonna be useful.",
-            "edited": false,
-            "top_awarded_type": null,
-            "author_flair_css_class": null,
-            "name": "t1_n7e9qk6",
-            "is_submitter": false,
-            "downs": 0,
-            "author_flair_richtext": [],
-            "author_patreon_flair": false,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Even If it at least stops wasting half the tokens on thinking about &amp;#39;policy&amp;#39; it&amp;#39;s gonna be useful.&lt;/p&gt;\n&lt;/div&gt;",
-            "removal_reason": null,
-            "collapsed_reason": null,
-            "distinguished": null,
-            "associated_award": null,
-            "stickied": false,
-            "author_premium": false,
-            "can_gild": false,
-            "gildings": {},
-            "unrepliable_reason": null,
-            "author_flair_text_color": null,
-            "score_hidden": false,
-            "permalink": "/r/LocalLLaMA/comments/1mjoo7w/huihui_released_gptoss_20b_abliterated/n7e9qk6/",
-            "subreddit_type": "public",
-            "locked": false,
-            "report_reasons": null,
-            "created": 1754564672,
-            "author_flair_text": null,
-            "treatment_tags": [],
-            "link_id": "t3_1mjoo7w",
-            "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 0,
-            "depth": 0,
-            "author_flair_background_color": null,
-            "collapsed_because_crowd_control": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 9
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_81eyvm",
-            "approved_at_utc": null,
-            "author_is_blocked": false,
-            "comment_type": null,
-            "awarders": [],
-            "mod_reason_by": null,
-            "banned_by": null,
-            "author_flair_type": "text",
-            "total_awards_received": 0,
-            "subreddit": "LocalLLaMA",
-            "author_flair_template_id": null,
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
             "id": "n7daxyk",
             "banned_at_utc": null,
             "mod_reason_title": null,
@@ -5445,7 +5530,7 @@
             "created_utc": 1754545713,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 16,
+            "score": 18,
             "author_fullname": "t2_15o3gy1oht",
             "approved_by": null,
             "mod_note": null,
@@ -5487,7 +5572,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 18
           }
         },
         {
@@ -5543,7 +5628,7 @@
                       "created_utc": 1754603080,
                       "send_replies": true,
                       "parent_id": "t1_n7ez5cc",
-                      "score": 2,
+                      "score": 3,
                       "author_fullname": "t2_1d96a8k10t",
                       "removal_reason": null,
                       "approved_by": null,
@@ -5585,7 +5670,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 2
+                      "ups": 3
                     }
                   }
                 ],
@@ -5876,7 +5961,7 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "FoxB1t3",
                                 "can_mod_post": false,
                                 "send_replies": true,
@@ -6008,7 +6093,7 @@
             "created_utc": 1754541864,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 24,
+            "score": 26,
             "author_fullname": "t2_8j5t7yjq",
             "approved_by": null,
             "mod_note": null,
@@ -6050,7 +6135,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 26
           }
         },
         {
@@ -6083,7 +6168,7 @@
             "created_utc": 1754568491,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": 4,
+            "score": 6,
             "author_fullname": "t2_dphk4",
             "approved_by": null,
             "mod_note": null,
@@ -6125,7 +6210,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -7200,7 +7285,7 @@
                       "created_utc": 1754599868,
                       "send_replies": true,
                       "parent_id": "t1_n7fp5ga",
-                      "score": 1,
+                      "score": 2,
                       "author_fullname": "t2_fp3m1",
                       "removal_reason": null,
                       "approved_by": null,
@@ -7242,7 +7327,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 1
+                      "ups": 2
                     }
                   }
                 ],
@@ -7717,7 +7802,7 @@
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7eraat",
-                                          "score": 2,
+                                          "score": 1,
                                           "author_fullname": "t2_pkadubiga",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -7760,7 +7845,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 2
+                                          "ups": 1
                                         }
                                       }
                                     ],
@@ -7780,7 +7865,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7duizf",
-                                "score": 2,
+                                "score": 1,
                                 "author_fullname": "t2_abr7phdd",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -7823,7 +7908,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -7907,7 +7992,7 @@
             "created_utc": 1754543078,
             "send_replies": true,
             "parent_id": "t3_1mjoo7w",
-            "score": -31,
+            "score": -32,
             "author_fullname": "t2_pkadubiga",
             "approved_by": null,
             "mod_note": null,
@@ -7949,7 +8034,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -31
+            "ups": -32
           }
         }
       ],
