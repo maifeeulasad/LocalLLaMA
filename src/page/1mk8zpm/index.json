@@ -1,0 +1,186 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "[GPU utilization across 4 nodes](https://preview.redd.it/0nwgl1j0anhf1.png?width=4458&amp;format=png&amp;auto=webp&amp;s=aba60da2706de9183ed58ccf91c59e7a76931831)\n\nGPT-5 has just been released, but if we want to adapt the model to our own data, we will still need to use the open model. Fortunately, OpenAI released the open model gpt-oss-120b under the Apache 2.0 license.\n\nWe at SkyPilot composed a quick recipe for how to finetune the model on multiple nodes with InfiniBand enabled. It uses Huggingface Accelerate with Nebius H200s + InfiniBand under the hood. It can be started with a single command:\n\n    sky launch --num-nodes 4 gpt-oss-120b-sft.yaml\n\n[https://docs.skypilot.co/en/latest/examples/training/gpt-oss-finetuning.html](https://docs.skypilot.co/en/latest/examples/training/gpt-oss-finetuning.html)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Recipe for distributed finetuning OpenAI gpt-oss-120b",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Resources"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 77,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "media_metadata": {
+              "0nwgl1j0anhf1": {
+                "status": "valid",
+                "e": "Image",
+                "m": "image/png",
+                "p": [
+                  {
+                    "y": 60,
+                    "x": 108,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=0bd05bbf10dbf0cfacf98cd427a9e14febda8bcd"
+                  },
+                  {
+                    "y": 120,
+                    "x": 216,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=99538f7c9f35144c53a3b6f0a69ce52c0b7310c1"
+                  },
+                  {
+                    "y": 177,
+                    "x": 320,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=31c5ed1ff478bde8ba72804722ce18d42fcae8b7"
+                  },
+                  {
+                    "y": 355,
+                    "x": 640,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=14eecc8c5681d7de9659f2ad97642314a13aabd7"
+                  },
+                  {
+                    "y": 533,
+                    "x": 960,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=522603416511a37a5abc2150e23105e15510f1e5"
+                  },
+                  {
+                    "y": 600,
+                    "x": 1080,
+                    "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6ba8e5bf978e565941be6886dd5ce1b405812ef1"
+                  }
+                ],
+                "s": {
+                  "y": 2478,
+                  "x": 4458,
+                  "u": "https://preview.redd.it/0nwgl1j0anhf1.png?width=4458&amp;format=png&amp;auto=webp&amp;s=aba60da2706de9183ed58ccf91c59e7a76931831"
+                },
+                "id": "0nwgl1j0anhf1"
+              }
+            },
+            "name": "t3_1mk8zpm",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.54,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1h9w2thu",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Resources",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/H3gIXSpKFwXOsqyKNvPgwlPaiyKJ5JFo9aJRdzPfMqE.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754593666,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://preview.redd.it/0nwgl1j0anhf1.png?width=4458&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=aba60da2706de9183ed58ccf91c59e7a76931831\"&gt;GPU utilization across 4 nodes&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;GPT-5 has just been released, but if we want to adapt the model to our own data, we will still need to use the open model. Fortunately, OpenAI released the open model gpt-oss-120b under the Apache 2.0 license.&lt;/p&gt;\n\n&lt;p&gt;We at SkyPilot composed a quick recipe for how to finetune the model on multiple nodes with InfiniBand enabled. It uses Huggingface Accelerate with Nebius H200s + InfiniBand under the hood. It can be started with a single command:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;sky launch --num-nodes 4 gpt-oss-120b-sft.yaml\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;&lt;a href=\"https://docs.skypilot.co/en/latest/examples/training/gpt-oss-finetuning.html\"&gt;https://docs.skypilot.co/en/latest/examples/training/gpt-oss-finetuning.html&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ab9120c4-bf8e-11ed-ae5e-2eb8b7c7e10b",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ccac2b",
+            "id": "1mk8zpm",
+            "is_robot_indexable": true,
+            "num_duplicates": 1,
+            "report_reasons": null,
+            "author": "Michaelvll",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mk8zpm/recipe_for_distributed_finetuning_openai/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mk8zpm/recipe_for_distributed_finetuning_openai/",
+            "subreddit_subscribers": 513417,
+            "created_utc": 1754593666,
+            "num_crossposts": 2,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

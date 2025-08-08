@@ -83,7 +83,7 @@
             "link_flair_text_color": "light",
             "upvote_ratio": 0.96,
             "author_flair_background_color": "#bbbdbf",
-            "ups": 224,
+            "ups": 242,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": 140,
@@ -97,7 +97,7 @@
             "secure_media_embed": {},
             "link_flair_text": "New Model",
             "can_mod_post": false,
-            "score": 224,
+            "score": 242,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -213,7 +213,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mj7i8b/qwen34bthinking2507_and_qwen34binstruct2507/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mj7i8b/qwen34bthinking2507_and_qwen34binstruct2507/",
-            "subreddit_subscribers": 512875,
+            "subreddit_subscribers": 513417,
             "created_utc": 1754493572,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -451,7 +451,7 @@
                       "created_utc": 1754495605,
                       "send_replies": true,
                       "parent_id": "t1_n78zvsp",
-                      "score": -6,
+                      "score": -9,
                       "author_fullname": "t2_10nxrjjgay",
                       "removal_reason": null,
                       "approved_by": null,
@@ -493,7 +493,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": -6
+                      "ups": -9
                     }
                   }
                 ],
@@ -514,7 +514,7 @@
             "created_utc": 1754494945,
             "send_replies": true,
             "parent_id": "t3_1mj7i8b",
-            "score": 29,
+            "score": 32,
             "author_fullname": "t2_9ifyymz",
             "approved_by": null,
             "mod_note": null,
@@ -556,7 +556,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 29
+            "ups": 32
           }
         },
         {
@@ -698,7 +698,7 @@
                       "created_utc": 1754495803,
                       "send_replies": true,
                       "parent_id": "t1_n78vm8z",
-                      "score": 21,
+                      "score": 23,
                       "author_fullname": "t2_vqgbql9w",
                       "removal_reason": null,
                       "approved_by": null,
@@ -745,7 +745,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 21
+                      "ups": 23
                     }
                   },
                   {
@@ -778,7 +778,7 @@
                       "created_utc": 1754506303,
                       "send_replies": true,
                       "parent_id": "t1_n78vm8z",
-                      "score": 3,
+                      "score": 2,
                       "author_fullname": "t2_znctr",
                       "removal_reason": null,
                       "approved_by": null,
@@ -820,7 +820,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 3
+                      "ups": 2
                     }
                   }
                 ],
@@ -841,7 +841,7 @@
             "created_utc": 1754493740,
             "send_replies": true,
             "parent_id": "t3_1mj7i8b",
-            "score": 12,
+            "score": 15,
             "author_fullname": "t2_im30t",
             "approved_by": null,
             "mod_note": null,
@@ -883,7 +883,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 15
           }
         },
         {
@@ -961,7 +961,7 @@
                                 "can_mod_post": false,
                                 "send_replies": true,
                                 "parent_id": "t1_n7921dv",
-                                "score": 5,
+                                "score": 3,
                                 "author_fullname": "t2_1g8vkju3w3",
                                 "removal_reason": null,
                                 "approved_by": null,
@@ -1004,7 +1004,7 @@
                                 "collapsed_because_crowd_control": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 3
                               }
                             }
                           ],
@@ -1025,7 +1025,7 @@
                       "created_utc": 1754495538,
                       "send_replies": true,
                       "parent_id": "t1_n78zlon",
-                      "score": 9,
+                      "score": 7,
                       "author_fullname": "t2_vqgbql9w",
                       "removal_reason": null,
                       "approved_by": null,
@@ -1072,7 +1072,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 9
+                      "ups": 7
                     }
                   }
                 ],
@@ -1093,7 +1093,7 @@
             "created_utc": 1754494869,
             "send_replies": true,
             "parent_id": "t3_1mj7i8b",
-            "score": 10,
+            "score": 8,
             "author_fullname": "t2_1g8vkju3w3",
             "approved_by": null,
             "mod_note": null,
@@ -1135,7 +1135,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 8
           }
         },
         {
@@ -1233,12 +1233,12 @@
                                           "gilded": 0,
                                           "archived": false,
                                           "collapsed_reason_code": null,
-                                          "no_follow": true,
+                                          "no_follow": false,
                                           "author": "AbyssianOne",
                                           "can_mod_post": false,
                                           "send_replies": true,
                                           "parent_id": "t1_n7corjo",
-                                          "score": 3,
+                                          "score": 4,
                                           "author_fullname": "t2_1651c3kskq",
                                           "removal_reason": null,
                                           "approved_by": null,
@@ -1281,7 +1281,7 @@
                                           "collapsed_because_crowd_control": null,
                                           "mod_reports": [],
                                           "num_reports": null,
-                                          "ups": 3
+                                          "ups": 4
                                         }
                                       }
                                     ],
@@ -1296,7 +1296,7 @@
                                 "gilded": 0,
                                 "archived": false,
                                 "collapsed_reason_code": null,
-                                "no_follow": true,
+                                "no_follow": false,
                                 "author": "SpicyWangz",
                                 "can_mod_post": false,
                                 "send_replies": true,
@@ -1503,7 +1503,7 @@
             "created_utc": 1754515366,
             "send_replies": true,
             "parent_id": "t3_1mj7i8b",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_huzar",
             "approved_by": null,
             "mod_note": null,
@@ -1545,7 +1545,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -1578,7 +1578,7 @@
             "created_utc": 1754505104,
             "send_replies": true,
             "parent_id": "t3_1mj7i8b",
-            "score": 4,
+            "score": 3,
             "author_fullname": "t2_mhdt7ir5",
             "approved_by": null,
             "mod_note": null,
@@ -1620,7 +1620,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {

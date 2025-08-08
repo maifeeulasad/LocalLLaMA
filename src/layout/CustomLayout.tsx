@@ -14429,6 +14429,407 @@ Extensive open source resource with tutorials for creating robust AI agents',
         path: '/1mjygwg',
         name: 'Multi-Agent System Achieves #1 on GAIA test Benchmark',
       },
+      {
+        path: '/1mjyuv5',
+        name: 'What are some terminal UIs for chatting with a vLLM-hosted model?',
+      },
+      {
+        path: '/1mjyyx3',
+        name: 'Question: how to train llm about automotive topics for my work use?',
+      },
+      {
+        path: '/1mjz0f0',
+        name: 'Monetizing AI chat apps without subscriptions or popups looking for early partners',
+      },
+      {
+        path: '/1mjz0mm',
+        name: 'Will you be disappointed if Horizon Alpha/Beta is GPT 5?',
+      },
+      {
+        path: '/1mjz1ow',
+        name: '(Noob here) gpt-oss:20b vs qwen3:14b/qwen2.5-coder:14b which is best at tool calling? and which is performance effiecient?',
+      },
+      {
+        path: '/1mjzhai',
+        name: 'We turned 16 common RAG failure modes into a “Problem Map 2.0” – free, open-source, already fixing Local LLaMA stacks',
+      },
+      {
+        path: '/1mjzsx1',
+        name: 'Come on, it was working yesterday',
+      },
+      {
+        path: '/1mk0fxu',
+        name: 'DeepSeek’s MOE approach for lower model hope',
+      },
+      {
+        path: '/1mk0w9f',
+        name: 'Rejoice, GPU poor brethren. RTX 3060 12BG, llama-cpp, Model: DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf',
+      },
+      {
+        path: '/1mk0zih',
+        name: 'Metrics for AWS Bedrock\'s Titan text embedding v2 against BGE large m3',
+      },
+      {
+        path: '/1mk12sx',
+        name: 'Need some help to choose a model to start playing around with localLLM',
+      },
+      {
+        path: '/1mk1344',
+        name: '🖼️ current best VLM?',
+      },
+      {
+        path: '/1mk1gu7',
+        name: 'I\'ll shoot my shot: It\'s been a while since we had the last qwen-vl...',
+      },
+      {
+        path: '/1mk1hlr',
+        name: 'Smol lil guy',
+      },
+      {
+        path: '/1mk1jwk',
+        name: 'Probably dumb question: why doesn\'t Ollama forWindows work in airplane mode?',
+      },
+      {
+        path: '/1mk221s',
+        name: 'What agentic cli tools do we have for Qwen 3 coder?',
+      },
+      {
+        path: '/1mk26rk',
+        name: 'Llama.cpp now supports GLM 4.5 Air',
+      },
+      {
+        path: '/1mk279x',
+        name: 'Secure Open-WebUI access for remote team?',
+      },
+      {
+        path: '/1mk2ubd',
+        name: 'An enigmatic LLM on a random ERP website claims it\'s named "Nemistral", a collab between nvidia and mistral ai, but is adamant it\'s not "mistral nemo". This is the best nsfw RP model I\'ve ever seen and I want to run it locally.',
+      },
+      {
+        path: '/1mk3lir',
+        name: 'Models for general purposes',
+      },
+      {
+        path: '/1mk3p0i',
+        name: 'Looking for a local model that can use its own Python interpreter as a tool',
+      },
+      {
+        path: '/1mk3rj1',
+        name: 'Jeff Geerling does what Jeff Geerling does best: Quad Strix Halo cluster using Framework Desktop',
+      },
+      {
+        path: '/1mk3suw',
+        name: 'Colorize photos on iOS? Maybe using a server?',
+      },
+      {
+        path: '/1mk3w36',
+        name: 'How does gpt-oss know the current date?',
+      },
+      {
+        path: '/1mk4kt0',
+        name: 'Be careful in selecting providers on openrouter',
+      },
+      {
+        path: '/1mk4o67',
+        name: '7900 xtx (24gb) + 9700 (32gb)',
+      },
+      {
+        path: '/1mk56kh',
+        name: 'Advanced Voice Cloning AI',
+      },
+      {
+        path: '/1mk58p9',
+        name: 'Has anyone analyzed how Claude, Gemini, and Deepseek respond to recursion prompts differently?',
+      },
+      {
+        path: '/1mk5hm7',
+        name: 'Wth is this glazing🥀',
+      },
+      {
+        path: '/1mk5mfw',
+        name: 'Just Open-Sourced Free LLM Fine-tuning Course',
+      },
+      {
+        path: '/1mk5n89',
+        name: 'HuggingFace has been on a deletion spree and has already removed 16TB worth of files. dets in screenshots slide',
+      },
+      {
+        path: '/1mk5spn',
+        name: 'High traffic when *inferencing* in llama.cpp\'s RPC mode?',
+      },
+      {
+        path: '/1mk5ti0',
+        name: 'Hilarious chart from GPT-5 Reveal',
+      },
+      {
+        path: '/1mk5ucp',
+        name: 'GPT-5 gets 74.9 on SWE-bench Verified, 88 on Aider Polyglot',
+      },
+      {
+        path: '/1mk6fri',
+        name: 'who created these graphs...',
+      },
+      {
+        path: '/1mk6jkp',
+        name: 'Arena elo score vs active parameters',
+      },
+      {
+        path: '/1mk6qmn',
+        name: '"Grok 4 is still state-of-the-art on ARC-AGI-2 among frontier models" I wish xai focus more on post training',
+      },
+      {
+        path: '/1mk6r3t',
+        name: 'Horizon Beta Has Exited Its Beta Phase',
+      },
+      {
+        path: '/1mk7477',
+        name: 'Automating LLM Evaluation in the Medical Domain (Cancer Reports) – Seeking Advice on JSON + Reasoning Validation and Data Reliability',
+      },
+      {
+        path: '/1mk74wq',
+        name: 'Can we focus more on LOCAL models? We were excited for Qwen3 30b/3b but now were comparing to not local models',
+      },
+      {
+        path: '/1mk763x',
+        name: 'GPT-5 benchmarks graph gone wrong and some thoughts about the model',
+      },
+      {
+        path: '/1mk76my',
+        name: 'LoL',
+      },
+      {
+        path: '/1mk77bk',
+        name: 'Framework Desktop Hands-on: First Impressions (including a look at LLM performance)',
+      },
+      {
+        path: '/1mk79bb',
+        name: 'Como configuro meu pc para rodar IA Local',
+      },
+      {
+        path: '/1mk79kz',
+        name: 'You kidding me, GPT-5 nano?',
+      },
+      {
+        path: '/1mk7r1g',
+        name: 'Trained an 41M HRM-Based Model to generate semi-coherent text!',
+      },
+      {
+        path: '/1mk7th7',
+        name: 'GPT-5 looks primising at coding, but what about the limitations?',
+      },
+      {
+        path: '/1mk7tm9',
+        name: 'GPT5 is the first model to correctly untangle city in a bottle, a dense 256 bytes javascript raycaster',
+      },
+      {
+        path: '/1mk8085',
+        name: 'Can\'t believe I\'m seeing  GPT-5 posted here',
+      },
+      {
+        path: '/1mk8d3j',
+        name: 'How i feel about gpt-oss...',
+      },
+      {
+        path: '/1mk8e0f',
+        name: 'Coral Protocol Outperforms Microsoft by 34% With Top GAIA Benchmark for AI Mini-Model !!',
+      },
+      {
+        path: '/1mk8j72',
+        name: 'GPT OSS fast Test first impressions.',
+      },
+      {
+        path: '/1mk8oll',
+        name: 'How can I actually learn and try LLM pretraining? (or post training a large LLM )',
+      },
+      {
+        path: '/1mk8zpm',
+        name: 'Recipe for distributed finetuning OpenAI gpt-oss-120b',
+      },
+      {
+        path: '/1mk916s',
+        name: 'Twisted math test for LLMs',
+      },
+      {
+        path: '/1mk92k4',
+        name: 'gabriellarson/Huihui-gpt-oss-20b-BF16-abliterated-GGUF · Hugging Face',
+      },
+      {
+        path: '/1mk95w6',
+        name: 'Qwen3-8b-2508 anyone? 🤞🤞🤞 Where are you?  Are you coming?',
+      },
+      {
+        path: '/1mk9c1u',
+        name: '10.48 tok/sec - GPT-OSS-120B on RTX 5090 32 VRAM + 96 RAM  in LM Studio (default settings + FlashAttention + Guardrails: OFF)',
+      },
+      {
+        path: '/1mk9cg3',
+        name: 'Support for intern-s1 has been merged into llama.cpp',
+      },
+      {
+        path: '/1mk9eu2',
+        name: 'LM Studio and multiple model loading...is this NEW? How does it work?',
+      },
+      {
+        path: '/1mk9fuq',
+        name: 'Unlocking the Power of Local LLMs',
+      },
+      {
+        path: '/1mk9lu4',
+        name: 'It seems that GPT5 has 3 levels of thinking in common with GPT-OSS',
+      },
+      {
+        path: '/1mkaef6',
+        name: 'NuMarkdown-8B-Thinking -  first reasoning OCR VLM',
+      },
+      {
+        path: '/1mkaf3o',
+        name: 'I Trained Llama 3.1-8B 6× faster on my everyday Laptop M1 (16 GB).
+Day 0 of a build-in-public adventure.',
+      },
+      {
+        path: '/1mkan6d',
+        name: 'If you haven\'t tried llamacpp + CLine + VSCode yet, you should. It\'s a...',
+      },
+      {
+        path: '/1mkavhy',
+        name: 'random bar chart made by Qwen3-235B-A22B-2507',
+      },
+      {
+        path: '/1mkaxrx',
+        name: 'On the topic of graphs',
+      },
+      {
+        path: '/1mkay0s',
+        name: 'Gemma 3n tokenizer for React Native',
+      },
+      {
+        path: '/1mkb1sj',
+        name: '[Update] My macOS dictation replacement using local Whisper - Added YouTube &amp; file transcription, all runs locally',
+      },
+      {
+        path: '/1mkbdqf',
+        name: 'GPT‑5 &gt; Grok‑4 &gt; Opus 4.1',
+      },
+      {
+        path: '/1mkbimk',
+        name: 'GPT-5 AMA with OpenAI’s Sam Altman and some of the GPT-5 team',
+      },
+      {
+        path: '/1mkbs5l',
+        name: 'The best benchmarks!',
+      },
+      {
+        path: '/1mkby4r',
+        name: 'Semantic Textual Similarity on Apple Silicon',
+      },
+      {
+        path: '/1mkc4lk',
+        name: 'we need a tool that keeps track of each model and what it’s good at!!',
+      },
+      {
+        path: '/1mkcwfa',
+        name: 'xAI says new models in the next few weeks',
+      },
+      {
+        path: '/1mkcwiv',
+        name: 'OpenAI open washing',
+      },
+      {
+        path: '/1mkd0bk',
+        name: 'Upgraded my Mac, what are the current community preferred workflows and tools?',
+      },
+      {
+        path: '/1mkd3t1',
+        name: 'Reccomendation for new medical benchmark',
+      },
+      {
+        path: '/1mkdl6x',
+        name: 'GitHub - grctest/g3n-fastapi-webcam-docker: Utilizing multiple Gemma 3n agents to analyze webcam footage! (MIT licensed)',
+      },
+      {
+        path: '/1mkdu26',
+        name: 'Any way to add web search to LM Studio/Qwen3?',
+      },
+      {
+        path: '/1mkdu9r',
+        name: 'GPT-5 results on EQ-Bench + Opus 4.1 takes top spot on longform writing',
+      },
+      {
+        path: '/1mkdvhu',
+        name: 'I want to live in whatever universe GPT-OSS 20B lives in...',
+      },
+      {
+        path: '/1mke7ef',
+        name: '120B runs awesome on just 8GB VRAM!',
+      },
+      {
+        path: '/1mke83e',
+        name: 'Oss20b creative writing',
+      },
+      {
+        path: '/1mkefbx',
+        name: 'gpt-oss-120b running on 4x 3090 with vllm',
+      },
+      {
+        path: '/1mkerwz',
+        name: 'Best FOSS AI models for local vibe coding?',
+      },
+      {
+        path: '/1mkf21i',
+        name: '[R] Memory-First Zero-Copy Arrays for LLM Distillation — Out-of-Core on 24GB VRAM (Repo + PDF)',
+      },
+      {
+        path: '/1mkf543',
+        name: 'To all GPT-5 posts',
+      },
+      {
+        path: '/1mkf60c',
+        name: 'How do you prompt inject GLM 4.5 Air? Any success?',
+      },
+      {
+        path: '/1mkfahe',
+        name: 'LiveBench now has GPT OSS 120b, and it\'s below ChatGPT-4o.',
+      },
+      {
+        path: '/1mkfqyp',
+        name: 'Using gpt-oss 20B for Text to SQL',
+      },
+      {
+        path: '/1mkfsfr',
+        name: 'GPT-5 experience so far',
+      },
+      {
+        path: '/1mkg7m7',
+        name: 'GPT-5 removed logprob support from the API - technical breakdown and implications',
+      },
+      {
+        path: '/1mkgv1l',
+        name: 'two models big difference in how it converses/answers. ie Qwen3 30B A3B vs Qwen3 32B',
+      },
+      {
+        path: '/1mkgy0t',
+        name: 'Local LLM is more important than never and improving local models with research.',
+      },
+      {
+        path: '/1mkh8qe',
+        name: 'INSANE NEWS: FULLY UNCENSORED (abliterated) GPT OSS 20B NOW AVAILABLE ON HUGGINGFACE!!',
+      },
+      {
+        path: '/1mkhbs9',
+        name: 'OpenAI new open-source model is basically Phi-5',
+      },
+      {
+        path: '/1mkhga1',
+        name: 'Is it really this unbearably slow?',
+      },
+      {
+        path: '/1mkhgva',
+        name: 'What does it take to regenerate or update a model?',
+      },
+      {
+        path: '/1mkhrs7',
+        name: 'Notetaker tool',
+      },
     ],
   },
   {

@@ -1,0 +1,188 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "GPT 4.1/4o and other models always supported logprobs via the API, but with GPT-5 that capability seems to be gone! Try it yourself and you'll get the error `You are not allowed to request logprobs from this model`\n\n**What are logprobs?** Logprobs expose the probability distribution for each generated token. For the example “The dog chased the”, the next token might be “cat” (70%), “ball” (25%), or “squirrel” (5%). All LLMs have this capability internally, but closed providers like OpenAI and Anthropic sometimes choose to hide these from API users.\n\n**Why did OpenAI remove them?** Most likely to prevent model distillation. There's rumours other labs train on the outputs of OpenAI models (Anthropic even cut off OpenAI's API key, they don't seem to trust each other). While you can distill without logprobs, having access to the full probability distribution significantly improves distillation quality and training efficiency. I’d guess this is a move to prevent competitors from training on their GPT-5 model outputs.\n\n**Technical impact: Evals and G-Eval** The biggest loss (for me at least) is for evaluation workflows. G-Eval (Liu et al.) uses logprobs to weight judge outputs based on model confidence. Instead of binary pass/fail, you get calibrated scores. Consider a eval where the model is uncertain: 51% chance of pass and 49% chance of failure:\n\n* Classic LLM-judge: 51% confident → \"pass\" (binary)\n* G-Eval: 51% pass, 49% fail → 0.51 score (calibrated)\n\nIn the G-Eval paper consistently outperforms other eval techniques, and logprobs are required.\n\n**How we detected this** I build [Kiln](https://github.com/Kiln-AI/Kiln) \\- and open and free tool for evals, synthetic data gen, and fine-tuning. We run automated capability tests on every model before adding them. This makes it much easier to select the right model for a given task. Our logprobs/evals tests immediately caught this change. As far as I'm aware, this wasn't mentioned in any release notes (but I might have missed it).\n\nHere are details on the testing we run on every model to catch issues like this: [https://getkiln.ai/blog/i\\_wrote\\_2000\\_llm\\_test\\_cases\\_so\\_you\\_dont\\_have\\_to](https://getkiln.ai/blog/i_wrote_2000_llm_test_cases_so_you_dont_have_to)\n\nAnd here's our full model library with the results: [https://getkiln.ai/model\\_library](https://getkiln.ai/model_library)",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "GPT-5 removed logprob support from the API - technical breakdown and implications",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "News"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": null,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1mkg7m7",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.95,
+            "author_flair_background_color": null,
+            "subreddit_type": "public",
+            "ups": 19,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": null,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_slbscky",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "News",
+            "can_mod_post": false,
+            "score": 19,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "self",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "self",
+            "content_categories": null,
+            "is_self": true,
+            "mod_note": null,
+            "created": 1754611174,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "self.LocalLLaMA",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;GPT 4.1/4o and other models always supported logprobs via the API, but with GPT-5 that capability seems to be gone! Try it yourself and you&amp;#39;ll get the error &lt;code&gt;You are not allowed to request logprobs from this model&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What are logprobs?&lt;/strong&gt; Logprobs expose the probability distribution for each generated token. For the example “The dog chased the”, the next token might be “cat” (70%), “ball” (25%), or “squirrel” (5%). All LLMs have this capability internally, but closed providers like OpenAI and Anthropic sometimes choose to hide these from API users.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Why did OpenAI remove them?&lt;/strong&gt; Most likely to prevent model distillation. There&amp;#39;s rumours other labs train on the outputs of OpenAI models (Anthropic even cut off OpenAI&amp;#39;s API key, they don&amp;#39;t seem to trust each other). While you can distill without logprobs, having access to the full probability distribution significantly improves distillation quality and training efficiency. I’d guess this is a move to prevent competitors from training on their GPT-5 model outputs.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Technical impact: Evals and G-Eval&lt;/strong&gt; The biggest loss (for me at least) is for evaluation workflows. G-Eval (Liu et al.) uses logprobs to weight judge outputs based on model confidence. Instead of binary pass/fail, you get calibrated scores. Consider a eval where the model is uncertain: 51% chance of pass and 49% chance of failure:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Classic LLM-judge: 51% confident → &amp;quot;pass&amp;quot; (binary)&lt;/li&gt;\n&lt;li&gt;G-Eval: 51% pass, 49% fail → 0.51 score (calibrated)&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;In the G-Eval paper consistently outperforms other eval techniques, and logprobs are required.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;How we detected this&lt;/strong&gt; I build &lt;a href=\"https://github.com/Kiln-AI/Kiln\"&gt;Kiln&lt;/a&gt; - and open and free tool for evals, synthetic data gen, and fine-tuning. We run automated capability tests on every model before adding them. This makes it much easier to select the right model for a given task. Our logprobs/evals tests immediately caught this change. As far as I&amp;#39;m aware, this wasn&amp;#39;t mentioned in any release notes (but I might have missed it).&lt;/p&gt;\n\n&lt;p&gt;Here are details on the testing we run on every model to catch issues like this: &lt;a href=\"https://getkiln.ai/blog/i_wrote_2000_llm_test_cases_so_you_dont_have_to\"&gt;https://getkiln.ai/blog/i_wrote_2000_llm_test_cases_so_you_dont_have_to&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;And here&amp;#39;s our full model library with the results: &lt;a href=\"https://getkiln.ai/model_library\"&gt;https://getkiln.ai/model_library&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?auto=webp&amp;s=23e4ff0dbe2d03ff352aea774053e4e9cdb80d20",
+                    "width": 1280,
+                    "height": 640
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=fd9815f077288b33817e75895d23e661f1193778",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=7df51b519d6d99631039f2563f587d4f7fb7f337",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=584735f7b916c00d422195a7ea012563d4e134db",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ceb01849b330103f92aaf6b1331cd97e415c722",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=f0594f7e041119a136f22914764b2a128e73d5ff",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=415b728bd16022b553cb45cb75a1a8fee65a2e5b",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "YF2mZrP2LZphKjmsRiHyL6Oic0sw2vC0c9Q1XWpEOGA"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f8cc0dfe-c1eb-11ed-8d79-72bc34fff7d9",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "num_reports": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#cc3600",
+            "id": "1mkg7m7",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "davernow",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mkg7m7/gpt5_removed_logprob_support_from_the_api/",
+            "stickied": false,
+            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mkg7m7/gpt5_removed_logprob_support_from_the_api/",
+            "subreddit_subscribers": 513415,
+            "created_utc": 1754611174,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]

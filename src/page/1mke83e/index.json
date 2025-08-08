@@ -1,0 +1,189 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "\nI was curious so I decided to run some custom software to see what type of creative writing 20b could pull off. My opinion is that its creativity is much wider than the latest qwen. That one kept trying to insist we were going to be telling a ghost story. I ran the world building portion of the prompting with 20b and got three plausible interesting worlds that might be fun to explore. Chose one and had it generate five books. I like to test the long horizon capabilities while saturating the context windows. \n\nAnyway anyone else trying this with these models? I’m curious if you are getting the consistently repeating phrases I’m seeing. \n\n“You have potential” “you can’t do this alone” it’s always a green shield. It always brings up orchards. Etc\n\n\nYou can read the first three chapters on my LinkedIn article. I’m on my phone and LinkedIn doesn’t play well so I can’t copy it out easily. \n\nStory Summary: Mira Larkspur, driven by tremors from Mount Ardent, uncovers a glowing inscription that reveals an ancient fault line. Her journey to prevent a world-shattering sundering leads her to forge alliances with key figures from three distinct realms: the smith Durgan Ironhand, the elder Alarion Greenroot, and the sky-ship captain Riven Skyward. Together, they create a \"Stabilizer\" device by combining the unique magical disciplines of their realms—metal runes, leaf-breath resin, and aether-dust—to harness a crystal core. Despite sabotage attempts by the rogue caster Elias Thorn and the merchant Lydia Grey, Mira and her allies successfully use the device to seal the fissure. Her victory leads to the creation of the Guild of Balance, a new organization dedicated to safeguarding the world, with Mira elected as its first steward, ready to face new threats on the horizon.\n\nhttps://www.linkedin.com/pulse/openai-oss-20b-writing-jeremy-harper-ktnac",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Oss20b creative writing",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "Discussion"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 71,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mke83e",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.91,
+            "author_flair_background_color": null,
+            "ups": 19,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "author_fullname": "t2_1tk6u7slxe",
+            "secure_media": null,
+            "is_reddit_media_domain": true,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Discussion",
+            "can_mod_post": false,
+            "score": 19,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/BVhGzHsqH7z7EmILaa6ILzeFdzh1pKSqtBevTokFO9U.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "image",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754605973,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "i.redd.it",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I was curious so I decided to run some custom software to see what type of creative writing 20b could pull off. My opinion is that its creativity is much wider than the latest qwen. That one kept trying to insist we were going to be telling a ghost story. I ran the world building portion of the prompting with 20b and got three plausible interesting worlds that might be fun to explore. Chose one and had it generate five books. I like to test the long horizon capabilities while saturating the context windows. &lt;/p&gt;\n\n&lt;p&gt;Anyway anyone else trying this with these models? I’m curious if you are getting the consistently repeating phrases I’m seeing. &lt;/p&gt;\n\n&lt;p&gt;“You have potential” “you can’t do this alone” it’s always a green shield. It always brings up orchards. Etc&lt;/p&gt;\n\n&lt;p&gt;You can read the first three chapters on my LinkedIn article. I’m on my phone and LinkedIn doesn’t play well so I can’t copy it out easily. &lt;/p&gt;\n\n&lt;p&gt;Story Summary: Mira Larkspur, driven by tremors from Mount Ardent, uncovers a glowing inscription that reveals an ancient fault line. Her journey to prevent a world-shattering sundering leads her to forge alliances with key figures from three distinct realms: the smith Durgan Ironhand, the elder Alarion Greenroot, and the sky-ship captain Riven Skyward. Together, they create a &amp;quot;Stabilizer&amp;quot; device by combining the unique magical disciplines of their realms—metal runes, leaf-breath resin, and aether-dust—to harness a crystal core. Despite sabotage attempts by the rogue caster Elias Thorn and the merchant Lydia Grey, Mira and her allies successfully use the device to seal the fissure. Her victory leads to the creation of the Guild of Balance, a new organization dedicated to safeguarding the world, with Mira elected as its first steward, ready to face new threats on the horizon.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.linkedin.com/pulse/openai-oss-20b-writing-jeremy-harper-ktnac\"&gt;https://www.linkedin.com/pulse/openai-oss-20b-writing-jeremy-harper-ktnac&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://i.redd.it/be1mdlfecohf1.jpeg",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?auto=webp&amp;s=09594d1942b0f79a934bfec0c49acfababf89303",
+                    "width": 1206,
+                    "height": 620
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=56b76d29d8b1fe50f3e81cb74230c500e309bd10",
+                      "width": 108,
+                      "height": 55
+                    },
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=77f4544bff2d77c6ed849c2f5d30aeb3dff9a17f",
+                      "width": 216,
+                      "height": 111
+                    },
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e924214f75dec4f7f458d2db8d3ddd9e5c1b78f5",
+                      "width": 320,
+                      "height": 164
+                    },
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da2c4f7db63119767e9d55eee818f60cfb65d94f",
+                      "width": 640,
+                      "height": 329
+                    },
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=62a8e1b240bf722343a73ee2f0502b747609df36",
+                      "width": 960,
+                      "height": 493
+                    },
+                    {
+                      "url": "https://preview.redd.it/be1mdlfecohf1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7fb63bc865c83e77cc84cb1be2772f978884bc40",
+                      "width": 1080,
+                      "height": 555
+                    }
+                  ],
+                  "variants": {},
+                  "id": "2RCvtw6U8lqwBnMtNrViKkmWKU7TxEpWWQRBf6TsU50"
+                }
+              ],
+              "enabled": true
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "5f921ea4-c7bc-11ed-9c23-3a00622979b4",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#646d73",
+            "id": "1mke83e",
+            "is_robot_indexable": true,
+            "num_duplicates": 0,
+            "report_reasons": null,
+            "author": "Upbeat5840",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/LocalLLaMA/comments/1mke83e/oss20b_creative_writing/",
+            "stickied": false,
+            "url": "https://i.redd.it/be1mdlfecohf1.jpeg",
+            "subreddit_subscribers": 513416,
+            "created_utc": 1754605973,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [],
+      "before": null
+    }
+  }
+]
