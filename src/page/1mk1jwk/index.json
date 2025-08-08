@@ -36,10 +36,10 @@
             "name": "t3_1mk1jwk",
             "quarantine": false,
             "link_flair_text_color": "dark",
-            "upvote_ratio": 0.78,
+            "upvote_ratio": 0.75,
             "author_flair_background_color": null,
             "subreddit_type": "public",
-            "ups": 10,
+            "ups": 13,
             "total_awards_received": 0,
             "media_embed": {},
             "thumbnail_width": null,
@@ -53,7 +53,7 @@
             "secure_media_embed": {},
             "link_flair_text": "Question | Help",
             "can_mod_post": false,
-            "score": 10,
+            "score": 13,
             "approved_by": null,
             "is_created_from_ads_ui": false,
             "author_premium": false,
@@ -116,7 +116,7 @@
             "permalink": "/r/LocalLLaMA/comments/1mk1jwk/probably_dumb_question_why_doesnt_ollama/",
             "stickied": false,
             "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mk1jwk/probably_dumb_question_why_doesnt_ollama/",
-            "subreddit_subscribers": 513417,
+            "subreddit_subscribers": 513813,
             "created_utc": 1754576830,
             "num_crossposts": 1,
             "mod_reports": [],
@@ -240,7 +240,7 @@
             "created_utc": 1754581858,
             "send_replies": true,
             "parent_id": "t3_1mk1jwk",
-            "score": 7,
+            "score": 10,
             "author_fullname": "t2_bfs5bk7y8",
             "approved_by": null,
             "mod_note": null,
@@ -282,7 +282,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 10
           }
         },
         {
@@ -315,7 +315,7 @@
             "created_utc": 1754606241,
             "send_replies": true,
             "parent_id": "t3_1mk1jwk",
-            "score": 1,
+            "score": -1,
             "author_fullname": "t2_opoiqjtv",
             "approved_by": null,
             "mod_note": null,
@@ -357,7 +357,7 @@
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": -1
           }
         },
         {
@@ -413,7 +413,7 @@
                       "created_utc": 1754577306,
                       "send_replies": true,
                       "parent_id": "t1_n7fa6ni",
-                      "score": 5,
+                      "score": 4,
                       "author_fullname": "t2_144o7g",
                       "removal_reason": null,
                       "approved_by": null,
@@ -460,7 +460,7 @@
                       "collapsed_because_crowd_control": null,
                       "mod_reports": [],
                       "num_reports": null,
-                      "ups": 5
+                      "ups": 4
                     }
                   },
                   {
@@ -556,7 +556,7 @@
             "created_utc": 1754576933,
             "send_replies": true,
             "parent_id": "t3_1mk1jwk",
-            "score": -9,
+            "score": -10,
             "author_fullname": "t2_pfi81",
             "approved_by": null,
             "mod_note": null,
@@ -592,13 +592,13 @@
             "treatment_tags": [],
             "link_id": "t3_1mk1jwk",
             "subreddit_name_prefixed": "r/LocalLLaMA",
-            "controversiality": 1,
+            "controversiality": 0,
             "depth": 0,
             "author_flair_background_color": null,
             "collapsed_because_crowd_control": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -9
+            "ups": -10
           }
         },
         {

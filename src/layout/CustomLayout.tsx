@@ -14830,6 +14830,182 @@ Day 0 of a build-in-public adventure.',
         path: '/1mkhrs7',
         name: 'Notetaker tool',
       },
+      {
+        path: '/1mki84e',
+        name: '[Pre-Order Now] ASUS Ascent GX10 Compact Desktop AI Supercomputer',
+      },
+      {
+        path: '/1mkip7t',
+        name: 'Mac LLM users: What models can\'t I run with 128gb (M4 Max) vs 256gb (M3 Ultra)?',
+      },
+      {
+        path: '/1mkk5p9',
+        name: '8x Mi50 Setup (256g VRAM)',
+      },
+      {
+        path: '/1mkk6o2',
+        name: 'Qwen-Image quantization and GPU parallelization code',
+      },
+      {
+        path: '/1mkk9i2',
+        name: 'vLLM, gpt-oss, and blackwell',
+      },
+      {
+        path: '/1mkkcj7',
+        name: 'Least Cencored',
+      },
+      {
+        path: '/1mkko21',
+        name: 'Looking for a technical partner',
+      },
+      {
+        path: '/1mkks43',
+        name: 'What exactly is Horizon Beta? Is it GPT-5 or something else?',
+      },
+      {
+        path: '/1mkm1jr',
+        name: 'information on "jailbreaking" GPT-OSS:20B',
+      },
+      {
+        path: '/1mkmf65',
+        name: 'Macbook air m4 16/512 vs lenovo loq 4060 for these llms',
+      },
+      {
+        path: '/1mkngs6',
+        name: 'I had to try the “blueberry” thing myself with GPT5. I merely report the results.',
+      },
+      {
+        path: '/1mknhxv',
+        name: 'Local vision models- CNN and ViT',
+      },
+      {
+        path: '/1mknif0',
+        name: 'Which is the best OS LLM for chat inference with large context?',
+      },
+      {
+        path: '/1mknjzx',
+        name: '[Showoff] I made an AI that understands where things are, not just what they are – live demo on Hugging Face 🚀',
+      },
+      {
+        path: '/1mknsi7',
+        name: 'Ollamao: open-source proxy smart serving multiple ollama &amp; vllm instances',
+      },
+      {
+        path: '/1mknstt',
+        name: 'Is there anything like GPT 4o ?',
+      },
+      {
+        path: '/1mknxsq',
+        name: 'GPT-4 + WFGY &gt; GPT-5 ??? one 60-second PDF patch, try it yourself',
+      },
+      {
+        path: '/1mko52d',
+        name: 'Can someone explain to me where they sell NASA computers that they don\'t use?',
+      },
+      {
+        path: '/1mko82v',
+        name: 'gpt-5 reasoning tricky token number',
+      },
+      {
+        path: '/1mko9fw',
+        name: 'ChatGPT5 says that there are 3 letters "B" in the word "Blueberry". Test by yourself !',
+      },
+      {
+        path: '/1mkoc97',
+        name: 'In the case you are looking at - that OSS model of OpenAI - there are several points that explain why the community takes it as a poor contribution to open source:',
+      },
+      {
+        path: '/1mkocio',
+        name: 'Today, I\'m Pre-Launching YouTopia Search, an AI search engine that curates and organizes human-made content into visually rich, readable, and clutter-free responses instead of generating content with ai. try it out for free',
+      },
+      {
+        path: '/1mkokj2',
+        name: 'GMK X2(AMD Max+ 395 w/128GB) third impressions, RPC and Image/Video gen.',
+      },
+      {
+        path: '/1mkon92',
+        name: 'Half of the models in the top 10 on Design Arena are OW/OS, and they\'re all from China',
+      },
+      {
+        path: '/1mkoq2l',
+        name: 'GPT-5 is an LLM for the masses',
+      },
+      {
+        path: '/1mkowrw',
+        name: 'Llama.cpp just added a major 3x performance boost.',
+      },
+      {
+        path: '/1mkp0am',
+        name: 'Granite 3 8B is seriously underrated - still outperforming newer models',
+      },
+      {
+        path: '/1mkp72g',
+        name: 'How you could boost P/P rates of AMD MI50',
+      },
+      {
+        path: '/1mkp7v4',
+        name: 'Are there any interesting Llama 4 fine tunes?',
+      },
+      {
+        path: '/1mkpb5y',
+        name: 'looking for a legit .srt translator',
+      },
+      {
+        path: '/1mkpixo',
+        name: 'Red‑Teaming Challenge - OpenAI gpt-oss-20b',
+      },
+      {
+        path: '/1mkpzq2',
+        name: 'Need help to find the best LLM for RTX 2060 6GB',
+      },
+      {
+        path: '/1mkq4i4',
+        name: 'Qwen added 1M support for Qwen3-30B-A3B-Instruct-2507  and Qwen3-235B-A22B-Instruct-2507',
+      },
+      {
+        path: '/1mkqs23',
+        name: 'How to use OpenAI-compatible LLMs with coding agents if tool calling isn’t supported?',
+      },
+      {
+        path: '/1mkqsw4',
+        name: 'H100 performing slower than I think it should....am I right or wrong??',
+      },
+      {
+        path: '/1mkr1wr',
+        name: 'GPT-5 one shotted this…',
+      },
+      {
+        path: '/1mkr8kq',
+        name: 'It\'s OK, GPT-OSS, we are living in a simulation ...',
+      },
+      {
+        path: '/1mkrb18',
+        name: '🚀 Qwen3-30B-A3B-2507 and Qwen3-235B-A22B-2507 now support ultra-long context—up to 1 million tokens!',
+      },
+      {
+        path: '/1mkrqmz',
+        name: 'Should I keep learning to build local LLM/RAG systems myself?',
+      },
+      {
+        path: '/1mks6tc',
+        name: 'oss 120B, who the hell are "We"',
+      },
+      {
+        path: '/1mkse3b',
+        name: 'Llama cpp on Windows using Shared GPU memory',
+      },
+      {
+        path: '/1mksqmw',
+        name: '[Help Wanted - Paid] I need a custom local AI assistant on Mac with emotional memory (Hermes/text-generation-webui)',
+      },
+      {
+        path: '/1mktcak',
+        name: 'The most promising opensource text to speech project Coqui is dead!',
+      },
+      {
+        path: '/1mktg06',
+        name: 'Desperately need to use AI api in my app oroject, but scared of uncapped cloud billing',
+      },
     ],
   },
   {
