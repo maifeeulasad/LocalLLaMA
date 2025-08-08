@@ -1,0 +1,270 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": 1,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "approved_at_utc": null,
+            "subreddit": "LocalLLaMA",
+            "selftext": "from the model description:\n\nWe introduce **Intern-S1**, our **most advanced open-source multimodal reasoning model** to date. Intern-S1 combines **strong general-task capabilities with state-of-the-art performance on a wide range of scientific tasks**, rivaling leading closed-source commercial models. Built upon a 235B MoE language model (Qwen3) and a 6B Vision encoder (InternViT), Intern-S1 has been further pretrained on **5 trillion tokens** of multimodal data, including over **2.5 trillion scientific-domain tokens**. This enables the model to retain strong general capabilities while excelling in specialized scientific domains such as **interpreting chemical structures, understanding protein sequences, and planning compound synthesis routes**, making Intern-S1 to be a capable research assistant for real-world scientific applications. Features\n\n* Strong performance across language and vision reasoning benchmarks, especially scientific tasks.\n* Continuously pretrained on a massive 5T token dataset, with over 50% specialized scientific data, embedding deep domain expertise.\n* Dynamic tokenizer enables native understanding of molecular formulas, protein sequences, and seismic signals.",
+            "user_reports": [],
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Support for intern-s1 has been merged into llama.cpp",
+            "link_flair_richtext": [
+              {
+                "e": "text",
+                "t": "New Model"
+              }
+            ],
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "",
+            "downs": 0,
+            "thumbnail_height": 70,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_1mk9cg3",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1,
+            "author_flair_background_color": "#bbbdbf",
+            "ups": 18,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": "ed89e5c6-72f1-11ee-9954-1697022cd89d",
+            "is_original_content": false,
+            "author_fullname": "t2_vqgbql9w",
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "New Model",
+            "can_mod_post": false,
+            "score": 18,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=140&amp;height=70&amp;crop=140:70,smart&amp;auto=webp&amp;s=6c0743e231111e82c33980508b262c7faea182f1",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [
+              {
+                "e": "text",
+                "t": "llama.cpp"
+              }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1754594479,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "github.com",
+            "allow_live_comments": false,
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;from the model description:&lt;/p&gt;\n\n&lt;p&gt;We introduce &lt;strong&gt;Intern-S1&lt;/strong&gt;, our &lt;strong&gt;most advanced open-source multimodal reasoning model&lt;/strong&gt; to date. Intern-S1 combines &lt;strong&gt;strong general-task capabilities with state-of-the-art performance on a wide range of scientific tasks&lt;/strong&gt;, rivaling leading closed-source commercial models. Built upon a 235B MoE language model (Qwen3) and a 6B Vision encoder (InternViT), Intern-S1 has been further pretrained on &lt;strong&gt;5 trillion tokens&lt;/strong&gt; of multimodal data, including over &lt;strong&gt;2.5 trillion scientific-domain tokens&lt;/strong&gt;. This enables the model to retain strong general capabilities while excelling in specialized scientific domains such as &lt;strong&gt;interpreting chemical structures, understanding protein sequences, and planning compound synthesis routes&lt;/strong&gt;, making Intern-S1 to be a capable research assistant for real-world scientific applications. Features&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Strong performance across language and vision reasoning benchmarks, especially scientific tasks.&lt;/li&gt;\n&lt;li&gt;Continuously pretrained on a massive 5T token dataset, with over 50% specialized scientific data, embedding deep domain expertise.&lt;/li&gt;\n&lt;li&gt;Dynamic tokenizer enables native understanding of molecular formulas, protein sequences, and seismic signals.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://github.com/ggml-org/llama.cpp/pull/14875",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+              "images": [
+                {
+                  "source": {
+                    "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?auto=webp&amp;s=9ca7ec6c815a22ec5f8041e8f5356edd8837d952",
+                    "width": 1200,
+                    "height": 600
+                  },
+                  "resolutions": [
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=60f53264dcfc9e1652e51a64686f007ce07ac2b0",
+                      "width": 108,
+                      "height": 54
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e164b1f2c6c34158190b9fb9b540037ddde6693f",
+                      "width": 216,
+                      "height": 108
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ddc7014b85aeb79e4cbf590ce66ff9bade348b42",
+                      "width": 320,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=babab2f7d6331292e786fb494f54284c2569bc17",
+                      "width": 640,
+                      "height": 320
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=5f820ddcee6975b2cf4ce79ec449f2d68f8dc034",
+                      "width": 960,
+                      "height": 480
+                    },
+                    {
+                      "url": "https://external-preview.redd.it/ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b33f2f8afa83fbdeee5f5d134e588b75554e3d7b",
+                      "width": 1080,
+                      "height": 540
+                    }
+                  ],
+                  "variants": {},
+                  "id": "ukGPJhGQBSNIqKqFk0joH5as5YrMTXg0pmkQuca7PhI"
+                }
+              ],
+              "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "ced98442-f5d3-11ed-b657-66d3b15490c6",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "llama.cpp",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_81eyvm",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#ffb000",
+            "id": "1mk9cg3",
+            "is_robot_indexable": true,
+            "num_duplicates": 1,
+            "report_reasons": null,
+            "author": "jacek2023",
+            "discussion_type": null,
+            "num_comments": 1,
+            "send_replies": true,
+            "media": null,
+            "contest_mode": false,
+            "author_patreon_flair": false,
+            "author_flair_text_color": "light",
+            "permalink": "/r/LocalLLaMA/comments/1mk9cg3/support_for_interns1_has_been_merged_into_llamacpp/",
+            "stickied": false,
+            "url": "https://github.com/ggml-org/llama.cpp/pull/14875",
+            "subreddit_subscribers": 513417,
+            "created_utc": 1754594479,
+            "num_crossposts": 0,
+            "mod_reports": [],
+            "is_video": false
+          }
+        }
+      ],
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "after": null,
+      "dist": null,
+      "modhash": "",
+      "geo_filter": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_81eyvm",
+            "approved_at_utc": null,
+            "author_is_blocked": false,
+            "comment_type": null,
+            "awarders": [],
+            "mod_reason_by": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "total_awards_received": 0,
+            "subreddit": "LocalLLaMA",
+            "author_flair_template_id": null,
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "n7ha1i3",
+            "banned_at_utc": null,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "archived": false,
+            "collapsed_reason_code": null,
+            "no_follow": false,
+            "author": "Only_Situation_4713",
+            "can_mod_post": false,
+            "created_utc": 1754597457,
+            "send_replies": true,
+            "parent_id": "t3_1mk9cg3",
+            "score": 4,
+            "author_fullname": "t2_aafjsulg",
+            "approved_by": null,
+            "mod_note": null,
+            "all_awardings": [],
+            "collapsed": false,
+            "body": "Need to explain to my gf why I'm collecting 3090s at some point",
+            "edited": false,
+            "top_awarded_type": null,
+            "author_flair_css_class": null,
+            "name": "t1_n7ha1i3",
+            "is_submitter": false,
+            "downs": 0,
+            "author_flair_richtext": [],
+            "author_patreon_flair": false,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Need to explain to my gf why I&amp;#39;m collecting 3090s at some point&lt;/p&gt;\n&lt;/div&gt;",
+            "removal_reason": null,
+            "collapsed_reason": null,
+            "distinguished": null,
+            "associated_award": null,
+            "stickied": false,
+            "author_premium": false,
+            "can_gild": false,
+            "gildings": {},
+            "unrepliable_reason": null,
+            "author_flair_text_color": null,
+            "score_hidden": false,
+            "permalink": "/r/LocalLLaMA/comments/1mk9cg3/support_for_interns1_has_been_merged_into_llamacpp/n7ha1i3/",
+            "subreddit_type": "public",
+            "locked": false,
+            "report_reasons": null,
+            "created": 1754597457,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "link_id": "t3_1mk9cg3",
+            "subreddit_name_prefixed": "r/LocalLLaMA",
+            "controversiality": 0,
+            "depth": 0,
+            "author_flair_background_color": null,
+            "collapsed_because_crowd_control": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        }
+      ],
+      "before": null
+    }
+  }
+]
